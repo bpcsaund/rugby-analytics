@@ -58,15 +58,15 @@ TEAM_STAT_FIELDS = [
 
 PLAYER_STAT_ABBR = {
     "Tries": "Tries",
-    "Metres gained": "Metres",
+    "Metres gained": "Metres_Gained",
     "Carries": "Carries",
     "Defenders beaten": "Defenders_Beaten",
     "Clean breaks": "Clean_Breaks",
     "Passes": "Passes",
     "Offloads": "Offloads",
     "Turnovers conceded": "Turnovers_Conceded",
-    "Try assists": "Turnovers_Won",
-    "Points": "Points",
+    "Try assists": "Try_Assists",
+    "Points": "Points_Scored",
 }
 
 # ---------------------------------------------------------------------------
