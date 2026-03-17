@@ -1,4 +1,4 @@
-url,match_id,competition,season,team,home_away,player,T,M,C,DB,CB,P,O,TC,TA,PTS
+url,match_id,competition,season,team,home_away,player,Tries,Metres,Carries,Defenders_Beaten,Clean_Breaks,Passes,Offloads,Turnovers_Conceded,Turnovers_Won,Points
 https://www.englandrugby.com/fixtures-and-results/match-centre/six-nations-2026-france-v-england-match-centre#stats,947118,209,2026,France,home,Ramos,,21,11,2,,10,1,3,1,16
 https://www.englandrugby.com/fixtures-and-results/match-centre/six-nations-2026-france-v-england-match-centre#stats,947118,209,2026,France,home,Attissogbe,1,47,7,3,4,6,1,1,,5
 https://www.englandrugby.com/fixtures-and-results/match-centre/six-nations-2026-france-v-england-match-centre#stats,947118,209,2026,France,home,Barassi,,12,4,1,,5,1,,,

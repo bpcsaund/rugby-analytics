@@ -57,16 +57,16 @@ TEAM_STAT_FIELDS = [
 ]
 
 PLAYER_STAT_ABBR = {
-    "Tries": "T",
-    "Metres gained": "M",
-    "Carries": "C",
-    "Defenders beaten": "DB",
-    "Clean breaks": "CB",
-    "Passes": "P",
-    "Offloads": "O",
-    "Turnovers conceded": "TC",
-    "Try assists": "TA",
-    "Points": "PTS",
+    "Tries": "Tries",
+    "Metres gained": "Metres",
+    "Carries": "Carries",
+    "Defenders beaten": "Defenders_Beaten",
+    "Clean breaks": "Clean_Breaks",
+    "Passes": "Passes",
+    "Offloads": "Offloads",
+    "Turnovers conceded": "Turnovers_Conceded",
+    "Try assists": "Turnovers_Won",
+    "Points": "Points",
 }
 
 # ---------------------------------------------------------------------------
