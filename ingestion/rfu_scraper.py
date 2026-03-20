@@ -650,9 +650,11 @@ def write_lineup(results: list[dict], path: Path) -> None:
             for entry in r.get("lineup", []):
                 pid = entry.get("player_id", "")
                 id_map = home_id_map if entry["team"] == home_team else away_id_map
-                # Use stats name when the player appears in any tab's stats table;
-                # fall back to the lineup name for unused substitutes (0 minutes).
-                resolved_name = id_map.get(pid) or entry["player_name"]
+                # Prefer whichever name is longer — lineup widget has first+last for
+                # older matches; stats tabs have first+last for newer ones.
+                # Fall back to lineup name for unused substitutes (not in any stats tab).
+                stats_name = id_map.get(pid) or ""
+                resolved_name = max(stats_name, entry["player_name"], key=len) or entry["player_name"]
                 writer.writerow({
                     "url":          r["url"],
                     "match_id":     r["match_id"],
