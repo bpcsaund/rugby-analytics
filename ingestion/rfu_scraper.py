@@ -1,37 +1,28 @@
 #!/usr/bin/env python3
 """
-RFU match-centre scraper.
+RFU match-centre scraper — all tabs.
 
-Loads each URL in data/raw/rfu_test_urls.txt, ensures the Attack tab is
-active on the Opta match-stats widgets, then extracts:
-  - Team-level attack stats  → data/raw/rfu_team_attack_stats.csv
-  - Player-level attack stats → data/raw/rfu_player_attack_stats.csv
+Scrapes Attack, Defence, Kicking, Breakdown, Set Plays, and Discipline
+from each URL in data/raw/rfu_test_urls.txt and outputs:
+  - data/raw/rfu_team_stats.csv   (one row per match per team)
+  - data/raw/rfu_player_stats.csv (one row per player per match per team)
 """
 
 import asyncio
 import csv
 import re
+import urllib.parse
 from pathlib import Path
 
 from playwright.async_api import Page, async_playwright
 
-# Regex to pull attrs from the first team_graphs opta-widget in raw HTML
-_TEAM_GRAPHS_RE = re.compile(
-    r"<opta-widget\b[^>]*\btemplate=[\"']?team_graphs[\"']?[^>]*>",
-    re.I,
-)
-_ATTR_RE = re.compile(r'(\w+)=["\']?([^"\'>\s]+)["\']?')
-
 # ---------------------------------------------------------------------------
-# Paths
+# Paths & browser identity
 # ---------------------------------------------------------------------------
 BASE_DIR = Path(__file__).parent.parent
 URLS_FILE = BASE_DIR / "data" / "raw" / "rfu_test_urls.txt"
 OUT_DIR = BASE_DIR / "data" / "raw"
 
-# ---------------------------------------------------------------------------
-# Browser identity – without this the site returns 403
-# ---------------------------------------------------------------------------
 UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -42,47 +33,323 @@ EXTRA_HEADERS = {
     "Accept-Language": "en-GB,en;q=0.5",
 }
 
-# ---------------------------------------------------------------------------
-# Stat field names (full names as rendered by Opta)
-# ---------------------------------------------------------------------------
-TEAM_STAT_FIELDS = [
-    "Tries",
-    "Metres gained",
-    "Carries",
-    "Defenders beaten",
-    "Clean breaks",
-    "Passes",
-    "Offloads",
-    "Turnovers conceded",
-]
 
-PLAYER_STAT_ABBR = {
-    "Tries": "Tries",
-    "Metres gained": "Metres_Gained",
-    "Carries": "Carries",
-    "Defenders beaten": "Defenders_Beaten",
-    "Clean breaks": "Clean_Breaks",
-    "Passes": "Passes",
-    "Offloads": "Offloads",
-    "Turnovers conceded": "Turnovers_Conceded",
-    "Try assists": "Try_Assists",
-    "Points": "Points_Scored",
+# ---------------------------------------------------------------------------
+# Tab names and the CSS slug Opta uses in player table class names
+# e.g. .Opta-js-attack-home, .Opta-js-set-plays-home
+# ---------------------------------------------------------------------------
+TABS = ["Attack", "Defence", "Kicking", "Breakdown", "Set plays", "Discipline"]
+
+TAB_SLUG: dict[str, str] = {
+    "Attack":     "attack",
+    "Defence":    "defence",
+    "Kicking":    "kicking",
+    "Breakdown":  "breakdown",
+    "Set plays":  "set-plays",
+    "Discipline": "discipline",
 }
 
 # ---------------------------------------------------------------------------
-# JavaScript executed inside the browser to pull all data in one call
+# Output schema field lists
 # ---------------------------------------------------------------------------
-JS_EXTRACT = """
-() => {
-    // --- Team names ---------------------------------------------------
-    // Taken from the player-attack table headers (most reliable source)
-    const homeTeamEl = document.querySelector('.Opta-js-attack-home th.Opta-Team');
-    const awayTeamEl = document.querySelector('.Opta-js-attack-away th.Opta-Team');
-    const homeName = homeTeamEl ? homeTeamEl.innerText.trim() : null;
-    const awayName = awayTeamEl ? awayTeamEl.innerText.trim() : null;
+TEAM_FIELDS = [
+    "url", "match_id", "competition", "season",
+    "competition_name", "match_date",
+    "team", "home_away",
+    "home_score_FT", "away_score_FT", "home_score_HT", "away_score_HT",
+    "possession_pct",
+    # Attack
+    "Tries", "Metres_Gained", "Carries", "Defenders_Beaten",
+    "Clean_Breaks", "Passes", "Offloads", "Turnovers_Conceded",
+    # Defence
+    "Tackles_Attempted", "Missed_Tackles", "Turnovers_Won",
+    # Kicking
+    "Kicks_In_Play", "Conversions", "Conversion_Accuracy",
+    "Penalty_Goals", "Penalty_Goal_Accuracy",
+    "Drop_Goals", "Drop_Goal_Accuracy",
+    # Breakdown
+    "Rucks_Won", "Rucks_Lost", "Rucks_Won_Pct", "Mauls_Won",
+    # Set Plays
+    "Lineouts_Won", "Lineouts_Lost", "Lineouts_Won_Pct",
+    "Scrums_Won", "Scrums_Lost", "Scrums_Won_Pct",
+    # Discipline
+    "Penalties_Conceded", "Red_Cards", "Yellow_Cards",
+]
+# Non-stat identifier columns that should remain empty string when absent
+TEAM_META_FIELDS = {
+    "url", "match_id", "competition", "season",
+    "competition_name", "match_date",
+    "team", "home_away", "possession_pct",
+}
 
-    // --- Team-level stats (Attack tab of the team_graphs widget) ------
-    // The active tab li contains the stats-bars table.
+LINEUP_FIELDS = [
+    "url", "match_id", "team", "shirt_number", "player_name", "role",
+]
+
+PLAYER_FIELDS = [
+    "url", "match_id", "competition", "season",
+    "team", "home_away", "player",
+    # Attack
+    "Tries", "Metres_Gained", "Carries", "Defenders_Beaten",
+    "Clean_Breaks", "Passes", "Offloads", "Turnovers_Conceded",
+    "Try_Assists", "Points_Scored",
+    # Defence
+    "Tackles_Attempted", "Missed_Tackles", "Turnovers_Won",
+    # Kicking
+    "Kicks_In_Play", "Conversions", "Penalty_Goals", "Drop_Goals",
+    # Set Plays
+    "Throws_Won", "Lineouts_Won", "Lineout_Steals",
+    # Discipline
+    "Penalties_Conceded", "Red_Cards", "Yellow_Cards",
+]
+PLAYER_META_FIELDS = {"url", "match_id", "competition", "season", "team", "home_away", "player"}
+
+# ---------------------------------------------------------------------------
+# Stat label normalisation and label → column mappings
+# Keys are lowercase, alphanumeric + spaces only (no punctuation).
+# ---------------------------------------------------------------------------
+def _norm(label: str) -> str:
+    """Normalise a stat label for fuzzy matching.
+    Converts '%' → 'pct' so "Rucks won" and "Rucks won %" stay distinct.
+    """
+    return re.sub(r"[^a-z0-9 ]", "", label.lower().replace("%", "pct")).strip()
+
+
+TEAM_LABEL_MAP: dict[str, str] = {
+    # Possession (may appear as first stat in Attack tab)
+    _norm("Possession"):               "possession_pct",
+    # Attack
+    _norm("Tries"):                    "Tries",
+    _norm("Metres gained"):            "Metres_Gained",
+    _norm("Carries"):                  "Carries",
+    _norm("Defenders beaten"):         "Defenders_Beaten",
+    _norm("Clean breaks"):             "Clean_Breaks",
+    _norm("Passes"):                   "Passes",
+    _norm("Offloads"):                 "Offloads",
+    _norm("Turnovers conceded"):       "Turnovers_Conceded",
+    # Defence
+    _norm("Tackles"):                  "Tackles_Attempted",
+    _norm("Tackles attempted"):        "Tackles_Attempted",
+    _norm("Missed tackles"):           "Missed_Tackles",
+    _norm("Turnovers won"):            "Turnovers_Won",
+    # Kicking (Opta uses "Conversion accuracy (%)" with parens — _norm strips them)
+    _norm("Kicks in play"):            "Kicks_In_Play",
+    _norm("Conversions"):              "Conversions",
+    _norm("Conversion accuracy"):      "Conversion_Accuracy",
+    _norm("Conversion accuracy (%)"):  "Conversion_Accuracy",
+    _norm("Penalty goals"):            "Penalty_Goals",
+    _norm("Penalty goal accuracy"):    "Penalty_Goal_Accuracy",
+    _norm("Penalty goal accuracy (%)"): "Penalty_Goal_Accuracy",
+    _norm("Drop goals"):               "Drop_Goals",
+    _norm("Drop goal accuracy"):       "Drop_Goal_Accuracy",
+    # Breakdown — Opta repeats "Rucks won" for count AND percentage.
+    # JS_EXTRACT_TAB appends " (%)" when the cell value ends with "%",
+    # turning the percentage row into "Rucks won (%)" which maps here.
+    _norm("Rucks won"):                "Rucks_Won",
+    _norm("Rucks won (%)"):            "Rucks_Won_Pct",
+    _norm("Rucks won %"):              "Rucks_Won_Pct",
+    _norm("Rucks lost"):               "Rucks_Lost",
+    _norm("Mauls won"):                "Mauls_Won",
+    # Set Plays
+    _norm("Lineouts won"):             "Lineouts_Won",
+    _norm("Lineouts lost"):            "Lineouts_Lost",
+    _norm("Lineouts won %"):           "Lineouts_Won_Pct",
+    _norm("Lineouts won (%)"):         "Lineouts_Won_Pct",
+    _norm("Scrums won"):               "Scrums_Won",
+    _norm("Scrums lost"):              "Scrums_Lost",
+    _norm("Scrums won %"):             "Scrums_Won_Pct",
+    _norm("Scrums won (%)"):           "Scrums_Won_Pct",
+    # Discipline
+    _norm("Penalties conceded"):       "Penalties_Conceded",
+    _norm("Penalty count"):            "Penalties_Conceded",
+    _norm("Red cards"):                "Red_Cards",
+    _norm("Yellow cards"):             "Yellow_Cards",
+}
+
+PLAYER_LABEL_MAP: dict[str, str] = {
+    # Attack
+    _norm("Tries"):                    "Tries",
+    _norm("Metres gained"):            "Metres_Gained",
+    _norm("Carries"):                  "Carries",
+    _norm("Defenders beaten"):         "Defenders_Beaten",
+    _norm("Clean breaks"):             "Clean_Breaks",
+    _norm("Passes"):                   "Passes",
+    _norm("Offloads"):                 "Offloads",
+    _norm("Turnovers conceded"):       "Turnovers_Conceded",
+    _norm("Try assists"):              "Try_Assists",
+    _norm("Points"):                   "Points_Scored",
+    _norm("Points scored"):            "Points_Scored",
+    # Defence
+    _norm("Tackles"):                  "Tackles_Attempted",
+    _norm("Tackles attempted"):        "Tackles_Attempted",
+    _norm("Missed tackles"):           "Missed_Tackles",
+    _norm("Turnovers won"):            "Turnovers_Won",
+    # Kicking
+    _norm("Kicks in play"):            "Kicks_In_Play",
+    _norm("Conversions"):              "Conversions",
+    _norm("Penalty goals"):            "Penalty_Goals",
+    _norm("Drop goals"):               "Drop_Goals",
+    # Set Plays
+    _norm("Throws won"):               "Throws_Won",
+    _norm("Lineouts won"):             "Lineouts_Won",
+    _norm("Lineout steals"):           "Lineout_Steals",
+    # Discipline
+    _norm("Penalties conceded"):       "Penalties_Conceded",
+    _norm("Penalty count"):            "Penalties_Conceded",
+    _norm("Red cards"):                "Red_Cards",
+    _norm("Yellow cards"):             "Yellow_Cards",
+}
+
+# ---------------------------------------------------------------------------
+# Init script: injected before every page load.
+# Combines stealth (hide headless indicators) with opta-widget capture.
+# ---------------------------------------------------------------------------
+INIT_SCRIPT = """
+// ----- Stealth: hide automation signals detected by AWS WAF -----
+Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+if (!window.chrome) window.chrome = { runtime: {} };
+
+// ----- opta-widget capture -----
+(() => {
+    window.__rfuOptaData = null;
+
+    function capture() {
+        if (window.__rfuOptaData) return;
+        for (const w of document.querySelectorAll('opta-widget')) {
+            const match = w.getAttribute('match');
+            if (match) {
+                window.__rfuOptaData = {
+                    match_id:    match,
+                    competition: w.getAttribute('competition') || '',
+                    season:      w.getAttribute('season')      || '',
+                };
+                return;
+            }
+        }
+    }
+
+    // Capture at DOMContentLoaded (before Opta's own listener fires)
+    document.addEventListener('DOMContentLoaded', capture);
+
+    // Also watch mutations in case elements are inserted after DOMContentLoaded
+    new MutationObserver(capture).observe(
+        document.documentElement,
+        { childList: true, subtree: true }
+    );
+})();
+"""
+
+# ---------------------------------------------------------------------------
+# JavaScript: extract possession percentages from the SVG pitch widget.
+# Opta renders these as <text class="Opta-Possession-value Opta-Home/Away">
+# inside the .c038-possession-stats-container element.
+# ---------------------------------------------------------------------------
+JS_EXTRACT_POSSESSION = """
+() => {
+    const c = document.querySelector('.c038-possession-stats-container');
+    if (!c) return { home: '', away: '' };
+    const homeEl = c.querySelector('.Opta-Possession-value.Opta-Home');
+    const awayEl = c.querySelector('.Opta-Possession-value.Opta-Away');
+    return {
+        home: homeEl ? homeEl.textContent.trim() : '',
+        away: awayEl ? awayEl.textContent.trim() : '',
+    };
+}
+"""
+
+# ---------------------------------------------------------------------------
+# JavaScript: extract match header metadata — scores, competition, date.
+# HT score lives in .Opta-Score-Extras as text like "HT 7-10".
+# ---------------------------------------------------------------------------
+JS_EXTRACT_HEADER = """
+() => {
+    const homeScoreEl = document.querySelector('.Opta-Score.Opta-Home .Opta-Team-Score');
+    const awayScoreEl = document.querySelector('.Opta-Score.Opta-Away .Opta-Team-Score');
+
+    // Half-time score: text is "HT 7-10" (the <abbr> is stripped by innerText)
+    let htHome = '', htAway = '';
+    const htEl = document.querySelector('tr.Opta-Score-Extras span');
+    if (htEl) {
+        const htText = htEl.innerText.replace(/HT\\s*/i, '').trim();
+        const parts = htText.split('-');
+        if (parts.length === 2) { htHome = parts[0].trim(); htAway = parts[1].trim(); }
+    }
+
+    const compEl = document.querySelector('.Opta-Competition');
+    const dateEl = document.querySelector('.Opta-Date');
+
+    return {
+        home_score_FT:    homeScoreEl ? homeScoreEl.innerText.trim() : '',
+        away_score_FT:    awayScoreEl ? awayScoreEl.innerText.trim() : '',
+        home_score_HT:    htHome,
+        away_score_HT:    htAway,
+        competition_name: compEl ? compEl.innerText.trim() : '',
+        match_date:       dateEl ? dateEl.innerText.trim() : '',
+    };
+}
+"""
+
+# ---------------------------------------------------------------------------
+# JavaScript: extract the matchday-23 lineup for both teams.
+# Both old and new URL formats use tbody.Opta-Team inside
+# .c085-lineup-table-container.  Shirt numbers 1-15 = starter, 16-23 = replacement.
+# ---------------------------------------------------------------------------
+JS_EXTRACT_LINEUP = """
+() => {
+    const container = document.querySelector('.c085-lineup-table-container');
+    if (!container) return [];
+    const rows = [];
+    for (const tbody of container.querySelectorAll('tbody.Opta-Team')) {
+        const nameEl = tbody.querySelector('tr.Opta-Name th h3 span');
+        const team = nameEl ? nameEl.innerText.trim() : '';
+        for (const row of tbody.querySelectorAll('tr.Opta-Player')) {
+            const shirtEl = row.querySelector('td.Opta-Shirt');
+            const playerEl = row.querySelector('td.Opta-Name a');
+            if (!shirtEl || !playerEl) continue;
+            const shirtNum = parseInt(shirtEl.innerText.trim(), 10);
+            const pidMatch = row.className.match(/Opta-Player-([0-9]+)/);
+            const playerId = pidMatch ? pidMatch[1] : '';
+            rows.push({
+                team,
+                shirt_number: shirtNum,
+                player_name:  playerEl.innerText.trim(),
+                player_id:    playerId,
+                role:         shirtNum <= 15 ? 'starter' : 'replacement',
+            });
+        }
+    }
+    return rows;
+}
+"""
+
+# ---------------------------------------------------------------------------
+# JavaScript: extract team names from the rendered page
+# ---------------------------------------------------------------------------
+JS_EXTRACT_META = """
+() => {
+    // Attack tab player tables are the most reliable source for team names
+    const homeEl = document.querySelector('.Opta-js-attack-home th.Opta-Team') ||
+                   document.querySelector('.Opta-Home .Opta-Team-Name') ||
+                   document.querySelector('.Opta-Home .Opta-Team');
+    const awayEl = document.querySelector('.Opta-js-attack-away th.Opta-Team') ||
+                   document.querySelector('.Opta-Away .Opta-Team-Name') ||
+                   document.querySelector('.Opta-Away .Opta-Team');
+    return {
+        homeName: homeEl ? homeEl.innerText.trim() : null,
+        awayName: awayEl ? awayEl.innerText.trim() : null,
+    };
+}
+"""
+
+# ---------------------------------------------------------------------------
+# JavaScript: extract team-bar stats + player stats for the active tab.
+# Called with (tabSlug) as the Playwright evaluate argument.
+# ---------------------------------------------------------------------------
+JS_EXTRACT_TAB = """
+(tabSlug) => {
+    // ---- Team stats -------------------------------------------------------
+    // The active tab's <li class="Opta-On"> in the team_graphs widget holds
+    // the stats-bars table.
     const statLi = Array.from(document.querySelectorAll('li.Opta-On'))
         .find(li => li.querySelector('table.Opta-Stats-Bars'));
     const statsTable = statLi ? statLi.querySelector('table.Opta-Stats-Bars') : null;
@@ -97,23 +364,41 @@ JS_EXTRACT = """
                 currentStat = th.innerText.trim();
             } else if (currentStat) {
                 const outer = row.querySelectorAll('td.Opta-Outer');
-                teamStats.push({
-                    stat:  currentStat,
-                    home:  outer[0] ? outer[0].innerText.trim() : null,
-                    away:  outer[1] ? outer[1].innerText.trim() : null,
-                });
+                if (outer.length) {
+                    const homeVal = outer[0] ? outer[0].innerText.trim() : null;
+                    const awayVal = outer[1] ? outer[1].innerText.trim() : null;
+                    // When both values are percentages and the label doesn't
+                    // already say so, tag the label so the mapping can
+                    // distinguish count rows from percentage rows (Opta reuses
+                    // the same label, e.g. "Rucks won", for both).
+                    const isPct = (homeVal || '').endsWith('%') || (awayVal || '').endsWith('%');
+                    const alreadyTagged = currentStat.includes('(%)') || currentStat.endsWith('%');
+                    const statLabel = (isPct && !alreadyTagged)
+                        ? currentStat + ' (%)'
+                        : currentStat;
+                    teamStats.push({ stat: statLabel, home: homeVal, away: awayVal });
+                }
                 currentStat = null;
             }
         }
     }
 
-    // --- Player-level stats (Attack tab of the teamsheet widget) ------
+    // ---- Player stats -----------------------------------------------------
+    // Opta uses class names like .Opta-js-attack-home, .Opta-js-set-plays-home.
+    // Try slug variants to handle hyphen/underscore/no-separator differences.
+    const slugVariants = [
+        tabSlug,
+        tabSlug.replace(/-/g, '_'),
+        tabSlug.replace(/-/g, ''),
+    ];
+
     const playerStats = { home: [], away: [] };
     for (const side of ['home', 'away']) {
-        const selector = side === 'home'
-            ? '.Opta-js-attack-home'
-            : '.Opta-js-attack-away';
-        const div = document.querySelector(selector);
+        let div = null;
+        for (const slug of slugVariants) {
+            div = document.querySelector(`.Opta-js-${slug}-${side}`);
+            if (div) break;
+        }
         if (!div) continue;
 
         const headers = Array.from(div.querySelectorAll('thead th abbr'))
@@ -125,16 +410,20 @@ JS_EXTRACT = """
             const cells = Array.from(row.querySelectorAll('td'));
             const stats = {};
             cells.forEach((td, i) => {
-                if (headers[i]) stats[headers[i]] = td.getAttribute('data-srt');
+                if (headers[i]) {
+                    const val = td.getAttribute('data-srt');
+                    stats[headers[i]] = (val !== null) ? val : td.innerText.trim();
+                }
             });
-            playerStats[side].push({ name: nameEl.innerText.trim(), stats });
+            const pidMatch = nameEl.className.match(/Opta-Player-([0-9]+)/);
+            const playerId = pidMatch ? pidMatch[1] : '';
+            playerStats[side].push({ name: nameEl.innerText.trim(), player_id: playerId, stats });
         }
     }
 
-    return { homeName, awayName, teamStats, playerStats };
+    return { teamStats, playerStats };
 }
 """
-
 
 # ---------------------------------------------------------------------------
 # Scraping helpers
@@ -146,17 +435,24 @@ async def accept_cookies(page: Page) -> None:
         pass
 
 
-async def click_attack_tabs(page: Page) -> None:
-    """Click the Attack tab in every Opta stats widget that has one."""
+async def click_tab(page: Page, tab_name: str) -> None:
+    """Click the named tab in every Opta nav widget that contains it.
+
+    Uses JS-level click() to bypass the visibility/stable checks that
+    ElementHandle.click() enforces — Opta nav links are sometimes
+    clipped inside widget containers.
+    """
     try:
-        # Each tab nav is a <ul class="Opta-Cf ..."><li><a>Attack</a></li>...
-        # Attack is already default-active, but we click to be explicit.
-        links = await page.query_selector_all(".Opta-Nav li a")
-        for link in links:
-            text = (await link.inner_text()).strip()
-            if text == "Attack":
-                await link.click()
-                await page.wait_for_timeout(500)
+        await page.evaluate(
+            """(name) => {
+                const links = Array.from(document.querySelectorAll('.Opta-Nav li a'));
+                for (const link of links) {
+                    if (link.innerText.trim() === name) link.click();
+                }
+            }""",
+            tab_name,
+        )
+        await page.wait_for_timeout(600)
     except Exception:
         pass
 
@@ -165,145 +461,206 @@ async def scrape_url(page: Page, url: str) -> dict | None:
     clean_url = url.split("#")[0].strip()
     print(f"  → {clean_url}")
 
-    # Capture the HTML response object synchronously (body read afterward).
-    # Opta's JS removes <opta-widget> elements from the live DOM once it
-    # renders them, so we must read the raw source to get match metadata.
-    html_response: list = []
-
-    def on_response(response):
-        if (
-            response.status == 200
-            and "text/html" in response.headers.get("content-type", "")
-            and "englandrugby.com" in response.url
-            and "match-centre" in response.url
-        ):
-            html_response.append(response)
-
-    page.on("response", on_response)
-
     try:
         await page.goto(clean_url, wait_until="load", timeout=30000)
     except Exception as exc:
         print(f"    ERROR loading: {exc}")
         return None
-    finally:
-        page.remove_listener("response", on_response)
 
     await accept_cookies(page)
+    await page.wait_for_timeout(8000)  # wait for Opta async render
 
-    # Wait for Opta widgets to initialise (they fire XHRs and render async)
-    await page.wait_for_timeout(8000)
+    # Retrieve the opta-widget attributes captured by INIT_SCRIPT before
+    # Opta's JS removed the elements from the DOM.
+    widget_data = await page.evaluate("() => window.__rfuOptaData || null")
+    match_id   = (widget_data or {}).get("match_id", "")
+    competition = (widget_data or {}).get("competition", "")
+    season      = (widget_data or {}).get("season", "")
 
-    await click_attack_tabs(page)
-    await page.wait_for_timeout(1000)
-
-    # Parse match metadata from the raw HTML
-    competition = season = match_id = ""
-    for resp in html_response:
-        try:
-            body = await resp.text()
-        except Exception:
-            continue
-        m = _TEAM_GRAPHS_RE.search(body)
-        if m:
-            attrs = dict(_ATTR_RE.findall(m.group()))
-            competition = attrs.get("competition", "")
-            season = attrs.get("season", "")
-            match_id = attrs.get("match", "")
-            break
+    if not match_id:
+        # Fallback for match-centre-elite?matchId=…&competitionId=…&seasonId=…
+        qs = urllib.parse.parse_qs(urllib.parse.urlparse(clean_url).query)
+        match_id    = (qs.get("matchId")      or [""])[0]
+        competition = (qs.get("competitionId") or [""])[0]
+        season      = (qs.get("seasonId")      or [""])[0]
 
     if not match_id:
         print("    WARNING: could not determine match ID — skipping")
         return None
 
-    try:
-        data = await page.evaluate(JS_EXTRACT)
-    except Exception as exc:
-        print(f"    ERROR extracting data: {exc}")
-        return None
+    # Get team names (Attack tab is the default-active tab)
+    meta = await page.evaluate(JS_EXTRACT_META)
+    home_name = meta.get("homeName") or ""
+    away_name = meta.get("awayName") or ""
 
-    result = {
+    # Get possession percentages from the SVG pitch widget
+    possession = await page.evaluate(JS_EXTRACT_POSSESSION)
+    possession_home = possession.get("home", "")
+    possession_away = possession.get("away", "")
+
+    # Get match header: scores, competition name, date
+    header = await page.evaluate(JS_EXTRACT_HEADER)
+
+    # Get matchday-23 lineup (widget already rendered, no tab click needed)
+    lineup = await page.evaluate(JS_EXTRACT_LINEUP)
+
+    # Iterate every tab and extract stats
+    tab_data: dict[str, dict] = {}
+    for tab in TABS:
+        await click_tab(page, tab)
+        await page.wait_for_timeout(800)
+        try:
+            data = await page.evaluate(JS_EXTRACT_TAB, TAB_SLUG[tab])
+        except Exception as exc:
+            print(f"    WARNING: error on tab '{tab}': {exc}")
+            data = {"teamStats": [], "playerStats": {"home": [], "away": []}}
+        tab_data[tab] = data
+
+    n_team = sum(len(v["teamStats"]) for v in tab_data.values())
+    n_home = len(tab_data.get("Attack", {}).get("playerStats", {}).get("home", []))
+    n_away = len(tab_data.get("Attack", {}).get("playerStats", {}).get("away", []))
+    print(
+        f"    {home_name} vs {away_name}  |  match {match_id}  |  "
+        f"{n_team} team stats  |  {n_home}+{n_away} players"
+    )
+
+    return {
         "url": url.strip(),
         "match_id": match_id,
         "competition": competition,
         "season": season,
-        "home_team": data.get("homeName") or "",
-        "away_team": data.get("awayName") or "",
-        "team_stats": data.get("teamStats", []),
-        "player_stats": data.get("playerStats", {"home": [], "away": []}),
+        "home_team": home_name,
+        "away_team": away_name,
+        "possession_home": possession_home,
+        "possession_away": possession_away,
+        "header": header,
+        "lineup": lineup,
+        "tab_data": tab_data,
     }
 
-    n_home = len(result["player_stats"]["home"])
-    n_away = len(result["player_stats"]["away"])
-    n_team = len(result["team_stats"])
-    print(
-        f"    {result['home_team']} vs {result['away_team']}  |  "
-        f"match {match_id}  |  "
-        f"{n_team} team stats  |  {n_home}+{n_away} players"
-    )
+
+# ---------------------------------------------------------------------------
+# Helpers to merge per-tab raw data into flat schema dicts
+# ---------------------------------------------------------------------------
+def _team_stat_dict(tab_data: dict[str, dict], side: str) -> dict[str, str]:
+    """Merge all-tab team stats for one side into a schema-keyed flat dict."""
+    result: dict[str, str] = {}
+    for data in tab_data.values():
+        for entry in data.get("teamStats", []):
+            col = TEAM_LABEL_MAP.get(_norm(entry.get("stat", "")))
+            if col and col not in result:
+                val = entry.get(side) or ""
+                result[col] = val
     return result
+
+
+def _player_stat_dicts(tab_data: dict[str, dict], side: str) -> list[dict]:
+    """Merge all-tab player stats for one side into per-player flat dicts."""
+    players: dict[str, dict[str, str]] = {}
+    for data in tab_data.values():
+        for p in data.get("playerStats", {}).get(side, []):
+            name = p["name"]
+            if name not in players:
+                players[name] = {}
+            for raw_label, value in p["stats"].items():
+                col = PLAYER_LABEL_MAP.get(_norm(raw_label))
+                if col and col not in players[name]:
+                    players[name][col] = value or ""
+    return [{"player": name, **stats} for name, stats in players.items()]
 
 
 # ---------------------------------------------------------------------------
 # CSV writers
 # ---------------------------------------------------------------------------
 def write_team_stats(results: list[dict], path: Path) -> None:
-    """One row per match, stats in wide format."""
-    fieldnames = ["url", "match_id", "competition", "season", "home_team", "away_team"]
-    for field in TEAM_STAT_FIELDS:
-        slug = field.lower().replace(" ", "_")
-        fieldnames += [f"{slug}_home", f"{slug}_away"]
-
     with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
-        for r in results:
-            row: dict = {
-                "url": r["url"],
-                "match_id": r["match_id"],
-                "competition": r["competition"],
-                "season": r["season"],
-                "home_team": r["home_team"],
-                "away_team": r["away_team"],
-            }
-            stat_map = {s["stat"]: s for s in r["team_stats"]}
-            for field in TEAM_STAT_FIELDS:
-                slug = field.lower().replace(" ", "_")
-                s = stat_map.get(field, {})
-                row[f"{slug}_home"] = s.get("home", "")
-                row[f"{slug}_away"] = s.get("away", "")
-            writer.writerow(row)
-
-
-def write_player_stats(results: list[dict], path: Path) -> None:
-    """One row per player per match."""
-    abbrs = list(PLAYER_STAT_ABBR.values())
-    fieldnames = [
-        "url", "match_id", "competition", "season",
-        "team", "home_away", "player",
-        *abbrs,
-    ]
-
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=TEAM_FIELDS, extrasaction="ignore")
         writer.writeheader()
         for r in results:
             for side in ("home", "away"):
                 team_name = r["home_team"] if side == "home" else r["away_team"]
-                for player in r["player_stats"].get(side, []):
-                    row: dict = {
-                        "url": r["url"],
-                        "match_id": r["match_id"],
+                stats = _team_stat_dict(r["tab_data"], side)
+                poss = r.get("possession_home") if side == "home" else r.get("possession_away")
+                row: dict = {f: ("" if f in TEAM_META_FIELDS else "0") for f in TEAM_FIELDS}
+                h = r.get("header", {})
+                row.update({
+                    "url":              r["url"],
+                    "match_id":         r["match_id"],
+                    "competition":      r["competition"],
+                    "season":           r["season"],
+                    "competition_name": h.get("competition_name", ""),
+                    "match_date":       h.get("match_date", ""),
+                    "team":             team_name,
+                    "home_away":        side,
+                    "home_score_FT":    h.get("home_score_FT", "0") or "0",
+                    "away_score_FT":    h.get("away_score_FT", "0") or "0",
+                    "home_score_HT":    h.get("home_score_HT", "0") or "0",
+                    "away_score_HT":    h.get("away_score_HT", "0") or "0",
+                    "possession_pct":   poss or stats.pop("possession_pct", ""),
+                })
+                row.update({k: v for k, v in stats.items() if v != ""})
+                writer.writerow(row)
+
+
+def write_player_stats(results: list[dict], path: Path) -> None:
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=PLAYER_FIELDS, extrasaction="ignore")
+        writer.writeheader()
+        for r in results:
+            for side in ("home", "away"):
+                team_name = r["home_team"] if side == "home" else r["away_team"]
+                for p in _player_stat_dicts(r["tab_data"], side):
+                    row: dict = {f: ("" if f in PLAYER_META_FIELDS else "0") for f in PLAYER_FIELDS}
+                    row.update({
+                        "url":         r["url"],
+                        "match_id":    r["match_id"],
                         "competition": r["competition"],
-                        "season": r["season"],
-                        "team": team_name,
-                        "home_away": side,
-                        "player": player["name"],
-                    }
-                    for full_name, abbr in PLAYER_STAT_ABBR.items():
-                        val = player["stats"].get(full_name, "")
-                        row[abbr] = val if val is not None else ""
+                        "season":      r["season"],
+                        "team":        team_name,
+                        "home_away":   side,
+                    })
+                    row.update({k: v for k, v in p.items() if v != ""})
                     writer.writerow(row)
+
+
+def _player_id_name_map(tab_data: dict[str, dict], side: str) -> dict[str, str]:
+    """Build {player_id: name} from all tab player stats for one side.
+    Uses the first non-empty name seen for each player across tabs.
+    Matching by Opta player ID (from the Opta-Player-{id} CSS class) is more
+    reliable than matching by position — the stats tables are sorted by stat
+    contribution, not shirt number.
+    """
+    mapping: dict[str, str] = {}
+    for data in tab_data.values():
+        for p in data.get("playerStats", {}).get(side, []):
+            pid = p.get("player_id", "")
+            if pid and pid not in mapping and p.get("name"):
+                mapping[pid] = p["name"]
+    return mapping
+
+
+def write_lineup(results: list[dict], path: Path) -> None:
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=LINEUP_FIELDS, extrasaction="ignore")
+        writer.writeheader()
+        for r in results:
+            home_id_map = _player_id_name_map(r["tab_data"], "home")
+            away_id_map = _player_id_name_map(r["tab_data"], "away")
+            home_team = r["home_team"]
+            for entry in r.get("lineup", []):
+                pid = entry.get("player_id", "")
+                id_map = home_id_map if entry["team"] == home_team else away_id_map
+                # Use stats name when the player appears in any tab's stats table;
+                # fall back to the lineup name for unused substitutes (0 minutes).
+                resolved_name = id_map.get(pid) or entry["player_name"]
+                writer.writerow({
+                    "url":          r["url"],
+                    "match_id":     r["match_id"],
+                    "team":         entry["team"],
+                    "shirt_number": entry["shirt_number"],
+                    "player_name":  resolved_name,
+                    "role":         entry["role"],
+                })
 
 
 # ---------------------------------------------------------------------------
@@ -320,11 +677,18 @@ async def main() -> None:
     results: list[dict] = []
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(channel="chrome", headless=True)
+        browser = await p.chromium.launch(
+            channel="chrome",
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
         context = await browser.new_context(
             user_agent=UA,
             extra_http_headers=EXTRA_HEADERS,
+            service_workers="block",
         )
+        # Register the init script once — it runs before every page navigation.
+        await context.add_init_script(INIT_SCRIPT)
         page = await context.new_page()
 
         for i, url in enumerate(urls, 1):
@@ -332,7 +696,6 @@ async def main() -> None:
             result = await scrape_url(page, url)
             if result:
                 results.append(result)
-            # Polite delay between requests
             if i < len(urls):
                 await page.wait_for_timeout(2000)
 
@@ -343,15 +706,18 @@ async def main() -> None:
         return
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    team_csv = OUT_DIR / "rfu_team_attack_stats.csv"
-    player_csv = OUT_DIR / "rfu_player_attack_stats.csv"
+    team_csv   = OUT_DIR / "rfu_team_stats.csv"
+    player_csv = OUT_DIR / "rfu_player_stats.csv"
+    lineup_csv = OUT_DIR / "rfu_lineups.csv"
 
     write_team_stats(results, team_csv)
     write_player_stats(results, player_csv)
+    write_lineup(results, lineup_csv)
 
     print(f"\n✓ {len(results)}/{len(urls)} matches scraped")
     print(f"  {team_csv}")
     print(f"  {player_csv}")
+    print(f"  {lineup_csv}")
 
 
 if __name__ == "__main__":
