@@ -11,6 +11,7 @@ from each URL in data/raw/rfu_test_urls.txt and outputs:
 import asyncio
 import csv
 import re
+import sys
 import urllib.parse
 from pathlib import Path
 
@@ -572,10 +573,12 @@ def _player_stat_dicts(tab_data: dict[str, dict], side: str) -> list[dict]:
 # ---------------------------------------------------------------------------
 # CSV writers
 # ---------------------------------------------------------------------------
-def write_team_stats(results: list[dict], path: Path) -> None:
-    with open(path, "w", newline="", encoding="utf-8") as f:
+def write_team_stats(results: list[dict], path: Path, append: bool = False) -> None:
+    mode = "a" if append else "w"
+    with open(path, mode, newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=TEAM_FIELDS, extrasaction="ignore")
-        writer.writeheader()
+        if not append:
+            writer.writeheader()
         for r in results:
             for side in ("home", "away"):
                 team_name = r["home_team"] if side == "home" else r["away_team"]
@@ -602,10 +605,12 @@ def write_team_stats(results: list[dict], path: Path) -> None:
                 writer.writerow(row)
 
 
-def write_player_stats(results: list[dict], path: Path) -> None:
-    with open(path, "w", newline="", encoding="utf-8") as f:
+def write_player_stats(results: list[dict], path: Path, append: bool = False) -> None:
+    mode = "a" if append else "w"
+    with open(path, mode, newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=PLAYER_FIELDS, extrasaction="ignore")
-        writer.writeheader()
+        if not append:
+            writer.writeheader()
         for r in results:
             for side in ("home", "away"):
                 team_name = r["home_team"] if side == "home" else r["away_team"]
@@ -639,10 +644,12 @@ def _player_id_name_map(tab_data: dict[str, dict], side: str) -> dict[str, str]:
     return mapping
 
 
-def write_lineup(results: list[dict], path: Path) -> None:
-    with open(path, "w", newline="", encoding="utf-8") as f:
+def write_lineup(results: list[dict], path: Path, append: bool = False) -> None:
+    mode = "a" if append else "w"
+    with open(path, mode, newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=LINEUP_FIELDS, extrasaction="ignore")
-        writer.writeheader()
+        if not append:
+            writer.writeheader()
         for r in results:
             home_id_map = _player_id_name_map(r["tab_data"], "home")
             away_id_map = _player_id_name_map(r["tab_data"], "away")
@@ -669,9 +676,13 @@ def write_lineup(results: list[dict], path: Path) -> None:
 # Main
 # ---------------------------------------------------------------------------
 async def main() -> None:
+    args = sys.argv[1:]
+    append = "--append" in args
+    args = [a for a in args if a != "--append"]
+    url_file = Path(args[0]) if args else URLS_FILE
     urls = [
         line.strip()
-        for line in URLS_FILE.read_text().splitlines()
+        for line in url_file.read_text().splitlines()
         if line.strip()
     ]
     print(f"Scraping {len(urls)} URLs\n")
@@ -712,9 +723,9 @@ async def main() -> None:
     player_csv = OUT_DIR / "rfu_player_stats.csv"
     lineup_csv = OUT_DIR / "rfu_lineups.csv"
 
-    write_team_stats(results, team_csv)
-    write_player_stats(results, player_csv)
-    write_lineup(results, lineup_csv)
+    write_team_stats(results, team_csv, append=append)
+    write_player_stats(results, player_csv, append=append)
+    write_lineup(results, lineup_csv, append=append)
 
     print(f"\n✓ {len(results)}/{len(urls)} matches scraped")
     print(f"  {team_csv}")
