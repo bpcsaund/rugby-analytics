@@ -1,20 +1,29 @@
 #!/usr/bin/env python3
 """
-Premiership Rugby (incrowdsports API) scraper.
+incrowdsports API scraper — multi-competition.
 
-Fetches all Bath Rugby matches (default) or all-team matches from both
-seasons via the rugby-union-feeds.incrowdsports.com API and outputs:
+Fetches match stats from the rugby-union-feeds.incrowdsports.com API and outputs:
 
-  data/raw/prem_team_stats.csv
-  data/raw/prem_player_stats.csv
-  data/raw/prem_lineups.csv
+  data/raw/{comp}_team_stats.csv
+  data/raw/{comp}_player_stats.csv
+  data/raw/{comp}_lineups.csv
+
+Supported competitions (--competition flag):
+  prem       Gallagher Premiership      (compId 1011) [default]
+  top14      Top 14                     (compId 1002)
+  champs     Investec Champions Cup     (compId 1008)
+  challenge  European Challenge Cup     (compId 1026)
+  urc        United Rugby Championship  (compId 1068)
+  japan      Japan League One           (compId 2074)
 
 Column names match rfu_scraper.py conventions where stats overlap.
 
 Usage:
-  python ingestion/prem_scraper.py                # Bath Rugby only (test)
-  python ingestion/prem_scraper.py --all-teams    # every team / every match
-  python ingestion/prem_scraper.py --append       # append to existing CSVs
+  python ingestion/prem_scraper.py                              # Prem, Bath only (test)
+  python ingestion/prem_scraper.py --all-teams                  # Prem, all teams
+  python ingestion/prem_scraper.py --competition urc --all-teams
+  python ingestion/prem_scraper.py --competition champs --season 202401
+  python ingestion/prem_scraper.py --append                     # append to existing CSVs
 """
 
 import csv
@@ -32,14 +41,24 @@ OUT_DIR = BASE_DIR / "data" / "raw"
 
 FIXTURES_URL = (
     "https://rugby-union-feeds.incrowdsports.com/v1/matches"
-    "?provider=rugbyviz&season={season}&compId=1011&sort=date"
+    "?provider=rugbyviz&season={season}&compId={comp_id}&sort=date"
 )
+# client_id_param is "&clientId=XXX" when the comp has a dedicated client, else ""
 MATCH_URL = (
     "https://rugby-union-feeds.incrowdsports.com/v1/matches/{match_id}"
-    "?clientId=PRL&provider=rugbyviz&seasonId={season}"
+    "?provider=rugbyviz&seasonId={season}{client_id_param}"
 )
 
-SEASONS = ["202401", "202501"]   # 202401 = 2024-25,  202501 = 2025-26
+COMPETITIONS: dict[str, dict] = {
+    "prem":      {"comp_id": "1011", "label": "Gallagher Premiership",    "client_id": "PRL"},
+    "top14":     {"comp_id": "1002", "label": "Top 14",                   "client_id": ""},
+    "champs":    {"comp_id": "1008", "label": "Investec Champions Cup",   "client_id": ""},
+    "challenge": {"comp_id": "1026", "label": "European Challenge Cup",   "client_id": ""},
+    "urc":       {"comp_id": "1068", "label": "United Rugby Championship","client_id": ""},
+    "japan":     {"comp_id": "2074", "label": "Japan League One",         "client_id": ""},
+}
+
+DEFAULT_SEASONS = ["202401", "202501"]   # 202401 = 2024-25,  202501 = 2025-26
 BATH_NAME = "Bath Rugby"
 
 # ---------------------------------------------------------------------------
@@ -49,6 +68,7 @@ BATH_NAME = "Bath Rugby"
 TEAM_FIELDS = [
     "match_url", "match_id", "competition", "season",
     "competition_name", "match_date", "round",
+    "home_team", "away_team",
     "team", "home_away",
     "home_score_FT", "away_score_FT", "home_score_HT", "away_score_HT",
     "possession_pct", "territory_pct",
@@ -73,6 +93,7 @@ TEAM_FIELDS = [
 
 PLAYER_FIELDS = [
     "match_url", "match_id", "competition", "season",
+    "match_date", "home_team", "away_team",
     "team", "home_away", "player_id", "player",
     "position", "position_id", "minutes_played",
     # Attack
@@ -127,18 +148,20 @@ def accuracy_str(scored, missed) -> str:
         return ""
 
 
-def match_url(match_id: int) -> str:
-    return f"https://www.premiershiprugby.com/match-centre/{match_id}/team-stats"
+def match_url(match_id: int, comp_key: str) -> str:
+    if comp_key == "prem":
+        return f"https://www.premiershiprugby.com/match-centre/{match_id}/team-stats"
+    return f"https://rugby-union-feeds.incrowdsports.com/v1/matches/{match_id}"
 
 
 # ---------------------------------------------------------------------------
 # Fixture fetching
 # ---------------------------------------------------------------------------
-def get_fixtures(seasons: list[str], bath_only: bool) -> list[dict]:
+def get_fixtures(seasons: list[str], comp_id: str, bath_only: bool) -> list[dict]:
     """Return list of {match_id, season} dicts, optionally filtered to Bath."""
     results = []
     for season in seasons:
-        data = fetch_json(FIXTURES_URL.format(season=season))
+        data = fetch_json(FIXTURES_URL.format(season=season, comp_id=comp_id))
         for m in data.get("data", []):
             home = m.get("homeTeam", {}).get("name", "")
             away = m.get("awayTeam", {}).get("name", "")
@@ -151,17 +174,19 @@ def get_fixtures(seasons: list[str], bath_only: bool) -> list[dict]:
 # ---------------------------------------------------------------------------
 # Row parsers
 # ---------------------------------------------------------------------------
-def parse_team_row(m: dict, team_data: dict, home_away: str) -> dict:
+def parse_team_row(m: dict, team_data: dict, home_away: str, comp_key: str = "prem") -> dict:
     s = team_data.get("stats") or {}
     row = {f: "" for f in TEAM_FIELDS}
     row.update({
-        "match_url":          match_url(m["id"]),
+        "match_url":          match_url(m["id"], comp_key),
         "match_id":           str(m["id"]),
         "competition":        str(m.get("compId", "")),
         "season":             str(m.get("season", "")),
         "competition_name":   m.get("compName", ""),
         "match_date":         (m.get("date") or "")[:10],
         "round":              str(m.get("round", "")),
+        "home_team":          m["homeTeam"].get("name", ""),
+        "away_team":          m["awayTeam"].get("name", ""),
         "team":               team_data.get("name", ""),
         "home_away":          home_away,
         "home_score_FT":      val(m["homeTeam"].get("score")),
@@ -211,17 +236,20 @@ def parse_team_row(m: dict, team_data: dict, home_away: str) -> dict:
     return row
 
 
-def parse_player_rows(m: dict, team_data: dict, home_away: str) -> list[dict]:
+def parse_player_rows(m: dict, team_data: dict, home_away: str, comp_key: str = "prem") -> list[dict]:
     rows = []
     for p in team_data.get("players") or []:
         s = p.get("stats") or {}
         pos_id = p.get("positionId") or 0
         rows.append({
             **{f: "" for f in PLAYER_FIELDS},
-            "match_url":          match_url(m["id"]),
+            "match_url":          match_url(m["id"], comp_key),
             "match_id":           str(m["id"]),
             "competition":        str(m.get("compId", "")),
             "season":             str(m.get("season", "")),
+            "match_date":         (m.get("date") or "")[:10],
+            "home_team":          m["homeTeam"].get("name", ""),
+            "away_team":          m["awayTeam"].get("name", ""),
             "team":               team_data.get("name", ""),
             "home_away":          home_away,
             "player_id":          str(p.get("id", "")),
@@ -260,12 +288,12 @@ def parse_player_rows(m: dict, team_data: dict, home_away: str) -> list[dict]:
     return rows
 
 
-def parse_lineup_rows(m: dict, team_data: dict, home_away: str) -> list[dict]:
+def parse_lineup_rows(m: dict, team_data: dict, home_away: str, comp_key: str = "prem") -> list[dict]:
     rows = []
     for p in team_data.get("players") or []:
         pos_id = p.get("positionId") or 0
         rows.append({
-            "match_url":   match_url(m["id"]),
+            "match_url":   match_url(m["id"], comp_key),
             "match_id":    str(m["id"]),
             "season":      str(m.get("season", "")),
             "team":        team_data.get("name", ""),
@@ -299,11 +327,36 @@ def main() -> None:
     append    = "--append"    in args
     all_teams = "--all-teams" in args
 
-    print(f"Mode    : {'all teams' if all_teams else 'Bath Rugby only'}")
-    print(f"Seasons : {SEASONS}")
-    print(f"Append  : {append}\n")
+    # --competition KEY
+    comp_key = "prem"
+    if "--competition" in args:
+        idx = args.index("--competition")
+        if idx + 1 < len(args):
+            comp_key = args[idx + 1]
+    if comp_key not in COMPETITIONS:
+        print(f"ERROR: unknown competition '{comp_key}'. Choose from: {', '.join(COMPETITIONS)}")
+        sys.exit(1)
+    comp = COMPETITIONS[comp_key]
 
-    fixtures = get_fixtures(SEASONS, bath_only=not all_teams)
+    # --season YYYYSS  (can be specified multiple times; default: both)
+    seasons: list[str] = []
+    for i, a in enumerate(args):
+        if a == "--season" and i + 1 < len(args):
+            seasons.append(args[i + 1])
+    if not seasons:
+        seasons = DEFAULT_SEASONS
+
+    # Bath-only filter only applies to Prem without --all-teams
+    bath_only = (comp_key == "prem") and not all_teams
+
+    client_id_param = f"&clientId={comp['client_id']}" if comp["client_id"] else ""
+
+    print(f"Competition : {comp['label']} (compId {comp['comp_id']})")
+    print(f"Mode        : {'Bath Rugby only' if bath_only else 'all teams'}")
+    print(f"Seasons     : {seasons}")
+    print(f"Append      : {append}\n")
+
+    fixtures = get_fixtures(seasons, comp["comp_id"], bath_only=bath_only)
     print(f"Matches to fetch: {len(fixtures)}\n")
 
     team_rows:   list[dict] = []
@@ -315,8 +368,9 @@ def main() -> None:
         mid    = fix["match_id"]
         season = fix["season"]
         try:
-            data = fetch_json(MATCH_URL.format(match_id=mid, season=season))
-            m = data["data"]
+            url  = MATCH_URL.format(match_id=mid, season=season, client_id_param=client_id_param)
+            data = fetch_json(url)
+            m    = data["data"]
         except Exception as exc:
             print(f"  [{i}/{len(fixtures)}] ERROR match {mid}: {exc}")
             errors += 1
@@ -332,24 +386,22 @@ def main() -> None:
             f"  [{status}]"
         )
 
-        # Lineup for all matches (including upcoming fixtures)
-        lineup_rows.extend(parse_lineup_rows(m, ht, "home"))
-        lineup_rows.extend(parse_lineup_rows(m, at, "away"))
+        lineup_rows.extend(parse_lineup_rows(m, ht, "home", comp_key))
+        lineup_rows.extend(parse_lineup_rows(m, at, "away", comp_key))
 
-        # Stats only for completed matches
         if status == "result":
-            team_rows.append(parse_team_row(m, ht, "home"))
-            team_rows.append(parse_team_row(m, at, "away"))
-            player_rows.extend(parse_player_rows(m, ht, "home"))
-            player_rows.extend(parse_player_rows(m, at, "away"))
+            team_rows.append(parse_team_row(m, ht, "home", comp_key))
+            team_rows.append(parse_team_row(m, at, "away", comp_key))
+            player_rows.extend(parse_player_rows(m, ht, "home", comp_key))
+            player_rows.extend(parse_player_rows(m, at, "away", comp_key))
 
         if i < len(fixtures):
             time.sleep(0.3)  # polite rate limiting
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    team_csv   = OUT_DIR / "prem_team_stats.csv"
-    player_csv = OUT_DIR / "prem_player_stats.csv"
-    lineup_csv = OUT_DIR / "prem_lineups.csv"
+    team_csv   = OUT_DIR / f"{comp_key}_team_stats.csv"
+    player_csv = OUT_DIR / f"{comp_key}_player_stats.csv"
+    lineup_csv = OUT_DIR / f"{comp_key}_lineups.csv"
 
     write_csv(team_csv,   TEAM_FIELDS,   team_rows,   append)
     write_csv(player_csv, PLAYER_FIELDS, player_rows, append)
