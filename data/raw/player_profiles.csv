@@ -1,0 +1,489 @@
+playerId,firstName,lastName,dateOfBirth,birthPlace,height,weight,country,nationalTeamId,nationalTeamName,teamId,teamName
+140708,Tom,Gordon,1997-01-30,Rotorua,180,102,New Zealand,,,2038,Newcastle Falcons
+168872,Callum,Chick,1996-11-25,Newcastle-upon-Tyne,193,115,England,1,England,3436,Newcastle Falcons
+205702,Brett,Connon,1996-08-29,Carlisle,175,89,England,,,2038,Newcastle Falcons
+219782,Freddie,Lockwood,2000-12-31,Malton,188,116,England,,,2038,Newcastle Falcons
+239563,Ben,Redshaw,2005-01-10,Leeds,185,80,England,,,4293,Newcastle Falcons
+207081,Ollie,Fletcher,2002-09-09,Hexham,183,106,England,,,2038,Newcastle Falcons
+200621,Richard,Palframan,1993-12-20,East London,185,120,South Africa,,,2038,Newcastle Falcons
+205585,Murray,McCallum,1996-03-16,Kirkcaldy,185,126,Scotland,2,Scotland,2038,Newcastle Falcons
+143607,Luan,de Bruin,1993-02-13,Pretoria,183,128,South Africa,,,2038,Newcastle Falcons
+137624,Sam,Stuart,1991-09-27,Cheltenham,173,83,England,,,2038,Newcastle Falcons
+164792,Adam,Brocklebank,1995-09-06,Ormskirk,188,125,England,,,2038,Newcastle Falcons
+190680,Ollie,Leatherbarrow,2002-04-08,Macclesfield,183,105,England,,,2038,Newcastle Falcons
+145014,Elliott,Obatoyinbo,1998-10-09,,185,89,England,,,2038,Newcastle Falcons
+221884,Adam,Radwan,1997-12-30,Osmotherly,178,89,England,1,England,1711,Newcastle Falcons
+188156,Adam,Scott,2001-11-27,Newcastle-upon-Tyne,198,110,England,,,2038,Newcastle Falcons
+160415,Jamie,Blamire,1997-12-22,Whitehaven,185,112,England,1,England,1711,Newcastle Falcons
+108863,Sammy,Arnold,1996-04-08,,183,102,England,4,Ireland,2038,Newcastle Falcons
+112066,Fitz,Harding,1999-04-26,Kensington,188,105,England,,,4581,Bristol Bears
+106402,Jake,Woolmore,1990-12-07,Hammersmith,183,124,England,,,4581,Bristol Bears
+245732,Benjamin,Grondona,2003-10-19,,191,100,,10,Argentina,4581,Bristol Bears
+156903,James,Williams,1997-02-24,Dorchester,178,96,England,,,4581,Bristol Bears
+199272,James,Dun,1999-07-07,Bath,193,111,England,,,4581,Bristol Bears
+212999,AJ,MacGinty,1990-02-26,Dublin,180,95,Ireland,136,United States,4581,Bristol Bears
+217606,Benhard,Janse van Rensburg,1997-01-14,Pretoria,185,86,South Africa,,,4581,Bristol Bears
+211692,Max,Malins,1997-01-07,Cambridge,180,88,England,1,England,2581,Bristol Bears
+163209,George,Kloska,1999-11-16,Bristol,183,117,England,,,4581,Bristol Bears
+165007,Ellis,Genge,1995-02-16,Bristol,185,116,England,1,England,4581,Bristol Bears
+195214,Harry,Randall,1997-12-18,Slough,170,72,England,1,England,4581,Bristol Bears
+142481,Steven,Luatua,1991-04-29,Auckland,196,116,New Zealand,222,Samoa,4581,Bristol Bears
+243442,Joe,Jenkins,2003-10-13,Halifax,191,97,England,,,4581,Bristol Bears
+131218,Gabriel,Ibitoye,1998-03-05,Lambeth,178,99,England,,,4581,Bristol Bears
+147794,Joe,Batley,1996-06-27,Portsmouth,201,120,England,,,4581,Bristol Bears
+216599,Rich,Lane,1993-07-21,Bedford,178,89,England,,,4581,Bristol Bears
+210010,Kieran,Marmion,1992-02-11,Barking,178,86,England,4,Ireland,4581,Bristol Bears
+130811,Max,Lahiff,1989-12-09,London,185,115,England,,,4581,Bristol Bears
+127101,Gabriel,Oghre,1998-05-25,Westminster,173,103,England,1,England,4581,Bristol Bears
+210178,Will,Butt,2000-01-15,Winchester,191,105,England,,,2448,Bath Rugby
+187169,Archie,Griffin,2001-07-24,"Sydney, NSW",191,130,Australia,3,Wales,2448,Bath Rugby
+157863,Finn,Russell,1992-09-23,Stirling,183,92,Scotland,2,Scotland,2448,Bath Rugby
+195208,Miles,Reid,1998-09-06,Bath,188,108,England,,,2448,Bath Rugby
+179563,Joe,Cokanasiga,1997-11-15,Suva,193,112,Fiji,1,England,2448,Bath Rugby
+108714,Will,Stuart,1996-07-12,Westminster,188,132,England,1,England,2448,Bath Rugby
+131724,Ollie,Lawrence,1999-09-18,Birmingham,180,100,England,1,England,2448,Bath Rugby
+145484,Alfie,Barbeary,2000-10-05,Banbury,185,116,England,,,2448,Bath Rugby
+112684,Guy,Pepper,2003-04-15,Harrogate,191,106,England,1,England,2448,Bath Rugby
+130283,Beno,Obano,1994-10-25,Lambeth,183,120,England,1,England,2448,Bath Rugby
+111662,Ben,Spencer,1992-07-31,Stockport,178,86,England,1,England,2448,Bath Rugby
+160272,Will,Muir,1995-10-30,Cleveland,188,94,England,1,England,2448,Bath Rugby
+225778,Tom,Dunn,1992-11-12,Bath,191,132,England,1,England,2448,Bath Rugby
+184945,Ted,Hill,1999-03-26,Worcester,196,112,England,1,England,2448,Bath Rugby
+116821,Francois,van Wyk,1991-07-30,Cape Town,188,113,South Africa,,,2448,Bath Rugby
+220475,Orlando,Bailey,2001-09-30,Dorchester,178,89,England,,,1711,Bath Rugby
+155514,Jaco,Coetzee,1996-06-10,Pretoria,188,108,South Africa,,,2448,Bath Rugby
+203360,Quinn,Roux,1990-10-30,Pretoria,198,125,South Africa,4,Ireland,2448,Bath Rugby
+196415,Charlie,Ewels,1995-06-29,Bournemouth,198,112,England,1,England,2448,Bath Rugby
+153790,Tom,de Glanville,1999-12-10,Bath,188,84,England,,,2448,Bath Rugby
+193283,Chunya,Munga,2000-09-02,Reading,198,120,England,,,3436,Northampton Saints
+177699,Tom,West,1996-02-11,Diss,185,117,England,,,3436,Northampton Saints
+200195,Fraser,Dingwall,1999-04-07,Cambridge,188,86,England,1,England,3436,Northampton Saints
+192642,Ollie,Sleightholme,2000-04-13,Northampton,180,89,England,1,England,3436,Northampton Saints
+127592,Luke,Green,2001-05-06,Richmond,188,115,England,,,3436,Northampton Saints
+221996,Tom,James,1993-10-12,Sherborne,183,90,England,,,3436,Northampton Saints
+178796,James,Ramm,1998-04-30,"Sydney,NSW",191,97,Australia,,,3436,Northampton Saints
+187951,Emmanuel,Iyogun,2000-11-24,,191,114,Spain,,,3436,Northampton Saints
+125486,Angus,Scott-Young,1997-04-23,"Brisbane, QLD",193,108,Australia,,,3436,Northampton Saints
+206832,Robbie,Smith,1998-09-26,Dumfries,175,113,Scotland,2,Scotland,3436,Northampton Saints
+199728,Juarno,Augustus,1997-12-09,Alexander Bay,185,128,South Africa,,,2129,Northampton Saints
+153646,George,Furbank,1996-10-17,Hinchinbrook,183,87,England,1,England,3436,Northampton Saints
+222867,Callum,Hunter-Hill,1997-02-27,Melrose,201,114,Scotland,,,1641,Northampton Saints
+102707,Trevor,Davison,1992-08-20,Newcastle-upon-Tyne,188,122,England,1,England,3436,Northampton Saints
+212369,Sam,Graham,1997-07-06,Bath,191,112,England,,,3436,Northampton Saints
+239345,Archie,McParland,2005-02-17,Birkenhead,183,86,England,,,3436,Northampton Saints
+109816,Rory,Hutchinson,1996-01-29,Cambridge,180,95,England,2,Scotland,3436,Northampton Saints
+111416,Curtis,Langdon,1997-08-03,Weston-super-Mare,183,107,England,1,England,3436,Northampton Saints
+156918,Tommy,Freeman,2001-03-05,Oxford,191,103,England,1,England,3436,Northampton Saints
+166428,Josh,Kemeny,1998-11-29,"Sydney, NSW",193,110,Australia,9,Australia,3436,Northampton Saints
+219643,Tom,Pearson,1999-10-26,Hereford,191,114,England,1,England,3436,Northampton Saints
+137626,Fin,Smith,2002-05-11,Warwick,178,87,England,1,England,3436,Northampton Saints
+239358,Toby,Thame,2003-11-08,Banbury,188,98,England,,,3436,Northampton Saints
+102180,Ben,Hammersley,2003-05-20,Cambridge,183,94,England,,,1574,Exeter Chiefs
+219208,Ehren,Painter,1998-03-21,Tower Hamlets,193,134,England,,,1574,Exeter Chiefs
+251397,Paul,Brown-Bampoe,2002-05-15,Croydon,188,100,England,,,1574,Exeter Chiefs
+103625,Dan,Frost,1997-04-24,Taunton,180,100,England,,,2448,Exeter Chiefs
+197546,Joe,Hawkins,2002-06-11,Swansea,183,98,Wales,3,Wales,3514,Exeter Chiefs
+201738,Will,Goodrick-Clarke,1995-12-29,Bromley,185,122,England,,,1574,Exeter Chiefs
+208783,Tom,Cairns,2002-06-19,Exeter,175,79,England,,,1574,Exeter Chiefs
+125136,Will,Haydon-Wood,2000-10-27,Reading,180,86,England,,,1574,Exeter Chiefs
+243341,Niall,Armstrong,1999-08-19,Belfast,178,85,Ireland,,,3533,Exeter Chiefs
+224659,Scott,Sio,1991-10-16,"Eastwood, NSW",188,122,Australia,222,Samoa,1574,Exeter Chiefs
+166737,Olly,Woodburn,1991-11-18,Bristol,188,103,England,,,1574,Exeter Chiefs
+237233,Ross,Vintcent,2002-06-05,Johannesburg,188,101,South Africa,6,Italy,1574,Exeter Chiefs
+147666,Josh,Iosefa-Scott,1996-07-16,Hamilton,193,134,New Zealand,,,1574,Exeter Chiefs
+169495,Josh,Hodge,2000-05-23,Lancaster,188,89,England,,,1574,Exeter Chiefs
+170455,Greg,Fisilau,2003-07-09,Plymouth,188,109,England,,,1574,Exeter Chiefs
+233237,Immanuel,Feyi-Waboso,2002-12-20,Cardiff,183,92,Wales,1,England,1574,Exeter Chiefs
+112986,Rus,Tuima,2000-05-21,Suva,196,120,Fiji,,,1574,Exeter Chiefs
+213658,Richard,Capstick,2000-02-13,Taunton,196,115,England,,,1574,Exeter Chiefs
+121275,Christ,Tshiunza,2002-01-09,Kinshasa,198,113,Democratic Republic of the Congo,3,Wales,1574,Exeter Chiefs
+225024,Harvey,Skinner,1997-12-31,Taunton,188,93,England,,,1574,Exeter Chiefs
+203166,Jack,Yeandle,1989-12-22,Exeter,185,109,England,,,1574,Exeter Chiefs
+124575,Ethan,Roots,1997-11-10,North Shore,188,113,New Zealand,1,England,1574,Exeter Chiefs
+150081,Freddie,Steward,2000-12-05,Dereham,196,107,England,1,England,1711,Leicester Tigers
+173217,Ollie,Hassell-Collins,1999-01-17,Reading,193,100,England,1,England,1711,Leicester Tigers
+183880,Tommy,Reffell,1999-04-27,Bridgend,183,105,Wales,3,Wales,1711,Leicester Tigers
+101384,Finn,Theobald-Thomas,2003-04-26,Wolverhampton,180,105,England,,,1711,Leicester Tigers
+113737,Jack,van Poortvliet,2001-05-15,Colby,183,90,England,1,England,1711,Leicester Tigers
+134796,Joe,Heyes,1999-04-13,Nottingham,191,122,England,1,England,1711,Leicester Tigers
+216656,Charlie,Clare,1991-12-16,Norwich,183,112,England,,,1711,Leicester Tigers
+111760,Izaia,Perese,1997-05-17,"Brisbane, QLD",180,95,Australia,9,Australia,1711,Leicester Tigers
+110319,Nicky,Smith,1994-04-07,Swansea,183,119,Wales,3,Wales,1711,Leicester Tigers
+177015,Harry,Wells,1993-09-29,Peterborough,196,118,England,1,England,1711,Leicester Tigers
+216823,Olly,Cracknell,1994-05-26,Leeds,191,116,England,3,Wales,1711,Leicester Tigers
+144635,Ollie,Chessum,2000-09-06,Boston,201,118,England,1,England,1711,Leicester Tigers
+179481,Solomone,Kata,1994-12-03,Neiafu,178,104,Tonga,244,Tonga,1711,Leicester Tigers
+214400,Dan,Kelly,2001-06-16,Rochdale,185,101,England,1,England,4377,Leicester Tigers
+156512,Hanro,Liebenberg,1995-10-10,Brackenfell,198,117,South Africa,,,1711,Leicester Tigers
+201697,Caolan,Englefield,1999-11-01,Sutton,178,83,England,,,4293,Gloucester Rugby
+124069,Ollie,Thorley,1996-09-11,Camden,185,99,England,1,England,4293,Gloucester Rugby
+186214,Max,Llewellyn,1999-01-13,Kingston-upon-Thames,196,107,England,3,Wales,4293,Gloucester Rugby
+113799,Jack,Clement,2001-02-27,Walsall,191,115,England,,,4293,Gloucester Rugby
+133163,Tomos,Williams,1995-01-01,Treorchy,180,84,Wales,3,Wales,4293,Gloucester Rugby
+196875,Freddie,Thomas,2001-11-09,Gloucester,196,118,England,3,Wales,4293,Gloucester Rugby
+166601,Christian,Wade,1991-05-15,Slough,175,86,England,1,England,2038,Gloucester Rugby
+123243,Charlie,Atkinson,2001-10-06,Basingstoke,185,92,England,1,England,4293,Gloucester Rugby
+196656,Chris,Harris,1990-12-28,Carlisle,188,100,England,2,Scotland,2448,Gloucester Rugby
+203694,Freddie,Clarke,1992-10-10,Wandsworth,196,114,England,,,2038,Gloucester Rugby
+109648,Seb,Atkinson,2002-05-21,Kensington,188,99,England,1,England,4293,Gloucester Rugby
+191662,Ruan,Ackermann,1995-12-29,Pretoria,193,115,South Africa,,,3994,Gloucester Rugby
+165716,Zach,Mercer,1997-06-28,Leeds,191,108,England,1,England,2861,Gloucester Rugby
+133265,George,Barton,2000-11-07,Cheltenham,183,89,England,,,4293,Gloucester Rugby
+201234,Kirill,Gotovtsev,1987-07-17,Tulskaya Oblast,188,120,Russia,112,Russia,4293,Gloucester Rugby
+137490,Seb,Blake,2001-10-05,Cheltenham,188,116,England,,,4293,Gloucester Rugby
+102615,Gareth,Anscombe,1991-05-10,North Shore,183,88,New Zealand,3,Wales,4036,Gloucester Rugby
+209756,Lewis,Ludlow,1994-09-11,Bedford,188,102,England,1,England,4293,Gloucester Rugby
+122972,Jack,Singleton,1996-05-14,Hemel Hempstead,180,110,England,1,England,4293,Gloucester Rugby
+239418,Afolabi,Fasogbon,2004-08-24,Colindale,193,128,England,,,4293,Gloucester Rugby
+155487,Jamal,Ford-Robinson,1993-09-11,Bristol,178,119,England,,,4293,Gloucester Rugby
+117823,Matias,Alemanno,1991-12-05,Cordoba,198,117,Argentina,10,Argentina,4293,Gloucester Rugby
+170435,Rotimi,Segun,1996-12-28,Enfield,180,93,England,,,2581,Saracens
+160801,Jamie,George,1990-10-20,Welwyn Garden City,180,113,England,1,England,2581,Saracens
+202850,Sam,Crean,2000-06-12,Gillingham,175,115,England,,,2129,Saracens
+183874,Elliot,Daly,1992-10-08,Croydon,178,98,England,1,England,2581,Saracens
+218727,Harry,Wilson,1997-02-08,Gloucester,188,118,England,,,2581,Saracens
+209612,Ben,Earl,1998-01-07,Redhill,188,107,England,1,England,2581,Saracens
+111209,Toby,Knight,2002-01-05,Southend-on-Sea,,113,England,,,2581,Saracens
+239403,Charlie,Bracken,2003-12-09,Westminster,178,81,England,,,2581,Saracens
+152009,Andy,Onyeama-Christie,1999-03-27,Bristol,188,101,England,2,Scotland,2581,Saracens
+142606,Alec,Clarey,1994-02-08,Bishop Auckland,180,120,England,,,2581,Saracens
+111794,Theo,Dan,2000-12-26,Southwark,180,109,England,1,England,2581,Saracens
+155409,Maro,Itoje,1994-10-28,Camden,198,118,England,1,England,2581,Saracens
+119955,Rhys,Carre,1998-02-08,Cardiff,191,137,Wales,3,Wales,2581,Saracens
+107059,Marco,Riccioni,1997-10-19,"Teramo, TE",183,126,Italy,6,Italy,2581,Saracens
+185080,Ivan,van Zyl,1995-06-30,Pretoria,180,85,South Africa,8,South Africa,2581,Saracens
+204054,Tobias,Elliott,2003-09-16,Watford,185,93,England,,,2581,Saracens
+104921,Nick,Tompkins,1995-02-16,Sidcup,183,95,England,3,Wales,2581,Saracens
+198623,Hugh,Tizard,2000-03-31,Guildford,196,125,England,,,2581,Saracens
+177536,Tom,Willis,1999-01-18,Reading,191,118,England,1,England,2581,Saracens
+214751,Nick,Isiekwe,1998-04-20,Hemel Hempstead,201,120,England,1,England,2581,Saracens
+136509,Fergus,Burke,1999-09-03,Gisborne,185,85,New Zealand,2,Scotland,2581,Saracens
+114687,Alex,Lozowski,1993-06-30,"Brent,London",185,93,England,1,England,2581,Saracens
+212707,Ernst,van Rhyn,1997-09-19,Cape Town,193,116,South Africa,,,3964,Sale Sharks
+100995,Hyron,Andrews,1995-07-06,Paarl,203,108,South Africa,,,3964,Sale Sharks
+216069,Tom,O'Flaherty,1994-07-21,Lambeth,180,89,England,,,3964,Sale Sharks
+207429,Jean-Luc,du Preez,1995-08-05,Durban,193,114,South Africa,8,South Africa,5979,Sale Sharks
+149322,Tom,Roebuck,2001-01-07,Inverness,188,96,Scotland,1,England,3964,Sale Sharks
+100557,Gus,Warr,1999-09-24,Manchester,173,73,England,2,Scotland,3964,Sale Sharks
+102642,George,Ford,1993-03-16,Oldham,178,86,England,1,England,3964,Sale Sharks
+109874,Ethan,Caine,2001-09-20,Liverpool,,,England,,,3964,Sale Sharks
+199800,Rob,du Preez,1993-07-30,Durban,191,98,South Africa,8,South Africa,3964,Sale Sharks
+203831,Joe,Carpenter,2001-08-19,Leeds,,,England,1,England,3964,Sale Sharks
+205975,Sam,Dugdale,1999-09-30,Lancaster,185,104,England,,,3964,Sale Sharks
+147029,Tumy,Onasanya,2002-05-24,,,,Nigeria,,,3964,Sale Sharks
+170933,Nye,Thomas,2003-03-24,Liverpool,175,75,England,,,3964,Sale Sharks
+123738,James,Harper,2000-10-16,Liverpool,188,116,England,,,3964,Sale Sharks
+239482,Asher,Opoku-Fordjour,2004-07-16,Coventry,185,115,England,1,England,3964,Sale Sharks
+131065,Ben,Bamber,2001-01-24,Trafford,,,England,,,3964,Sale Sharks
+101339,Ben,Curry,1998-06-15,Hounslow,185,106,England,1,England,3964,Sale Sharks
+106142,Luke,Cowan-Dickie,1993-06-20,Truro,183,112,England,1,England,3964,Sale Sharks
+222623,Tom,Curry,1998-06-15,Hounslow,185,110,England,1,England,3964,Sale Sharks
+158302,Bevan,Rodd,2000-08-26,Dunoon,183,118,Scotland,1,England,3964,Sale Sharks
+140419,Jordan,Els,1997-06-11,Empangeni,188,118,South Africa,,,1229,Harlequins
+142312,Will,Porter,1998-12-14,"Philadelphia, PA",180,85,United States,,,1229,Harlequins
+140680,Stephan,Lewies,1992-01-27,Pretoria,201,118,South Africa,8,South Africa,1229,Harlequins
+143333,Lennox,Anyanwu,2000-11-29,London,180,101,England,,,3528,Harlequins
+137125,Jack,Walker,1996-05-06,Steeton,188,107,England,1,England,1229,Harlequins
+180038,Alex,Dombrandt,1997-04-29,Croydon,193,119,England,1,England,1229,Harlequins
+178025,Oscar,Beard,2001-11-20,Frimley Park,180,96,England,1,England,1229,Harlequins
+190858,Titi,Lamositele,1995-02-11,"Bellingham, WA",180,135,United States,222,Samoa,1229,Harlequins
+114413,Simon,Kerrod,1992-08-25,Johannesburg,183,122,South Africa,,,1229,Harlequins
+218605,Luke,Northmore,1997-03-16,Plymouth,188,98,England,1,England,1229,Harlequins
+189326,Marcus,Smith,1999-02-14,Manila,178,84,Philippines,1,England,1229,Harlequins
+213459,Fin,Baxter,2002-02-12,Hammersmith,183,117,England,1,England,1229,Harlequins
+175826,Jack,Kenningham,1999-11-19,Kingston-upon-Thames,191,104,England,,,1229,Harlequins
+135416,Leigh,Halfpenny,1988-12-22,Swansea,175,84,Wales,3,Wales,4471,Harlequins
+145720,Nathan,Jibulu,2003-01-26,Croydon,188,111,England,,,3964,Harlequins
+182934,Cassius,Cleaves,2003-03-15,Wandsworth,173,93,England,,,1229,Harlequins
+218331,Jarrod,Evans,1996-07-25,Pontypridd,175,90,Wales,3,Wales,1229,Harlequins
+137369,Nick,David,1998-11-04,Redditch,178,88,England,,,1229,Harlequins
+132185,Joe,Launchbury,1991-04-12,Exeter,198,133,England,1,England,1229,Harlequins
+143933,Will,Evans,1997-01-28,Norwich,183,100,England,,,1229,Harlequins
+137423,Harry,Taylor,2001-09-09,,188,96,England,,,4293,Gloucester Rugby
+240631,Chandler,Cunningham-South,2003-03-18,Sidcup,193,120,England,1,England,1229,Harlequins
+111583,Wyn,Jones,1992-02-26,Carmarthen,183,114,Wales,3,Wales,3533,Harlequins
+144507,Ethan,Grayson,2002-04-15,Northampton,191,100,England,,,2038,Newcastle Falcons
+237366,Theo,McFarland,1996-10-16,Apia,196,116,Samoa,222,Samoa,2581,Saracens
+159444,Rouban,Birch,1999-09-20,Stockport,191,105,England,,,3964,Sale Sharks
+221308,Si,McIntyre,1991-03-19,Manchester,183,116,England,,,3964,Sale Sharks
+191866,Sam,Bedlow,1995-08-08,Rossendale,183,93,England,,,3964,Sale Sharks
+173801,Alex,Coles,1999-09-21,Cambridge,206,107,England,1,England,3436,Northampton Saints
+169636,Martin,Moloney,1999-10-19,Kildare,188,102,Ireland,,,1574,Exeter Chiefs
+160437,Marcus,Street,1999-02-06,Exeter,183,121,England,,,2581,Exeter Chiefs
+243675,Will,Rigg,2000-03-22,Solihull,185,104,England,,,1574,Exeter Chiefs
+142211,George,Martin,2001-06-18,Nottingham,198,124,England,1,England,1711,Leicester Tigers
+156834,Tom,Carr-Smith,2002-02-28,Kensington,175,95,England,,,2448,Bath Rugby
+105205,Ross,Molony,1994-05-11,Dublin,196,108,Ireland,,,2448,Bath Rugby
+239292,Billy,Sela,2005-04-13,Hounslow,193,116,England,,,2448,Bath Rugby
+100192,Josh,Bayliss,1997-09-18,Tiverton,191,106,England,2,Scotland,2448,Bath Rugby
+239634,Henry,Pollock,2005-01-14,Banbury,188,100,England,1,England,3436,Northampton Saints
+168641,Dillon,Lewis,1996-01-04,Church Village,185,125,Wales,3,Wales,3533,Harlequins
+145735,Cameron,Anderson,1999-09-16,Aylesbury,188,92,England,,,1229,Harlequins
+196173,Will,Joseph,2002-07-15,Derby,183,93,England,1,England,4293,Harlequins
+114587,Bryn,Bradley,2003-04-17,Kingston-upon-Thames,191,102,England,,,1229,Harlequins
+239462,Tom,Burrow,2005-07-27,,193,104,,,,3964,Sale Sharks
+113103,Arron,Reed,1999-07-10,Chester,178,83,England,2,Scotland,3964,Sale Sharks
+201247,Tom,Curtis,2001-07-01,Warrington,180,88,England,,,3964,Sale Sharks
+124901,Arthur,Clark,2001-12-19,Oxford,203,126,England,1,England,4293,Gloucester Rugby
+189971,Ciaran,Knight,1998-03-19,Gloucester,188,124,England,,,4293,Gloucester Rugby
+213184,Val,Rapava Ruskin,1992-10-12,Tbilisi,191,130,Georgia,,,4293,Gloucester Rugby
+104322,Sam,Underhill,1996-07-22,"Dayton, OH",185,103,United States,1,England,2448,Bath Rugby
+239301,Sam,Harris,2003-09-03,Ware,183,85,England,,,2448,Bath Rugby
+154219,Cameron,Redpath,1999-12-23,Narbonne,188,95,France,2,Scotland,2448,Bath Rugby
+104572,Thomas,du Toit,1995-05-05,Cape Town,188,109,South Africa,8,South Africa,2448,Bath Rugby
+237996,Joe,Owen,2001-08-16,,198,109,,,,4581,Bristol Bears
+199886,Jack,Bates,2001-05-26,Bristol,183,93,England,,,4581,Bristol Bears
+127095,Santiago,Grondona,1998-07-25,Buenos Aires,198,110,Argentina,10,Argentina,4581,Bristol Bears
+236968,Pedro,Rubiolo,2002-12-21,,191,114,Argentina,10,Argentina,4581,Newcastle Falcons
+222549,Oli,Spencer,2004-02-22,"Waratah, NSW",183,94,Australia,,,2038,Newcastle Falcons
+208037,Will,Hurd,1999-06-29,Ashby-de-la-Zouch,185,121,England,2,Scotland,1711,Leicester Tigers
+239278,Joe,Woodward,2003-09-17,Winchester,183,96,England,,,1711,Leicester Tigers
+237969,Will,Wand,2001-12-31,Spalding,188,93,England,,,1711,Leicester Tigers
+129595,Emeka,Ilione,2002-03-20,Mansfield,188,114,England,,,1711,Leicester Tigers
+103821,Eroni,Mawi,1996-02-06,Lautoka,188,134,Fiji,243,Fiji,2581,Saracens
+147091,Juan Martin,Gonzalez,2000-11-14,Mendoza,193,100,Argentina,10,Argentina,2581,Saracens
+132680,Jack,Innard,1995-07-03,Truro,180,103,England,,,4293,Exeter Chiefs
+169770,Dan,du Preez,1995-08-05,Durban,193,113,South Africa,8,South Africa,3964,Sale Sharks
+127601,Cammy,Hutchison,1998-06-01,Birmingham,183,102,England,,,2038,Newcastle Falcons
+172979,Jacques,Vermeulen,1995-02-08,Paarl,196,118,South Africa,,,3964,Exeter Chiefs
+241920,Benjamin,Elizalde,2004-06-14,Salta,188,91,Argentina,10,Argentina,4581,Bristol Bears
+240061,Sam,Worsley,2003-10-13,Bristol,178,82,England,,,4581,Bristol Bears
+241026,Josh,Hathaway,2003-10-19,Aberystwyth,183,84,Wales,3,Wales,4293,Gloucester Rugby
+189982,Santiago,Carreras,1998-03-30,Cordoba,183,88,Argentina,10,Argentina,2448,Gloucester Rugby
+243600,Austin,Emens,2002-10-09,,,,England,,,2448,Bath Rugby
+162344,Julian,Montoya,1993-10-29,Buenos Aires,183,110,Argentina,10,Argentina,6198,Leicester Tigers
+219771,Handre,Pollard,1994-03-11,Somerset West,188,98,South Africa,8,South Africa,5586,Leicester Tigers
+175403,Elliot,Millar-Mills,1992-07-08,Stockport,178,121,England,2,Scotland,3436,Northampton Saints
+111099,Tom,Litchfield,2002-04-20,Bedford,185,100,England,,,3436,Northampton Saints
+110793,Cadan,Murley,1999-07-31,Frimley,178,97,England,1,England,1229,Harlequins
+229505,Lucio,Cinti,2000-02-23,La Plata,191,96,Argentina,10,Argentina,2581,Saracens
+177055,Gareth,Simpson,1997-11-02,Coventry,175,82,England,,,2581,Saracens
+199072,Alex,Hearle,1998-11-08,Shrewsbury,185,96,England,,,2038,Newcastle Falcons
+104471,Tareq,Haffar,2001-09-13,Chelsea,183,113,England,,,1711,Northampton Saints
+238687,George,Hendy,2002-10-15,Warwick,191,90,England,,,3436,Northampton Saints
+205075,Luke,James,1999-03-18,Manchester,191,95,England,,,3964,Sale Sharks
+239510,Alex,Wills,2004-02-11,Wordsley,180,99,England,,,3964,Sale Sharks
+183340,Harry,Thacker,1994-02-18,Leicester,173,93,England,,,4581,Bristol Bears
+161106,Toby,Fricker,1995-07-20,Lambeth,185,98,England,136,United States,4581,Bristol Bears
+117639,Phil,Brantingham,2001-10-02,Durham,183,114,England,,,2581,Saracens
+132812,Nathan,Michelow,2004-05-16,Brentwood,188,111,England,,,2581,Saracens
+182025,Brandon,Jackson,2001-09-21,Greenwich,191,100,England,,,2581,Saracens
+182642,Tyrone,Green,1998-03-05,Klerksdorp,178,90,South Africa,,,1229,Harlequins
+194110,Rodrigo,Isgro,1999-03-24,Mendoza,185,94,Argentina,10,Argentina,1229,Harlequins
+217750,Ewan,Richards,2002-04-05,Yeovil,198,111,England,,,2448,Bath Rugby
+132697,Tom,Manz,2001-07-09,Northampton,203,118,England,,,1711,Leicester Tigers
+239575,Ioan,Jones,2004-10-20,Gloucester,180,80,England,,,3514,Gloucester Rugby
+237803,Kalaveti,Ravouvou,1998-06-06,Nadroga,185,94,Fiji,243,Fiji,4581,Bristol Bears
+185971,Sam,Wolstenholme,1999-06-21,Sheffield,183,85,England,,,4581,Bristol Bears
+239338,Craig,Wright,2004-03-31,Chelmsford,180,100,England,,,3436,Northampton Saints
+229939,Charlie,Savala,2000-04-21,"Sydney, NSW",193,96,Australia,,,3098,Northampton Saints
+154551,Sebastian,de Chaves,1990-10-30,Johannesburg,203,117,South Africa,,,2038,Newcastle Falcons
+123233,Ethan,Staddon,2002-07-03,Puncknowle,196,110,England,,,2448,Bath Rugby
+233245,Louie,Hennessey,2004-03-29,Cardiff,191,104,Wales,3,Wales,2448,Bath Rugby
+206761,Tadgh,McElroy,1997-06-16,Louth,173,103,Ireland,,,3964,Sale Sharks
+144473,James,Hadfield,1997-11-27,Brighton,,105,England,,,2581,Saracens
+170190,Tom,Whiteley,1995-12-17,Kensington,175,84,England,,,1711,Leicester Tigers
+128743,Stu,Townsend,1995-10-11,Torbay,175,91,England,,,1229,Exeter Chiefs
+138016,Henry,Slade,1993-03-19,Plymouth,191,93,England,1,England,1574,Exeter Chiefs
+159436,Jamie,Benson,2002-09-23,Kensington,183,88,England,,,1229,Harlequins
+144543,Tom,Lawday,1993-11-11,Dorchester,188,112,England,,,1229,Harlequins
+145677,Bill,Mata,1991-10-22,"Nakelo, Tailevu",196,106,Fiji,243,Fiji,4581,Bristol Bears
+237013,Oscar,Lennon,2000-05-11,Denbigh,175,84,Wales,,,4581,Bristol Bears
+223904,Lovejoy,Chawatama,1992-08-26,Essex,178,113,England,,,4581,Bristol Bears
+116536,Max,Pepper,2001-05-09,,183,88,England,,,4581,Newcastle Falcons
+239550,Micky,Rewcastle,2004-05-17,Newcastle-upon-Tyne,183,113,England,,,2038,Newcastle Falcons
+202925,Sam,Spink,1999-10-06,Kingston-upon-Thames,178,105,England,,,2581,Saracens
+195010,Tom,Lockett,2002-10-06,Colchester,201,112,England,,,3436,Northampton Saints
+177559,Alex,Mitchell,1997-05-25,Maidstone,180,81,England,1,England,3436,Northampton Saints
+117545,Charlie,Chapman,1998-12-01,Gloucester,175,83,England,,,1574,Gloucester Rugby
+137026,Kieran,Verden,1998-11-06,Taunton,180,120,England,,,2448,Bath Rugby
+188174,Jimmy,Roots,2000-01-31,Auckland,188,124,New Zealand,,,1574,Exeter Chiefs
+160844,Raffi,Quirke,2001-08-18,Chorlton,178,83,England,1,England,3964,Sale Sharks
+120165,Cam,Jordan,1999-11-17,Leicester,198,122,England,,,4293,Gloucester Rugby
+149058,Sam,Riley,2001-04-23,Chertsey,183,106,England,,,1229,Harlequins
+188202,James,Whitcombe,2000-11-20,Keighley,183,110,England,,,1641,Leicester Tigers
+202962,Cameron,Henderson,2000-01-13,,201,118,Hong Kong,2,Scotland,1711,Leicester Tigers
+239330,Jimmy,Halliwell,2004-03-31,Bristol,188,129,England,,,4581,Bristol Bears
+141000,Jamie,Hodgson,1998-03-19,Livingston,198,116,Scotland,2,Scotland,2038,Bristol Bears
+137093,Jonny,Hill,1994-06-08,Ludlow,196,112,England,1,England,1405,Sale Sharks
+165484,Willgriff,John,1992-12-04,Plymouth,188,128,England,3,Wales,3964,Sale Sharks
+237272,Dafydd,Jenkins,2002-12-05,Bridgend,201,124,Wales,3,Wales,1574,Exeter Chiefs
+244799,Angus,Hall,2005-09-17,Pembury,,93,England,,,2581,Saracens
+175011,Max,Ojomoh,2000-09-14,Bath,183,98,England,1,England,2448,Bath Rugby
+116514,Olly,Hartley,2002-02-19,Nottingham,193,106,England,,,2581,Saracens
+185586,Henry,Walker,1998-03-10,Solihull,178,106,England,,,3436,Northampton Saints
+104277,Iakopo,Mapu,1997-11-04,,183,106,,222,Samoa,4003,Northampton Saints
+239596,Ben,Waghorn,2004-04-02,Sutton,188,97,England,,,1229,Harlequins
+243130,Lucas,Friday,2006-07-13,Bromley,,,England,,,1229,Harlequins
+239647,Olamide,Sodeke,2005-07-26,Islington,206,124,England,,,2581,Saracens
+189699,Steele,Barker,2001-01-12,York,,,England,,,4581,Bristol Bears
+106952,Noah,Heward,2000-10-11,Alcester,183,90,England,,,4581,Bristol Bears
+188115,Harry,Byrne,1999-04-22,Dublin,188,90,Ireland,4,Ireland,5356,Bristol Bears
+243059,Kepu,Tuipulotu,2005-09-02,,,,,,,2448,Bath Rugby
+239490,Will,Glister,2005-05-05,Aylesbury,188,94,England,,,3436,Northampton Saints
+124493,Ed,Prowse,2000-10-27,Huntingdon,193,123,England,,,3436,Northampton Saints
+104042,Louie,Johnson,2003-06-13,Penrith,185,94,England,,,2581,Saracens
+212196,Rekeiti,Ma'asi-White,2003-02-03,Truro,185,102,England,,,3964,Sale Sharks
+239473,Tye,Raymont,2005-07-19,Leeds,185,115,England,,,3964,Sale Sharks
+169829,Max,Clark,1995-10-03,Bridgend,191,100,Wales,,,2038,Newcastle Falcons
+248787,Jonny,Weimann,2006-03-28,Hitchin,,,England,,,3436,Northampton Saints
+157275,Cameron,Neild,1994-09-06,Sale,185,108,England,,,2038,Newcastle Falcons
+241156,Jake,Murray,2003-08-02,Kingston-upon-Thames,178,82,England,,,1229,Harlequins
+109630,Will,Hobson,2002-11-09,Norwich,193,125,England,,,1229,Harlequins
+171271,Lewis,Pearson,1999-10-26,Leeds,193,114,England,,,1574,Exeter Chiefs
+240233,Ben,Coen,2005-01-11,Bristol,180,85,England,,,1574,Exeter Chiefs
+128691,Max,Norey,1999-08-05,Lewisham,185,105,England,,,1574,Exeter Chiefs
+199029,Dan,John,2001-10-04,Cardiff,180,87,Wales,,,1574,Exeter Chiefs
+243167,Kane,James,2005-03-26,Southampton,183,100,England,,,1574,Exeter Chiefs
+243129,Lucas,Schmid,2004-10-13,Rotherham,191,104,England,,,1229,Harlequins
+112368,Will,Butler,1998-04-17,Macclesfield,178,92,England,,,4293,Gloucester Rugby
+239317,Paddy,Pearce,2004-05-07,Beaumont,191,97,England,,,4581,Bristol Bears
+239553,Finn,Baker,2004-10-17,Leeds,201,100,England,,,2038,Newcastle Falcons
+239297,Arthur,Green,2004-03-04,Lambeth,183,108,England,,,2448,Bath Rugby
+244523,Jack,Cotgreave,2006-04-25,,,,,,,4293,Gloucester Rugby
+176050,Jake,Morris,2000-05-12,Cheltenham,185,94,England,,,4293,Gloucester Rugby
+110116,Harvey,Beaton,2001-03-15,Maidstone,188,126,England,,,2581,Saracens
+101123,Ciaran,Donoghue,2003-01-07,Salisbury,183,84,England,,,2448,Bath Rugby
+248979,Oscar,Usher,2004-06-12,,198,118,,,,2038,Newcastle Falcons
+218695,Jasper,Spandler,2003-05-21,Colchester,178,102,England,,,2448,Bath Rugby
+132895,Tom,Cowan,2002-08-02,Wrexham,185,103,Wales,,,2448,Bath Rugby
+239294,Will,Jeanes,2004-02-12,Taunton,191,109,England,,,2448,Bath Rugby
+243138,Ollie,Streeter,2006-07-01,Haywards Heath,,,England,,,1229,Harlequins
+244498,Nick,Lilley,2006-03-21,,,,,,,1574,Exeter Chiefs
+108939,Fyn,Brown,2002-10-11,Oxford,193,,England,,,3436,Northampton Saints
+225330,Archie,Benson,2001-03-18,Cheltenham,198,106,England,,,3436,Northampton Saints
+239485,Reuben,Logan,2005-07-28,Hammersmith,196,115,England,,,3964,Northampton Saints
+244541,Alfie,Longstaff,2005-10-08,Leeds,,,England,,,3964,Sale Sharks
+239604,Sean,Kerr,2004-11-08,Johannesburg,185,91,South Africa,,,1229,Harlequins
+120187,Jonny,Green,2004-03-16,Haywards Heath,201,118,England,,,1229,Harlequins
+250519,James,Pater,2007-02-07,,,,,,,3436,Northampton Saints
+250654,Henry,Lumley,2007-07-18,,,,,,,3436,Northampton Saints
+254052,Jack,Woods,2006-07-12,Newport,178,81,Wales,,,2448,Bath Rugby
+239308,George,Timmins,2005-04-19,Kettering,188,100,England,,,2448,Bath Rugby
+210731,John,Stewart,2002-03-08,Basingstoke,188,109,England,,,1711,Bath Rugby
+241747,Neil,le Roux,2003-04-16,,175,76,,,,2448,Bath Rugby
+240057,Scott,Kirk,2004-01-30,London,180,114,England,,,2448,Bath Rugby
+243072,Tyler,Offiah,2006-06-29,,,,England,,,2448,Bath Rugby
+103530,Tristan,Woodman,2004-02-12,Leeds,180,101,England,,,3964,Sale Sharks
+242906,Dom,Hanson,2005-12-17,Stockport,,,England,,,3964,Sale Sharks
+110114,Ross,Byrne,1995-04-08,Dublin,191,92,Ireland,4,Ireland,4293,Gloucester Rugby
+217603,James,Venter,1996-08-21,Port Shepstone,178,92,South Africa,,,4293,Gloucester Rugby
+244522,Harrison,Bellamy,2005-06-28,Cardiff,183,117,Wales,,,4293,Gloucester Rugby
+147089,Archie,McArthur,2003-06-11,Reading,188,116,England,,,4293,Gloucester Rugby
+131095,Ben,Loader,1998-11-08,Reading,188,92,England,,,4293,Gloucester Rugby
+102295,Josiah,Edwards-Giraud,2002-12-25,Oxford,,,England,,,4293,Gloucester Rugby
+248862,Kealan,Freeman Price,2007-04-20,,,,,,,4293,Gloucester Rugby
+176289,James,Elliott,1998-08-29,Durham,178,82,England,,,2038,Newcastle Red Bulls
+163400,George,McGuigan,1993-03-30,Northallerton,183,113,England,,,2038,Newcastle Red Bulls
+202064,Fergus,Lee-Warner,1994-02-03,"Scone, NSW",193,113,Australia,,,2038,Newcastle Red Bulls
+150399,Boeta,Chamberlain,1999-02-22,Paarl,180,86,South Africa,,,2038,Newcastle Red Bulls
+242878,Jack,Dickens,2005-08-09,Derby,,,England,,,2038,Newcastle Red Bulls
+120033,Eoghan,Clarke,1998-06-12,Dublin,183,111,Ireland,,,2581,Saracens
+179047,Owen,Farrell,1991-09-24,Billinge,180,94,England,1,England,2581,Saracens
+252989,Noah,Caluori,2006-09-22,,194,,,,,2581,Saracens
+239649,Zach,Carr,2004-05-03,Wandsworth,198,106,England,,,1229,Harlequins
+138343,Kieran,Treadwell,1995-11-06,Carshalton,198,118,England,4,Ireland,1229,Harlequins
+161452,Harry,Williams,1991-10-01,Lambeth,188,130,England,1,England,1229,Harlequins
+224220,Max,Green,1996-02-13,Bradford,178,82,England,,,1229,Harlequins
+218848,George,Turner,1992-10-08,Edinburgh,180,102,Scotland,2,Scotland,1229,Harlequins
+162399,Ludo,Kolade,2004-01-05,Kingston-upon-Thames,180,94,England,,,1229,Harlequins
+161516,Henry,Arundell,2002-11-08,Akrotiri,183,96,Cyprus,1,England,2448,Bath Rugby
+119745,Anthony,Belleau,1996-04-08,Villeneuve-sur-Lot,178,87,France,5,France,3436,Northampton Saints
+123723,Danilo,Fischetti,1998-01-26,"Genzano di Roma,RM",180,112,Italy,6,Italy,3436,Northampton Saints
+248790,Edoardo,Todaro,2006-09-24,,180,88,,6,Italy,3436,Northampton Saints
+225654,JJ,van der Mescht,1999-05-04,Pretoria,198,138,South Africa,,,3436,Northampton Saints
+110891,Steve,Varney,2001-05-16,Carmarthen,175,81,Wales,6,Italy,1574,Exeter Chiefs
+128750,Andrea,Zambonin,2000-09-03,"Vicenza, VI",203,112,Italy,6,Italy,1574,Exeter Chiefs
+213725,Joseph,Dweba,1995-10-25,Carltonville,175,110,South Africa,8,South Africa,1574,Exeter Chiefs
+249693,Bachuki,Tchumbadze,2001-11-30,,183,119,Georgia,120,Georgia,1574,Exeter Chiefs
+221988,Sam,Grahamslaw,1999-02-24,La Garenne-Colombes,193,125,France,,,4581,Bristol Bears
+243508,Tom,Jordan,1998-09-18,Auckland,185,96,New Zealand,2,Scotland,4581,Bristol Bears
+255411,Josh,Carrington,2002-04-25,Swansea,188,89,Wales,,,4581,Bristol Bears
+120767,Louis,Rees-Zammit,2001-02-02,Penarth,191,100,Wales,3,Wales,4581,Bristol Bears
+239272,Josh,Manz,2004-03-22,Kettering,196,112,England,,,1711,Leicester Tigers
+128683,Billy,Searle,1996-03-25,Exeter,175,85,England,,,1711,Leicester Tigers
+149842,James,Thompson,1999-07-13,,196,115,,,,1711,Leicester Tigers
+237152,Joaquin,Moro,2001-01-24,Bahia Blanca,188,100,Argentina,10,Argentina,1711,Leicester Tigers
+165469,Marius,Louw,1995-10-24,Bloemfontein,183,95,South Africa,,,3964,Sale Sharks
+154164,Charlie,Titcombe,2001-12-28,Swindon,183,87,England,,,1711,Leicester Tigers
+244534,Archie,van der Flier,2002-02-26,Hammersmith,191,121,England,,,1711,Leicester Tigers
+242936,Charlie,West,2005-11-02,,,,,,,2581,Saracens
+242942,Jack,Bracken,2005-10-15,,,,,,,2581,Saracens
+243018,Aidan,Boshoff,2005-09-28,Abergavenny,185,92,Wales,,,4581,Bristol Bears
+238494,Luka,Ivanishvili,2001-10-25,,188,108,,120,Georgia,4581,Bristol Bears
+208996,Jack,Mann,1999-11-17,,196,115,Scotland,,,4293,Gloucester Rugby
+191521,Josh,Basham,1999-04-17,Slough,193,90,England,,,4293,Gloucester Rugby
+101383,Nepo,Laulala,1991-11-06,Fagaalu,183,133,American Samoa,7,New Zealand,4293,Gloucester Rugby
+242539,Hugh,Bokenham,2001-07-20,"Sydney, NSW",193,113,Australia,,,4293,Gloucester Rugby
+193878,James,Martin,1999-07-31,,,,,,,3436,Northampton Saints
+188766,Cleopas,Kundiona,1998-12-15,Harare,183,114,Zimbabwe,268,Zimbabwe,3436,Northampton Saints
+251584,Simon,Benitez Cruz,1999-09-06,,178,77,,10,Argentina,2038,Newcastle Red Bulls
+254081,Ethan,Burger,2000-05-23,,193,122,South Africa,,,1574,Exeter Chiefs
+229392,Julian,Heaven,2000-10-01,"Sydney, NSW",185,108,Australia,,,1574,Exeter Chiefs
+211533,James,O'Connor,1990-07-05,"Southport, QLD",180,97,Australia,9,Australia,1711,Leicester Tigers
+253626,Ale,Loman,2000-05-15,,,,,131,Sweden,1711,Leicester Tigers
+240916,Boris,Wenger,2002-06-01,"Villa Maria, Cordoba",175,110,Argentina,10,Argentina,1229,Harlequins
+215963,Guido,Petti,1994-11-17,Buenos Aires,193,110,Argentina,10,Argentina,1229,Harlequins
+250879,Pedro,Delgado,1997-09-01,Santiago del Estero,183,135,Argentina,10,Argentina,1229,Harlequins
+237895,Mike,Austin,2000-08-14,,185,87,England,,,4293,Gloucester Rugby
+154458,Matias,Moroni,1991-03-29,Buenos Aires,185,92,Argentina,10,Argentina,4581,Bristol Bears
+243174,Rhys,Beeckmans,2006-01-08,,183,93,,,,2038,Newcastle Red Bulls
+249691,Stefan,Coetzee,1998-01-06,,196,102,,,,2038,Newcastle Red Bulls
+239424,Ollie,Allan,2004-02-04,Swindon,183,89,England,,,1711,Leicester Tigers
+237000,Tom,Hooper,2001-01-29,"Sydney, NSW",198,122,Australia,9,Australia,1574,Exeter Chiefs
+185293,Len,Ikitau,1998-10-01,"Brisbane, QLD",183,96,Australia,9,Australia,1574,Exeter Chiefs
+239590,Harry,Browne,2004-07-31,Epsom,201,107,England,,,1229,Harlequins
+254908,Will,Knight,2007-04-03,,,,,,,4293,Gloucester Rugby
+120444,Dian,Bleuler,1999-08-05,Panorama,183,112,South Africa,,,4293,Gloucester Rugby
+239961,Nathan,Greenwood,2003-11-20,,175,77,,,,2038,Newcastle Red Bulls
+239537,Patreece,Bell,2004-05-23,Lambeth,,,England,,,3964,Sale Sharks
+201240,Regan,Grace,1996-12-12,Port Talbot,,,Wales,,,3964,Sale Sharks
+218820,Tom,Christie,1998-03-04,Gore,185,105,New Zealand,,,2038,Newcastle Red Bulls
+134737,Connor,Hancock,2000-11-10,Rotherham,183,120,England,,,2038,Newcastle Red Bulls
+253378,Deian,Gwynne,2006-02-02,Aberystwyth,188,106,Wales,,,4293,Gloucester Rugby
+163216,Rob,Russell,1999-01-13,Dublin,183,90,Ireland,,,4293,Gloucester Rugby
+104022,Will,Trenholm,2001-09-06,Wandsworth,191,90,England,,,4293,Gloucester Rugby
+152822,Tomas,Gwilliam,2002-11-19,Newport,,,Wales,,,4581,Bristol Bears
+244744,Amena,Caqusau,2004-07-17,Salisbury,183,91,England,,,3436,Northampton Saints
+242867,Sam,Williams,2005-03-14,Nottingham,188,103,England,,,1711,Leicester Tigers
+250817,Campbell,Ridl,2005-02-02,Wandsworth,196,91,England,,,1574,Exeter Chiefs
+244516,Ollie,Davies,2006-12-01,,,,,,,3964,Sale Sharks
+224475,Joe,Bedlow,2002-03-29,Bury,,,England,,,3964,Sale Sharks
+151148,George,Taylor,2002-12-11,,,,,,,4581,Bristol Bears
+237220,Gurshwin,Wehr,1998-09-08,,188,70,South Africa,,,3964,Sale Sharks
+185447,Jack,Musk,2000-03-04,Kingston-upon-Thames,175,100,England,,,1229,Harlequins
+242961,George,Knowles,2006-07-17,,,,,,,4293,Gloucester Rugby
+103033,Tietie,Tuimauga,1993-08-05,,188,130,,222,Samoa,2581,Saracens
+242892,Ollie,Scola,2006-02-03,Northampton,,,England,,,3436,Northampton Saints
+165885,Gabe,Hamer-Webb,2000-11-07,Bath,183,95,England,3,Wales,1711,Leicester Tigers
+239321,Rhys,Price,2004-03-20,Southmead,,,England,,,4293,Gloucester Rugby
+204384,Will,Crane,1994-02-16,Solihull,,,England,,,4293,Gloucester Rugby
+242916,Jos,Gilmore,2005-11-25,,,,England,,,3964,Sale Sharks
+255392,Enoch,Opoku Gyamfi,2006-03-03,,,,,6,Italy,2448,Bath Rugby
+248937,Elliot,Williams,2007-05-29,,,,,,,1229,Harlequins
+244917,George,Pearson,2006-01-25,Banbury,188,92,England,,,1711,Leicester Tigers
+236951,Bernard,van der Linde,2000-11-30,Pretoria,175,86,South Africa,,,2448,Bath Rugby
+244466,Reuben,Parsons,2005-09-19,Luton,188,107,England,,,2038,Newcastle Red Bulls
+239592,Seb,Driscoll,2003-09-10,Redhill,183,101,England,,,1229,Harlequins
+239493,Alex,O'Driscoll,2004-11-04,,,,,,,2581,Saracens
+242543,Manaaki,Boyle-Tiatia,,,,,,,,4293,Gloucester Rugby
+242884,Aiden,Ainsworth-Cave,2006-07-21,,,,England,,,3436,Northampton Saints
+255527,Charlie,Ulcoq,,,,,,,,3436,Northampton Saints
+165073,Harrison,Obatoyinbo,2001-07-15,,188,91,England,,,2038,Newcastle Red Bulls
+239420,Finn,Worley-Brady,2004-10-26,Chelsea,188,104,England,,,1574,Exeter Chiefs
+243055,Ralph,McEachran,2005-05-30,Guildford,191,115,England,,,3964,Sale Sharks
+244456,Osian,Thomas,2004-11-30,Swansea,196,110,Wales,,,1711,Leicester Tigers
+184653,Hamish,Watson,1991-10-15,Manchester,185,102,England,2,Scotland,1641,Leicester Tigers
+248781,Harry,Palmer,2005-10-28,Nuneaton,,,England,,,1711,Leicester Tigers
+225774,Ben,Healy,1999-06-29,Tipperary,191,97,Ireland,2,Scotland,1641,Newcastle Red Bulls
+206768,Jack,Grant,1994-01-24,"Orange, NSW",180,79,Australia,,,1229,Harlequins
+128592,Joe,Jones,1995-07-24,Wrexham,183,120,Wales,,,1229,Harlequins
+244287,Danny,Eite,2003-06-28,Sutton Coldfield,198,105,England,,,4293,Gloucester Rugby
+124431,Samson,Adejimi,2002-02-15,Waltham Forest,178,105,England,,,2038,Newcastle Red Bulls
+239587,Ethan,Clarke,2004-04-29,Worthing,183,110,England,,,1229,Harlequins
+250573,Dylan,Hodkinson,2006-10-11,,,,,,,3964,Sale Sharks
+153502,Kofi,Cripps,2003-04-03,Watford,,,England,,,4581,Bristol Bears
+165170,Hayden,Hyde,2000-09-15,Kingston-upon-Thames,188,100,England,,,1229,Harlequins
+244518,Seb,Kelly,2006-02-08,Rochdale,,,England,,,3964,Sale Sharks
+242903,Will,Austin,2004-10-20,Redhill,178,98,England,,,3533,Sale Sharks
+248883,Sam,Winters,2006-11-28,,,,,,,2448,Bath Rugby
