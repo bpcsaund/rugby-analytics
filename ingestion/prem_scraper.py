@@ -56,6 +56,7 @@ COMPETITIONS: dict[str, dict] = {
     "challenge": {"comp_id": "1026", "label": "European Challenge Cup",   "client_id": ""},
     "urc":       {"comp_id": "1068", "label": "United Rugby Championship","client_id": ""},
     "japan":     {"comp_id": "2074", "label": "Japan League One",         "client_id": ""},
+    "premcup":   {"comp_id": "1297", "label": "Premiership Rugby Cup",    "client_id": "PRL"},
 }
 
 DEFAULT_SEASONS = ["202401", "202501"]   # 202401 = 2024-25,  202501 = 2025-26
