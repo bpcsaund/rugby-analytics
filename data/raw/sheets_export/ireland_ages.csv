@@ -1,0 +1,3175 @@
+date,opposition,shirt,player,dob,age_on_matchday
+07/02/2015,Italy,17,James Cronin,1990-11-23,24.21
+07/02/2015,Italy,8,Jordi Murphy,1991-04-22,23.8
+07/02/2015,Italy,15,Rob Kearney,1986-03-26,28.87
+07/02/2015,Italy,23,Felix Jones,1987-08-05,27.51
+07/02/2015,Italy,7,Tommy O'Donnell,1987-05-21,27.72
+07/02/2015,Italy,10,Ian Keatley,1987-04-01,27.86
+07/02/2015,Italy,4,Devin Toner,1986-06-29,28.61
+07/02/2015,Italy,19,Iain Henderson,1992-02-21,22.96
+07/02/2015,Italy,3,Mike Ross,1979-12-21,35.13
+07/02/2015,Italy,16,Sean Cronin,1986-05-06,28.76
+07/02/2015,Italy,14,Tommy Bowe,1984-02-22,30.96
+07/02/2015,Italy,20,Robbie Diack,1985-11-12,29.24
+07/02/2015,Italy,11,Simon Zebo,1990-03-16,24.9
+07/02/2015,Italy,2,Rory Best,1982-08-15,32.48
+07/02/2015,Italy,9,Conor Murray,1989-04-20,25.8
+07/02/2015,Italy,1,Jack McGrath,1989-10-11,25.33
+07/02/2015,Italy,21,Isaac Boss,1980-04-09,34.83
+07/02/2015,Italy,22,Ian Madigan,1989-03-21,25.88
+07/02/2015,Italy,5,Paul O'Connell,1979-10-20,35.3
+07/02/2015,Italy,12,Robbie Henshaw,1993-06-12,21.66
+07/02/2015,Italy,18,Martin Moore,1991-03-01,23.94
+07/02/2015,Italy,13,Jared Payne,1985-10-13,29.32
+07/02/2015,Italy,6,Peter O'Mahony,1989-09-17,25.39
+14/02/2015,France,8,Jamie Heaslip,1983-12-15,31.17
+14/02/2015,France,17,Cian Healy,1987-10-07,27.36
+14/02/2015,France,20,Jordi Murphy,1991-04-22,23.82
+14/02/2015,France,15,Rob Kearney,1986-03-26,28.89
+14/02/2015,France,23,Felix Jones,1987-08-05,27.53
+14/02/2015,France,4,Devin Toner,1986-06-29,28.63
+14/02/2015,France,19,Iain Henderson,1992-02-21,22.98
+14/02/2015,France,3,Mike Ross,1979-12-21,35.15
+14/02/2015,France,16,Sean Cronin,1986-05-06,28.78
+14/02/2015,France,14,Tommy Bowe,1984-02-22,30.98
+14/02/2015,France,11,Simon Zebo,1990-03-16,24.92
+14/02/2015,France,7,Sean O'Brien,1987-02-14,28.0
+14/02/2015,France,2,Rory Best,1982-08-15,32.5
+14/02/2015,France,9,Conor Murray,1989-04-20,25.82
+14/02/2015,France,1,Jack McGrath,1989-10-11,25.34
+14/02/2015,France,21,Isaac Boss,1980-04-09,34.85
+14/02/2015,France,10,Johnny Sexton,1985-07-11,29.6
+14/02/2015,France,22,Ian Madigan,1989-03-21,25.9
+14/02/2015,France,5,Paul O'Connell,1979-10-20,35.32
+14/02/2015,France,12,Robbie Henshaw,1993-06-12,21.68
+14/02/2015,France,18,Martin Moore,1991-03-01,23.96
+14/02/2015,France,13,Jared Payne,1985-10-13,29.34
+14/02/2015,France,6,Peter O'Mahony,1989-09-17,25.41
+01/03/2015,England,17,Cian Healy,1987-10-07,27.4
+01/03/2015,England,8,Jordi Murphy,1991-04-22,23.86
+01/03/2015,England,15,Rob Kearney,1986-03-26,28.93
+01/03/2015,England,23,Felix Jones,1987-08-05,27.57
+01/03/2015,England,20,Tommy O'Donnell,1987-05-21,27.78
+01/03/2015,England,4,Devin Toner,1986-06-29,28.67
+01/03/2015,England,19,Iain Henderson,1992-02-21,23.02
+01/03/2015,England,3,Mike Ross,1979-12-21,35.19
+01/03/2015,England,16,Sean Cronin,1986-05-06,28.82
+01/03/2015,England,14,Tommy Bowe,1984-02-22,31.02
+01/03/2015,England,11,Simon Zebo,1990-03-16,24.96
+01/03/2015,England,7,Sean O'Brien,1987-02-14,28.04
+01/03/2015,England,2,Rory Best,1982-08-15,32.54
+01/03/2015,England,9,Conor Murray,1989-04-20,25.86
+01/03/2015,England,1,Jack McGrath,1989-10-11,25.39
+01/03/2015,England,10,Johnny Sexton,1985-07-11,29.64
+01/03/2015,England,22,Ian Madigan,1989-03-21,25.94
+01/03/2015,England,21,Eoin Reddan,1980-11-20,34.28
+01/03/2015,England,5,Paul O'Connell,1979-10-20,35.36
+01/03/2015,England,12,Robbie Henshaw,1993-06-12,21.72
+01/03/2015,England,18,Martin Moore,1991-03-01,24.0
+01/03/2015,England,13,Jared Payne,1985-10-13,29.38
+01/03/2015,England,6,Peter O'Mahony,1989-09-17,25.45
+14/03/2015,Wales,8,Jamie Heaslip,1983-12-15,31.24
+14/03/2015,Wales,17,Cian Healy,1987-10-07,27.43
+14/03/2015,Wales,20,Jordi Murphy,1991-04-22,23.89
+14/03/2015,Wales,15,Rob Kearney,1986-03-26,28.97
+14/03/2015,Wales,23,Felix Jones,1987-08-05,27.61
+14/03/2015,Wales,4,Devin Toner,1986-06-29,28.71
+14/03/2015,Wales,19,Iain Henderson,1992-02-21,23.06
+14/03/2015,Wales,3,Mike Ross,1979-12-21,35.23
+14/03/2015,Wales,16,Sean Cronin,1986-05-06,28.85
+14/03/2015,Wales,14,Tommy Bowe,1984-02-22,31.06
+14/03/2015,Wales,11,Simon Zebo,1990-03-16,24.99
+14/03/2015,Wales,7,Sean O'Brien,1987-02-14,28.08
+14/03/2015,Wales,2,Rory Best,1982-08-15,32.58
+14/03/2015,Wales,9,Conor Murray,1989-04-20,25.9
+14/03/2015,Wales,1,Jack McGrath,1989-10-11,25.42
+14/03/2015,Wales,10,Johnny Sexton,1985-07-11,29.67
+14/03/2015,Wales,22,Ian Madigan,1989-03-21,25.98
+14/03/2015,Wales,21,Eoin Reddan,1980-11-20,34.31
+14/03/2015,Wales,5,Paul O'Connell,1979-10-20,35.4
+14/03/2015,Wales,12,Robbie Henshaw,1993-06-12,21.75
+14/03/2015,Wales,18,Martin Moore,1991-03-01,24.04
+14/03/2015,Wales,13,Jared Payne,1985-10-13,29.42
+14/03/2015,Wales,6,Peter O'Mahony,1989-09-17,25.49
+21/03/2015,Scotland,8,Jamie Heaslip,1983-12-15,31.26
+21/03/2015,Scotland,1,Cian Healy,1987-10-07,27.45
+21/03/2015,Scotland,20,Jordi Murphy,1991-04-22,23.91
+21/03/2015,Scotland,15,Rob Kearney,1986-03-26,28.99
+21/03/2015,Scotland,23,Felix Jones,1987-08-05,27.63
+21/03/2015,Scotland,4,Devin Toner,1986-06-29,28.73
+21/03/2015,Scotland,19,Iain Henderson,1992-02-21,23.08
+21/03/2015,Scotland,3,Mike Ross,1979-12-21,35.25
+21/03/2015,Scotland,16,Sean Cronin,1986-05-06,28.87
+21/03/2015,Scotland,14,Tommy Bowe,1984-02-22,31.08
+21/03/2015,Scotland,7,Sean O'Brien,1987-02-14,28.1
+21/03/2015,Scotland,2,Rory Best,1982-08-15,32.6
+21/03/2015,Scotland,9,Conor Murray,1989-04-20,25.92
+21/03/2015,Scotland,11,Luke Fitzgerald,1987-09-13,27.52
+21/03/2015,Scotland,17,Jack McGrath,1989-10-11,25.44
+21/03/2015,Scotland,10,Johnny Sexton,1985-07-11,29.69
+21/03/2015,Scotland,22,Ian Madigan,1989-03-21,26.0
+21/03/2015,Scotland,21,Eoin Reddan,1980-11-20,34.33
+21/03/2015,Scotland,5,Paul O'Connell,1979-10-20,35.42
+21/03/2015,Scotland,12,Robbie Henshaw,1993-06-12,21.77
+21/03/2015,Scotland,18,Martin Moore,1991-03-01,24.06
+21/03/2015,Scotland,13,Jared Payne,1985-10-13,29.44
+21/03/2015,Scotland,6,Peter O'Mahony,1989-09-17,25.51
+08/08/2015,Wales,8,Jamie Heaslip,1983-12-15,31.65
+08/08/2015,Wales,5,Donnacha Ryan,1983-12-11,31.66
+08/08/2015,Wales,17,Dave Kilcoyne,1988-12-14,26.65
+08/08/2015,Wales,6,Jordi Murphy,1991-04-22,24.3
+08/08/2015,Wales,10,Paddy Jackson,1992-01-05,23.59
+08/08/2015,Wales,15,Felix Jones,1987-08-05,28.01
+08/08/2015,Wales,21,Kieran Marmion,1992-02-11,23.49
+08/08/2015,Wales,11,Fergus McFadden,1986-06-17,29.14
+08/08/2015,Wales,7,Tommy O'Donnell,1987-05-21,28.22
+08/08/2015,Wales,13,Keith Earls,1987-10-02,27.85
+08/08/2015,Wales,4,Iain Henderson,1992-02-21,23.46
+08/08/2015,Wales,3,Mike Ross,1979-12-21,35.63
+08/08/2015,Wales,23,Simon Zebo,1990-03-16,25.4
+08/08/2015,Wales,14,Andrew Trimble,1984-10-20,30.8
+08/08/2015,Wales,16,Rory Best,1982-08-15,32.98
+08/08/2015,Wales,1,Jack McGrath,1989-10-11,25.82
+08/08/2015,Wales,18,Michael Bent,1986-04-25,29.29
+08/08/2015,Wales,22,Ian Madigan,1989-03-21,26.38
+08/08/2015,Wales,12,Darren Cave,1987-04-05,28.34
+08/08/2015,Wales,9,Eoin Reddan,1980-11-20,34.71
+08/08/2015,Wales,20,Chris Henry,1984-10-17,30.81
+08/08/2015,Wales,2,Richardt Strauss,1986-01-29,29.52
+08/08/2015,Wales,19,Dan Tuohy,1985-06-18,30.14
+15/08/2015,Scotland,18,Nathan White,1981-09-04,33.94
+15/08/2015,Scotland,12,Gordon D'Arcy,1980-02-10,35.51
+15/08/2015,Scotland,6,Jack Conan,1992-07-29,23.04
+15/08/2015,Scotland,1,Dave Kilcoyne,1988-12-14,26.67
+15/08/2015,Scotland,20,Jordi Murphy,1991-04-22,24.32
+15/08/2015,Scotland,23,Dave Kearney,1989-06-19,26.16
+15/08/2015,Scotland,22,Paddy Jackson,1992-01-05,23.61
+15/08/2015,Scotland,4,Devin Toner,1986-06-29,29.13
+15/08/2015,Scotland,3,Mike Ross,1979-12-21,35.65
+15/08/2015,Scotland,2,Sean Cronin,1986-05-06,29.28
+15/08/2015,Scotland,14,Tommy Bowe,1984-02-22,31.48
+15/08/2015,Scotland,15,Simon Zebo,1990-03-16,25.42
+15/08/2015,Scotland,8,Sean O'Brien,1987-02-14,28.5
+15/08/2015,Scotland,11,Luke Fitzgerald,1987-09-13,27.92
+15/08/2015,Scotland,9,Isaac Boss,1980-04-09,35.35
+15/08/2015,Scotland,17,Michael Bent,1986-04-25,29.31
+15/08/2015,Scotland,10,Ian Madigan,1989-03-21,26.4
+15/08/2015,Scotland,21,Eoin Reddan,1980-11-20,34.73
+15/08/2015,Scotland,19,Paul O'Connell,1979-10-20,35.82
+15/08/2015,Scotland,7,Chris Henry,1984-10-17,30.83
+15/08/2015,Scotland,13,Jared Payne,1985-10-13,29.84
+15/08/2015,Scotland,16,Richardt Strauss,1986-01-29,29.54
+15/08/2015,Scotland,5,Dan Tuohy,1985-06-18,30.16
+29/08/2015,Wales,3,Nathan White,1981-09-04,33.98
+29/08/2015,Wales,8,Jamie Heaslip,1983-12-15,31.7
+29/08/2015,Wales,18,Tadhg Furlong,1992-11-14,22.79
+29/08/2015,Wales,19,Donnacha Ryan,1983-12-11,31.72
+29/08/2015,Wales,17,Dave Kilcoyne,1988-12-14,26.71
+29/08/2015,Wales,7,Jordi Murphy,1991-04-22,24.35
+29/08/2015,Wales,14,Dave Kearney,1989-06-19,26.19
+29/08/2015,Wales,22,Paddy Jackson,1992-01-05,23.65
+29/08/2015,Wales,15,Rob Kearney,1986-03-26,29.43
+29/08/2015,Wales,23,Felix Jones,1987-08-05,28.07
+29/08/2015,Wales,11,Keith Earls,1987-10-02,27.91
+29/08/2015,Wales,4,Iain Henderson,1992-02-21,23.52
+29/08/2015,Wales,16,Sean Cronin,1986-05-06,29.31
+29/08/2015,Wales,20,Sean O'Brien,1987-02-14,28.54
+29/08/2015,Wales,9,Conor Murray,1989-04-20,26.36
+29/08/2015,Wales,13,Luke Fitzgerald,1987-09-13,27.96
+29/08/2015,Wales,1,Jack McGrath,1989-10-11,25.88
+29/08/2015,Wales,10,Johnny Sexton,1985-07-11,30.13
+29/08/2015,Wales,21,Eoin Reddan,1980-11-20,34.77
+29/08/2015,Wales,5,Paul O'Connell,1979-10-20,35.86
+29/08/2015,Wales,12,Robbie Henshaw,1993-06-12,22.21
+29/08/2015,Wales,2,Richardt Strauss,1986-01-29,29.58
+29/08/2015,Wales,6,Peter O'Mahony,1989-09-17,25.95
+05/09/2015,England,18,Nathan White,1981-09-04,34.0
+05/09/2015,England,8,Jamie Heaslip,1983-12-15,31.72
+05/09/2015,England,17,Tadhg Furlong,1992-11-14,22.81
+05/09/2015,England,19,Donnacha Ryan,1983-12-11,31.74
+05/09/2015,England,11,Dave Kearney,1989-06-19,26.21
+05/09/2015,England,4,Devin Toner,1986-06-29,29.19
+05/09/2015,England,3,Mike Ross,1979-12-21,35.71
+05/09/2015,England,14,Tommy Bowe,1984-02-22,31.54
+05/09/2015,England,15,Simon Zebo,1990-03-16,25.47
+05/09/2015,England,7,Sean O'Brien,1987-02-14,28.56
+05/09/2015,England,2,Rory Best,1982-08-15,33.06
+05/09/2015,England,9,Conor Murray,1989-04-20,26.38
+05/09/2015,England,1,Jack McGrath,1989-10-11,25.9
+05/09/2015,England,10,Johnny Sexton,1985-07-11,30.15
+05/09/2015,England,22,Ian Madigan,1989-03-21,26.46
+05/09/2015,England,23,Darren Cave,1987-04-05,28.42
+05/09/2015,England,21,Eoin Reddan,1980-11-20,34.79
+05/09/2015,England,5,Paul O'Connell,1979-10-20,35.88
+05/09/2015,England,12,Robbie Henshaw,1993-06-12,22.23
+05/09/2015,England,20,Chris Henry,1984-10-17,30.88
+05/09/2015,England,13,Jared Payne,1985-10-13,29.9
+05/09/2015,England,16,Richardt Strauss,1986-01-29,29.6
+05/09/2015,England,6,Peter O'Mahony,1989-09-17,25.97
+19/09/2015,Canada,18,Nathan White,1981-09-04,34.04
+19/09/2015,Canada,8,Jamie Heaslip,1983-12-15,31.76
+19/09/2015,Canada,19,Donnacha Ryan,1983-12-11,31.77
+19/09/2015,Canada,17,Cian Healy,1987-10-07,27.95
+19/09/2015,Canada,14,Dave Kearney,1989-06-19,26.25
+19/09/2015,Canada,15,Rob Kearney,1986-03-26,29.48
+19/09/2015,Canada,11,Keith Earls,1987-10-02,27.96
+19/09/2015,Canada,4,Iain Henderson,1992-02-21,23.58
+19/09/2015,Canada,3,Mike Ross,1979-12-21,35.75
+19/09/2015,Canada,16,Sean Cronin,1986-05-06,29.37
+19/09/2015,Canada,23,Simon Zebo,1990-03-16,25.51
+19/09/2015,Canada,7,Sean O'Brien,1987-02-14,28.59
+19/09/2015,Canada,2,Rory Best,1982-08-15,33.1
+19/09/2015,Canada,9,Conor Murray,1989-04-20,26.42
+19/09/2015,Canada,12,Luke Fitzgerald,1987-09-13,28.02
+19/09/2015,Canada,1,Jack McGrath,1989-10-11,25.94
+19/09/2015,Canada,10,Johnny Sexton,1985-07-11,30.19
+19/09/2015,Canada,22,Ian Madigan,1989-03-21,26.5
+19/09/2015,Canada,21,Eoin Reddan,1980-11-20,34.83
+19/09/2015,Canada,5,Paul O'Connell,1979-10-20,35.92
+19/09/2015,Canada,20,Chris Henry,1984-10-17,30.92
+19/09/2015,Canada,13,Jared Payne,1985-10-13,29.93
+19/09/2015,Canada,6,Peter O'Mahony,1989-09-17,26.0
+27/09/2015,Romania,3,Nathan White,1981-09-04,34.06
+27/09/2015,Romania,8,Jamie Heaslip,1983-12-15,31.78
+27/09/2015,Romania,18,Tadhg Furlong,1992-11-14,22.87
+27/09/2015,Romania,4,Donnacha Ryan,1983-12-11,31.8
+27/09/2015,Romania,1,Cian Healy,1987-10-07,27.97
+27/09/2015,Romania,6,Jordi Murphy,1991-04-22,24.43
+27/09/2015,Romania,22,Paddy Jackson,1992-01-05,23.73
+27/09/2015,Romania,23,Rob Kearney,1986-03-26,29.51
+27/09/2015,Romania,11,Keith Earls,1987-10-02,27.99
+27/09/2015,Romania,5,Devin Toner,1986-06-29,29.25
+27/09/2015,Romania,16,Sean Cronin,1986-05-06,29.39
+27/09/2015,Romania,14,Tommy Bowe,1984-02-22,31.6
+27/09/2015,Romania,15,Simon Zebo,1990-03-16,25.53
+27/09/2015,Romania,20,Sean O'Brien,1987-02-14,28.62
+27/09/2015,Romania,21,Conor Murray,1989-04-20,26.44
+27/09/2015,Romania,17,Jack McGrath,1989-10-11,25.96
+27/09/2015,Romania,10,Ian Madigan,1989-03-21,26.52
+27/09/2015,Romania,12,Darren Cave,1987-04-05,28.48
+27/09/2015,Romania,9,Eoin Reddan,1980-11-20,34.85
+27/09/2015,Romania,19,Paul O'Connell,1979-10-20,35.94
+27/09/2015,Romania,7,Chris Henry,1984-10-17,30.94
+27/09/2015,Romania,13,Jared Payne,1985-10-13,29.96
+27/09/2015,Romania,2,Richardt Strauss,1986-01-29,29.66
+04/10/2015,Italy,18,Nathan White,1981-09-04,34.08
+04/10/2015,Italy,8,Jamie Heaslip,1983-12-15,31.8
+04/10/2015,Italy,17,Cian Healy,1987-10-07,27.99
+04/10/2015,Italy,11,Dave Kearney,1989-06-19,26.29
+04/10/2015,Italy,13,Keith Earls,1987-10-02,28.01
+04/10/2015,Italy,19,Devin Toner,1986-06-29,29.27
+04/10/2015,Italy,4,Iain Henderson,1992-02-21,23.62
+04/10/2015,Italy,3,Mike Ross,1979-12-21,35.79
+04/10/2015,Italy,16,Sean Cronin,1986-05-06,29.41
+04/10/2015,Italy,14,Tommy Bowe,1984-02-22,31.61
+04/10/2015,Italy,15,Simon Zebo,1990-03-16,25.55
+04/10/2015,Italy,7,Sean O'Brien,1987-02-14,28.64
+04/10/2015,Italy,2,Rory Best,1982-08-15,33.14
+04/10/2015,Italy,9,Conor Murray,1989-04-20,26.46
+04/10/2015,Italy,23,Luke Fitzgerald,1987-09-13,28.06
+04/10/2015,Italy,1,Jack McGrath,1989-10-11,25.98
+04/10/2015,Italy,10,Johnny Sexton,1985-07-11,30.23
+04/10/2015,Italy,22,Ian Madigan,1989-03-21,26.54
+04/10/2015,Italy,21,Eoin Reddan,1980-11-20,34.87
+04/10/2015,Italy,5,Paul O'Connell,1979-10-20,35.96
+04/10/2015,Italy,12,Robbie Henshaw,1993-06-12,22.31
+04/10/2015,Italy,20,Chris Henry,1984-10-17,30.96
+04/10/2015,Italy,6,Peter O'Mahony,1989-09-17,26.05
+11/10/2015,France,18,Nathan White,1981-09-04,34.1
+11/10/2015,France,8,Jamie Heaslip,1983-12-15,31.82
+11/10/2015,France,1,Cian Healy,1987-10-07,28.01
+11/10/2015,France,11,Dave Kearney,1989-06-19,26.31
+11/10/2015,France,15,Rob Kearney,1986-03-26,29.54
+11/10/2015,France,13,Keith Earls,1987-10-02,28.03
+11/10/2015,France,4,Devin Toner,1986-06-29,29.28
+11/10/2015,France,19,Iain Henderson,1992-02-21,23.64
+11/10/2015,France,3,Mike Ross,1979-12-21,35.81
+11/10/2015,France,14,Tommy Bowe,1984-02-22,31.63
+11/10/2015,France,7,Sean O'Brien,1987-02-14,28.65
+11/10/2015,France,2,Rory Best,1982-08-15,33.16
+11/10/2015,France,9,Conor Murray,1989-04-20,26.48
+11/10/2015,France,23,Luke Fitzgerald,1987-09-13,28.08
+11/10/2015,France,17,Jack McGrath,1989-10-11,26.0
+11/10/2015,France,10,Johnny Sexton,1985-07-11,30.25
+11/10/2015,France,22,Ian Madigan,1989-03-21,26.56
+11/10/2015,France,21,Eoin Reddan,1980-11-20,34.89
+11/10/2015,France,5,Paul O'Connell,1979-10-20,35.98
+11/10/2015,France,12,Robbie Henshaw,1993-06-12,22.33
+11/10/2015,France,20,Chris Henry,1984-10-17,30.98
+11/10/2015,France,16,Richardt Strauss,1986-01-29,29.7
+11/10/2015,France,6,Peter O'Mahony,1989-09-17,26.06
+18/10/2015,Argentina,18,Nathan White,1981-09-04,34.12
+18/10/2015,Argentina,8,Jamie Heaslip,1983-12-15,31.84
+18/10/2015,Argentina,19,Donnacha Ryan,1983-12-11,31.85
+18/10/2015,Argentina,1,Cian Healy,1987-10-07,28.03
+18/10/2015,Argentina,6,Jordi Murphy,1991-04-22,24.49
+18/10/2015,Argentina,11,Dave Kearney,1989-06-19,26.33
+18/10/2015,Argentina,22,Paddy Jackson,1992-01-05,23.78
+18/10/2015,Argentina,15,Rob Kearney,1986-03-26,29.56
+18/10/2015,Argentina,13,Keith Earls,1987-10-02,28.04
+18/10/2015,Argentina,5,Devin Toner,1986-06-29,29.3
+18/10/2015,Argentina,20,Rhys Ruddock,1990-11-13,24.93
+18/10/2015,Argentina,4,Iain Henderson,1992-02-21,23.66
+18/10/2015,Argentina,3,Mike Ross,1979-12-21,35.83
+18/10/2015,Argentina,14,Tommy Bowe,1984-02-22,31.65
+18/10/2015,Argentina,2,Rory Best,1982-08-15,33.18
+18/10/2015,Argentina,9,Conor Murray,1989-04-20,26.49
+18/10/2015,Argentina,23,Luke Fitzgerald,1987-09-13,28.1
+18/10/2015,Argentina,17,Jack McGrath,1989-10-11,26.02
+18/10/2015,Argentina,10,Ian Madigan,1989-03-21,26.58
+18/10/2015,Argentina,21,Eoin Reddan,1980-11-20,34.91
+18/10/2015,Argentina,12,Robbie Henshaw,1993-06-12,22.35
+18/10/2015,Argentina,7,Chris Henry,1984-10-17,31.0
+18/10/2015,Argentina,16,Richardt Strauss,1986-01-29,29.72
+07/02/2016,Wales,17,James Cronin,1990-11-23,25.21
+07/02/2016,Wales,3,Nathan White,1981-09-04,34.43
+07/02/2016,Wales,8,Jamie Heaslip,1983-12-15,32.15
+07/02/2016,Wales,18,Tadhg Furlong,1992-11-14,23.23
+07/02/2016,Wales,19,Donnacha Ryan,1983-12-11,32.16
+07/02/2016,Wales,23,Dave Kearney,1989-06-19,26.64
+07/02/2016,Wales,6,CJ Stander,1990-04-05,25.84
+07/02/2016,Wales,21,Kieran Marmion,1992-02-11,23.99
+07/02/2016,Wales,7,Tommy O'Donnell,1987-05-21,28.72
+07/02/2016,Wales,11,Keith Earls,1987-10-02,28.35
+07/02/2016,Wales,5,Devin Toner,1986-06-29,29.61
+07/02/2016,Wales,20,Rhys Ruddock,1990-11-13,25.24
+07/02/2016,Wales,16,Sean Cronin,1986-05-06,29.76
+07/02/2016,Wales,15,Simon Zebo,1990-03-16,25.9
+07/02/2016,Wales,14,Andrew Trimble,1984-10-20,31.3
+07/02/2016,Wales,2,Rory Best,1982-08-15,33.48
+07/02/2016,Wales,9,Conor Murray,1989-04-20,26.8
+07/02/2016,Wales,1,Jack McGrath,1989-10-11,26.32
+07/02/2016,Wales,10,Johnny Sexton,1985-07-11,30.58
+07/02/2016,Wales,4,Mike McCarthy,1981-11-27,34.2
+07/02/2016,Wales,22,Ian Madigan,1989-03-21,26.88
+07/02/2016,Wales,12,Robbie Henshaw,1993-06-12,22.66
+07/02/2016,Wales,13,Jared Payne,1985-10-13,30.32
+13/02/2016,France,17,James Cronin,1990-11-23,25.22
+13/02/2016,France,3,Nathan White,1981-09-04,34.44
+13/02/2016,France,8,Jamie Heaslip,1983-12-15,32.16
+13/02/2016,France,18,Tadhg Furlong,1992-11-14,23.25
+13/02/2016,France,19,Donnacha Ryan,1983-12-11,32.18
+13/02/2016,France,11,Dave Kearney,1989-06-19,26.65
+13/02/2016,France,15,Rob Kearney,1986-03-26,29.89
+13/02/2016,France,6,CJ Stander,1990-04-05,25.86
+13/02/2016,France,23,Fergus McFadden,1986-06-17,29.66
+13/02/2016,France,20,Tommy O'Donnell,1987-05-21,28.73
+13/02/2016,France,4,Devin Toner,1986-06-29,29.63
+13/02/2016,France,7,Sean O'Brien,1987-02-14,29.0
+13/02/2016,France,14,Andrew Trimble,1984-10-20,31.32
+13/02/2016,France,2,Rory Best,1982-08-15,33.5
+13/02/2016,France,9,Conor Murray,1989-04-20,26.82
+13/02/2016,France,1,Jack McGrath,1989-10-11,26.34
+13/02/2016,France,10,Johnny Sexton,1985-07-11,30.59
+13/02/2016,France,5,Mike McCarthy,1981-11-27,34.21
+13/02/2016,France,22,Ian Madigan,1989-03-21,26.9
+13/02/2016,France,21,Eoin Reddan,1980-11-20,35.23
+13/02/2016,France,12,Robbie Henshaw,1993-06-12,22.67
+13/02/2016,France,13,Jared Payne,1985-10-13,30.34
+13/02/2016,France,16,Richardt Strauss,1986-01-29,30.04
+27/02/2016,England,18,Nathan White,1981-09-04,34.48
+27/02/2016,England,8,Jamie Heaslip,1983-12-15,32.2
+27/02/2016,England,4,Donnacha Ryan,1983-12-11,32.21
+27/02/2016,England,17,Cian Healy,1987-10-07,28.39
+27/02/2016,England,15,Rob Kearney,1986-03-26,29.93
+27/02/2016,England,6,CJ Stander,1990-04-05,25.9
+27/02/2016,England,11,Keith Earls,1987-10-02,28.41
+27/02/2016,England,5,Devin Toner,1986-06-29,29.67
+27/02/2016,England,20,Rhys Ruddock,1990-11-13,25.29
+27/02/2016,England,19,Ultan Dillane,1993-11-09,22.3
+27/02/2016,England,3,Mike Ross,1979-12-21,36.19
+27/02/2016,England,7,Josh van der Flier,1993-04-25,22.84
+27/02/2016,England,23,Simon Zebo,1990-03-16,25.95
+27/02/2016,England,14,Andrew Trimble,1984-10-20,31.35
+27/02/2016,England,2,Rory Best,1982-08-15,33.54
+27/02/2016,England,9,Conor Murray,1989-04-20,26.86
+27/02/2016,England,12,Stuart McCloskey,1992-08-06,23.56
+27/02/2016,England,1,Jack McGrath,1989-10-11,26.38
+27/02/2016,England,10,Johnny Sexton,1985-07-11,30.63
+27/02/2016,England,22,Ian Madigan,1989-03-21,26.94
+27/02/2016,England,21,Eoin Reddan,1980-11-20,35.27
+27/02/2016,England,13,Robbie Henshaw,1993-06-12,22.71
+27/02/2016,England,16,Richardt Strauss,1986-01-29,30.08
+12/03/2016,Italy,18,Nathan White,1981-09-04,34.52
+12/03/2016,Italy,8,Jamie Heaslip,1983-12-15,32.24
+12/03/2016,Italy,4,Donnacha Ryan,1983-12-11,32.25
+12/03/2016,Italy,6,CJ Stander,1990-04-05,25.94
+12/03/2016,Italy,21,Kieran Marmion,1992-02-11,24.08
+12/03/2016,Italy,23,Fergus McFadden,1986-06-17,29.74
+12/03/2016,Italy,11,Keith Earls,1987-10-02,28.44
+12/03/2016,Italy,5,Devin Toner,1986-06-29,29.7
+12/03/2016,Italy,20,Rhys Ruddock,1990-11-13,25.33
+12/03/2016,Italy,19,Ultan Dillane,1993-11-09,22.34
+12/03/2016,Italy,3,Mike Ross,1979-12-21,36.23
+12/03/2016,Italy,16,Sean Cronin,1986-05-06,29.85
+12/03/2016,Italy,7,Josh van der Flier,1993-04-25,22.88
+12/03/2016,Italy,15,Simon Zebo,1990-03-16,25.99
+12/03/2016,Italy,14,Andrew Trimble,1984-10-20,31.39
+12/03/2016,Italy,2,Rory Best,1982-08-15,33.57
+12/03/2016,Italy,9,Conor Murray,1989-04-20,26.89
+12/03/2016,Italy,1,Jack McGrath,1989-10-11,26.42
+12/03/2016,Italy,10,Johnny Sexton,1985-07-11,30.67
+12/03/2016,Italy,22,Ian Madigan,1989-03-21,26.98
+12/03/2016,Italy,12,Robbie Henshaw,1993-06-12,22.75
+12/03/2016,Italy,13,Jared Payne,1985-10-13,30.41
+12/03/2016,Italy,17,Finlay Bealham,1991-10-09,24.42
+19/03/2016,Scotland,18,Nathan White,1981-09-04,34.54
+19/03/2016,Scotland,8,Jamie Heaslip,1983-12-15,32.26
+19/03/2016,Scotland,4,Donnacha Ryan,1983-12-11,32.27
+19/03/2016,Scotland,17,Cian Healy,1987-10-07,28.45
+19/03/2016,Scotland,6,CJ Stander,1990-04-05,25.96
+19/03/2016,Scotland,23,Fergus McFadden,1986-06-17,29.76
+19/03/2016,Scotland,7,Tommy O'Donnell,1987-05-21,28.83
+19/03/2016,Scotland,11,Keith Earls,1987-10-02,28.46
+19/03/2016,Scotland,5,Devin Toner,1986-06-29,29.72
+19/03/2016,Scotland,20,Rhys Ruddock,1990-11-13,25.35
+19/03/2016,Scotland,19,Ultan Dillane,1993-11-09,22.36
+19/03/2016,Scotland,3,Mike Ross,1979-12-21,36.24
+19/03/2016,Scotland,15,Simon Zebo,1990-03-16,26.01
+19/03/2016,Scotland,14,Andrew Trimble,1984-10-20,31.41
+19/03/2016,Scotland,2,Rory Best,1982-08-15,33.59
+19/03/2016,Scotland,9,Conor Murray,1989-04-20,26.91
+19/03/2016,Scotland,1,Jack McGrath,1989-10-11,26.44
+19/03/2016,Scotland,10,Johnny Sexton,1985-07-11,30.69
+19/03/2016,Scotland,22,Ian Madigan,1989-03-21,27.0
+19/03/2016,Scotland,21,Eoin Reddan,1980-11-20,35.33
+19/03/2016,Scotland,12,Robbie Henshaw,1993-06-12,22.77
+19/03/2016,Scotland,13,Jared Payne,1985-10-13,30.43
+19/03/2016,Scotland,16,Richardt Strauss,1986-01-29,30.14
+11/06/2016,South Africa,8,Jamie Heaslip,1983-12-15,32.49
+11/06/2016,South Africa,18,Tadhg Furlong,1992-11-14,23.57
+11/06/2016,South Africa,7,Jordi Murphy,1991-04-22,25.14
+11/06/2016,South Africa,10,Paddy Jackson,1992-01-05,24.43
+11/06/2016,South Africa,6,CJ Stander,1990-04-05,26.19
+11/06/2016,South Africa,21,Kieran Marmion,1992-02-11,24.33
+11/06/2016,South Africa,23,Craig Gilroy,1991-03-11,25.25
+11/06/2016,South Africa,11,Keith Earls,1987-10-02,28.69
+11/06/2016,South Africa,5,Devin Toner,1986-06-29,29.95
+11/06/2016,South Africa,20,Rhys Ruddock,1990-11-13,25.58
+11/06/2016,South Africa,4,Iain Henderson,1992-02-21,24.3
+11/06/2016,South Africa,19,Ultan Dillane,1993-11-09,22.59
+11/06/2016,South Africa,3,Mike Ross,1979-12-21,36.47
+11/06/2016,South Africa,16,Sean Cronin,1986-05-06,30.1
+11/06/2016,South Africa,14,Andrew Trimble,1984-10-20,31.64
+11/06/2016,South Africa,2,Rory Best,1982-08-15,33.82
+11/06/2016,South Africa,9,Conor Murray,1989-04-20,27.14
+11/06/2016,South Africa,1,Jack McGrath,1989-10-11,26.67
+11/06/2016,South Africa,22,Ian Madigan,1989-03-21,27.23
+11/06/2016,South Africa,13,Robbie Henshaw,1993-06-12,23.0
+11/06/2016,South Africa,12,Luke Marshall,1991-03-03,25.28
+11/06/2016,South Africa,15,Jared Payne,1985-10-13,30.66
+11/06/2016,South Africa,17,Finlay Bealham,1991-10-09,24.67
+18/06/2016,South Africa,5,Quinn Roux,1990-10-30,25.64
+18/06/2016,South Africa,8,Jamie Heaslip,1983-12-15,32.51
+18/06/2016,South Africa,3,Tadhg Furlong,1992-11-14,23.59
+18/06/2016,South Africa,19,Donnacha Ryan,1983-12-11,32.52
+18/06/2016,South Africa,17,Dave Kilcoyne,1988-12-14,27.51
+18/06/2016,South Africa,10,Paddy Jackson,1992-01-05,24.45
+18/06/2016,South Africa,21,Kieran Marmion,1992-02-11,24.35
+18/06/2016,South Africa,11,Craig Gilroy,1991-03-11,25.27
+18/06/2016,South Africa,20,Sean Reidy,1989-05-10,27.11
+18/06/2016,South Africa,4,Devin Toner,1986-06-29,29.97
+18/06/2016,South Africa,7,Rhys Ruddock,1990-11-13,25.6
+18/06/2016,South Africa,6,Iain Henderson,1992-02-21,24.32
+18/06/2016,South Africa,23,Tiernan O'Halloran,1991-02-26,25.31
+18/06/2016,South Africa,12,Stuart Olding,1993-03-11,23.27
+18/06/2016,South Africa,14,Andrew Trimble,1984-10-20,31.66
+18/06/2016,South Africa,2,Rory Best,1982-08-15,33.84
+18/06/2016,South Africa,9,Conor Murray,1989-04-20,27.16
+18/06/2016,South Africa,1,Jack McGrath,1989-10-11,26.69
+18/06/2016,South Africa,22,Ian Madigan,1989-03-21,27.24
+18/06/2016,South Africa,13,Robbie Henshaw,1993-06-12,23.02
+18/06/2016,South Africa,15,Jared Payne,1985-10-13,30.68
+18/06/2016,South Africa,16,Richardt Strauss,1986-01-29,30.39
+18/06/2016,South Africa,18,Finlay Bealham,1991-10-09,24.69
+25/06/2016,South Africa,8,Jamie Heaslip,1983-12-15,32.53
+25/06/2016,South Africa,18,Tadhg Furlong,1992-11-14,23.61
+25/06/2016,South Africa,7,Jordi Murphy,1991-04-22,25.18
+25/06/2016,South Africa,10,Paddy Jackson,1992-01-05,24.47
+25/06/2016,South Africa,6,CJ Stander,1990-04-05,26.22
+25/06/2016,South Africa,11,Keith Earls,1987-10-02,28.73
+25/06/2016,South Africa,5,Devin Toner,1986-06-29,29.99
+25/06/2016,South Africa,20,Rhys Ruddock,1990-11-13,25.62
+25/06/2016,South Africa,4,Iain Henderson,1992-02-21,24.34
+25/06/2016,South Africa,19,Ultan Dillane,1993-11-09,22.63
+25/06/2016,South Africa,3,Mike Ross,1979-12-21,36.51
+25/06/2016,South Africa,16,Sean Cronin,1986-05-06,30.14
+25/06/2016,South Africa,15,Tiernan O'Halloran,1991-02-26,25.33
+25/06/2016,South Africa,12,Stuart Olding,1993-03-11,23.29
+25/06/2016,South Africa,14,Andrew Trimble,1984-10-20,31.68
+25/06/2016,South Africa,2,Rory Best,1982-08-15,33.86
+25/06/2016,South Africa,9,Conor Murray,1989-04-20,27.18
+25/06/2016,South Africa,1,Jack McGrath,1989-10-11,26.71
+25/06/2016,South Africa,22,Ian Madigan,1989-03-21,27.26
+25/06/2016,South Africa,21,Eoin Reddan,1980-11-20,35.6
+25/06/2016,South Africa,13,Luke Marshall,1991-03-03,25.31
+25/06/2016,South Africa,23,Matthew Healy,1989-03-14,27.28
+25/06/2016,South Africa,17,Finlay Bealham,1991-10-09,24.71
+05/11/2016,New Zealand,8,Jamie Heaslip,1983-12-15,32.89
+05/11/2016,New Zealand,3,Tadhg Furlong,1992-11-14,23.98
+05/11/2016,New Zealand,4,Donnacha Ryan,1983-12-11,32.9
+05/11/2016,New Zealand,17,Cian Healy,1987-10-07,29.08
+05/11/2016,New Zealand,7,Jordi Murphy,1991-04-22,25.54
+05/11/2016,New Zealand,15,Rob Kearney,1986-03-26,30.62
+05/11/2016,New Zealand,6,CJ Stander,1990-04-05,26.59
+05/11/2016,New Zealand,21,Kieran Marmion,1992-02-11,24.73
+05/11/2016,New Zealand,5,Devin Toner,1986-06-29,30.36
+05/11/2016,New Zealand,19,Ultan Dillane,1993-11-09,22.99
+05/11/2016,New Zealand,16,Sean Cronin,1986-05-06,30.5
+05/11/2016,New Zealand,20,Josh van der Flier,1993-04-25,23.53
+05/11/2016,New Zealand,11,Simon Zebo,1990-03-16,26.64
+05/11/2016,New Zealand,14,Andrew Trimble,1984-10-20,32.04
+05/11/2016,New Zealand,2,Rory Best,1982-08-15,34.23
+05/11/2016,New Zealand,9,Conor Murray,1989-04-20,27.55
+05/11/2016,New Zealand,23,Garry Ringrose,1995-01-26,21.78
+05/11/2016,New Zealand,1,Jack McGrath,1989-10-11,27.07
+05/11/2016,New Zealand,10,Johnny Sexton,1985-07-11,31.32
+05/11/2016,New Zealand,12,Robbie Henshaw,1993-06-12,23.4
+05/11/2016,New Zealand,13,Jared Payne,1985-10-13,31.06
+05/11/2016,New Zealand,22,Joey Carbery,1995-11-01,21.01
+05/11/2016,New Zealand,18,Finlay Bealham,1991-10-09,25.08
+12/11/2016,Canada,21,Luke McGrath,1993-02-03,23.77
+12/11/2016,Canada,20,Dan Leavy,1994-05-23,22.48
+12/11/2016,Canada,19,Donnacha Ryan,1983-12-11,32.92
+12/11/2016,Canada,1,Cian Healy,1987-10-07,29.1
+12/11/2016,Canada,17,Dave Kilcoyne,1988-12-14,27.91
+12/11/2016,Canada,10,Paddy Jackson,1992-01-05,24.85
+12/11/2016,Canada,9,Kieran Marmion,1992-02-11,24.75
+12/11/2016,Canada,14,Craig Gilroy,1991-03-11,25.68
+12/11/2016,Canada,11,Keith Earls,1987-10-02,29.11
+12/11/2016,Canada,4,Ultan Dillane,1993-11-09,23.01
+12/11/2016,Canada,2,Sean Cronin,1986-05-06,30.52
+12/11/2016,Canada,15,Tiernan O'Halloran,1991-02-26,25.71
+12/11/2016,Canada,16,James Tracy,1991-04-02,25.62
+12/11/2016,Canada,7,Sean O'Brien,1987-02-14,29.74
+12/11/2016,Canada,13,Garry Ringrose,1995-01-26,21.8
+12/11/2016,Canada,18,John Ryan,1988-08-02,28.28
+12/11/2016,Canada,8,Jack O’Donoghue,1994-02-08,22.76
+12/11/2016,Canada,12,Luke Marshall,1991-03-03,25.7
+12/11/2016,Canada,23,Niyi Adeolokun,1990-11-03,26.03
+12/11/2016,Canada,5,Billy Holland,1985-08-03,31.28
+12/11/2016,Canada,22,Joey Carbery,1995-11-01,21.03
+12/11/2016,Canada,3,Finlay Bealham,1991-10-09,25.1
+12/11/2016,Canada,6,Peter O'Mahony,1989-09-17,27.15
+19/11/2016,New Zealand,8,Jamie Heaslip,1983-12-15,32.93
+19/11/2016,New Zealand,3,Tadhg Furlong,1992-11-14,24.01
+19/11/2016,New Zealand,4,Donnacha Ryan,1983-12-11,32.94
+19/11/2016,New Zealand,17,Cian Healy,1987-10-07,29.12
+19/11/2016,New Zealand,22,Paddy Jackson,1992-01-05,24.87
+19/11/2016,New Zealand,15,Rob Kearney,1986-03-26,30.65
+19/11/2016,New Zealand,6,CJ Stander,1990-04-05,26.63
+19/11/2016,New Zealand,21,Kieran Marmion,1992-02-11,24.77
+19/11/2016,New Zealand,5,Devin Toner,1986-06-29,30.39
+19/11/2016,New Zealand,19,Iain Henderson,1992-02-21,24.75
+19/11/2016,New Zealand,16,Sean Cronin,1986-05-06,30.54
+19/11/2016,New Zealand,20,Josh van der Flier,1993-04-25,23.57
+19/11/2016,New Zealand,11,Simon Zebo,1990-03-16,26.68
+19/11/2016,New Zealand,7,Sean O'Brien,1987-02-14,29.76
+19/11/2016,New Zealand,14,Andrew Trimble,1984-10-20,32.08
+19/11/2016,New Zealand,2,Rory Best,1982-08-15,34.26
+19/11/2016,New Zealand,9,Conor Murray,1989-04-20,27.58
+19/11/2016,New Zealand,23,Garry Ringrose,1995-01-26,21.82
+19/11/2016,New Zealand,1,Jack McGrath,1989-10-11,27.11
+19/11/2016,New Zealand,10,Johnny Sexton,1985-07-11,31.36
+19/11/2016,New Zealand,12,Robbie Henshaw,1993-06-12,23.44
+19/11/2016,New Zealand,13,Jared Payne,1985-10-13,31.1
+19/11/2016,New Zealand,18,Finlay Bealham,1991-10-09,25.11
+26/11/2016,Australia,8,Jamie Heaslip,1983-12-15,32.95
+26/11/2016,Australia,3,Tadhg Furlong,1992-11-14,24.03
+26/11/2016,Australia,17,Cian Healy,1987-10-07,29.14
+26/11/2016,Australia,10,Paddy Jackson,1992-01-05,24.89
+26/11/2016,Australia,15,Rob Kearney,1986-03-26,30.67
+26/11/2016,Australia,6,CJ Stander,1990-04-05,26.65
+26/11/2016,Australia,21,Kieran Marmion,1992-02-11,24.79
+26/11/2016,Australia,11,Keith Earls,1987-10-02,29.15
+26/11/2016,Australia,5,Devin Toner,1986-06-29,30.41
+26/11/2016,Australia,4,Iain Henderson,1992-02-21,24.76
+26/11/2016,Australia,19,Ultan Dillane,1993-11-09,23.05
+26/11/2016,Australia,16,Sean Cronin,1986-05-06,30.56
+26/11/2016,Australia,7,Josh van der Flier,1993-04-25,23.59
+26/11/2016,Australia,23,Simon Zebo,1990-03-16,26.7
+26/11/2016,Australia,14,Andrew Trimble,1984-10-20,32.1
+26/11/2016,Australia,2,Rory Best,1982-08-15,34.28
+26/11/2016,Australia,9,Conor Murray,1989-04-20,27.6
+26/11/2016,Australia,12,Garry Ringrose,1995-01-26,21.83
+26/11/2016,Australia,1,Jack McGrath,1989-10-11,27.13
+26/11/2016,Australia,13,Jared Payne,1985-10-13,31.12
+26/11/2016,Australia,22,Joey Carbery,1995-11-01,21.07
+26/11/2016,Australia,18,Finlay Bealham,1991-10-09,25.13
+26/11/2016,Australia,20,Peter O'Mahony,1989-09-17,27.19
+04/02/2017,Scotland,8,Jamie Heaslip,1983-12-15,33.14
+04/02/2017,Scotland,3,Tadhg Furlong,1992-11-14,24.23
+04/02/2017,Scotland,17,Cian Healy,1987-10-07,29.33
+04/02/2017,Scotland,10,Paddy Jackson,1992-01-05,25.08
+04/02/2017,Scotland,15,Rob Kearney,1986-03-26,30.86
+04/02/2017,Scotland,6,CJ Stander,1990-04-05,26.84
+04/02/2017,Scotland,21,Kieran Marmion,1992-02-11,24.98
+04/02/2017,Scotland,14,Keith Earls,1987-10-02,29.34
+04/02/2017,Scotland,22,Ian Keatley,1987-04-01,29.85
+04/02/2017,Scotland,5,Devin Toner,1986-06-29,30.6
+04/02/2017,Scotland,4,Iain Henderson,1992-02-21,24.96
+04/02/2017,Scotland,19,Ultan Dillane,1993-11-09,23.24
+04/02/2017,Scotland,23,Tommy Bowe,1984-02-22,32.95
+04/02/2017,Scotland,20,Josh van der Flier,1993-04-25,23.78
+04/02/2017,Scotland,11,Simon Zebo,1990-03-16,26.89
+04/02/2017,Scotland,7,Sean O'Brien,1987-02-14,29.97
+04/02/2017,Scotland,2,Rory Best,1982-08-15,34.48
+04/02/2017,Scotland,9,Conor Murray,1989-04-20,27.8
+04/02/2017,Scotland,13,Garry Ringrose,1995-01-26,22.03
+04/02/2017,Scotland,1,Jack McGrath,1989-10-11,27.32
+04/02/2017,Scotland,18,John Ryan,1988-08-02,28.51
+04/02/2017,Scotland,12,Robbie Henshaw,1993-06-12,23.65
+04/02/2017,Scotland,16,Niall Scannell,1992-04-08,24.83
+11/02/2017,Italy,8,Jamie Heaslip,1983-12-15,33.16
+11/02/2017,Italy,3,Tadhg Furlong,1992-11-14,24.24
+11/02/2017,Italy,4,Donnacha Ryan,1983-12-11,33.17
+11/02/2017,Italy,1,Cian Healy,1987-10-07,29.35
+11/02/2017,Italy,10,Paddy Jackson,1992-01-05,25.1
+11/02/2017,Italy,15,Rob Kearney,1986-03-26,30.88
+11/02/2017,Italy,6,CJ Stander,1990-04-05,26.86
+11/02/2017,Italy,21,Kieran Marmion,1992-02-11,25.0
+11/02/2017,Italy,23,Craig Gilroy,1991-03-11,25.93
+11/02/2017,Italy,14,Keith Earls,1987-10-02,29.36
+11/02/2017,Italy,22,Ian Keatley,1987-04-01,29.87
+11/02/2017,Italy,5,Devin Toner,1986-06-29,30.62
+11/02/2017,Italy,19,Ultan Dillane,1993-11-09,23.26
+11/02/2017,Italy,16,James Tracy,1991-04-02,25.87
+11/02/2017,Italy,20,Josh van der Flier,1993-04-25,23.8
+11/02/2017,Italy,11,Simon Zebo,1990-03-16,26.91
+11/02/2017,Italy,7,Sean O'Brien,1987-02-14,29.99
+11/02/2017,Italy,9,Conor Murray,1989-04-20,27.81
+11/02/2017,Italy,13,Garry Ringrose,1995-01-26,22.05
+11/02/2017,Italy,17,Jack McGrath,1989-10-11,27.34
+11/02/2017,Italy,18,John Ryan,1988-08-02,28.53
+11/02/2017,Italy,12,Robbie Henshaw,1993-06-12,23.67
+11/02/2017,Italy,2,Niall Scannell,1992-04-08,24.85
+25/02/2017,France,8,Jamie Heaslip,1983-12-15,33.2
+25/02/2017,France,3,Tadhg Furlong,1992-11-14,24.28
+25/02/2017,France,4,Donnacha Ryan,1983-12-11,33.21
+25/02/2017,France,17,Cian Healy,1987-10-07,29.39
+25/02/2017,France,22,Paddy Jackson,1992-01-05,25.14
+25/02/2017,France,15,Rob Kearney,1986-03-26,30.92
+25/02/2017,France,6,CJ Stander,1990-04-05,26.89
+25/02/2017,France,21,Kieran Marmion,1992-02-11,25.04
+25/02/2017,France,14,Keith Earls,1987-10-02,29.4
+25/02/2017,France,5,Devin Toner,1986-06-29,30.66
+25/02/2017,France,19,Iain Henderson,1992-02-21,25.01
+25/02/2017,France,11,Simon Zebo,1990-03-16,26.95
+25/02/2017,France,7,Sean O'Brien,1987-02-14,30.03
+25/02/2017,France,23,Andrew Trimble,1984-10-20,32.35
+25/02/2017,France,2,Rory Best,1982-08-15,34.53
+25/02/2017,France,9,Conor Murray,1989-04-20,27.85
+25/02/2017,France,13,Garry Ringrose,1995-01-26,22.08
+25/02/2017,France,1,Jack McGrath,1989-10-11,27.38
+25/02/2017,France,10,Johnny Sexton,1985-07-11,31.63
+25/02/2017,France,18,John Ryan,1988-08-02,28.57
+25/02/2017,France,12,Robbie Henshaw,1993-06-12,23.71
+25/02/2017,France,16,Niall Scannell,1992-04-08,24.88
+25/02/2017,France,20,Peter O'Mahony,1989-09-17,27.44
+10/03/2017,Wales,8,Jamie Heaslip,1983-12-15,33.24
+10/03/2017,Wales,3,Tadhg Furlong,1992-11-14,24.32
+10/03/2017,Wales,4,Donnacha Ryan,1983-12-11,33.25
+10/03/2017,Wales,17,Cian Healy,1987-10-07,29.42
+10/03/2017,Wales,22,Paddy Jackson,1992-01-05,25.18
+10/03/2017,Wales,15,Rob Kearney,1986-03-26,30.96
+10/03/2017,Wales,6,CJ Stander,1990-04-05,26.93
+10/03/2017,Wales,21,Kieran Marmion,1992-02-11,25.08
+10/03/2017,Wales,14,Keith Earls,1987-10-02,29.44
+10/03/2017,Wales,5,Devin Toner,1986-06-29,30.7
+10/03/2017,Wales,19,Iain Henderson,1992-02-21,25.05
+10/03/2017,Wales,23,Tommy Bowe,1984-02-22,33.05
+10/03/2017,Wales,11,Simon Zebo,1990-03-16,26.98
+10/03/2017,Wales,7,Sean O'Brien,1987-02-14,30.07
+10/03/2017,Wales,2,Rory Best,1982-08-15,34.57
+10/03/2017,Wales,9,Conor Murray,1989-04-20,27.89
+10/03/2017,Wales,13,Garry Ringrose,1995-01-26,22.12
+10/03/2017,Wales,1,Jack McGrath,1989-10-11,27.41
+10/03/2017,Wales,10,Johnny Sexton,1985-07-11,31.66
+10/03/2017,Wales,18,John Ryan,1988-08-02,28.6
+10/03/2017,Wales,12,Robbie Henshaw,1993-06-12,23.74
+10/03/2017,Wales,16,Niall Scannell,1992-04-08,24.92
+10/03/2017,Wales,20,Peter O'Mahony,1989-09-17,27.48
+18/03/2017,England,21,Luke McGrath,1993-02-03,24.12
+18/03/2017,England,20,Dan Leavy,1994-05-23,22.82
+18/03/2017,England,3,Tadhg Furlong,1992-11-14,24.34
+18/03/2017,England,4,Donnacha Ryan,1983-12-11,33.27
+18/03/2017,England,17,Cian Healy,1987-10-07,29.45
+18/03/2017,England,22,Paddy Jackson,1992-01-05,25.2
+18/03/2017,England,8,CJ Stander,1990-04-05,26.95
+18/03/2017,England,9,Kieran Marmion,1992-02-11,25.1
+18/03/2017,England,14,Keith Earls,1987-10-02,29.46
+18/03/2017,England,19,Devin Toner,1986-06-29,30.72
+18/03/2017,England,5,Iain Henderson,1992-02-21,25.07
+18/03/2017,England,11,Simon Zebo,1990-03-16,27.01
+18/03/2017,England,23,Andrew Conway,1991-07-11,25.69
+18/03/2017,England,7,Sean O'Brien,1987-02-14,30.09
+18/03/2017,England,2,Rory Best,1982-08-15,34.59
+18/03/2017,England,13,Garry Ringrose,1995-01-26,22.14
+18/03/2017,England,1,Jack McGrath,1989-10-11,27.43
+18/03/2017,England,10,Johnny Sexton,1985-07-11,31.69
+18/03/2017,England,18,John Ryan,1988-08-02,28.62
+18/03/2017,England,12,Robbie Henshaw,1993-06-12,23.77
+18/03/2017,England,16,Niall Scannell,1992-04-08,24.94
+18/03/2017,England,15,Jared Payne,1985-10-13,31.43
+18/03/2017,England,6,Peter O'Mahony,1989-09-17,27.5
+10/06/2017,USA,4,Quinn Roux,1990-10-30,26.61
+10/06/2017,USA,21,Luke McGrath,1993-02-03,24.35
+10/06/2017,USA,20,Dan Leavy,1994-05-23,23.05
+10/06/2017,USA,1,Cian Healy,1987-10-07,29.68
+10/06/2017,USA,8,Jack Conan,1992-07-29,24.87
+10/06/2017,USA,17,Dave Kilcoyne,1988-12-14,28.49
+10/06/2017,USA,22,Rory Scannell,1993-12-22,23.47
+10/06/2017,USA,9,Kieran Marmion,1992-02-11,25.33
+10/06/2017,USA,14,Keith Earls,1987-10-02,29.69
+10/06/2017,USA,5,Devin Toner,1986-06-29,30.95
+10/06/2017,USA,6,Rhys Ruddock,1990-11-13,26.57
+10/06/2017,USA,15,Tiernan O'Halloran,1991-02-26,26.29
+10/06/2017,USA,7,Josh van der Flier,1993-04-25,24.13
+10/06/2017,USA,23,Simon Zebo,1990-03-16,27.24
+10/06/2017,USA,13,Garry Ringrose,1995-01-26,22.37
+10/06/2017,USA,11,Jacob Stockdale,1996-04-03,21.19
+10/06/2017,USA,19,James Ryan,1996-07-24,20.88
+10/06/2017,USA,16,Dave Heffernan,1991-01-31,26.36
+10/06/2017,USA,3,John Ryan,1988-08-02,28.85
+10/06/2017,USA,12,Luke Marshall,1991-03-03,26.27
+10/06/2017,USA,18,Andrew Porter,1996-01-16,21.4
+10/06/2017,USA,2,Niall Scannell,1992-04-08,25.17
+10/06/2017,USA,10,Joey Carbery,1995-11-01,21.61
+17/06/2017,Japan,4,Quinn Roux,1990-10-30,26.63
+17/06/2017,Japan,9,Luke McGrath,1993-02-03,24.37
+17/06/2017,Japan,7,Dan Leavy,1994-05-23,23.07
+17/06/2017,Japan,1,Cian Healy,1987-10-07,29.7
+17/06/2017,Japan,8,Jack Conan,1992-07-29,24.88
+17/06/2017,Japan,17,Dave Kilcoyne,1988-12-14,28.51
+17/06/2017,Japan,12,Rory Scannell,1993-12-22,23.49
+17/06/2017,Japan,10,Paddy Jackson,1992-01-05,25.45
+17/06/2017,Japan,21,Kieran Marmion,1992-02-11,25.35
+17/06/2017,Japan,11,Keith Earls,1987-10-02,29.71
+17/06/2017,Japan,5,Devin Toner,1986-06-29,30.97
+17/06/2017,Japan,6,Rhys Ruddock,1990-11-13,26.59
+17/06/2017,Japan,23,Tiernan O'Halloran,1991-02-26,26.31
+17/06/2017,Japan,16,James Tracy,1991-04-02,26.21
+17/06/2017,Japan,15,Simon Zebo,1990-03-16,27.26
+17/06/2017,Japan,19,Kieran Treadwell,1995-11-06,21.61
+17/06/2017,Japan,14,Andrew Conway,1991-07-11,25.94
+17/06/2017,Japan,13,Garry Ringrose,1995-01-26,22.39
+17/06/2017,Japan,3,John Ryan,1988-08-02,28.87
+17/06/2017,Japan,20,Jack O’Donoghue,1994-02-08,23.35
+17/06/2017,Japan,2,Niall Scannell,1992-04-08,25.19
+17/06/2017,Japan,22,Rory O'Loughlin,1994-01-21,23.4
+17/06/2017,Japan,18,Finlay Bealham,1991-10-09,25.69
+24/06/2017,Japan,1,Cian Healy,1987-10-07,29.71
+24/06/2017,Japan,8,Jack Conan,1992-07-29,24.9
+24/06/2017,Japan,17,Dave Kilcoyne,1988-12-14,28.53
+24/06/2017,Japan,22,Rory Scannell,1993-12-22,23.5
+24/06/2017,Japan,10,Paddy Jackson,1992-01-05,25.47
+24/06/2017,Japan,9,Kieran Marmion,1992-02-11,25.37
+24/06/2017,Japan,20,Sean Reidy,1989-05-10,28.12
+24/06/2017,Japan,14,Keith Earls,1987-10-02,29.73
+24/06/2017,Japan,5,Devin Toner,1986-06-29,30.99
+24/06/2017,Japan,6,Rhys Ruddock,1990-11-13,26.61
+24/06/2017,Japan,23,Tiernan O'Halloran,1991-02-26,26.32
+24/06/2017,Japan,2,James Tracy,1991-04-02,26.23
+24/06/2017,Japan,7,Josh van der Flier,1993-04-25,24.16
+24/06/2017,Japan,4,Kieran Treadwell,1995-11-06,21.63
+24/06/2017,Japan,15,Andrew Conway,1991-07-11,25.96
+24/06/2017,Japan,13,Garry Ringrose,1995-01-26,22.41
+24/06/2017,Japan,11,Jacob Stockdale,1996-04-03,21.22
+24/06/2017,Japan,19,James Ryan,1996-07-24,20.92
+24/06/2017,Japan,3,John Ryan,1988-08-02,28.89
+24/06/2017,Japan,12,Luke Marshall,1991-03-03,26.31
+24/06/2017,Japan,18,Andrew Porter,1996-01-16,21.44
+24/06/2017,Japan,16,Niall Scannell,1992-04-08,25.21
+24/06/2017,Japan,21,John Cooney,1990-05-01,27.15
+11/11/2017,South Africa,12,Bundee Aki,1990-04-07,27.6
+11/11/2017,South Africa,3,Tadhg Furlong,1992-11-14,24.99
+11/11/2017,South Africa,1,Cian Healy,1987-10-07,30.1
+11/11/2017,South Africa,17,Dave Kilcoyne,1988-12-14,28.91
+11/11/2017,South Africa,15,Rob Kearney,1986-03-26,31.63
+11/11/2017,South Africa,8,CJ Stander,1990-04-05,27.6
+11/11/2017,South Africa,21,Kieran Marmion,1992-02-11,25.75
+11/11/2017,South Africa,5,Devin Toner,1986-06-29,31.37
+11/11/2017,South Africa,20,Rhys Ruddock,1990-11-13,27.0
+11/11/2017,South Africa,4,Iain Henderson,1992-02-21,25.72
+11/11/2017,South Africa,23,Darren Sweetnam,1993-05-05,24.52
+11/11/2017,South Africa,14,Andrew Conway,1991-07-11,26.34
+11/11/2017,South Africa,7,Sean O'Brien,1987-02-14,30.74
+11/11/2017,South Africa,2,Rory Best,1982-08-15,35.24
+11/11/2017,South Africa,9,Conor Murray,1989-04-20,28.56
+11/11/2017,South Africa,11,Jacob Stockdale,1996-04-03,21.61
+11/11/2017,South Africa,10,Johnny Sexton,1985-07-11,32.34
+11/11/2017,South Africa,19,James Ryan,1996-07-24,21.3
+11/11/2017,South Africa,18,John Ryan,1988-08-02,29.28
+11/11/2017,South Africa,13,Robbie Henshaw,1993-06-12,24.42
+11/11/2017,South Africa,16,Rob Herring,1990-04-27,27.54
+11/11/2017,South Africa,22,Joey Carbery,1995-11-01,22.03
+11/11/2017,South Africa,6,Peter O'Mahony,1989-09-17,28.15
+18/11/2017,Fiji,13,Chris Farrell,1993-03-16,24.68
+18/11/2017,Fiji,21,Luke McGrath,1993-02-03,24.79
+18/11/2017,Fiji,18,Tadhg Furlong,1992-11-14,25.01
+18/11/2017,Fiji,17,Cian Healy,1987-10-07,30.12
+18/11/2017,Fiji,8,Jack Conan,1992-07-29,25.31
+18/11/2017,Fiji,7,Jordi Murphy,1991-04-22,26.58
+18/11/2017,Fiji,11,Dave Kearney,1989-06-19,28.42
+18/11/2017,Fiji,20,CJ Stander,1990-04-05,27.62
+18/11/2017,Fiji,9,Kieran Marmion,1992-02-11,25.77
+18/11/2017,Fiji,22,Ian Keatley,1987-04-01,30.63
+18/11/2017,Fiji,5,Devin Toner,1986-06-29,31.39
+18/11/2017,Fiji,6,Rhys Ruddock,1990-11-13,27.01
+18/11/2017,Fiji,4,Ultan Dillane,1993-11-09,24.03
+18/11/2017,Fiji,14,Darren Sweetnam,1993-05-05,24.54
+18/11/2017,Fiji,16,James Tracy,1991-04-02,26.63
+18/11/2017,Fiji,19,Kieran Treadwell,1995-11-06,22.03
+18/11/2017,Fiji,15,Andrew Conway,1991-07-11,26.36
+18/11/2017,Fiji,12,Stuart McCloskey,1992-08-06,25.28
+18/11/2017,Fiji,1,Jack McGrath,1989-10-11,28.1
+18/11/2017,Fiji,23,Robbie Henshaw,1993-06-12,24.44
+18/11/2017,Fiji,2,Rob Herring,1990-04-27,27.56
+18/11/2017,Fiji,3,Andrew Porter,1996-01-16,21.84
+18/11/2017,Fiji,10,Joey Carbery,1995-11-01,22.05
+25/11/2017,Argentina,13,Chris Farrell,1993-03-16,24.7
+25/11/2017,Argentina,21,Luke McGrath,1993-02-03,24.81
+25/11/2017,Argentina,12,Bundee Aki,1990-04-07,27.64
+25/11/2017,Argentina,3,Tadhg Furlong,1992-11-14,25.03
+25/11/2017,Argentina,1,Cian Healy,1987-10-07,30.14
+25/11/2017,Argentina,17,Dave Kilcoyne,1988-12-14,28.95
+25/11/2017,Argentina,15,Rob Kearney,1986-03-26,31.67
+25/11/2017,Argentina,8,CJ Stander,1990-04-05,27.64
+25/11/2017,Argentina,22,Ian Keatley,1987-04-01,30.65
+25/11/2017,Argentina,19,Devin Toner,1986-06-29,31.41
+25/11/2017,Argentina,20,Rhys Ruddock,1990-11-13,27.03
+25/11/2017,Argentina,5,Iain Henderson,1992-02-21,25.76
+25/11/2017,Argentina,16,James Tracy,1991-04-02,26.65
+25/11/2017,Argentina,14,Adam Byrne,1994-04-10,23.63
+25/11/2017,Argentina,23,Andrew Conway,1991-07-11,26.38
+25/11/2017,Argentina,7,Sean O'Brien,1987-02-14,30.78
+25/11/2017,Argentina,2,Rory Best,1982-08-15,35.28
+25/11/2017,Argentina,9,Conor Murray,1989-04-20,28.6
+25/11/2017,Argentina,11,Jacob Stockdale,1996-04-03,21.65
+25/11/2017,Argentina,10,Johnny Sexton,1985-07-11,32.38
+25/11/2017,Argentina,4,James Ryan,1996-07-24,21.34
+25/11/2017,Argentina,18,John Ryan,1988-08-02,29.31
+25/11/2017,Argentina,6,Peter O'Mahony,1989-09-17,28.19
+03/02/2018,France,21,Luke McGrath,1993-02-03,25.0
+03/02/2018,France,20,Dan Leavy,1994-05-23,23.7
+03/02/2018,France,12,Bundee Aki,1990-04-07,27.83
+03/02/2018,France,3,Tadhg Furlong,1992-11-14,25.22
+03/02/2018,France,1,Cian Healy,1987-10-07,30.33
+03/02/2018,France,15,Rob Kearney,1986-03-26,31.86
+03/02/2018,France,8,CJ Stander,1990-04-05,27.83
+03/02/2018,France,23,Fergus McFadden,1986-06-17,31.63
+03/02/2018,France,14,Keith Earls,1987-10-02,30.34
+03/02/2018,France,19,Devin Toner,1986-06-29,31.6
+03/02/2018,France,4,Iain Henderson,1992-02-21,25.95
+03/02/2018,France,16,Sean Cronin,1986-05-06,31.75
+03/02/2018,France,7,Josh van der Flier,1993-04-25,24.78
+03/02/2018,France,2,Rory Best,1982-08-15,35.47
+03/02/2018,France,9,Conor Murray,1989-04-20,28.79
+03/02/2018,France,11,Jacob Stockdale,1996-04-03,21.84
+03/02/2018,France,17,Jack McGrath,1989-10-11,28.32
+03/02/2018,France,10,Johnny Sexton,1985-07-11,32.57
+03/02/2018,France,5,James Ryan,1996-07-24,21.53
+03/02/2018,France,18,John Ryan,1988-08-02,29.51
+03/02/2018,France,13,Robbie Henshaw,1993-06-12,24.65
+03/02/2018,France,22,Joey Carbery,1995-11-01,22.26
+03/02/2018,France,6,Peter O'Mahony,1989-09-17,28.38
+10/02/2018,Italy,19,Quinn Roux,1990-10-30,27.28
+10/02/2018,Italy,7,Dan Leavy,1994-05-23,23.72
+10/02/2018,Italy,12,Bundee Aki,1990-04-07,27.85
+10/02/2018,Italy,3,Tadhg Furlong,1992-11-14,25.24
+10/02/2018,Italy,17,Cian Healy,1987-10-07,30.35
+10/02/2018,Italy,8,Jack Conan,1992-07-29,25.54
+10/02/2018,Italy,15,Rob Kearney,1986-03-26,31.88
+10/02/2018,Italy,20,CJ Stander,1990-04-05,27.85
+10/02/2018,Italy,21,Kieran Marmion,1992-02-11,26.0
+10/02/2018,Italy,14,Keith Earls,1987-10-02,30.36
+10/02/2018,Italy,5,Devin Toner,1986-06-29,31.62
+10/02/2018,Italy,4,Iain Henderson,1992-02-21,25.97
+10/02/2018,Italy,16,Sean Cronin,1986-05-06,31.77
+10/02/2018,Italy,2,Rory Best,1982-08-15,35.49
+10/02/2018,Italy,9,Conor Murray,1989-04-20,28.81
+10/02/2018,Italy,11,Jacob Stockdale,1996-04-03,21.86
+10/02/2018,Italy,1,Jack McGrath,1989-10-11,28.33
+10/02/2018,Italy,10,Johnny Sexton,1985-07-11,32.59
+10/02/2018,Italy,13,Robbie Henshaw,1993-06-12,24.67
+10/02/2018,Italy,18,Andrew Porter,1996-01-16,22.07
+10/02/2018,Italy,23,Jordan Larmour,1997-06-10,20.67
+10/02/2018,Italy,22,Joey Carbery,1995-11-01,22.28
+10/02/2018,Italy,6,Peter O'Mahony,1989-09-17,28.4
+24/02/2018,Wales,13,Chris Farrell,1993-03-16,24.95
+24/02/2018,Wales,19,Quinn Roux,1990-10-30,27.32
+24/02/2018,Wales,7,Dan Leavy,1994-05-23,23.76
+24/02/2018,Wales,12,Bundee Aki,1990-04-07,27.89
+24/02/2018,Wales,1,Cian Healy,1987-10-07,30.39
+24/02/2018,Wales,20,Jack Conan,1992-07-29,25.57
+24/02/2018,Wales,15,Rob Kearney,1986-03-26,31.92
+24/02/2018,Wales,8,CJ Stander,1990-04-05,27.89
+24/02/2018,Wales,21,Kieran Marmion,1992-02-11,26.04
+24/02/2018,Wales,23,Fergus McFadden,1986-06-17,31.69
+24/02/2018,Wales,14,Keith Earls,1987-10-02,30.4
+24/02/2018,Wales,5,Devin Toner,1986-06-29,31.66
+24/02/2018,Wales,16,Sean Cronin,1986-05-06,31.81
+24/02/2018,Wales,2,Rory Best,1982-08-15,35.53
+24/02/2018,Wales,9,Conor Murray,1989-04-20,28.85
+24/02/2018,Wales,11,Jacob Stockdale,1996-04-03,21.9
+24/02/2018,Wales,17,Jack McGrath,1989-10-11,28.37
+24/02/2018,Wales,10,Johnny Sexton,1985-07-11,32.62
+24/02/2018,Wales,4,James Ryan,1996-07-24,21.59
+24/02/2018,Wales,18,John Ryan,1988-08-02,29.56
+24/02/2018,Wales,3,Andrew Porter,1996-01-16,22.11
+24/02/2018,Wales,22,Joey Carbery,1995-11-01,22.32
+24/02/2018,Wales,6,Peter O'Mahony,1989-09-17,28.44
+10/03/2018,Scotland,7,Dan Leavy,1994-05-23,23.8
+10/03/2018,Scotland,12,Bundee Aki,1990-04-07,27.92
+10/03/2018,Scotland,3,Tadhg Furlong,1992-11-14,25.32
+10/03/2018,Scotland,1,Cian Healy,1987-10-07,30.42
+10/03/2018,Scotland,20,Jordi Murphy,1991-04-22,26.88
+10/03/2018,Scotland,15,Rob Kearney,1986-03-26,31.96
+10/03/2018,Scotland,8,CJ Stander,1990-04-05,27.93
+10/03/2018,Scotland,21,Kieran Marmion,1992-02-11,26.08
+10/03/2018,Scotland,14,Keith Earls,1987-10-02,30.44
+10/03/2018,Scotland,5,Devin Toner,1986-06-29,31.7
+10/03/2018,Scotland,19,Iain Henderson,1992-02-21,26.05
+10/03/2018,Scotland,16,Sean Cronin,1986-05-06,31.84
+10/03/2018,Scotland,2,Rory Best,1982-08-15,35.57
+10/03/2018,Scotland,9,Conor Murray,1989-04-20,28.89
+10/03/2018,Scotland,13,Garry Ringrose,1995-01-26,23.12
+10/03/2018,Scotland,11,Jacob Stockdale,1996-04-03,21.93
+10/03/2018,Scotland,17,Jack McGrath,1989-10-11,28.41
+10/03/2018,Scotland,10,Johnny Sexton,1985-07-11,32.66
+10/03/2018,Scotland,4,James Ryan,1996-07-24,21.63
+10/03/2018,Scotland,18,Andrew Porter,1996-01-16,22.15
+10/03/2018,Scotland,23,Jordan Larmour,1997-06-10,20.75
+10/03/2018,Scotland,22,Joey Carbery,1995-11-01,22.36
+10/03/2018,Scotland,6,Peter O'Mahony,1989-09-17,28.48
+17/03/2018,England,7,Dan Leavy,1994-05-23,23.82
+17/03/2018,England,12,Bundee Aki,1990-04-07,27.94
+17/03/2018,England,3,Tadhg Furlong,1992-11-14,25.34
+17/03/2018,England,1,Cian Healy,1987-10-07,30.44
+17/03/2018,England,20,Jordi Murphy,1991-04-22,26.9
+17/03/2018,England,15,Rob Kearney,1986-03-26,31.98
+17/03/2018,England,8,CJ Stander,1990-04-05,27.95
+17/03/2018,England,21,Kieran Marmion,1992-02-11,26.09
+17/03/2018,England,14,Keith Earls,1987-10-02,30.46
+17/03/2018,England,19,Devin Toner,1986-06-29,31.72
+17/03/2018,England,5,Iain Henderson,1992-02-21,26.07
+17/03/2018,England,16,Sean Cronin,1986-05-06,31.86
+17/03/2018,England,2,Rory Best,1982-08-15,35.59
+17/03/2018,England,9,Conor Murray,1989-04-20,28.91
+17/03/2018,England,13,Garry Ringrose,1995-01-26,23.14
+17/03/2018,England,11,Jacob Stockdale,1996-04-03,21.95
+17/03/2018,England,17,Jack McGrath,1989-10-11,28.43
+17/03/2018,England,10,Johnny Sexton,1985-07-11,32.68
+17/03/2018,England,4,James Ryan,1996-07-24,21.65
+17/03/2018,England,18,Andrew Porter,1996-01-16,22.17
+17/03/2018,England,23,Jordan Larmour,1997-06-10,20.77
+17/03/2018,England,22,Joey Carbery,1995-11-01,22.37
+17/03/2018,England,6,Peter O'Mahony,1989-09-17,28.5
+09/06/2018,Australia,19,Quinn Roux,1990-10-30,27.61
+09/06/2018,Australia,12,Bundee Aki,1990-04-07,28.17
+09/06/2018,Australia,18,Tadhg Furlong,1992-11-14,25.57
+09/06/2018,Australia,17,Cian Healy,1987-10-07,30.67
+09/06/2018,Australia,20,Jack Conan,1992-07-29,25.86
+09/06/2018,Australia,7,Jordi Murphy,1991-04-22,27.13
+09/06/2018,Australia,15,Rob Kearney,1986-03-26,32.21
+09/06/2018,Australia,8,CJ Stander,1990-04-05,28.18
+09/06/2018,Australia,21,Kieran Marmion,1992-02-11,26.32
+09/06/2018,Australia,14,Keith Earls,1987-10-02,30.69
+09/06/2018,Australia,4,Iain Henderson,1992-02-21,26.3
+09/06/2018,Australia,16,Sean Cronin,1986-05-06,32.09
+09/06/2018,Australia,9,Conor Murray,1989-04-20,29.14
+09/06/2018,Australia,11,Jacob Stockdale,1996-04-03,22.18
+09/06/2018,Australia,1,Jack McGrath,1989-10-11,28.66
+09/06/2018,Australia,22,Johnny Sexton,1985-07-11,32.91
+09/06/2018,Australia,5,James Ryan,1996-07-24,21.88
+09/06/2018,Australia,3,John Ryan,1988-08-02,29.85
+09/06/2018,Australia,13,Robbie Henshaw,1993-06-12,24.99
+09/06/2018,Australia,2,Rob Herring,1990-04-27,28.12
+09/06/2018,Australia,23,Jordan Larmour,1997-06-10,21.0
+09/06/2018,Australia,10,Joey Carbery,1995-11-01,22.6
+09/06/2018,Australia,6,Peter O'Mahony,1989-09-17,28.73
+16/06/2018,Australia,7,Dan Leavy,1994-05-23,24.07
+16/06/2018,Australia,3,Tadhg Furlong,1992-11-14,25.59
+16/06/2018,Australia,1,Cian Healy,1987-10-07,30.69
+16/06/2018,Australia,20,Jordi Murphy,1991-04-22,27.15
+16/06/2018,Australia,15,Rob Kearney,1986-03-26,32.23
+16/06/2018,Australia,19,Tadhg Beirne,1992-01-08,26.44
+16/06/2018,Australia,8,CJ Stander,1990-04-05,28.2
+16/06/2018,Australia,11,Keith Earls,1987-10-02,30.71
+16/06/2018,Australia,5,Devin Toner,1986-06-29,31.97
+16/06/2018,Australia,14,Andrew Conway,1991-07-11,26.93
+16/06/2018,Australia,9,Conor Murray,1989-04-20,29.16
+16/06/2018,Australia,13,Garry Ringrose,1995-01-26,23.39
+16/06/2018,Australia,17,Jack McGrath,1989-10-11,28.68
+16/06/2018,Australia,10,Johnny Sexton,1985-07-11,32.93
+16/06/2018,Australia,4,James Ryan,1996-07-24,21.9
+16/06/2018,Australia,12,Robbie Henshaw,1993-06-12,25.01
+16/06/2018,Australia,16,Rob Herring,1990-04-27,28.14
+16/06/2018,Australia,18,Andrew Porter,1996-01-16,22.42
+16/06/2018,Australia,2,Niall Scannell,1992-04-08,26.19
+16/06/2018,Australia,23,Jordan Larmour,1997-06-10,21.02
+16/06/2018,Australia,22,Joey Carbery,1995-11-01,22.62
+16/06/2018,Australia,21,John Cooney,1990-05-01,28.13
+16/06/2018,Australia,6,Peter O'Mahony,1989-09-17,28.75
+23/06/2018,Australia,22,Ross Byrne,1995-04-08,23.21
+23/06/2018,Australia,12,Bundee Aki,1990-04-07,28.21
+23/06/2018,Australia,3,Tadhg Furlong,1992-11-14,25.6
+23/06/2018,Australia,17,Cian Healy,1987-10-07,30.71
+23/06/2018,Australia,8,Jack Conan,1992-07-29,25.9
+23/06/2018,Australia,20,Jordi Murphy,1991-04-22,27.17
+23/06/2018,Australia,15,Rob Kearney,1986-03-26,32.24
+23/06/2018,Australia,19,Tadhg Beirne,1992-01-08,26.46
+23/06/2018,Australia,6,CJ Stander,1990-04-05,28.22
+23/06/2018,Australia,21,Kieran Marmion,1992-02-11,26.36
+23/06/2018,Australia,14,Keith Earls,1987-10-02,30.72
+23/06/2018,Australia,5,Devin Toner,1986-06-29,31.98
+23/06/2018,Australia,9,Conor Murray,1989-04-20,29.18
+23/06/2018,Australia,11,Jacob Stockdale,1996-04-03,22.22
+23/06/2018,Australia,1,Jack McGrath,1989-10-11,28.7
+23/06/2018,Australia,10,Johnny Sexton,1985-07-11,32.95
+23/06/2018,Australia,4,James Ryan,1996-07-24,21.91
+23/06/2018,Australia,18,John Ryan,1988-08-02,29.89
+23/06/2018,Australia,13,Robbie Henshaw,1993-06-12,25.03
+23/06/2018,Australia,16,Rob Herring,1990-04-27,28.16
+23/06/2018,Australia,2,Niall Scannell,1992-04-08,26.21
+23/06/2018,Australia,23,Jordan Larmour,1997-06-10,21.04
+23/06/2018,Australia,7,Peter O'Mahony,1989-09-17,28.76
+03/11/2018,Italy,5,Quinn Roux,1990-10-30,28.01
+03/11/2018,Italy,9,Luke McGrath,1993-02-03,25.75
+03/11/2018,Italy,22,Ross Byrne,1995-04-08,23.57
+03/11/2018,Italy,12,Bundee Aki,1990-04-07,28.58
+03/11/2018,Italy,8,Jack Conan,1992-07-29,26.26
+03/11/2018,Italy,17,Dave Kilcoyne,1988-12-14,29.89
+03/11/2018,Italy,20,Jordi Murphy,1991-04-22,27.54
+03/11/2018,Italy,4,Tadhg Beirne,1992-01-08,26.82
+03/11/2018,Italy,19,Devin Toner,1986-06-29,32.35
+03/11/2018,Italy,6,Rhys Ruddock,1990-11-13,27.97
+03/11/2018,Italy,16,Sean Cronin,1986-05-06,32.5
+03/11/2018,Italy,7,Josh van der Flier,1993-04-25,25.53
+03/11/2018,Italy,14,Andrew Conway,1991-07-11,27.32
+03/11/2018,Italy,13,Garry Ringrose,1995-01-26,23.77
+03/11/2018,Italy,11,Jacob Stockdale,1996-04-03,22.58
+03/11/2018,Italy,1,Jack McGrath,1989-10-11,29.06
+03/11/2018,Italy,23,Will Addison,1992-08-20,26.2
+03/11/2018,Italy,3,Andrew Porter,1996-01-16,22.8
+03/11/2018,Italy,2,Niall Scannell,1992-04-08,26.57
+03/11/2018,Italy,15,Jordan Larmour,1997-06-10,21.4
+03/11/2018,Italy,10,Joey Carbery,1995-11-01,23.01
+03/11/2018,Italy,21,John Cooney,1990-05-01,28.51
+03/11/2018,Italy,18,Finlay Bealham,1991-10-09,27.07
+10/11/2018,Argentina,21,Luke McGrath,1993-02-03,25.77
+10/11/2018,Argentina,20,Dan Leavy,1994-05-23,24.47
+10/11/2018,Argentina,12,Bundee Aki,1990-04-07,28.59
+10/11/2018,Argentina,3,Tadhg Furlong,1992-11-14,25.99
+10/11/2018,Argentina,1,Cian Healy,1987-10-07,31.09
+10/11/2018,Argentina,8,CJ Stander,1990-04-05,28.6
+10/11/2018,Argentina,9,Kieran Marmion,1992-02-11,26.75
+10/11/2018,Argentina,14,Keith Earls,1987-10-02,31.11
+10/11/2018,Argentina,19,Devin Toner,1986-06-29,32.37
+10/11/2018,Argentina,4,Iain Henderson,1992-02-21,26.72
+10/11/2018,Argentina,16,Sean Cronin,1986-05-06,32.52
+10/11/2018,Argentina,23,Andrew Conway,1991-07-11,27.34
+10/11/2018,Argentina,7,Sean O'Brien,1987-02-14,31.74
+10/11/2018,Argentina,2,Rory Best,1982-08-15,36.24
+10/11/2018,Argentina,11,Jacob Stockdale,1996-04-03,22.6
+10/11/2018,Argentina,17,Jack McGrath,1989-10-11,29.08
+10/11/2018,Argentina,10,Johnny Sexton,1985-07-11,33.33
+10/11/2018,Argentina,5,James Ryan,1996-07-24,22.3
+10/11/2018,Argentina,13,Will Addison,1992-08-20,26.22
+10/11/2018,Argentina,18,Andrew Porter,1996-01-16,22.82
+10/11/2018,Argentina,15,Jordan Larmour,1997-06-10,21.42
+10/11/2018,Argentina,22,Joey Carbery,1995-11-01,23.03
+10/11/2018,Argentina,6,Peter O'Mahony,1989-09-17,29.15
+17/11/2018,New Zealand,21,Luke McGrath,1993-02-03,25.79
+17/11/2018,New Zealand,12,Bundee Aki,1990-04-07,28.61
+17/11/2018,New Zealand,3,Tadhg Furlong,1992-11-14,26.01
+17/11/2018,New Zealand,1,Cian Healy,1987-10-07,31.11
+17/11/2018,New Zealand,20,Jordi Murphy,1991-04-22,27.57
+17/11/2018,New Zealand,15,Rob Kearney,1986-03-26,32.65
+17/11/2018,New Zealand,8,CJ Stander,1990-04-05,28.62
+17/11/2018,New Zealand,9,Kieran Marmion,1992-02-11,26.77
+17/11/2018,New Zealand,14,Keith Earls,1987-10-02,31.13
+17/11/2018,New Zealand,4,Devin Toner,1986-06-29,32.39
+17/11/2018,New Zealand,19,Iain Henderson,1992-02-21,26.74
+17/11/2018,New Zealand,16,Sean Cronin,1986-05-06,32.53
+17/11/2018,New Zealand,7,Josh van der Flier,1993-04-25,25.56
+17/11/2018,New Zealand,2,Rory Best,1982-08-15,36.26
+17/11/2018,New Zealand,13,Garry Ringrose,1995-01-26,23.81
+17/11/2018,New Zealand,11,Jacob Stockdale,1996-04-03,22.62
+17/11/2018,New Zealand,17,Jack McGrath,1989-10-11,29.1
+17/11/2018,New Zealand,10,Johnny Sexton,1985-07-11,33.35
+17/11/2018,New Zealand,5,James Ryan,1996-07-24,22.32
+17/11/2018,New Zealand,18,Andrew Porter,1996-01-16,22.84
+17/11/2018,New Zealand,23,Jordan Larmour,1997-06-10,21.44
+17/11/2018,New Zealand,22,Joey Carbery,1995-11-01,23.04
+17/11/2018,New Zealand,6,Peter O'Mahony,1989-09-17,29.17
+24/11/2018,USA,19,Quinn Roux,1990-10-30,28.07
+24/11/2018,USA,21,Luke McGrath,1993-02-03,25.8
+24/11/2018,USA,22,Ross Byrne,1995-04-08,23.63
+24/11/2018,USA,17,Cian Healy,1987-10-07,31.13
+24/11/2018,USA,8,Jack Conan,1992-07-29,26.32
+24/11/2018,USA,1,Dave Kilcoyne,1988-12-14,29.94
+24/11/2018,USA,7,Jordi Murphy,1991-04-22,27.59
+24/11/2018,USA,23,Sammy Arnold,1996-04-08,22.63
+24/11/2018,USA,4,Tadhg Beirne,1992-01-08,26.88
+24/11/2018,USA,6,Rhys Ruddock,1990-11-13,28.03
+24/11/2018,USA,5,Iain Henderson,1992-02-21,26.76
+24/11/2018,USA,11,Darren Sweetnam,1993-05-05,25.56
+24/11/2018,USA,20,Josh van der Flier,1993-04-25,25.58
+24/11/2018,USA,14,Andrew Conway,1991-07-11,27.37
+24/11/2018,USA,13,Garry Ringrose,1995-01-26,23.83
+24/11/2018,USA,12,Stuart McCloskey,1992-08-06,26.3
+24/11/2018,USA,18,John Ryan,1988-08-02,30.31
+24/11/2018,USA,16,Rob Herring,1990-04-27,28.58
+24/11/2018,USA,15,Will Addison,1992-08-20,26.26
+24/11/2018,USA,2,Niall Scannell,1992-04-08,26.63
+24/11/2018,USA,10,Joey Carbery,1995-11-01,23.06
+24/11/2018,USA,9,John Cooney,1990-05-01,28.57
+24/11/2018,USA,3,Finlay Bealham,1991-10-09,27.13
+02/02/2019,England,19,Quinn Roux,1990-10-30,28.26
+02/02/2019,England,12,Bundee Aki,1990-04-07,28.82
+02/02/2019,England,3,Tadhg Furlong,1992-11-14,26.22
+02/02/2019,England,1,Cian Healy,1987-10-07,31.32
+02/02/2019,England,17,Dave Kilcoyne,1988-12-14,30.14
+02/02/2019,England,8,CJ Stander,1990-04-05,28.83
+02/02/2019,England,14,Keith Earls,1987-10-02,31.34
+02/02/2019,England,4,Devin Toner,1986-06-29,32.6
+02/02/2019,England,16,Sean Cronin,1986-05-06,32.75
+02/02/2019,England,7,Josh van der Flier,1993-04-25,25.77
+02/02/2019,England,20,Sean O'Brien,1987-02-14,31.97
+02/02/2019,England,2,Rory Best,1982-08-15,36.47
+02/02/2019,England,9,Conor Murray,1989-04-20,29.79
+02/02/2019,England,13,Garry Ringrose,1995-01-26,24.02
+02/02/2019,England,11,Jacob Stockdale,1996-04-03,22.83
+02/02/2019,England,10,Johnny Sexton,1985-07-11,33.56
+02/02/2019,England,5,James Ryan,1996-07-24,22.53
+02/02/2019,England,15,Robbie Henshaw,1993-06-12,25.64
+02/02/2019,England,18,Andrew Porter,1996-01-16,23.05
+02/02/2019,England,23,Jordan Larmour,1997-06-10,21.65
+02/02/2019,England,22,Joey Carbery,1995-11-01,23.26
+02/02/2019,England,21,John Cooney,1990-05-01,28.76
+02/02/2019,England,6,Peter O'Mahony,1989-09-17,29.38
+09/02/2019,Scotland,13,Chris Farrell,1993-03-16,25.9
+09/02/2019,Scotland,5,Quinn Roux,1990-10-30,28.28
+09/02/2019,Scotland,12,Bundee Aki,1990-04-07,28.84
+09/02/2019,Scotland,3,Tadhg Furlong,1992-11-14,26.24
+09/02/2019,Scotland,1,Cian Healy,1987-10-07,31.34
+09/02/2019,Scotland,8,Jack Conan,1992-07-29,26.53
+09/02/2019,Scotland,17,Dave Kilcoyne,1988-12-14,30.16
+09/02/2019,Scotland,15,Rob Kearney,1986-03-26,32.88
+09/02/2019,Scotland,14,Keith Earls,1987-10-02,31.36
+09/02/2019,Scotland,19,Ultan Dillane,1993-11-09,25.25
+09/02/2019,Scotland,16,Sean Cronin,1986-05-06,32.76
+09/02/2019,Scotland,20,Josh van der Flier,1993-04-25,25.79
+09/02/2019,Scotland,7,Sean O'Brien,1987-02-14,31.99
+09/02/2019,Scotland,2,Rory Best,1982-08-15,36.49
+09/02/2019,Scotland,9,Conor Murray,1989-04-20,29.81
+09/02/2019,Scotland,11,Jacob Stockdale,1996-04-03,22.85
+09/02/2019,Scotland,10,Johnny Sexton,1985-07-11,33.58
+09/02/2019,Scotland,4,James Ryan,1996-07-24,22.55
+09/02/2019,Scotland,18,Andrew Porter,1996-01-16,23.07
+09/02/2019,Scotland,23,Jordan Larmour,1997-06-10,21.67
+09/02/2019,Scotland,22,Joey Carbery,1995-11-01,23.27
+09/02/2019,Scotland,21,John Cooney,1990-05-01,28.78
+09/02/2019,Scotland,6,Peter O'Mahony,1989-09-17,29.4
+24/02/2019,Italy,13,Chris Farrell,1993-03-16,25.94
+24/02/2019,Italy,5,Quinn Roux,1990-10-30,28.32
+24/02/2019,Italy,12,Bundee Aki,1990-04-07,28.88
+24/02/2019,Italy,3,Tadhg Furlong,1992-11-14,26.28
+24/02/2019,Italy,1,Dave Kilcoyne,1988-12-14,30.2
+24/02/2019,Italy,8,Jordi Murphy,1991-04-22,27.84
+24/02/2019,Italy,15,Rob Kearney,1986-03-26,32.92
+24/02/2019,Italy,14,Keith Earls,1987-10-02,31.4
+24/02/2019,Italy,19,Iain Henderson,1992-02-21,27.01
+24/02/2019,Italy,4,Ultan Dillane,1993-11-09,25.29
+24/02/2019,Italy,2,Sean Cronin,1986-05-06,32.81
+24/02/2019,Italy,20,Josh van der Flier,1993-04-25,25.83
+24/02/2019,Italy,22,Jack Carty,1992-08-31,26.48
+24/02/2019,Italy,23,Andrew Conway,1991-07-11,27.63
+24/02/2019,Italy,7,Sean O'Brien,1987-02-14,32.03
+24/02/2019,Italy,9,Conor Murray,1989-04-20,29.85
+24/02/2019,Italy,11,Jacob Stockdale,1996-04-03,22.89
+24/02/2019,Italy,17,Jack McGrath,1989-10-11,29.37
+24/02/2019,Italy,10,Johnny Sexton,1985-07-11,33.62
+24/02/2019,Italy,18,John Ryan,1988-08-02,30.56
+24/02/2019,Italy,16,Niall Scannell,1992-04-08,26.88
+24/02/2019,Italy,21,John Cooney,1990-05-01,28.82
+24/02/2019,Italy,6,Peter O'Mahony,1989-09-17,29.44
+10/03/2019,France,12,Bundee Aki,1990-04-07,28.92
+10/03/2019,France,3,Tadhg Furlong,1992-11-14,26.32
+10/03/2019,France,1,Cian Healy,1987-10-07,31.42
+10/03/2019,France,20,Jack Conan,1992-07-29,26.61
+10/03/2019,France,17,Dave Kilcoyne,1988-12-14,30.23
+10/03/2019,France,8,CJ Stander,1990-04-05,28.93
+10/03/2019,France,14,Keith Earls,1987-10-02,31.44
+10/03/2019,France,4,Iain Henderson,1992-02-21,27.05
+10/03/2019,France,19,Ultan Dillane,1993-11-09,25.33
+10/03/2019,France,7,Josh van der Flier,1993-04-25,25.87
+10/03/2019,France,22,Jack Carty,1992-08-31,26.52
+10/03/2019,France,23,Andrew Conway,1991-07-11,27.66
+10/03/2019,France,2,Rory Best,1982-08-15,36.57
+10/03/2019,France,9,Conor Murray,1989-04-20,29.89
+10/03/2019,France,13,Garry Ringrose,1995-01-26,24.12
+10/03/2019,France,11,Jacob Stockdale,1996-04-03,22.93
+10/03/2019,France,10,Johnny Sexton,1985-07-11,33.66
+10/03/2019,France,5,James Ryan,1996-07-24,22.63
+10/03/2019,France,18,John Ryan,1988-08-02,30.6
+10/03/2019,France,16,Niall Scannell,1992-04-08,26.92
+10/03/2019,France,15,Jordan Larmour,1997-06-10,21.75
+10/03/2019,France,21,John Cooney,1990-05-01,28.86
+10/03/2019,France,6,Peter O'Mahony,1989-09-17,29.48
+16/03/2019,Wales,19,Quinn Roux,1990-10-30,28.38
+16/03/2019,Wales,12,Bundee Aki,1990-04-07,28.94
+16/03/2019,Wales,3,Tadhg Furlong,1992-11-14,26.33
+16/03/2019,Wales,1,Cian Healy,1987-10-07,31.44
+16/03/2019,Wales,20,Jack Conan,1992-07-29,26.63
+16/03/2019,Wales,17,Dave Kilcoyne,1988-12-14,30.25
+16/03/2019,Wales,15,Rob Kearney,1986-03-26,32.97
+16/03/2019,Wales,4,Tadhg Beirne,1992-01-08,27.18
+16/03/2019,Wales,8,CJ Stander,1990-04-05,28.95
+16/03/2019,Wales,21,Kieran Marmion,1992-02-11,27.09
+16/03/2019,Wales,14,Keith Earls,1987-10-02,31.45
+16/03/2019,Wales,22,Jack Carty,1992-08-31,26.54
+16/03/2019,Wales,7,Sean O'Brien,1987-02-14,32.08
+16/03/2019,Wales,2,Rory Best,1982-08-15,36.58
+16/03/2019,Wales,9,Conor Murray,1989-04-20,29.9
+16/03/2019,Wales,13,Garry Ringrose,1995-01-26,24.13
+16/03/2019,Wales,11,Jacob Stockdale,1996-04-03,22.95
+16/03/2019,Wales,10,Johnny Sexton,1985-07-11,33.68
+16/03/2019,Wales,5,James Ryan,1996-07-24,22.64
+16/03/2019,Wales,18,Andrew Porter,1996-01-16,23.16
+16/03/2019,Wales,16,Niall Scannell,1992-04-08,26.94
+16/03/2019,Wales,23,Jordan Larmour,1997-06-10,21.76
+16/03/2019,Wales,6,Peter O'Mahony,1989-09-17,29.49
+10/08/2019,Italy,12,Chris Farrell,1993-03-16,26.4
+10/08/2019,Italy,9,Luke McGrath,1993-02-03,26.51
+10/08/2019,Italy,17,Cian Healy,1987-10-07,31.84
+10/08/2019,Italy,8,Jordi Murphy,1991-04-22,28.3
+10/08/2019,Italy,11,Dave Kearney,1989-06-19,30.14
+10/08/2019,Italy,5,Jean Kleyn,1993-08-26,25.96
+10/08/2019,Italy,20,Tadhg Beirne,1992-01-08,27.59
+10/08/2019,Italy,21,Kieran Marmion,1992-02-11,27.49
+10/08/2019,Italy,23,Mike Haley,1994-06-28,25.12
+10/08/2019,Italy,7,Tommy O'Donnell,1987-05-21,32.22
+10/08/2019,Italy,4,Devin Toner,1986-06-29,33.11
+10/08/2019,Italy,6,Rhys Ruddock,1990-11-13,28.74
+10/08/2019,Italy,19,Iain Henderson,1992-02-21,27.47
+10/08/2019,Italy,22,Jack Carty,1992-08-31,26.94
+10/08/2019,Italy,14,Andrew Conway,1991-07-11,28.08
+10/08/2019,Italy,13,Garry Ringrose,1995-01-26,24.54
+10/08/2019,Italy,1,Jack McGrath,1989-10-11,29.83
+10/08/2019,Italy,18,John Ryan,1988-08-02,31.02
+10/08/2019,Italy,2,Rob Herring,1990-04-27,29.29
+10/08/2019,Italy,3,Andrew Porter,1996-01-16,23.57
+10/08/2019,Italy,16,Niall Scannell,1992-04-08,27.34
+10/08/2019,Italy,15,Jordan Larmour,1997-06-10,22.17
+10/08/2019,Italy,10,Joey Carbery,1995-11-01,23.77
+24/08/2019,England,21,Luke McGrath,1993-02-03,26.55
+24/08/2019,England,10,Ross Byrne,1995-04-08,24.38
+24/08/2019,England,12,Bundee Aki,1990-04-07,29.38
+24/08/2019,England,3,Tadhg Furlong,1992-11-14,26.77
+24/08/2019,England,1,Cian Healy,1987-10-07,31.88
+24/08/2019,England,5,Jean Kleyn,1993-08-26,25.99
+24/08/2019,England,15,Rob Kearney,1986-03-26,33.41
+24/08/2019,England,20,Tadhg Beirne,1992-01-08,27.63
+24/08/2019,England,8,CJ Stander,1990-04-05,29.39
+24/08/2019,England,19,Devin Toner,1986-06-29,33.15
+24/08/2019,England,4,Iain Henderson,1992-02-21,27.51
+24/08/2019,England,16,Sean Cronin,1986-05-06,33.3
+24/08/2019,England,7,Josh van der Flier,1993-04-25,26.33
+24/08/2019,England,22,Jack Carty,1992-08-31,26.98
+24/08/2019,England,23,Andrew Conway,1991-07-11,28.12
+24/08/2019,England,2,Rory Best,1982-08-15,37.02
+24/08/2019,England,9,Conor Murray,1989-04-20,30.34
+24/08/2019,England,13,Garry Ringrose,1995-01-26,24.58
+24/08/2019,England,11,Jacob Stockdale,1996-04-03,23.39
+24/08/2019,England,17,Jack McGrath,1989-10-11,29.87
+24/08/2019,England,18,Andrew Porter,1996-01-16,23.6
+24/08/2019,England,14,Jordan Larmour,1997-06-10,22.2
+24/08/2019,England,6,Peter O'Mahony,1989-09-17,29.93
+31/08/2019,Wales,13,Chris Farrell,1993-03-16,26.46
+31/08/2019,Wales,21,Luke McGrath,1993-02-03,26.57
+31/08/2019,Wales,12,Bundee Aki,1990-04-07,29.4
+31/08/2019,Wales,18,Tadhg Furlong,1992-11-14,26.79
+31/08/2019,Wales,8,Jack Conan,1992-07-29,27.09
+31/08/2019,Wales,1,Dave Kilcoyne,1988-12-14,30.71
+31/08/2019,Wales,20,Jordi Murphy,1991-04-22,28.36
+31/08/2019,Wales,23,Dave Kearney,1989-06-19,30.2
+31/08/2019,Wales,6,Tadhg Beirne,1992-01-08,27.64
+31/08/2019,Wales,9,Kieran Marmion,1992-02-11,27.55
+31/08/2019,Wales,19,Devin Toner,1986-06-29,33.17
+31/08/2019,Wales,4,Iain Henderson,1992-02-21,27.52
+31/08/2019,Wales,10,Jack Carty,1992-08-31,27.0
+31/08/2019,Wales,14,Andrew Conway,1991-07-11,28.14
+31/08/2019,Wales,16,Rory Best,1982-08-15,37.04
+31/08/2019,Wales,22,Garry Ringrose,1995-01-26,24.59
+31/08/2019,Wales,11,Jacob Stockdale,1996-04-03,23.41
+31/08/2019,Wales,5,James Ryan,1996-07-24,23.1
+31/08/2019,Wales,3,John Ryan,1988-08-02,31.08
+31/08/2019,Wales,15,Will Addison,1992-08-20,27.03
+31/08/2019,Wales,17,Andrew Porter,1996-01-16,23.62
+31/08/2019,Wales,2,Niall Scannell,1992-04-08,27.4
+31/08/2019,Wales,7,Peter O'Mahony,1989-09-17,29.95
+07/09/2019,Wales,21,Luke McGrath,1993-02-03,26.59
+07/09/2019,Wales,12,Bundee Aki,1990-04-07,29.42
+07/09/2019,Wales,3,Tadhg Furlong,1992-11-14,26.81
+07/09/2019,Wales,1,Cian Healy,1987-10-07,31.92
+07/09/2019,Wales,8,Jack Conan,1992-07-29,27.11
+07/09/2019,Wales,17,Dave Kilcoyne,1988-12-14,30.73
+07/09/2019,Wales,5,Jean Kleyn,1993-08-26,26.03
+07/09/2019,Wales,15,Rob Kearney,1986-03-26,33.45
+07/09/2019,Wales,6,CJ Stander,1990-04-05,29.42
+07/09/2019,Wales,11,Keith Earls,1987-10-02,31.93
+07/09/2019,Wales,20,Rhys Ruddock,1990-11-13,28.82
+07/09/2019,Wales,19,Iain Henderson,1992-02-21,27.54
+07/09/2019,Wales,16,Sean Cronin,1986-05-06,33.34
+07/09/2019,Wales,7,Josh van der Flier,1993-04-25,26.37
+07/09/2019,Wales,22,Jack Carty,1992-08-31,27.02
+07/09/2019,Wales,2,Rory Best,1982-08-15,37.06
+07/09/2019,Wales,9,Conor Murray,1989-04-20,30.38
+07/09/2019,Wales,23,Garry Ringrose,1995-01-26,24.61
+07/09/2019,Wales,10,Johnny Sexton,1985-07-11,34.16
+07/09/2019,Wales,4,James Ryan,1996-07-24,23.12
+07/09/2019,Wales,13,Robbie Henshaw,1993-06-12,26.24
+07/09/2019,Wales,18,Andrew Porter,1996-01-16,23.64
+07/09/2019,Wales,14,Jordan Larmour,1997-06-10,22.24
+22/09/2019,Scotland,23,Chris Farrell,1993-03-16,26.52
+22/09/2019,Scotland,21,Luke McGrath,1993-02-03,26.63
+22/09/2019,Scotland,12,Bundee Aki,1990-04-07,29.46
+22/09/2019,Scotland,3,Tadhg Furlong,1992-11-14,26.85
+22/09/2019,Scotland,1,Cian Healy,1987-10-07,31.96
+22/09/2019,Scotland,20,Jack Conan,1992-07-29,27.15
+22/09/2019,Scotland,17,Dave Kilcoyne,1988-12-14,30.77
+22/09/2019,Scotland,19,Tadhg Beirne,1992-01-08,27.7
+22/09/2019,Scotland,8,CJ Stander,1990-04-05,29.47
+22/09/2019,Scotland,4,Iain Henderson,1992-02-21,27.58
+22/09/2019,Scotland,7,Josh van der Flier,1993-04-25,26.41
+22/09/2019,Scotland,22,Jack Carty,1992-08-31,27.06
+22/09/2019,Scotland,14,Andrew Conway,1991-07-11,28.2
+22/09/2019,Scotland,2,Rory Best,1982-08-15,37.1
+22/09/2019,Scotland,9,Conor Murray,1989-04-20,30.42
+22/09/2019,Scotland,13,Garry Ringrose,1995-01-26,24.65
+22/09/2019,Scotland,11,Jacob Stockdale,1996-04-03,23.47
+22/09/2019,Scotland,10,Johnny Sexton,1985-07-11,34.2
+22/09/2019,Scotland,5,James Ryan,1996-07-24,23.16
+22/09/2019,Scotland,18,Andrew Porter,1996-01-16,23.68
+22/09/2019,Scotland,16,Niall Scannell,1992-04-08,27.46
+22/09/2019,Scotland,15,Jordan Larmour,1997-06-10,22.28
+22/09/2019,Scotland,6,Peter O'Mahony,1989-09-17,30.01
+28/09/2019,Japan,12,Chris Farrell,1993-03-16,26.54
+28/09/2019,Japan,21,Luke McGrath,1993-02-03,26.65
+28/09/2019,Japan,3,Tadhg Furlong,1992-11-14,26.87
+28/09/2019,Japan,1,Cian Healy,1987-10-07,31.98
+28/09/2019,Japan,17,Dave Kilcoyne,1988-12-14,30.79
+28/09/2019,Japan,15,Rob Kearney,1986-03-26,33.51
+28/09/2019,Japan,19,Tadhg Beirne,1992-01-08,27.72
+28/09/2019,Japan,8,CJ Stander,1990-04-05,29.48
+28/09/2019,Japan,14,Keith Earls,1987-10-02,31.99
+28/09/2019,Japan,20,Rhys Ruddock,1990-11-13,28.87
+28/09/2019,Japan,4,Iain Henderson,1992-02-21,27.6
+28/09/2019,Japan,16,Sean Cronin,1986-05-06,33.4
+28/09/2019,Japan,7,Josh van der Flier,1993-04-25,26.43
+28/09/2019,Japan,10,Jack Carty,1992-08-31,27.08
+28/09/2019,Japan,2,Rory Best,1982-08-15,37.12
+28/09/2019,Japan,9,Conor Murray,1989-04-20,30.44
+28/09/2019,Japan,13,Garry Ringrose,1995-01-26,24.67
+28/09/2019,Japan,11,Jacob Stockdale,1996-04-03,23.49
+28/09/2019,Japan,5,James Ryan,1996-07-24,23.18
+28/09/2019,Japan,18,Andrew Porter,1996-01-16,23.7
+28/09/2019,Japan,23,Jordan Larmour,1997-06-10,22.3
+28/09/2019,Japan,22,Joey Carbery,1995-11-01,23.91
+28/09/2019,Japan,6,Peter O'Mahony,1989-09-17,30.03
+03/10/2019,Russia,9,Luke McGrath,1993-02-03,26.66
+03/10/2019,Russia,12,Bundee Aki,1990-04-07,29.49
+03/10/2019,Russia,18,Tadhg Furlong,1992-11-14,26.88
+03/10/2019,Russia,1,Dave Kilcoyne,1988-12-14,30.8
+03/10/2019,Russia,8,Jordi Murphy,1991-04-22,28.45
+03/10/2019,Russia,5,Jean Kleyn,1993-08-26,26.1
+03/10/2019,Russia,15,Rob Kearney,1986-03-26,33.52
+03/10/2019,Russia,4,Tadhg Beirne,1992-01-08,27.73
+03/10/2019,Russia,20,CJ Stander,1990-04-05,29.5
+03/10/2019,Russia,11,Keith Earls,1987-10-02,32.0
+03/10/2019,Russia,6,Rhys Ruddock,1990-11-13,28.89
+03/10/2019,Russia,19,Iain Henderson,1992-02-21,27.61
+03/10/2019,Russia,16,Sean Cronin,1986-05-06,33.41
+03/10/2019,Russia,22,Jack Carty,1992-08-31,27.09
+03/10/2019,Russia,14,Andrew Conway,1991-07-11,28.23
+03/10/2019,Russia,21,Conor Murray,1989-04-20,30.45
+03/10/2019,Russia,13,Garry Ringrose,1995-01-26,24.68
+03/10/2019,Russia,10,Johnny Sexton,1985-07-11,34.23
+03/10/2019,Russia,3,John Ryan,1988-08-02,31.17
+03/10/2019,Russia,17,Andrew Porter,1996-01-16,23.71
+03/10/2019,Russia,2,Niall Scannell,1992-04-08,27.49
+03/10/2019,Russia,23,Jordan Larmour,1997-06-10,22.31
+03/10/2019,Russia,7,Peter O'Mahony,1989-09-17,30.04
+12/10/2019,Samoa,21,Luke McGrath,1993-02-03,26.69
+12/10/2019,Samoa,12,Bundee Aki,1990-04-07,29.51
+12/10/2019,Samoa,3,Tadhg Furlong,1992-11-14,26.91
+12/10/2019,Samoa,1,Cian Healy,1987-10-07,32.01
+12/10/2019,Samoa,17,Dave Kilcoyne,1988-12-14,30.83
+12/10/2019,Samoa,19,Jean Kleyn,1993-08-26,26.13
+12/10/2019,Samoa,6,Tadhg Beirne,1992-01-08,27.76
+12/10/2019,Samoa,8,CJ Stander,1990-04-05,29.52
+12/10/2019,Samoa,14,Keith Earls,1987-10-02,32.03
+12/10/2019,Samoa,4,Iain Henderson,1992-02-21,27.64
+12/10/2019,Samoa,7,Josh van der Flier,1993-04-25,26.46
+12/10/2019,Samoa,23,Andrew Conway,1991-07-11,28.26
+12/10/2019,Samoa,2,Rory Best,1982-08-15,37.16
+12/10/2019,Samoa,9,Conor Murray,1989-04-20,30.48
+12/10/2019,Samoa,11,Jacob Stockdale,1996-04-03,23.52
+12/10/2019,Samoa,10,Johnny Sexton,1985-07-11,34.25
+12/10/2019,Samoa,5,James Ryan,1996-07-24,23.22
+12/10/2019,Samoa,13,Robbie Henshaw,1993-06-12,26.33
+12/10/2019,Samoa,18,Andrew Porter,1996-01-16,23.74
+12/10/2019,Samoa,16,Niall Scannell,1992-04-08,27.51
+12/10/2019,Samoa,15,Jordan Larmour,1997-06-10,22.34
+12/10/2019,Samoa,22,Joey Carbery,1995-11-01,23.95
+12/10/2019,Samoa,20,Peter O'Mahony,1989-09-17,30.07
+19/10/2019,New Zealand,21,Luke McGrath,1993-02-03,26.71
+19/10/2019,New Zealand,3,Tadhg Furlong,1992-11-14,26.93
+19/10/2019,New Zealand,1,Cian Healy,1987-10-07,32.03
+19/10/2019,New Zealand,17,Dave Kilcoyne,1988-12-14,30.85
+19/10/2019,New Zealand,15,Rob Kearney,1986-03-26,33.57
+19/10/2019,New Zealand,19,Tadhg Beirne,1992-01-08,27.78
+19/10/2019,New Zealand,8,CJ Stander,1990-04-05,29.54
+19/10/2019,New Zealand,14,Keith Earls,1987-10-02,32.05
+19/10/2019,New Zealand,20,Rhys Ruddock,1990-11-13,28.93
+19/10/2019,New Zealand,4,Iain Henderson,1992-02-21,27.66
+19/10/2019,New Zealand,7,Josh van der Flier,1993-04-25,26.48
+19/10/2019,New Zealand,2,Rory Best,1982-08-15,37.18
+19/10/2019,New Zealand,9,Conor Murray,1989-04-20,30.5
+19/10/2019,New Zealand,13,Garry Ringrose,1995-01-26,24.73
+19/10/2019,New Zealand,11,Jacob Stockdale,1996-04-03,23.54
+19/10/2019,New Zealand,10,Johnny Sexton,1985-07-11,34.27
+19/10/2019,New Zealand,5,James Ryan,1996-07-24,23.24
+19/10/2019,New Zealand,12,Robbie Henshaw,1993-06-12,26.35
+19/10/2019,New Zealand,18,Andrew Porter,1996-01-16,23.76
+19/10/2019,New Zealand,16,Niall Scannell,1992-04-08,27.53
+19/10/2019,New Zealand,23,Jordan Larmour,1997-06-10,22.36
+19/10/2019,New Zealand,22,Joey Carbery,1995-11-01,23.96
+19/10/2019,New Zealand,6,Peter O'Mahony,1989-09-17,30.09
+01/02/2020,Scotland,16,Ronan Kelleher,1998-01-24,22.02
+01/02/2020,Scotland,22,Ross Byrne,1995-04-08,24.82
+01/02/2020,Scotland,12,Bundee Aki,1990-04-07,29.82
+01/02/2020,Scotland,3,Tadhg Furlong,1992-11-14,27.21
+01/02/2020,Scotland,1,Cian Healy,1987-10-07,32.32
+01/02/2020,Scotland,17,Dave Kilcoyne,1988-12-14,31.13
+01/02/2020,Scotland,6,CJ Stander,1990-04-05,29.83
+01/02/2020,Scotland,19,Devin Toner,1986-06-29,33.59
+01/02/2020,Scotland,4,Iain Henderson,1992-02-21,27.95
+01/02/2020,Scotland,7,Josh van der Flier,1993-04-25,26.77
+01/02/2020,Scotland,14,Andrew Conway,1991-07-11,28.56
+01/02/2020,Scotland,9,Conor Murray,1989-04-20,30.79
+01/02/2020,Scotland,13,Garry Ringrose,1995-01-26,25.02
+01/02/2020,Scotland,11,Jacob Stockdale,1996-04-03,23.83
+01/02/2020,Scotland,10,Johnny Sexton,1985-07-11,34.56
+01/02/2020,Scotland,5,James Ryan,1996-07-24,23.52
+01/02/2020,Scotland,23,Robbie Henshaw,1993-06-12,26.64
+01/02/2020,Scotland,2,Rob Herring,1990-04-27,29.77
+01/02/2020,Scotland,18,Andrew Porter,1996-01-16,24.04
+01/02/2020,Scotland,8,Caelan Doris,1998-04-02,21.83
+01/02/2020,Scotland,15,Jordan Larmour,1997-06-10,22.65
+01/02/2020,Scotland,21,John Cooney,1990-05-01,29.76
+01/02/2020,Scotland,20,Peter O'Mahony,1989-09-17,30.37
+08/02/2020,Wales,16,Ronan Kelleher,1998-01-24,22.04
+08/02/2020,Wales,22,Ross Byrne,1995-04-08,24.84
+08/02/2020,Wales,12,Bundee Aki,1990-04-07,29.84
+08/02/2020,Wales,3,Tadhg Furlong,1992-11-14,27.23
+08/02/2020,Wales,1,Cian Healy,1987-10-07,32.34
+08/02/2020,Wales,17,Dave Kilcoyne,1988-12-14,31.15
+08/02/2020,Wales,8,CJ Stander,1990-04-05,29.85
+08/02/2020,Wales,23,Keith Earls,1987-10-02,32.35
+08/02/2020,Wales,19,Devin Toner,1986-06-29,33.61
+08/02/2020,Wales,4,Iain Henderson,1992-02-21,27.96
+08/02/2020,Wales,7,Josh van der Flier,1993-04-25,26.79
+08/02/2020,Wales,14,Andrew Conway,1991-07-11,28.58
+08/02/2020,Wales,9,Conor Murray,1989-04-20,30.8
+08/02/2020,Wales,11,Jacob Stockdale,1996-04-03,23.85
+08/02/2020,Wales,20,Max Deegan,1996-10-01,23.35
+08/02/2020,Wales,10,Johnny Sexton,1985-07-11,34.58
+08/02/2020,Wales,5,James Ryan,1996-07-24,23.54
+08/02/2020,Wales,13,Robbie Henshaw,1993-06-12,26.66
+08/02/2020,Wales,2,Rob Herring,1990-04-27,29.79
+08/02/2020,Wales,18,Andrew Porter,1996-01-16,24.06
+08/02/2020,Wales,15,Jordan Larmour,1997-06-10,22.66
+08/02/2020,Wales,21,John Cooney,1990-05-01,29.77
+08/02/2020,Wales,6,Peter O'Mahony,1989-09-17,30.39
+23/02/2020,England,16,Ronan Kelleher,1998-01-24,22.08
+23/02/2020,England,22,Ross Byrne,1995-04-08,24.88
+23/02/2020,England,12,Bundee Aki,1990-04-07,29.88
+23/02/2020,England,3,Tadhg Furlong,1992-11-14,27.28
+23/02/2020,England,1,Cian Healy,1987-10-07,32.38
+23/02/2020,England,17,Dave Kilcoyne,1988-12-14,31.19
+23/02/2020,England,8,CJ Stander,1990-04-05,29.89
+23/02/2020,England,23,Keith Earls,1987-10-02,32.39
+23/02/2020,England,4,Devin Toner,1986-06-29,33.65
+23/02/2020,England,19,Ultan Dillane,1993-11-09,26.29
+23/02/2020,England,7,Josh van der Flier,1993-04-25,26.83
+23/02/2020,England,14,Andrew Conway,1991-07-11,28.62
+23/02/2020,England,9,Conor Murray,1989-04-20,30.85
+23/02/2020,England,11,Jacob Stockdale,1996-04-03,23.89
+23/02/2020,England,10,Johnny Sexton,1985-07-11,34.62
+23/02/2020,England,5,James Ryan,1996-07-24,23.58
+23/02/2020,England,13,Robbie Henshaw,1993-06-12,26.7
+23/02/2020,England,2,Rob Herring,1990-04-27,29.83
+23/02/2020,England,18,Andrew Porter,1996-01-16,24.1
+23/02/2020,England,20,Caelan Doris,1998-04-02,21.9
+23/02/2020,England,15,Jordan Larmour,1997-06-10,22.71
+23/02/2020,England,21,John Cooney,1990-05-01,29.82
+23/02/2020,England,6,Peter O'Mahony,1989-09-17,30.43
+24/10/2020,Italy,22,Ross Byrne,1995-04-08,25.55
+24/10/2020,Italy,12,Bundee Aki,1990-04-07,30.55
+24/10/2020,Italy,1,Cian Healy,1987-10-07,33.05
+24/10/2020,Italy,11,Hugo Keenan,1996-06-18,24.35
+24/10/2020,Italy,4,Tadhg Beirne,1992-01-08,28.79
+24/10/2020,Italy,8,CJ Stander,1990-04-05,30.56
+24/10/2020,Italy,19,Ultan Dillane,1993-11-09,26.96
+24/10/2020,Italy,14,Andrew Conway,1991-07-11,29.29
+24/10/2020,Italy,9,Conor Murray,1989-04-20,31.51
+24/10/2020,Italy,13,Garry Ringrose,1995-01-26,25.74
+24/10/2020,Italy,15,Jacob Stockdale,1996-04-03,24.56
+24/10/2020,Italy,10,Johnny Sexton,1985-07-11,35.29
+24/10/2020,Italy,5,James Ryan,1996-07-24,24.25
+24/10/2020,Italy,16,Dave Heffernan,1991-01-31,29.73
+24/10/2020,Italy,7,Will Connors,1996-04-04,24.56
+24/10/2020,Italy,17,Ed Byrne,1993-09-09,27.12
+24/10/2020,Italy,23,Robbie Henshaw,1993-06-12,27.37
+24/10/2020,Italy,2,Rob Herring,1990-04-27,30.49
+24/10/2020,Italy,21,Jamison Gibson-Park,1992-02-23,28.67
+24/10/2020,Italy,3,Andrew Porter,1996-01-16,24.77
+24/10/2020,Italy,6,Caelan Doris,1998-04-02,22.56
+24/10/2020,Italy,18,Finlay Bealham,1991-10-09,29.04
+24/10/2020,Italy,20,Peter O'Mahony,1989-09-17,31.1
+31/10/2020,France,23,Chris Farrell,1993-03-16,27.63
+31/10/2020,France,22,Ross Byrne,1995-04-08,25.57
+31/10/2020,France,12,Bundee Aki,1990-04-07,30.57
+31/10/2020,France,1,Cian Healy,1987-10-07,33.07
+31/10/2020,France,11,Hugo Keenan,1996-06-18,24.37
+31/10/2020,France,4,Tadhg Beirne,1992-01-08,28.81
+31/10/2020,France,8,CJ Stander,1990-04-05,30.57
+31/10/2020,France,19,Ultan Dillane,1993-11-09,26.98
+31/10/2020,France,14,Andrew Conway,1991-07-11,29.31
+31/10/2020,France,9,Conor Murray,1989-04-20,31.53
+31/10/2020,France,15,Jacob Stockdale,1996-04-03,24.58
+31/10/2020,France,10,Johnny Sexton,1985-07-11,35.31
+31/10/2020,France,5,James Ryan,1996-07-24,24.27
+31/10/2020,France,16,Dave Heffernan,1991-01-31,29.75
+31/10/2020,France,7,Will Connors,1996-04-04,24.58
+31/10/2020,France,17,Ed Byrne,1993-09-09,27.14
+31/10/2020,France,13,Robbie Henshaw,1993-06-12,27.39
+31/10/2020,France,2,Rob Herring,1990-04-27,30.51
+31/10/2020,France,21,Jamison Gibson-Park,1992-02-23,28.69
+31/10/2020,France,3,Andrew Porter,1996-01-16,24.79
+31/10/2020,France,6,Caelan Doris,1998-04-02,22.58
+31/10/2020,France,18,Finlay Bealham,1991-10-09,29.06
+31/10/2020,France,20,Peter O'Mahony,1989-09-17,31.12
+13/11/2020,Wales,13,Chris Farrell,1993-03-16,27.66
+13/11/2020,Wales,2,Ronan Kelleher,1998-01-24,22.8
+13/11/2020,Wales,4,Quinn Roux,1990-10-30,30.04
+13/11/2020,Wales,1,Cian Healy,1987-10-07,33.1
+13/11/2020,Wales,15,Hugo Keenan,1996-06-18,24.41
+13/11/2020,Wales,19,Tadhg Beirne,1992-01-08,28.85
+13/11/2020,Wales,23,Keith Earls,1987-10-02,33.12
+13/11/2020,Wales,7,Josh van der Flier,1993-04-25,27.55
+13/11/2020,Wales,14,Andrew Conway,1991-07-11,29.34
+13/11/2020,Wales,21,Conor Murray,1989-04-20,31.57
+13/11/2020,Wales,22,Billy Burns,1994-06-13,26.42
+13/11/2020,Wales,10,Johnny Sexton,1985-07-11,35.34
+13/11/2020,Wales,5,James Ryan,1996-07-24,24.31
+13/11/2020,Wales,16,Dave Heffernan,1991-01-31,29.79
+13/11/2020,Wales,20,Will Connors,1996-04-04,24.61
+13/11/2020,Wales,17,Ed Byrne,1993-09-09,27.18
+13/11/2020,Wales,12,Robbie Henshaw,1993-06-12,27.42
+13/11/2020,Wales,9,Jamison Gibson-Park,1992-02-23,28.72
+13/11/2020,Wales,3,Andrew Porter,1996-01-16,24.83
+13/11/2020,Wales,8,Caelan Doris,1998-04-02,22.62
+13/11/2020,Wales,11,James Lowe,1992-07-08,28.35
+13/11/2020,Wales,18,Finlay Bealham,1991-10-09,29.1
+13/11/2020,Wales,6,Peter O'Mahony,1989-09-17,31.16
+21/11/2020,England,13,Chris Farrell,1993-03-16,27.69
+21/11/2020,England,2,Ronan Kelleher,1998-01-24,22.83
+21/11/2020,England,4,Quinn Roux,1990-10-30,30.06
+21/11/2020,England,10,Ross Byrne,1995-04-08,25.62
+21/11/2020,England,12,Bundee Aki,1990-04-07,30.63
+21/11/2020,England,1,Cian Healy,1987-10-07,33.13
+21/11/2020,England,15,Hugo Keenan,1996-06-18,24.43
+21/11/2020,England,6,CJ Stander,1990-04-05,30.63
+21/11/2020,England,14,Keith Earls,1987-10-02,33.14
+21/11/2020,England,19,Iain Henderson,1992-02-21,28.75
+21/11/2020,England,21,Conor Murray,1989-04-20,31.59
+21/11/2020,England,22,Billy Burns,1994-06-13,26.44
+21/11/2020,England,23,Jacob Stockdale,1996-04-03,24.64
+21/11/2020,England,5,James Ryan,1996-07-24,24.33
+21/11/2020,England,20,Will Connors,1996-04-04,24.63
+21/11/2020,England,18,John Ryan,1988-08-02,32.3
+21/11/2020,England,16,Rob Herring,1990-04-27,30.57
+21/11/2020,England,9,Jamison Gibson-Park,1992-02-23,28.75
+21/11/2020,England,3,Andrew Porter,1996-01-16,24.85
+21/11/2020,England,8,Caelan Doris,1998-04-02,22.64
+21/11/2020,England,11,James Lowe,1992-07-08,28.37
+21/11/2020,England,17,Finlay Bealham,1991-10-09,29.12
+21/11/2020,England,7,Peter O'Mahony,1989-09-17,31.18
+29/11/2020,Georgia,13,Chris Farrell,1993-03-16,27.71
+29/11/2020,Georgia,19,Quinn Roux,1990-10-30,30.08
+29/11/2020,Georgia,22,Ross Byrne,1995-04-08,25.65
+29/11/2020,Georgia,23,Shane Daly,1996-12-19,23.95
+29/11/2020,Georgia,17,Cian Healy,1987-10-07,33.15
+29/11/2020,Georgia,14,Hugo Keenan,1996-06-18,24.45
+29/11/2020,Georgia,6,Tadhg Beirne,1992-01-08,28.89
+29/11/2020,Georgia,8,CJ Stander,1990-04-05,30.65
+29/11/2020,Georgia,21,Kieran Marmion,1992-02-11,28.8
+29/11/2020,Georgia,11,Keith Earls,1987-10-02,33.16
+29/11/2020,Georgia,4,Iain Henderson,1992-02-21,28.77
+29/11/2020,Georgia,9,Conor Murray,1989-04-20,31.61
+29/11/2020,Georgia,10,Billy Burns,1994-06-13,26.46
+29/11/2020,Georgia,15,Jacob Stockdale,1996-04-03,24.66
+29/11/2020,Georgia,12,Stuart McCloskey,1992-08-06,28.32
+29/11/2020,Georgia,5,James Ryan,1996-07-24,24.35
+29/11/2020,Georgia,16,Dave Heffernan,1991-01-31,29.83
+29/11/2020,Georgia,7,Will Connors,1996-04-04,24.65
+29/11/2020,Georgia,18,John Ryan,1988-08-02,32.33
+29/11/2020,Georgia,2,Rob Herring,1990-04-27,30.59
+29/11/2020,Georgia,3,Andrew Porter,1996-01-16,24.87
+29/11/2020,Georgia,1,Finlay Bealham,1991-10-09,29.14
+29/11/2020,Georgia,20,Peter O'Mahony,1989-09-17,31.2
+05/12/2020,Scotland,23,Chris Farrell,1993-03-16,27.72
+05/12/2020,Scotland,16,Ronan Kelleher,1998-01-24,22.86
+05/12/2020,Scotland,19,Quinn Roux,1990-10-30,30.1
+05/12/2020,Scotland,22,Ross Byrne,1995-04-08,25.66
+05/12/2020,Scotland,12,Bundee Aki,1990-04-07,30.66
+05/12/2020,Scotland,1,Cian Healy,1987-10-07,33.16
+05/12/2020,Scotland,14,Hugo Keenan,1996-06-18,24.47
+05/12/2020,Scotland,6,CJ Stander,1990-04-05,30.67
+05/12/2020,Scotland,11,Keith Earls,1987-10-02,33.18
+05/12/2020,Scotland,4,Iain Henderson,1992-02-21,28.79
+05/12/2020,Scotland,20,Josh van der Flier,1993-04-25,27.61
+05/12/2020,Scotland,9,Conor Murray,1989-04-20,31.63
+05/12/2020,Scotland,15,Jacob Stockdale,1996-04-03,24.67
+05/12/2020,Scotland,10,Johnny Sexton,1985-07-11,35.4
+05/12/2020,Scotland,5,James Ryan,1996-07-24,24.37
+05/12/2020,Scotland,18,John Ryan,1988-08-02,32.34
+05/12/2020,Scotland,13,Robbie Henshaw,1993-06-12,27.48
+05/12/2020,Scotland,2,Rob Herring,1990-04-27,30.61
+05/12/2020,Scotland,21,Jamison Gibson-Park,1992-02-23,28.78
+05/12/2020,Scotland,3,Andrew Porter,1996-01-16,24.89
+05/12/2020,Scotland,8,Caelan Doris,1998-04-02,22.68
+05/12/2020,Scotland,17,Eric O'Sullivan,1995-11-30,25.02
+05/12/2020,Scotland,7,Peter O'Mahony,1989-09-17,31.22
+07/02/2021,Wales,16,Ronan Kelleher,1998-01-24,23.04
+07/02/2021,Wales,18,Tadhg Furlong,1992-11-14,28.23
+07/02/2021,Wales,1,Cian Healy,1987-10-07,33.34
+07/02/2021,Wales,15,Hugo Keenan,1996-06-18,24.64
+07/02/2021,Wales,17,Dave Kilcoyne,1988-12-14,32.15
+07/02/2021,Wales,4,Tadhg Beirne,1992-01-08,29.08
+07/02/2021,Wales,8,CJ Stander,1990-04-05,30.85
+07/02/2021,Wales,14,Keith Earls,1987-10-02,33.35
+07/02/2021,Wales,19,Iain Henderson,1992-02-21,28.96
+07/02/2021,Wales,7,Josh van der Flier,1993-04-25,27.79
+07/02/2021,Wales,9,Conor Murray,1989-04-20,31.8
+07/02/2021,Wales,22,Billy Burns,1994-06-13,26.66
+07/02/2021,Wales,13,Garry Ringrose,1995-01-26,26.03
+07/02/2021,Wales,10,Johnny Sexton,1985-07-11,35.58
+07/02/2021,Wales,5,James Ryan,1996-07-24,24.54
+07/02/2021,Wales,20,Will Connors,1996-04-04,24.85
+07/02/2021,Wales,12,Robbie Henshaw,1993-06-12,27.66
+07/02/2021,Wales,2,Rob Herring,1990-04-27,30.79
+07/02/2021,Wales,21,Jamison Gibson-Park,1992-02-23,28.96
+07/02/2021,Wales,3,Andrew Porter,1996-01-16,25.06
+07/02/2021,Wales,23,Jordan Larmour,1997-06-10,23.66
+07/02/2021,Wales,11,James Lowe,1992-07-08,28.59
+07/02/2021,Wales,6,Peter O'Mahony,1989-09-17,31.39
+14/02/2021,France,16,Ronan Kelleher,1998-01-24,23.06
+14/02/2021,France,22,Ross Byrne,1995-04-08,25.86
+14/02/2021,France,18,Tadhg Furlong,1992-11-14,28.25
+14/02/2021,France,1,Cian Healy,1987-10-07,33.36
+14/02/2021,France,15,Hugo Keenan,1996-06-18,24.66
+14/02/2021,France,4,Tadhg Beirne,1992-01-08,29.1
+14/02/2021,France,8,CJ Stander,1990-04-05,30.86
+14/02/2021,France,14,Keith Earls,1987-10-02,33.37
+14/02/2021,France,21,Craig Casey,1999-04-19,21.83
+14/02/2021,France,6,Rhys Ruddock,1990-11-13,30.26
+14/02/2021,France,5,Iain Henderson,1992-02-21,28.98
+14/02/2021,France,19,Ultan Dillane,1993-11-09,27.27
+14/02/2021,France,7,Josh van der Flier,1993-04-25,27.81
+14/02/2021,France,10,Billy Burns,1994-06-13,26.68
+14/02/2021,France,13,Garry Ringrose,1995-01-26,26.05
+14/02/2021,France,20,Will Connors,1996-04-04,24.87
+14/02/2021,France,17,Ed Byrne,1993-09-09,27.43
+14/02/2021,France,12,Robbie Henshaw,1993-06-12,27.68
+14/02/2021,France,2,Rob Herring,1990-04-27,30.8
+14/02/2021,France,9,Jamison Gibson-Park,1992-02-23,28.98
+14/02/2021,France,3,Andrew Porter,1996-01-16,25.08
+14/02/2021,France,23,Jordan Larmour,1997-06-10,23.68
+14/02/2021,France,11,James Lowe,1992-07-08,28.61
+27/02/2021,Italy,2,Ronan Kelleher,1998-01-24,23.09
+27/02/2021,Italy,3,Tadhg Furlong,1992-11-14,28.29
+27/02/2021,Italy,17,Cian Healy,1987-10-07,33.39
+27/02/2021,Italy,15,Hugo Keenan,1996-06-18,24.7
+27/02/2021,Italy,20,Jack Conan,1992-07-29,28.58
+27/02/2021,Italy,1,Dave Kilcoyne,1988-12-14,32.21
+27/02/2021,Italy,19,Ryan Baird,1999-07-26,21.59
+27/02/2021,Italy,6,Tadhg Beirne,1992-01-08,29.14
+27/02/2021,Italy,8,CJ Stander,1990-04-05,30.9
+27/02/2021,Italy,23,Keith Earls,1987-10-02,33.41
+27/02/2021,Italy,21,Craig Casey,1999-04-19,21.86
+27/02/2021,Italy,4,Iain Henderson,1992-02-21,29.02
+27/02/2021,Italy,22,Billy Burns,1994-06-13,26.71
+27/02/2021,Italy,13,Garry Ringrose,1995-01-26,26.09
+27/02/2021,Italy,10,Johnny Sexton,1985-07-11,35.63
+27/02/2021,Italy,5,James Ryan,1996-07-24,24.6
+27/02/2021,Italy,7,Will Connors,1996-04-04,24.9
+27/02/2021,Italy,12,Robbie Henshaw,1993-06-12,27.71
+27/02/2021,Italy,16,Rob Herring,1990-04-27,30.84
+27/02/2021,Italy,9,Jamison Gibson-Park,1992-02-23,29.01
+27/02/2021,Italy,18,Andrew Porter,1996-01-16,25.12
+27/02/2021,Italy,14,Jordan Larmour,1997-06-10,23.72
+27/02/2021,Italy,11,James Lowe,1992-07-08,28.64
+14/03/2021,Scotland,16,Ronan Kelleher,1998-01-24,23.14
+14/03/2021,Scotland,3,Tadhg Furlong,1992-11-14,28.33
+14/03/2021,Scotland,1,Cian Healy,1987-10-07,33.44
+14/03/2021,Scotland,15,Hugo Keenan,1996-06-18,24.74
+14/03/2021,Scotland,20,Jack Conan,1992-07-29,28.62
+14/03/2021,Scotland,17,Dave Kilcoyne,1988-12-14,32.25
+14/03/2021,Scotland,19,Ryan Baird,1999-07-26,21.63
+14/03/2021,Scotland,6,Tadhg Beirne,1992-01-08,29.18
+14/03/2021,Scotland,8,CJ Stander,1990-04-05,30.94
+14/03/2021,Scotland,14,Keith Earls,1987-10-02,33.45
+14/03/2021,Scotland,4,Iain Henderson,1992-02-21,29.06
+14/03/2021,Scotland,21,Conor Murray,1989-04-20,31.9
+14/03/2021,Scotland,22,Billy Burns,1994-06-13,26.75
+14/03/2021,Scotland,13,Garry Ringrose,1995-01-26,26.13
+14/03/2021,Scotland,10,Johnny Sexton,1985-07-11,35.67
+14/03/2021,Scotland,5,James Ryan,1996-07-24,24.64
+14/03/2021,Scotland,7,Will Connors,1996-04-04,24.94
+14/03/2021,Scotland,12,Robbie Henshaw,1993-06-12,27.75
+14/03/2021,Scotland,2,Rob Herring,1990-04-27,30.88
+14/03/2021,Scotland,9,Jamison Gibson-Park,1992-02-23,29.05
+14/03/2021,Scotland,18,Andrew Porter,1996-01-16,25.16
+14/03/2021,Scotland,23,Jordan Larmour,1997-06-10,23.76
+14/03/2021,Scotland,11,James Lowe,1992-07-08,28.68
+20/03/2021,England,16,Ronan Kelleher,1998-01-24,23.15
+20/03/2021,England,22,Ross Byrne,1995-04-08,25.95
+20/03/2021,England,12,Bundee Aki,1990-04-07,30.95
+20/03/2021,England,3,Tadhg Furlong,1992-11-14,28.35
+20/03/2021,England,17,Cian Healy,1987-10-07,33.45
+20/03/2021,England,15,Hugo Keenan,1996-06-18,24.75
+20/03/2021,England,8,Jack Conan,1992-07-29,28.64
+20/03/2021,England,1,Dave Kilcoyne,1988-12-14,32.26
+20/03/2021,England,19,Ryan Baird,1999-07-26,21.65
+20/03/2021,England,5,Tadhg Beirne,1992-01-08,29.2
+20/03/2021,England,6,CJ Stander,1990-04-05,30.96
+20/03/2021,England,14,Keith Earls,1987-10-02,33.47
+20/03/2021,England,4,Iain Henderson,1992-02-21,29.08
+20/03/2021,England,7,Josh van der Flier,1993-04-25,27.9
+20/03/2021,England,9,Conor Murray,1989-04-20,31.92
+20/03/2021,England,11,Jacob Stockdale,1996-04-03,24.96
+20/03/2021,England,10,Johnny Sexton,1985-07-11,35.69
+20/03/2021,England,13,Robbie Henshaw,1993-06-12,27.77
+20/03/2021,England,2,Rob Herring,1990-04-27,30.9
+20/03/2021,England,21,Jamison Gibson-Park,1992-02-23,29.07
+20/03/2021,England,18,Andrew Porter,1996-01-16,25.18
+20/03/2021,England,23,Jordan Larmour,1997-06-10,23.78
+20/03/2021,England,20,Peter O'Mahony,1989-09-17,31.51
+03/07/2021,Japan,13,Chris Farrell,1993-03-16,28.3
+03/07/2021,Japan,2,Ronan Kelleher,1998-01-24,23.44
+03/07/2021,Japan,23,Shane Daly,1996-12-19,24.54
+03/07/2021,Japan,15,Hugo Keenan,1996-06-18,25.04
+03/07/2021,Japan,1,Dave Kilcoyne,1988-12-14,32.55
+03/07/2021,Japan,19,Ryan Baird,1999-07-26,21.94
+03/07/2021,Japan,21,Craig Casey,1999-04-19,22.21
+03/07/2021,Japan,4,Ultan Dillane,1993-11-09,27.65
+03/07/2021,Japan,7,Josh van der Flier,1993-04-25,28.19
+03/07/2021,Japan,22,Billy Burns,1994-06-13,27.06
+03/07/2021,Japan,11,Jacob Stockdale,1996-04-03,25.25
+03/07/2021,Japan,12,Stuart McCloskey,1992-08-06,28.91
+03/07/2021,Japan,5,James Ryan,1996-07-24,24.94
+03/07/2021,Japan,17,Ed Byrne,1993-09-09,27.81
+03/07/2021,Japan,18,John Ryan,1988-08-02,32.92
+03/07/2021,Japan,16,Rob Herring,1990-04-27,31.18
+03/07/2021,Japan,9,Jamison Gibson-Park,1992-02-23,29.36
+03/07/2021,Japan,8,Caelan Doris,1998-04-02,23.25
+03/07/2021,Japan,20,Gavin Coombes,1997-12-11,23.56
+03/07/2021,Japan,14,Jordan Larmour,1997-06-10,24.06
+03/07/2021,Japan,10,Joey Carbery,1995-11-01,25.67
+03/07/2021,Japan,3,Finlay Bealham,1991-10-09,29.73
+03/07/2021,Japan,6,Peter O'Mahony,1989-09-17,31.79
+10/07/2021,USA,2,Ronan Kelleher,1998-01-24,23.46
+10/07/2021,USA,15,Hugo Keenan,1996-06-18,25.06
+10/07/2021,USA,1,Dave Kilcoyne,1988-12-14,32.57
+10/07/2021,USA,4,Ryan Baird,1999-07-26,21.96
+10/07/2021,USA,14,Robert Baloucoune,1997-08-19,23.89
+10/07/2021,USA,9,Craig Casey,1999-04-19,22.23
+10/07/2021,USA,19,Fineen Wycherley,1997-12-11,23.58
+10/07/2021,USA,3,Tom O'Toole,1998-09-23,22.8
+10/07/2021,USA,7,Nick Timoney,1995-08-01,25.94
+10/07/2021,USA,11,Andrew Conway,1991-07-11,30.0
+10/07/2021,USA,22,Harry Byrne,1999-04-22,22.22
+10/07/2021,USA,12,Stuart McCloskey,1992-08-06,28.93
+10/07/2021,USA,13,James Hume,1998-09-07,22.84
+10/07/2021,USA,21,Caolin Blade,1994-04-29,27.2
+10/07/2021,USA,5,James Ryan,1996-07-24,24.96
+10/07/2021,USA,16,Dave Heffernan,1991-01-31,30.44
+10/07/2021,USA,17,Ed Byrne,1993-09-09,27.83
+10/07/2021,USA,23,Will Addison,1992-08-20,28.89
+10/07/2021,USA,6,Caelan Doris,1998-04-02,23.27
+10/07/2021,USA,8,Gavin Coombes,1997-12-11,23.58
+10/07/2021,USA,10,Joey Carbery,1995-11-01,25.69
+10/07/2021,USA,20,Paul Boyle,1997-01-14,24.49
+10/07/2021,USA,18,Finlay Bealham,1991-10-09,29.75
+06/11/2021,Japan,2,Ronan Kelleher,1998-01-24,23.78
+06/11/2021,Japan,12,Bundee Aki,1990-04-07,31.58
+06/11/2021,Japan,3,Tadhg Furlong,1992-11-14,28.98
+06/11/2021,Japan,17,Cian Healy,1987-10-07,34.08
+06/11/2021,Japan,15,Hugo Keenan,1996-06-18,25.39
+06/11/2021,Japan,8,Jack Conan,1992-07-29,29.27
+06/11/2021,Japan,4,Tadhg Beirne,1992-01-08,29.83
+06/11/2021,Japan,23,Keith Earls,1987-10-02,34.1
+06/11/2021,Japan,19,Iain Henderson,1992-02-21,29.71
+06/11/2021,Japan,7,Josh van der Flier,1993-04-25,28.53
+06/11/2021,Japan,14,Andrew Conway,1991-07-11,30.33
+06/11/2021,Japan,21,Conor Murray,1989-04-20,32.55
+06/11/2021,Japan,13,Garry Ringrose,1995-01-26,26.78
+06/11/2021,Japan,10,Johnny Sexton,1985-07-11,36.32
+06/11/2021,Japan,5,James Ryan,1996-07-24,25.29
+06/11/2021,Japan,16,Dan Sheehan,1998-09-17,23.14
+06/11/2021,Japan,9,Jamison Gibson-Park,1992-02-23,29.7
+06/11/2021,Japan,1,Andrew Porter,1996-01-16,25.81
+06/11/2021,Japan,6,Caelan Doris,1998-04-02,23.6
+06/11/2021,Japan,22,Joey Carbery,1995-11-01,26.02
+06/11/2021,Japan,11,James Lowe,1992-07-08,29.33
+06/11/2021,Japan,18,Finlay Bealham,1991-10-09,30.08
+06/11/2021,Japan,20,Peter O'Mahony,1989-09-17,32.14
+13/11/2021,New Zealand,2,Ronan Kelleher,1998-01-24,23.8
+13/11/2021,New Zealand,12,Bundee Aki,1990-04-07,31.6
+13/11/2021,New Zealand,3,Tadhg Furlong,1992-11-14,29.0
+13/11/2021,New Zealand,17,Cian Healy,1987-10-07,34.1
+13/11/2021,New Zealand,15,Hugo Keenan,1996-06-18,25.41
+13/11/2021,New Zealand,8,Jack Conan,1992-07-29,29.29
+13/11/2021,New Zealand,19,Tadhg Beirne,1992-01-08,29.85
+13/11/2021,New Zealand,23,Keith Earls,1987-10-02,34.12
+13/11/2021,New Zealand,4,Iain Henderson,1992-02-21,29.73
+13/11/2021,New Zealand,7,Josh van der Flier,1993-04-25,28.55
+13/11/2021,New Zealand,14,Andrew Conway,1991-07-11,30.34
+13/11/2021,New Zealand,21,Conor Murray,1989-04-20,32.57
+13/11/2021,New Zealand,13,Garry Ringrose,1995-01-26,26.8
+13/11/2021,New Zealand,10,Johnny Sexton,1985-07-11,36.34
+13/11/2021,New Zealand,5,James Ryan,1996-07-24,25.31
+13/11/2021,New Zealand,16,Rob Herring,1990-04-27,31.55
+13/11/2021,New Zealand,9,Jamison Gibson-Park,1992-02-23,29.72
+13/11/2021,New Zealand,1,Andrew Porter,1996-01-16,25.83
+13/11/2021,New Zealand,6,Caelan Doris,1998-04-02,23.62
+13/11/2021,New Zealand,22,Joey Carbery,1995-11-01,26.03
+13/11/2021,New Zealand,11,James Lowe,1992-07-08,29.35
+13/11/2021,New Zealand,18,Finlay Bealham,1991-10-09,30.1
+13/11/2021,New Zealand,20,Peter O'Mahony,1989-09-17,32.16
+21/11/2021,Argentina,2,Ronan Kelleher,1998-01-24,23.83
+21/11/2021,Argentina,3,Tadhg Furlong,1992-11-14,29.02
+21/11/2021,Argentina,17,Cian Healy,1987-10-07,34.13
+21/11/2021,Argentina,15,Hugo Keenan,1996-06-18,25.43
+21/11/2021,Argentina,19,Ryan Baird,1999-07-26,22.32
+21/11/2021,Argentina,4,Tadhg Beirne,1992-01-08,29.87
+21/11/2021,Argentina,14,Robert Baloucoune,1997-08-19,24.26
+21/11/2021,Argentina,23,Keith Earls,1987-10-02,34.14
+21/11/2021,Argentina,21,Craig Casey,1999-04-19,22.59
+21/11/2021,Argentina,7,Josh van der Flier,1993-04-25,28.58
+21/11/2021,Argentina,18,Tom O'Toole,1998-09-23,23.16
+21/11/2021,Argentina,20,Nick Timoney,1995-08-01,26.31
+21/11/2021,Argentina,9,Conor Murray,1989-04-20,32.59
+21/11/2021,Argentina,13,Garry Ringrose,1995-01-26,26.82
+21/11/2021,Argentina,22,Harry Byrne,1999-04-22,22.58
+21/11/2021,Argentina,5,James Ryan,1996-07-24,25.33
+21/11/2021,Argentina,16,Dan Sheehan,1998-09-17,23.18
+21/11/2021,Argentina,12,Robbie Henshaw,1993-06-12,28.44
+21/11/2021,Argentina,1,Andrew Porter,1996-01-16,25.85
+21/11/2021,Argentina,8,Caelan Doris,1998-04-02,23.64
+21/11/2021,Argentina,10,Joey Carbery,1995-11-01,26.06
+21/11/2021,Argentina,11,James Lowe,1992-07-08,29.37
+21/11/2021,Argentina,6,Peter O'Mahony,1989-09-17,32.18
+05/02/2022,Wales,2,Ronan Kelleher,1998-01-24,24.03
+05/02/2022,Wales,12,Bundee Aki,1990-04-07,31.83
+05/02/2022,Wales,3,Tadhg Furlong,1992-11-14,29.23
+05/02/2022,Wales,17,Cian Healy,1987-10-07,34.33
+05/02/2022,Wales,15,Hugo Keenan,1996-06-18,25.64
+05/02/2022,Wales,8,Jack Conan,1992-07-29,29.52
+05/02/2022,Wales,19,Ryan Baird,1999-07-26,22.53
+05/02/2022,Wales,4,Tadhg Beirne,1992-01-08,30.08
+05/02/2022,Wales,7,Josh van der Flier,1993-04-25,28.78
+05/02/2022,Wales,14,Andrew Conway,1991-07-11,30.57
+05/02/2022,Wales,11,Mack Hansen,1998-03-27,23.86
+05/02/2022,Wales,21,Conor Murray,1989-04-20,32.8
+05/02/2022,Wales,13,Garry Ringrose,1995-01-26,27.03
+05/02/2022,Wales,23,James Hume,1998-09-07,23.41
+05/02/2022,Wales,10,Johnny Sexton,1985-07-11,36.57
+05/02/2022,Wales,5,James Ryan,1996-07-24,25.54
+05/02/2022,Wales,16,Dan Sheehan,1998-09-17,23.39
+05/02/2022,Wales,9,Jamison Gibson-Park,1992-02-23,29.95
+05/02/2022,Wales,1,Andrew Porter,1996-01-16,26.06
+05/02/2022,Wales,6,Caelan Doris,1998-04-02,23.85
+05/02/2022,Wales,22,Joey Carbery,1995-11-01,26.26
+05/02/2022,Wales,18,Finlay Bealham,1991-10-09,30.33
+05/02/2022,Wales,20,Peter O'Mahony,1989-09-17,32.39
+12/02/2022,France,2,Ronan Kelleher,1998-01-24,24.05
+12/02/2022,France,12,Bundee Aki,1990-04-07,31.85
+12/02/2022,France,3,Tadhg Furlong,1992-11-14,29.25
+12/02/2022,France,17,Cian Healy,1987-10-07,34.35
+12/02/2022,France,15,Hugo Keenan,1996-06-18,25.65
+12/02/2022,France,8,Jack Conan,1992-07-29,29.54
+12/02/2022,France,4,Tadhg Beirne,1992-01-08,30.1
+12/02/2022,France,19,Iain Henderson,1992-02-21,29.98
+12/02/2022,France,7,Josh van der Flier,1993-04-25,28.8
+12/02/2022,France,22,Jack Carty,1992-08-31,29.45
+12/02/2022,France,14,Andrew Conway,1991-07-11,30.59
+12/02/2022,France,11,Mack Hansen,1998-03-27,23.88
+12/02/2022,France,21,Conor Murray,1989-04-20,32.82
+12/02/2022,France,13,Garry Ringrose,1995-01-26,27.05
+12/02/2022,France,5,James Ryan,1996-07-24,25.56
+12/02/2022,France,16,Dan Sheehan,1998-09-17,23.41
+12/02/2022,France,23,Robbie Henshaw,1993-06-12,28.67
+12/02/2022,France,9,Jamison Gibson-Park,1992-02-23,29.97
+12/02/2022,France,1,Andrew Porter,1996-01-16,26.08
+12/02/2022,France,6,Caelan Doris,1998-04-02,23.87
+12/02/2022,France,10,Joey Carbery,1995-11-01,26.28
+12/02/2022,France,18,Finlay Bealham,1991-10-09,30.35
+12/02/2022,France,20,Peter O'Mahony,1989-09-17,32.41
+27/02/2022,Italy,3,Tadhg Furlong,1992-11-14,29.29
+27/02/2022,Italy,20,Jack Conan,1992-07-29,29.58
+27/02/2022,Italy,17,Dave Kilcoyne,1988-12-14,33.21
+27/02/2022,Italy,5,Ryan Baird,1999-07-26,22.59
+27/02/2022,Italy,4,Tadhg Beirne,1992-01-08,30.14
+27/02/2022,Italy,21,Craig Casey,1999-04-19,22.86
+27/02/2022,Italy,7,Josh van der Flier,1993-04-25,28.84
+27/02/2022,Italy,15,Michael Lowry,1998-08-20,23.52
+27/02/2022,Italy,19,Kieran Treadwell,1995-11-06,26.31
+27/02/2022,Italy,14,Mack Hansen,1998-03-27,23.92
+27/02/2022,Italy,13,Garry Ringrose,1995-01-26,27.09
+27/02/2022,Italy,23,James Hume,1998-09-07,23.47
+27/02/2022,Italy,22,Johnny Sexton,1985-07-11,36.63
+27/02/2022,Italy,2,Dan Sheehan,1998-09-17,23.45
+27/02/2022,Italy,12,Robbie Henshaw,1993-06-12,28.71
+27/02/2022,Italy,16,Rob Herring,1990-04-27,31.84
+27/02/2022,Italy,9,Jamison Gibson-Park,1992-02-23,30.01
+27/02/2022,Italy,1,Andrew Porter,1996-01-16,26.12
+27/02/2022,Italy,8,Caelan Doris,1998-04-02,23.91
+27/02/2022,Italy,10,Joey Carbery,1995-11-01,26.32
+27/02/2022,Italy,11,James Lowe,1992-07-08,29.64
+27/02/2022,Italy,18,Finlay Bealham,1991-10-09,30.39
+27/02/2022,Italy,6,Peter O'Mahony,1989-09-17,32.45
+12/03/2022,England,12,Bundee Aki,1990-04-07,31.93
+12/03/2022,England,3,Tadhg Furlong,1992-11-14,29.32
+12/03/2022,England,1,Cian Healy,1987-10-07,34.43
+12/03/2022,England,15,Hugo Keenan,1996-06-18,25.73
+12/03/2022,England,20,Jack Conan,1992-07-29,29.62
+12/03/2022,England,17,Dave Kilcoyne,1988-12-14,33.24
+12/03/2022,England,4,Tadhg Beirne,1992-01-08,30.17
+12/03/2022,England,19,Iain Henderson,1992-02-21,30.05
+12/03/2022,England,7,Josh van der Flier,1993-04-25,28.88
+12/03/2022,England,14,Andrew Conway,1991-07-11,30.67
+12/03/2022,England,21,Conor Murray,1989-04-20,32.89
+12/03/2022,England,13,Garry Ringrose,1995-01-26,27.12
+12/03/2022,England,10,Johnny Sexton,1985-07-11,36.67
+12/03/2022,England,5,James Ryan,1996-07-24,25.63
+12/03/2022,England,2,Dan Sheehan,1998-09-17,23.48
+12/03/2022,England,23,Robbie Henshaw,1993-06-12,28.75
+12/03/2022,England,16,Rob Herring,1990-04-27,31.87
+12/03/2022,England,9,Jamison Gibson-Park,1992-02-23,30.05
+12/03/2022,England,8,Caelan Doris,1998-04-02,23.94
+12/03/2022,England,22,Joey Carbery,1995-11-01,26.36
+12/03/2022,England,11,James Lowe,1992-07-08,29.68
+12/03/2022,England,18,Finlay Bealham,1991-10-09,30.42
+12/03/2022,England,6,Peter O'Mahony,1989-09-17,32.48
+19/03/2022,Scotland,12,Bundee Aki,1990-04-07,31.95
+19/03/2022,Scotland,3,Tadhg Furlong,1992-11-14,29.34
+19/03/2022,Scotland,1,Cian Healy,1987-10-07,34.45
+19/03/2022,Scotland,15,Hugo Keenan,1996-06-18,25.75
+19/03/2022,Scotland,8,Jack Conan,1992-07-29,29.64
+19/03/2022,Scotland,17,Dave Kilcoyne,1988-12-14,33.26
+19/03/2022,Scotland,4,Tadhg Beirne,1992-01-08,30.19
+19/03/2022,Scotland,5,Iain Henderson,1992-02-21,30.07
+19/03/2022,Scotland,7,Josh van der Flier,1993-04-25,28.9
+19/03/2022,Scotland,19,Kieran Treadwell,1995-11-06,26.37
+19/03/2022,Scotland,14,Mack Hansen,1998-03-27,23.98
+19/03/2022,Scotland,21,Conor Murray,1989-04-20,32.91
+19/03/2022,Scotland,13,Garry Ringrose,1995-01-26,27.14
+19/03/2022,Scotland,10,Johnny Sexton,1985-07-11,36.69
+19/03/2022,Scotland,2,Dan Sheehan,1998-09-17,23.5
+19/03/2022,Scotland,23,Robbie Henshaw,1993-06-12,28.77
+19/03/2022,Scotland,16,Rob Herring,1990-04-27,31.89
+19/03/2022,Scotland,9,Jamison Gibson-Park,1992-02-23,30.07
+19/03/2022,Scotland,6,Caelan Doris,1998-04-02,23.96
+19/03/2022,Scotland,22,Joey Carbery,1995-11-01,26.38
+19/03/2022,Scotland,11,James Lowe,1992-07-08,29.7
+19/03/2022,Scotland,18,Finlay Bealham,1991-10-09,30.44
+19/03/2022,Scotland,20,Peter O'Mahony,1989-09-17,32.5
+29/06/2022,Maori All Blacks,15,Jimmy O'Brien,1996-11-27,25.59
+29/06/2022,Maori All Blacks,12,Bundee Aki,1990-04-07,32.23
+29/06/2022,Maori All Blacks,17,Cian Healy,1987-10-07,34.73
+29/06/2022,Maori All Blacks,20,Jack Conan,1992-07-29,29.92
+29/06/2022,Maori All Blacks,19,Ryan Baird,1999-07-26,22.93
+29/06/2022,Maori All Blacks,6,Cian Prendergast,2000-02-23,22.35
+29/06/2022,Maori All Blacks,11,Keith Earls,1987-10-02,34.74
+29/06/2022,Maori All Blacks,9,Craig Casey,1999-04-19,23.2
+29/06/2022,Maori All Blacks,1,Jeremy Loughman,1995-07-22,26.94
+29/06/2022,Maori All Blacks,23,Michael Lowry,1998-08-20,23.86
+29/06/2022,Maori All Blacks,4,Kieran Treadwell,1995-11-06,26.65
+29/06/2022,Maori All Blacks,3,Tom O'Toole,1998-09-23,23.77
+29/06/2022,Maori All Blacks,7,Nick Timoney,1995-08-01,26.91
+29/06/2022,Maori All Blacks,5,Joe McCarthy,2001-03-26,21.26
+29/06/2022,Maori All Blacks,21,Conor Murray,1989-04-20,33.19
+29/06/2022,Maori All Blacks,13,James Hume,1998-09-07,23.81
+29/06/2022,Maori All Blacks,2,Dave Heffernan,1991-01-31,31.41
+29/06/2022,Maori All Blacks,8,Gavin Coombes,1997-12-11,24.55
+29/06/2022,Maori All Blacks,16,Niall Scannell,1992-04-08,30.22
+29/06/2022,Maori All Blacks,14,Jordan Larmour,1997-06-10,25.05
+29/06/2022,Maori All Blacks,22,Joey Carbery,1995-11-01,26.66
+29/06/2022,Maori All Blacks,18,Finlay Bealham,1991-10-09,30.72
+29/06/2022,Maori All Blacks,10,Ciaran Frawley,1997-12-04,24.57
+02/07/2022,New Zealand,23,Bundee Aki,1990-04-07,32.24
+02/07/2022,New Zealand,3,Tadhg Furlong,1992-11-14,29.63
+02/07/2022,New Zealand,17,Cian Healy,1987-10-07,34.74
+02/07/2022,New Zealand,15,Hugo Keenan,1996-06-18,26.04
+02/07/2022,New Zealand,20,Jack Conan,1992-07-29,29.93
+02/07/2022,New Zealand,4,Tadhg Beirne,1992-01-08,30.48
+02/07/2022,New Zealand,14,Keith Earls,1987-10-02,34.75
+02/07/2022,New Zealand,7,Josh van der Flier,1993-04-25,29.19
+02/07/2022,New Zealand,19,Kieran Treadwell,1995-11-06,26.65
+02/07/2022,New Zealand,18,Tom O'Toole,1998-09-23,23.77
+02/07/2022,New Zealand,21,Conor Murray,1989-04-20,33.2
+02/07/2022,New Zealand,13,Garry Ringrose,1995-01-26,27.43
+02/07/2022,New Zealand,10,Johnny Sexton,1985-07-11,36.98
+02/07/2022,New Zealand,5,James Ryan,1996-07-24,25.94
+02/07/2022,New Zealand,2,Dan Sheehan,1998-09-17,23.79
+02/07/2022,New Zealand,16,Dave Heffernan,1991-01-31,31.42
+02/07/2022,New Zealand,12,Robbie Henshaw,1993-06-12,29.05
+02/07/2022,New Zealand,9,Jamison Gibson-Park,1992-02-23,30.36
+02/07/2022,New Zealand,1,Andrew Porter,1996-01-16,26.46
+02/07/2022,New Zealand,8,Caelan Doris,1998-04-02,24.25
+02/07/2022,New Zealand,22,Joey Carbery,1995-11-01,26.67
+02/07/2022,New Zealand,11,James Lowe,1992-07-08,29.98
+02/07/2022,New Zealand,6,Peter O'Mahony,1989-09-17,32.79
+09/07/2022,New Zealand,23,Bundee Aki,1990-04-07,32.26
+09/07/2022,New Zealand,3,Tadhg Furlong,1992-11-14,29.65
+09/07/2022,New Zealand,17,Cian Healy,1987-10-07,34.75
+09/07/2022,New Zealand,15,Hugo Keenan,1996-06-18,26.06
+09/07/2022,New Zealand,20,Jack Conan,1992-07-29,29.94
+09/07/2022,New Zealand,4,Tadhg Beirne,1992-01-08,30.5
+09/07/2022,New Zealand,7,Josh van der Flier,1993-04-25,29.21
+09/07/2022,New Zealand,19,Kieran Treadwell,1995-11-06,26.67
+09/07/2022,New Zealand,14,Mack Hansen,1998-03-27,24.29
+09/07/2022,New Zealand,21,Conor Murray,1989-04-20,33.22
+09/07/2022,New Zealand,13,Garry Ringrose,1995-01-26,27.45
+09/07/2022,New Zealand,10,Johnny Sexton,1985-07-11,36.99
+09/07/2022,New Zealand,5,James Ryan,1996-07-24,25.96
+09/07/2022,New Zealand,2,Dan Sheehan,1998-09-17,23.81
+09/07/2022,New Zealand,12,Robbie Henshaw,1993-06-12,29.07
+09/07/2022,New Zealand,16,Rob Herring,1990-04-27,32.2
+09/07/2022,New Zealand,9,Jamison Gibson-Park,1992-02-23,30.37
+09/07/2022,New Zealand,1,Andrew Porter,1996-01-16,26.48
+09/07/2022,New Zealand,8,Caelan Doris,1998-04-02,24.27
+09/07/2022,New Zealand,22,Joey Carbery,1995-11-01,26.69
+09/07/2022,New Zealand,11,James Lowe,1992-07-08,30.0
+09/07/2022,New Zealand,18,Finlay Bealham,1991-10-09,30.75
+09/07/2022,New Zealand,6,Peter O'Mahony,1989-09-17,32.81
+12/07/2022,Maori All Blacks,11,Jimmy O'Brien,1996-11-27,25.62
+12/07/2022,Maori All Blacks,20,Jack Conan,1992-07-29,29.95
+12/07/2022,Maori All Blacks,19,Ryan Baird,1999-07-26,22.96
+12/07/2022,Maori All Blacks,6,Cian Prendergast,2000-02-23,22.38
+12/07/2022,Maori All Blacks,13,Keith Earls,1987-10-02,34.78
+12/07/2022,Maori All Blacks,9,Craig Casey,1999-04-19,23.23
+12/07/2022,Maori All Blacks,1,Jeremy Loughman,1995-07-22,26.97
+12/07/2022,Maori All Blacks,15,Michael Lowry,1998-08-20,23.89
+12/07/2022,Maori All Blacks,5,Kieran Treadwell,1995-11-06,26.68
+12/07/2022,Maori All Blacks,3,Tom O'Toole,1998-09-23,23.8
+12/07/2022,Maori All Blacks,7,Nick Timoney,1995-08-01,26.95
+12/07/2022,Maori All Blacks,23,Mack Hansen,1998-03-27,24.29
+12/07/2022,Maori All Blacks,4,Joe McCarthy,2001-03-26,21.3
+12/07/2022,Maori All Blacks,21,Conor Murray,1989-04-20,33.23
+12/07/2022,Maori All Blacks,12,Stuart McCloskey,1992-08-06,29.93
+12/07/2022,Maori All Blacks,17,Ed Byrne,1993-09-09,28.84
+12/07/2022,Maori All Blacks,18,Michael Bent,1986-04-25,36.21
+12/07/2022,Maori All Blacks,16,Rob Herring,1990-04-27,32.21
+12/07/2022,Maori All Blacks,8,Gavin Coombes,1997-12-11,24.58
+12/07/2022,Maori All Blacks,2,Niall Scannell,1992-04-08,30.26
+12/07/2022,Maori All Blacks,14,Jordan Larmour,1997-06-10,25.09
+12/07/2022,Maori All Blacks,22,Joey Carbery,1995-11-01,26.69
+12/07/2022,Maori All Blacks,10,Ciaran Frawley,1997-12-04,24.6
+16/07/2022,New Zealand,12,Bundee Aki,1990-04-07,32.27
+16/07/2022,New Zealand,3,Tadhg Furlong,1992-11-14,29.67
+16/07/2022,New Zealand,17,Cian Healy,1987-10-07,34.77
+16/07/2022,New Zealand,15,Hugo Keenan,1996-06-18,26.08
+16/07/2022,New Zealand,20,Jack Conan,1992-07-29,29.96
+16/07/2022,New Zealand,4,Tadhg Beirne,1992-01-08,30.52
+16/07/2022,New Zealand,23,Keith Earls,1987-10-02,34.79
+16/07/2022,New Zealand,7,Josh van der Flier,1993-04-25,29.22
+16/07/2022,New Zealand,19,Kieran Treadwell,1995-11-06,26.69
+16/07/2022,New Zealand,14,Mack Hansen,1998-03-27,24.3
+16/07/2022,New Zealand,21,Conor Murray,1989-04-20,33.24
+16/07/2022,New Zealand,10,Johnny Sexton,1985-07-11,37.01
+16/07/2022,New Zealand,5,James Ryan,1996-07-24,25.98
+16/07/2022,New Zealand,2,Dan Sheehan,1998-09-17,23.83
+16/07/2022,New Zealand,13,Robbie Henshaw,1993-06-12,29.09
+16/07/2022,New Zealand,16,Rob Herring,1990-04-27,32.22
+16/07/2022,New Zealand,9,Jamison Gibson-Park,1992-02-23,30.39
+16/07/2022,New Zealand,1,Andrew Porter,1996-01-16,26.5
+16/07/2022,New Zealand,8,Caelan Doris,1998-04-02,24.29
+16/07/2022,New Zealand,22,Joey Carbery,1995-11-01,26.71
+16/07/2022,New Zealand,11,James Lowe,1992-07-08,30.02
+16/07/2022,New Zealand,18,Finlay Bealham,1991-10-09,30.77
+16/07/2022,New Zealand,6,Peter O'Mahony,1989-09-17,32.83
+05/11/2022,South Africa,23,Jimmy O'Brien,1996-11-27,25.94
+05/11/2022,South Africa,3,Tadhg Furlong,1992-11-14,29.97
+05/11/2022,South Africa,17,Cian Healy,1987-10-07,35.08
+05/11/2022,South Africa,15,Hugo Keenan,1996-06-18,26.38
+05/11/2022,South Africa,20,Jack Conan,1992-07-29,30.27
+05/11/2022,South Africa,4,Tadhg Beirne,1992-01-08,30.83
+05/11/2022,South Africa,14,Robert Baloucoune,1997-08-19,25.21
+05/11/2022,South Africa,7,Josh van der Flier,1993-04-25,29.53
+05/11/2022,South Africa,19,Kieran Treadwell,1995-11-06,27.0
+05/11/2022,South Africa,11,Mack Hansen,1998-03-27,24.61
+05/11/2022,South Africa,9,Conor Murray,1989-04-20,33.54
+05/11/2022,South Africa,13,Garry Ringrose,1995-01-26,27.78
+05/11/2022,South Africa,12,Stuart McCloskey,1992-08-06,30.25
+05/11/2022,South Africa,10,Johnny Sexton,1985-07-11,37.32
+05/11/2022,South Africa,5,James Ryan,1996-07-24,26.28
+05/11/2022,South Africa,2,Dan Sheehan,1998-09-17,24.13
+05/11/2022,South Africa,16,Rob Herring,1990-04-27,32.53
+05/11/2022,South Africa,21,Jamison Gibson-Park,1992-02-23,30.7
+05/11/2022,South Africa,1,Andrew Porter,1996-01-16,26.8
+05/11/2022,South Africa,8,Caelan Doris,1998-04-02,24.59
+05/11/2022,South Africa,22,Joey Carbery,1995-11-01,27.01
+05/11/2022,South Africa,18,Finlay Bealham,1991-10-09,31.08
+05/11/2022,South Africa,6,Peter O'Mahony,1989-09-17,33.13
+12/11/2022,Fiji,15,Jimmy O'Brien,1996-11-27,25.96
+12/11/2022,Fiji,3,Tadhg Furlong,1992-11-14,29.99
+12/11/2022,Fiji,17,Cian Healy,1987-10-07,35.1
+12/11/2022,Fiji,8,Jack Conan,1992-07-29,30.29
+12/11/2022,Fiji,5,Tadhg Beirne,1992-01-08,30.85
+12/11/2022,Fiji,19,Cian Prendergast,2000-02-23,22.72
+12/11/2022,Fiji,14,Robert Baloucoune,1997-08-19,25.23
+12/11/2022,Fiji,21,Craig Casey,1999-04-19,23.57
+12/11/2022,Fiji,1,Jeremy Loughman,1995-07-22,27.31
+12/11/2022,Fiji,4,Kieran Treadwell,1995-11-06,27.02
+12/11/2022,Fiji,18,Tom O'Toole,1998-09-23,24.14
+12/11/2022,Fiji,7,Nick Timoney,1995-08-01,27.28
+12/11/2022,Fiji,11,Mack Hansen,1998-03-27,24.63
+12/11/2022,Fiji,23,Garry Ringrose,1995-01-26,27.8
+12/11/2022,Fiji,12,Stuart McCloskey,1992-08-06,30.27
+12/11/2022,Fiji,20,Max Deegan,1996-10-01,26.11
+12/11/2022,Fiji,16,Dan Sheehan,1998-09-17,24.15
+12/11/2022,Fiji,13,Robbie Henshaw,1993-06-12,29.42
+12/11/2022,Fiji,2,Rob Herring,1990-04-27,32.55
+12/11/2022,Fiji,9,Jamison Gibson-Park,1992-02-23,30.72
+12/11/2022,Fiji,6,Caelan Doris,1998-04-02,24.61
+12/11/2022,Fiji,22,Jack Crowley,2000-01-13,22.83
+12/11/2022,Fiji,10,Joey Carbery,1995-11-01,27.03
+19/11/2022,Australia,11,Jimmy O'Brien,1996-11-27,25.98
+19/11/2022,Australia,22,Ross Byrne,1995-04-08,27.62
+19/11/2022,Australia,23,Bundee Aki,1990-04-07,32.62
+19/11/2022,Australia,3,Tadhg Furlong,1992-11-14,30.01
+19/11/2022,Australia,17,Cian Healy,1987-10-07,35.12
+19/11/2022,Australia,15,Hugo Keenan,1996-06-18,26.42
+19/11/2022,Australia,20,Jack Conan,1992-07-29,30.31
+19/11/2022,Australia,4,Tadhg Beirne,1992-01-08,30.86
+19/11/2022,Australia,21,Craig Casey,1999-04-19,23.59
+19/11/2022,Australia,7,Josh van der Flier,1993-04-25,29.57
+19/11/2022,Australia,14,Mack Hansen,1998-03-27,24.65
+19/11/2022,Australia,19,Joe McCarthy,2001-03-26,21.65
+19/11/2022,Australia,13,Garry Ringrose,1995-01-26,27.81
+19/11/2022,Australia,12,Stuart McCloskey,1992-08-06,30.29
+19/11/2022,Australia,5,James Ryan,1996-07-24,26.32
+19/11/2022,Australia,2,Dan Sheehan,1998-09-17,24.17
+19/11/2022,Australia,16,Rob Herring,1990-04-27,32.56
+19/11/2022,Australia,9,Jamison Gibson-Park,1992-02-23,30.74
+19/11/2022,Australia,1,Andrew Porter,1996-01-16,26.84
+19/11/2022,Australia,8,Caelan Doris,1998-04-02,24.63
+19/11/2022,Australia,10,Jack Crowley,2000-01-13,22.85
+19/11/2022,Australia,18,Finlay Bealham,1991-10-09,31.11
+19/11/2022,Australia,6,Peter O'Mahony,1989-09-17,33.17
+04/02/2023,Wales,22,Ross Byrne,1995-04-08,27.83
+04/02/2023,Wales,23,Bundee Aki,1990-04-07,32.83
+04/02/2023,Wales,15,Hugo Keenan,1996-06-18,26.63
+04/02/2023,Wales,20,Jack Conan,1992-07-29,30.52
+04/02/2023,Wales,17,Dave Kilcoyne,1988-12-14,34.14
+04/02/2023,Wales,4,Tadhg Beirne,1992-01-08,31.08
+04/02/2023,Wales,21,Craig Casey,1999-04-19,23.8
+04/02/2023,Wales,19,Iain Henderson,1992-02-21,30.95
+04/02/2023,Wales,7,Josh van der Flier,1993-04-25,29.78
+04/02/2023,Wales,18,Tom O'Toole,1998-09-23,24.37
+04/02/2023,Wales,14,Mack Hansen,1998-03-27,24.86
+04/02/2023,Wales,9,Conor Murray,1989-04-20,33.79
+04/02/2023,Wales,13,Garry Ringrose,1995-01-26,28.03
+04/02/2023,Wales,12,Stuart McCloskey,1992-08-06,30.5
+04/02/2023,Wales,10,Johnny Sexton,1985-07-11,37.57
+04/02/2023,Wales,5,James Ryan,1996-07-24,26.53
+04/02/2023,Wales,2,Dan Sheehan,1998-09-17,24.38
+04/02/2023,Wales,16,Rob Herring,1990-04-27,32.78
+04/02/2023,Wales,1,Andrew Porter,1996-01-16,27.05
+04/02/2023,Wales,8,Caelan Doris,1998-04-02,24.84
+04/02/2023,Wales,11,James Lowe,1992-07-08,30.58
+04/02/2023,Wales,3,Finlay Bealham,1991-10-09,31.32
+04/02/2023,Wales,6,Peter O'Mahony,1989-09-17,33.38
+11/02/2023,France,16,Ronan Kelleher,1998-01-24,25.05
+11/02/2023,France,22,Ross Byrne,1995-04-08,27.85
+11/02/2023,France,23,Bundee Aki,1990-04-07,32.85
+11/02/2023,France,15,Hugo Keenan,1996-06-18,26.65
+11/02/2023,France,20,Jack Conan,1992-07-29,30.54
+11/02/2023,France,17,Dave Kilcoyne,1988-12-14,34.16
+11/02/2023,France,4,Tadhg Beirne,1992-01-08,31.09
+11/02/2023,France,21,Craig Casey,1999-04-19,23.82
+11/02/2023,France,19,Iain Henderson,1992-02-21,30.97
+11/02/2023,France,7,Josh van der Flier,1993-04-25,29.8
+11/02/2023,France,18,Tom O'Toole,1998-09-23,24.39
+11/02/2023,France,14,Mack Hansen,1998-03-27,24.88
+11/02/2023,France,9,Conor Murray,1989-04-20,33.81
+11/02/2023,France,13,Garry Ringrose,1995-01-26,28.04
+11/02/2023,France,12,Stuart McCloskey,1992-08-06,30.52
+11/02/2023,France,10,Johnny Sexton,1985-07-11,37.59
+11/02/2023,France,5,James Ryan,1996-07-24,26.55
+11/02/2023,France,2,Rob Herring,1990-04-27,32.79
+11/02/2023,France,1,Andrew Porter,1996-01-16,27.07
+11/02/2023,France,8,Caelan Doris,1998-04-02,24.86
+11/02/2023,France,11,James Lowe,1992-07-08,30.6
+11/02/2023,France,3,Finlay Bealham,1991-10-09,31.34
+11/02/2023,France,6,Peter O'Mahony,1989-09-17,33.4
+25/02/2023,Italy,2,Ronan Kelleher,1998-01-24,25.09
+25/02/2023,Italy,23,Jimmy O'Brien,1996-11-27,26.25
+25/02/2023,Italy,10,Ross Byrne,1995-04-08,27.89
+25/02/2023,Italy,13,Bundee Aki,1990-04-07,32.89
+25/02/2023,Italy,15,Hugo Keenan,1996-06-18,26.69
+25/02/2023,Italy,8,Jack Conan,1992-07-29,30.58
+25/02/2023,Italy,17,Dave Kilcoyne,1988-12-14,34.2
+25/02/2023,Italy,19,Ryan Baird,1999-07-26,23.59
+25/02/2023,Italy,9,Craig Casey,1999-04-19,23.86
+25/02/2023,Italy,4,Iain Henderson,1992-02-21,31.01
+25/02/2023,Italy,7,Josh van der Flier,1993-04-25,29.84
+25/02/2023,Italy,18,Tom O'Toole,1998-09-23,24.42
+25/02/2023,Italy,14,Mack Hansen,1998-03-27,24.92
+25/02/2023,Italy,21,Conor Murray,1989-04-20,33.85
+25/02/2023,Italy,12,Stuart McCloskey,1992-08-06,30.56
+25/02/2023,Italy,5,James Ryan,1996-07-24,26.59
+25/02/2023,Italy,16,Dan Sheehan,1998-09-17,24.44
+25/02/2023,Italy,1,Andrew Porter,1996-01-16,27.11
+25/02/2023,Italy,6,Caelan Doris,1998-04-02,24.9
+25/02/2023,Italy,22,Jack Crowley,2000-01-13,23.12
+25/02/2023,Italy,11,James Lowe,1992-07-08,30.63
+25/02/2023,Italy,3,Finlay Bealham,1991-10-09,31.38
+25/02/2023,Italy,20,Peter O'Mahony,1989-09-17,33.44
+12/03/2023,Scotland,16,Ronan Kelleher,1998-01-24,25.13
+12/03/2023,Scotland,22,Ross Byrne,1995-04-08,27.93
+12/03/2023,Scotland,12,Bundee Aki,1990-04-07,32.93
+12/03/2023,Scotland,3,Tadhg Furlong,1992-11-14,30.32
+12/03/2023,Scotland,17,Cian Healy,1987-10-07,35.43
+12/03/2023,Scotland,15,Hugo Keenan,1996-06-18,26.73
+12/03/2023,Scotland,20,Jack Conan,1992-07-29,30.62
+12/03/2023,Scotland,19,Ryan Baird,1999-07-26,23.63
+12/03/2023,Scotland,4,Iain Henderson,1992-02-21,31.05
+12/03/2023,Scotland,7,Josh van der Flier,1993-04-25,29.88
+12/03/2023,Scotland,18,Tom O'Toole,1998-09-23,24.47
+12/03/2023,Scotland,14,Mack Hansen,1998-03-27,24.96
+12/03/2023,Scotland,9,Conor Murray,1989-04-20,33.89
+12/03/2023,Scotland,13,Garry Ringrose,1995-01-26,28.12
+12/03/2023,Scotland,10,Johnny Sexton,1985-07-11,37.67
+12/03/2023,Scotland,5,James Ryan,1996-07-24,26.63
+12/03/2023,Scotland,2,Dan Sheehan,1998-09-17,24.48
+12/03/2023,Scotland,23,Robbie Henshaw,1993-06-12,29.75
+12/03/2023,Scotland,21,Jamison Gibson-Park,1992-02-23,31.05
+12/03/2023,Scotland,1,Andrew Porter,1996-01-16,27.15
+12/03/2023,Scotland,8,Caelan Doris,1998-04-02,24.94
+12/03/2023,Scotland,11,James Lowe,1992-07-08,30.68
+12/03/2023,Scotland,6,Peter O'Mahony,1989-09-17,33.48
+18/03/2023,England,23,Jimmy O'Brien,1996-11-27,26.3
+18/03/2023,England,22,Ross Byrne,1995-04-08,27.94
+18/03/2023,England,12,Bundee Aki,1990-04-07,32.95
+18/03/2023,England,3,Tadhg Furlong,1992-11-14,30.34
+18/03/2023,England,17,Cian Healy,1987-10-07,35.44
+18/03/2023,England,15,Hugo Keenan,1996-06-18,26.75
+18/03/2023,England,20,Jack Conan,1992-07-29,30.63
+18/03/2023,England,4,Ryan Baird,1999-07-26,23.64
+18/03/2023,England,7,Josh van der Flier,1993-04-25,29.9
+18/03/2023,England,19,Kieran Treadwell,1995-11-06,27.36
+18/03/2023,England,18,Tom O'Toole,1998-09-23,24.48
+18/03/2023,England,14,Mack Hansen,1998-03-27,24.98
+18/03/2023,England,21,Conor Murray,1989-04-20,33.91
+18/03/2023,England,10,Johnny Sexton,1985-07-11,37.68
+18/03/2023,England,5,James Ryan,1996-07-24,26.65
+18/03/2023,England,2,Dan Sheehan,1998-09-17,24.5
+18/03/2023,England,13,Robbie Henshaw,1993-06-12,29.76
+18/03/2023,England,16,Rob Herring,1990-04-27,32.89
+18/03/2023,England,9,Jamison Gibson-Park,1992-02-23,31.06
+18/03/2023,England,1,Andrew Porter,1996-01-16,27.17
+18/03/2023,England,8,Caelan Doris,1998-04-02,24.96
+18/03/2023,England,11,James Lowe,1992-07-08,30.69
+18/03/2023,England,6,Peter O'Mahony,1989-09-17,33.5
+05/08/2023,Italy,15,Jimmy O'Brien,1996-11-27,26.69
+05/08/2023,Italy,18,Tadhg Furlong,1992-11-14,30.72
+05/08/2023,Italy,17,Cian Healy,1987-10-07,35.83
+05/08/2023,Italy,8,Jack Conan,1992-07-29,31.02
+05/08/2023,Italy,1,Dave Kilcoyne,1988-12-14,34.64
+05/08/2023,Italy,6,Ryan Baird,1999-07-26,24.03
+05/08/2023,Italy,19,Tadhg Beirne,1992-01-08,31.57
+05/08/2023,Italy,20,Cian Prendergast,2000-02-23,23.45
+05/08/2023,Italy,14,Keith Earls,1987-10-02,35.84
+05/08/2023,Italy,9,Craig Casey,1999-04-19,24.3
+05/08/2023,Italy,4,Iain Henderson,1992-02-21,31.45
+05/08/2023,Italy,16,Tom Stewart,2001-01-11,22.56
+05/08/2023,Italy,3,Tom O'Toole,1998-09-23,24.87
+05/08/2023,Italy,5,Joe McCarthy,2001-03-26,22.36
+05/08/2023,Italy,11,Jacob Stockdale,1996-04-03,27.34
+05/08/2023,Italy,12,Stuart McCloskey,1992-08-06,31.0
+05/08/2023,Italy,21,Caolin Blade,1994-04-29,29.27
+05/08/2023,Italy,13,Robbie Henshaw,1993-06-12,30.15
+05/08/2023,Italy,2,Rob Herring,1990-04-27,33.27
+05/08/2023,Italy,7,Caelan Doris,1998-04-02,25.34
+05/08/2023,Italy,10,Jack Crowley,2000-01-13,23.56
+05/08/2023,Italy,23,Calvin Nash,1997-08-08,25.99
+05/08/2023,Italy,22,Ciaran Frawley,1997-12-04,25.67
+19/08/2023,England,10,Ross Byrne,1995-04-08,28.36
+19/08/2023,England,12,Bundee Aki,1990-04-07,33.37
+19/08/2023,England,3,Tadhg Furlong,1992-11-14,30.76
+19/08/2023,England,15,Hugo Keenan,1996-06-18,27.17
+19/08/2023,England,4,Tadhg Beirne,1992-01-08,31.61
+19/08/2023,England,8,Cian Prendergast,2000-02-23,23.49
+19/08/2023,England,23,Keith Earls,1987-10-02,35.88
+19/08/2023,England,17,Jeremy Loughman,1995-07-22,28.08
+19/08/2023,England,7,Josh van der Flier,1993-04-25,30.32
+19/08/2023,England,14,Mack Hansen,1998-03-27,25.4
+19/08/2023,England,19,Joe McCarthy,2001-03-26,22.4
+19/08/2023,England,21,Conor Murray,1989-04-20,34.33
+19/08/2023,England,13,Garry Ringrose,1995-01-26,28.56
+19/08/2023,England,5,James Ryan,1996-07-24,27.07
+19/08/2023,England,2,Dan Sheehan,1998-09-17,24.92
+19/08/2023,England,16,Rob Herring,1990-04-27,33.31
+19/08/2023,England,9,Jamison Gibson-Park,1992-02-23,31.49
+19/08/2023,England,1,Andrew Porter,1996-01-16,27.59
+19/08/2023,England,20,Caelan Doris,1998-04-02,25.38
+19/08/2023,England,22,Jack Crowley,2000-01-13,23.6
+19/08/2023,England,11,James Lowe,1992-07-08,31.11
+19/08/2023,England,18,Finlay Bealham,1991-10-09,31.86
+19/08/2023,England,6,Peter O'Mahony,1989-09-17,33.92
+26/08/2023,Samoa,15,Jimmy O'Brien,1996-11-27,26.74
+26/08/2023,Samoa,22,Ross Byrne,1995-04-08,28.38
+26/08/2023,Samoa,1,Cian Healy,1987-10-07,35.89
+26/08/2023,Samoa,6,Ryan Baird,1999-07-26,24.09
+26/08/2023,Samoa,5,Tadhg Beirne,1992-01-08,31.63
+26/08/2023,Samoa,21,Craig Casey,1999-04-19,24.35
+26/08/2023,Samoa,4,Iain Henderson,1992-02-21,31.51
+26/08/2023,Samoa,17,Jeremy Loughman,1995-07-22,28.1
+26/08/2023,Samoa,7,Josh van der Flier,1993-04-25,30.34
+26/08/2023,Samoa,2,Tom Stewart,2001-01-11,22.62
+26/08/2023,Samoa,18,Tom O'Toole,1998-09-23,24.92
+26/08/2023,Samoa,14,Mack Hansen,1998-03-27,25.42
+26/08/2023,Samoa,9,Conor Murray,1989-04-20,34.35
+26/08/2023,Samoa,23,Garry Ringrose,1995-01-26,28.58
+26/08/2023,Samoa,11,Jacob Stockdale,1996-04-03,27.4
+26/08/2023,Samoa,12,Stuart McCloskey,1992-08-06,31.05
+26/08/2023,Samoa,19,James Ryan,1996-07-24,27.09
+26/08/2023,Samoa,13,Robbie Henshaw,1993-06-12,30.2
+26/08/2023,Samoa,16,Rob Herring,1990-04-27,33.33
+26/08/2023,Samoa,8,Caelan Doris,1998-04-02,25.4
+26/08/2023,Samoa,10,Jack Crowley,2000-01-13,23.62
+26/08/2023,Samoa,3,Finlay Bealham,1991-10-09,31.88
+26/08/2023,Samoa,20,Peter O'Mahony,1989-09-17,33.94
+09/09/2023,Romania,16,Ronan Kelleher,1998-01-24,25.62
+09/09/2023,Romania,12,Bundee Aki,1990-04-07,33.42
+09/09/2023,Romania,3,Tadhg Furlong,1992-11-14,30.82
+09/09/2023,Romania,15,Hugo Keenan,1996-06-18,27.23
+09/09/2023,Romania,6,Tadhg Beirne,1992-01-08,31.67
+09/09/2023,Romania,14,Keith Earls,1987-10-02,35.94
+09/09/2023,Romania,19,Iain Henderson,1992-02-21,31.55
+09/09/2023,Romania,17,Jeremy Loughman,1995-07-22,28.13
+09/09/2023,Romania,20,Josh van der Flier,1993-04-25,30.37
+09/09/2023,Romania,18,Tom O'Toole,1998-09-23,24.96
+09/09/2023,Romania,23,Mack Hansen,1998-03-27,25.45
+09/09/2023,Romania,4,Joe McCarthy,2001-03-26,22.46
+09/09/2023,Romania,21,Conor Murray,1989-04-20,34.39
+09/09/2023,Romania,13,Garry Ringrose,1995-01-26,28.62
+09/09/2023,Romania,10,Johnny Sexton,1985-07-11,38.16
+09/09/2023,Romania,5,James Ryan,1996-07-24,27.13
+09/09/2023,Romania,2,Rob Herring,1990-04-27,33.37
+09/09/2023,Romania,9,Jamison Gibson-Park,1992-02-23,31.54
+09/09/2023,Romania,1,Andrew Porter,1996-01-16,27.65
+09/09/2023,Romania,8,Caelan Doris,1998-04-02,25.44
+09/09/2023,Romania,22,Jack Crowley,2000-01-13,23.66
+09/09/2023,Romania,11,James Lowe,1992-07-08,31.17
+09/09/2023,Romania,7,Peter O'Mahony,1989-09-17,33.98
+16/09/2023,Tonga,2,Ronan Kelleher,1998-01-24,25.64
+16/09/2023,Tonga,22,Ross Byrne,1995-04-08,28.44
+16/09/2023,Tonga,12,Bundee Aki,1990-04-07,33.44
+16/09/2023,Tonga,3,Tadhg Furlong,1992-11-14,30.84
+16/09/2023,Tonga,15,Hugo Keenan,1996-06-18,27.24
+16/09/2023,Tonga,17,Dave Kilcoyne,1988-12-14,34.75
+16/09/2023,Tonga,20,Ryan Baird,1999-07-26,24.14
+16/09/2023,Tonga,4,Tadhg Beirne,1992-01-08,31.69
+16/09/2023,Tonga,21,Craig Casey,1999-04-19,24.41
+16/09/2023,Tonga,19,Iain Henderson,1992-02-21,31.57
+16/09/2023,Tonga,7,Josh van der Flier,1993-04-25,30.39
+16/09/2023,Tonga,14,Mack Hansen,1998-03-27,25.47
+16/09/2023,Tonga,9,Conor Murray,1989-04-20,34.41
+16/09/2023,Tonga,13,Garry Ringrose,1995-01-26,28.64
+16/09/2023,Tonga,10,Johnny Sexton,1985-07-11,38.18
+16/09/2023,Tonga,5,James Ryan,1996-07-24,27.15
+16/09/2023,Tonga,23,Robbie Henshaw,1993-06-12,30.26
+16/09/2023,Tonga,16,Rob Herring,1990-04-27,33.39
+16/09/2023,Tonga,1,Andrew Porter,1996-01-16,27.67
+16/09/2023,Tonga,8,Caelan Doris,1998-04-02,25.46
+16/09/2023,Tonga,11,James Lowe,1992-07-08,31.19
+16/09/2023,Tonga,18,Finlay Bealham,1991-10-09,31.94
+16/09/2023,Tonga,6,Peter O'Mahony,1989-09-17,34.0
+23/09/2023,South Africa,2,Ronan Kelleher,1998-01-24,25.66
+23/09/2023,South Africa,12,Bundee Aki,1990-04-07,33.46
+23/09/2023,South Africa,3,Tadhg Furlong,1992-11-14,30.86
+23/09/2023,South Africa,15,Hugo Keenan,1996-06-18,27.26
+23/09/2023,South Africa,17,Dave Kilcoyne,1988-12-14,34.77
+23/09/2023,South Africa,20,Ryan Baird,1999-07-26,24.16
+23/09/2023,South Africa,4,Tadhg Beirne,1992-01-08,31.71
+23/09/2023,South Africa,19,Iain Henderson,1992-02-21,31.59
+23/09/2023,South Africa,7,Josh van der Flier,1993-04-25,30.41
+23/09/2023,South Africa,14,Mack Hansen,1998-03-27,25.49
+23/09/2023,South Africa,21,Conor Murray,1989-04-20,34.43
+23/09/2023,South Africa,13,Garry Ringrose,1995-01-26,28.66
+23/09/2023,South Africa,10,Johnny Sexton,1985-07-11,38.2
+23/09/2023,South Africa,5,James Ryan,1996-07-24,27.17
+23/09/2023,South Africa,16,Dan Sheehan,1998-09-17,25.02
+23/09/2023,South Africa,23,Robbie Henshaw,1993-06-12,30.28
+23/09/2023,South Africa,9,Jamison Gibson-Park,1992-02-23,31.58
+23/09/2023,South Africa,1,Andrew Porter,1996-01-16,27.69
+23/09/2023,South Africa,8,Caelan Doris,1998-04-02,25.48
+23/09/2023,South Africa,22,Jack Crowley,2000-01-13,23.69
+23/09/2023,South Africa,11,James Lowe,1992-07-08,31.21
+23/09/2023,South Africa,18,Finlay Bealham,1991-10-09,31.96
+23/09/2023,South Africa,6,Peter O'Mahony,1989-09-17,34.02
+07/10/2023,Scotland,16,Ronan Kelleher,1998-01-24,25.7
+07/10/2023,Scotland,12,Bundee Aki,1990-04-07,33.5
+07/10/2023,Scotland,3,Tadhg Furlong,1992-11-14,30.89
+07/10/2023,Scotland,15,Hugo Keenan,1996-06-18,27.3
+07/10/2023,Scotland,20,Jack Conan,1992-07-29,31.19
+07/10/2023,Scotland,17,Dave Kilcoyne,1988-12-14,34.81
+07/10/2023,Scotland,4,Tadhg Beirne,1992-01-08,31.75
+07/10/2023,Scotland,5,Iain Henderson,1992-02-21,31.63
+07/10/2023,Scotland,7,Josh van der Flier,1993-04-25,30.45
+07/10/2023,Scotland,14,Mack Hansen,1998-03-27,25.53
+07/10/2023,Scotland,21,Conor Murray,1989-04-20,34.46
+07/10/2023,Scotland,13,Garry Ringrose,1995-01-26,28.7
+07/10/2023,Scotland,23,Stuart McCloskey,1992-08-06,31.17
+07/10/2023,Scotland,10,Johnny Sexton,1985-07-11,38.24
+07/10/2023,Scotland,19,James Ryan,1996-07-24,27.2
+07/10/2023,Scotland,2,Dan Sheehan,1998-09-17,25.05
+07/10/2023,Scotland,9,Jamison Gibson-Park,1992-02-23,31.62
+07/10/2023,Scotland,1,Andrew Porter,1996-01-16,27.72
+07/10/2023,Scotland,8,Caelan Doris,1998-04-02,25.51
+07/10/2023,Scotland,22,Jack Crowley,2000-01-13,23.73
+07/10/2023,Scotland,11,James Lowe,1992-07-08,31.25
+07/10/2023,Scotland,18,Finlay Bealham,1991-10-09,32.0
+07/10/2023,Scotland,6,Peter O'Mahony,1989-09-17,34.05
+14/10/2023,New Zealand,16,Ronan Kelleher,1998-01-24,25.72
+14/10/2023,New Zealand,23,Jimmy O'Brien,1996-11-27,26.88
+14/10/2023,New Zealand,12,Bundee Aki,1990-04-07,33.52
+14/10/2023,New Zealand,3,Tadhg Furlong,1992-11-14,30.91
+14/10/2023,New Zealand,15,Hugo Keenan,1996-06-18,27.32
+14/10/2023,New Zealand,20,Jack Conan,1992-07-29,31.21
+14/10/2023,New Zealand,17,Dave Kilcoyne,1988-12-14,34.83
+14/10/2023,New Zealand,4,Tadhg Beirne,1992-01-08,31.77
+14/10/2023,New Zealand,5,Iain Henderson,1992-02-21,31.64
+14/10/2023,New Zealand,7,Josh van der Flier,1993-04-25,30.47
+14/10/2023,New Zealand,14,Mack Hansen,1998-03-27,25.55
+14/10/2023,New Zealand,19,Joe McCarthy,2001-03-26,22.55
+14/10/2023,New Zealand,21,Conor Murray,1989-04-20,34.48
+14/10/2023,New Zealand,13,Garry Ringrose,1995-01-26,28.72
+14/10/2023,New Zealand,10,Johnny Sexton,1985-07-11,38.26
+14/10/2023,New Zealand,2,Dan Sheehan,1998-09-17,25.07
+14/10/2023,New Zealand,9,Jamison Gibson-Park,1992-02-23,31.64
+14/10/2023,New Zealand,1,Andrew Porter,1996-01-16,27.74
+14/10/2023,New Zealand,8,Caelan Doris,1998-04-02,25.53
+14/10/2023,New Zealand,22,Jack Crowley,2000-01-13,23.75
+14/10/2023,New Zealand,11,James Lowe,1992-07-08,31.27
+14/10/2023,New Zealand,18,Finlay Bealham,1991-10-09,32.01
+14/10/2023,New Zealand,6,Peter O'Mahony,1989-09-17,34.07
+02/02/2024,France,16,Ronan Kelleher,1998-01-24,26.02
+02/02/2024,France,12,Bundee Aki,1990-04-07,33.82
+02/02/2024,France,3,Tadhg Furlong,1992-11-14,31.22
+02/02/2024,France,23,Ciaran Frawley,1997-12-04,26.16
+02/02/2024,France,17,Cian Healy,1987-10-07,36.32
+02/02/2024,France,15,Hugo Keenan,1996-06-18,27.63
+02/02/2024,France,21,Jack Conan,1992-07-29,31.51
+02/02/2024,France,20,Ryan Baird,1999-07-26,24.52
+02/02/2024,France,5,Tadhg Beirne,1992-01-08,32.07
+02/02/2024,France,14,Calvin Nash,1997-08-08,26.49
+02/02/2024,France,7,Josh van der Flier,1993-04-25,30.77
+02/02/2024,France,4,Joe McCarthy,2001-03-26,22.86
+02/02/2024,France,22,Conor Murray,1989-04-20,34.79
+02/02/2024,France,19,James Ryan,1996-07-24,27.53
+02/02/2024,France,2,Dan Sheehan,1998-09-17,25.38
+02/02/2024,France,13,Robbie Henshaw,1993-06-12,30.64
+02/02/2024,France,9,Jamison Gibson-Park,1992-02-23,31.94
+02/02/2024,France,1,Andrew Porter,1996-01-16,28.05
+02/02/2024,France,8,Caelan Doris,1998-04-02,25.84
+02/02/2024,France,10,Jack Crowley,2000-01-13,24.06
+02/02/2024,France,11,James Lowe,1992-07-08,31.57
+02/02/2024,France,18,Finlay Bealham,1991-10-09,32.32
+02/02/2024,France,6,Peter O'Mahony,1989-09-17,34.38
+11/02/2024,Italy,16,Ronan Kelleher,1998-01-24,26.05
+11/02/2024,Italy,15,Hugo Keenan,1996-06-18,27.65
+11/02/2024,Italy,8,Jack Conan,1992-07-29,31.54
+11/02/2024,Italy,6,Ryan Baird,1999-07-26,24.55
+11/02/2024,Italy,9,Craig Casey,1999-04-19,24.82
+11/02/2024,Italy,19,Iain Henderson,1992-02-21,31.97
+11/02/2024,Italy,17,Jeremy Loughman,1995-07-22,28.56
+11/02/2024,Italy,14,Calvin Nash,1997-08-08,26.51
+11/02/2024,Italy,20,Josh van der Flier,1993-04-25,30.8
+11/02/2024,Italy,18,Tom O'Toole,1998-09-23,25.39
+11/02/2024,Italy,22,Harry Byrne,1999-04-22,24.81
+11/02/2024,Italy,4,Joe McCarthy,2001-03-26,22.88
+11/02/2024,Italy,12,Stuart McCloskey,1992-08-06,31.52
+11/02/2024,Italy,5,James Ryan,1996-07-24,27.55
+11/02/2024,Italy,2,Dan Sheehan,1998-09-17,25.4
+11/02/2024,Italy,13,Robbie Henshaw,1993-06-12,30.67
+11/02/2024,Italy,21,Jamison Gibson-Park,1992-02-23,31.97
+11/02/2024,Italy,1,Andrew Porter,1996-01-16,28.07
+11/02/2024,Italy,7,Caelan Doris,1998-04-02,25.86
+11/02/2024,Italy,23,Jordan Larmour,1997-06-10,26.67
+11/02/2024,Italy,10,Jack Crowley,2000-01-13,24.08
+11/02/2024,Italy,11,James Lowe,1992-07-08,31.6
+11/02/2024,Italy,3,Finlay Bealham,1991-10-09,32.34
+24/02/2024,Wales,16,Ronan Kelleher,1998-01-24,26.08
+24/02/2024,Wales,12,Bundee Aki,1990-04-07,33.88
+24/02/2024,Wales,3,Tadhg Furlong,1992-11-14,31.28
+24/02/2024,Wales,17,Cian Healy,1987-10-07,36.38
+24/02/2024,Wales,21,Jack Conan,1992-07-29,31.57
+24/02/2024,Wales,20,Ryan Baird,1999-07-26,24.58
+24/02/2024,Wales,5,Tadhg Beirne,1992-01-08,32.13
+24/02/2024,Wales,7,Josh van der Flier,1993-04-25,30.83
+24/02/2024,Wales,4,Joe McCarthy,2001-03-26,22.92
+24/02/2024,Wales,22,Conor Murray,1989-04-20,34.85
+24/02/2024,Wales,23,Stuart McCloskey,1992-08-06,31.55
+24/02/2024,Wales,19,James Ryan,1996-07-24,27.59
+24/02/2024,Wales,2,Dan Sheehan,1998-09-17,25.44
+24/02/2024,Wales,13,Robbie Henshaw,1993-06-12,30.7
+24/02/2024,Wales,9,Jamison Gibson-Park,1992-02-23,32.0
+24/02/2024,Wales,1,Andrew Porter,1996-01-16,28.11
+24/02/2024,Wales,8,Caelan Doris,1998-04-02,25.9
+24/02/2024,Wales,10,Jack Crowley,2000-01-13,24.12
+24/02/2024,Wales,14,Calvin Nash,1997-08-08,26.55
+24/02/2024,Wales,18,Oliver Jager,1995-07-05,28.64
+24/02/2024,Wales,11,James Lowe,1992-07-08,31.63
+24/02/2024,Wales,15,Ciaran Frawley,1997-12-04,26.22
+24/02/2024,Wales,6,Peter O'Mahony,1989-09-17,34.44
+09/03/2024,England,16,Ronan Kelleher,1998-01-24,26.12
+09/03/2024,England,12,Bundee Aki,1990-04-07,33.92
+09/03/2024,England,3,Tadhg Furlong,1992-11-14,31.32
+09/03/2024,England,17,Cian Healy,1987-10-07,36.42
+09/03/2024,England,15,Hugo Keenan,1996-06-18,27.72
+09/03/2024,England,21,Jack Conan,1992-07-29,31.61
+09/03/2024,England,20,Ryan Baird,1999-07-26,24.62
+09/03/2024,England,5,Tadhg Beirne,1992-01-08,32.17
+09/03/2024,England,19,Iain Henderson,1992-02-21,32.05
+09/03/2024,England,7,Josh van der Flier,1993-04-25,30.87
+09/03/2024,England,4,Joe McCarthy,2001-03-26,22.95
+09/03/2024,England,22,Conor Murray,1989-04-20,34.89
+09/03/2024,England,2,Dan Sheehan,1998-09-17,25.48
+09/03/2024,England,13,Robbie Henshaw,1993-06-12,30.74
+09/03/2024,England,9,Jamison Gibson-Park,1992-02-23,32.04
+09/03/2024,England,1,Andrew Porter,1996-01-16,28.15
+09/03/2024,England,8,Caelan Doris,1998-04-02,25.94
+09/03/2024,England,10,Jack Crowley,2000-01-13,24.15
+09/03/2024,England,14,Calvin Nash,1997-08-08,26.59
+09/03/2024,England,11,James Lowe,1992-07-08,31.67
+09/03/2024,England,18,Finlay Bealham,1991-10-09,32.42
+09/03/2024,England,23,Ciaran Frawley,1997-12-04,26.26
+09/03/2024,England,6,Peter O'Mahony,1989-09-17,34.48
+16/03/2024,Scotland,16,Ronan Kelleher,1998-01-24,26.14
+16/03/2024,Scotland,12,Bundee Aki,1990-04-07,33.94
+16/03/2024,Scotland,3,Tadhg Furlong,1992-11-14,31.34
+16/03/2024,Scotland,17,Cian Healy,1987-10-07,36.44
+16/03/2024,Scotland,20,Jack Conan,1992-07-29,31.63
+16/03/2024,Scotland,19,Ryan Baird,1999-07-26,24.64
+16/03/2024,Scotland,5,Tadhg Beirne,1992-01-08,32.19
+16/03/2024,Scotland,7,Josh van der Flier,1993-04-25,30.89
+16/03/2024,Scotland,4,Joe McCarthy,2001-03-26,22.97
+16/03/2024,Scotland,21,Conor Murray,1989-04-20,34.91
+16/03/2024,Scotland,23,Garry Ringrose,1995-01-26,29.14
+16/03/2024,Scotland,22,Harry Byrne,1999-04-22,24.9
+16/03/2024,Scotland,2,Dan Sheehan,1998-09-17,25.5
+16/03/2024,Scotland,13,Robbie Henshaw,1993-06-12,30.76
+16/03/2024,Scotland,9,Jamison Gibson-Park,1992-02-23,32.06
+16/03/2024,Scotland,1,Andrew Porter,1996-01-16,28.16
+16/03/2024,Scotland,8,Caelan Doris,1998-04-02,25.96
+16/03/2024,Scotland,15,Jordan Larmour,1997-06-10,26.77
+16/03/2024,Scotland,10,Jack Crowley,2000-01-13,24.17
+16/03/2024,Scotland,14,Calvin Nash,1997-08-08,26.6
+16/03/2024,Scotland,11,James Lowe,1992-07-08,31.69
+16/03/2024,Scotland,18,Finlay Bealham,1991-10-09,32.44
+16/03/2024,Scotland,6,Peter O'Mahony,1989-09-17,34.49
+06/07/2024,South Africa,16,Ronan Kelleher,1998-01-24,26.45
+06/07/2024,South Africa,12,Bundee Aki,1990-04-07,34.25
+06/07/2024,South Africa,3,Tadhg Furlong,1992-11-14,31.64
+06/07/2024,South Africa,17,Cian Healy,1987-10-07,36.75
+06/07/2024,South Africa,20,Ryan Baird,1999-07-26,24.95
+06/07/2024,South Africa,5,Tadhg Beirne,1992-01-08,32.49
+06/07/2024,South Africa,15,Jamie Osborne,2001-11-16,22.64
+06/07/2024,South Africa,9,Craig Casey,1999-04-19,25.22
+06/07/2024,South Africa,7,Josh van der Flier,1993-04-25,31.2
+06/07/2024,South Africa,4,Joe McCarthy,2001-03-26,23.28
+06/07/2024,South Africa,21,Conor Murray,1989-04-20,35.21
+06/07/2024,South Africa,23,Garry Ringrose,1995-01-26,29.44
+06/07/2024,South Africa,19,James Ryan,1996-07-24,27.95
+06/07/2024,South Africa,2,Dan Sheehan,1998-09-17,25.8
+06/07/2024,South Africa,13,Robbie Henshaw,1993-06-12,31.07
+06/07/2024,South Africa,1,Andrew Porter,1996-01-16,28.47
+06/07/2024,South Africa,8,Caelan Doris,1998-04-02,26.26
+06/07/2024,South Africa,10,Jack Crowley,2000-01-13,24.48
+06/07/2024,South Africa,14,Calvin Nash,1997-08-08,26.91
+06/07/2024,South Africa,11,James Lowe,1992-07-08,32.0
+06/07/2024,South Africa,18,Finlay Bealham,1991-10-09,32.74
+06/07/2024,South Africa,22,Ciaran Frawley,1997-12-04,26.59
+06/07/2024,South Africa,6,Peter O'Mahony,1989-09-17,34.8
+13/07/2024,South Africa,2,Ronan Kelleher,1998-01-24,26.47
+13/07/2024,South Africa,3,Tadhg Furlong,1992-11-14,31.66
+13/07/2024,South Africa,17,Cian Healy,1987-10-07,36.77
+13/07/2024,South Africa,19,Ryan Baird,1999-07-26,24.97
+13/07/2024,South Africa,6,Tadhg Beirne,1992-01-08,32.51
+13/07/2024,South Africa,15,Jamie Osborne,2001-11-16,22.66
+13/07/2024,South Africa,7,Josh van der Flier,1993-04-25,31.22
+13/07/2024,South Africa,4,Joe McCarthy,2001-03-26,23.3
+13/07/2024,South Africa,9,Conor Murray,1989-04-20,35.23
+13/07/2024,South Africa,13,Garry Ringrose,1995-01-26,29.46
+13/07/2024,South Africa,23,Stuart McCloskey,1992-08-06,31.93
+13/07/2024,South Africa,21,Caolin Blade,1994-04-29,30.21
+13/07/2024,South Africa,5,James Ryan,1996-07-24,27.97
+13/07/2024,South Africa,12,Robbie Henshaw,1993-06-12,31.09
+13/07/2024,South Africa,16,Rob Herring,1990-04-27,34.21
+13/07/2024,South Africa,1,Andrew Porter,1996-01-16,28.49
+13/07/2024,South Africa,8,Caelan Doris,1998-04-02,26.28
+13/07/2024,South Africa,10,Jack Crowley,2000-01-13,24.5
+13/07/2024,South Africa,14,Calvin Nash,1997-08-08,26.93
+13/07/2024,South Africa,11,James Lowe,1992-07-08,32.01
+13/07/2024,South Africa,18,Finlay Bealham,1991-10-09,32.76
+13/07/2024,South Africa,22,Ciaran Frawley,1997-12-04,26.61
+13/07/2024,South Africa,20,Peter O'Mahony,1989-09-17,34.82
+08/11/2024,New Zealand,2,Ronan Kelleher,1998-01-24,26.79
+08/11/2024,New Zealand,12,Bundee Aki,1990-04-07,34.59
+08/11/2024,New Zealand,17,Cian Healy,1987-10-07,37.09
+08/11/2024,New Zealand,15,Hugo Keenan,1996-06-18,28.39
+08/11/2024,New Zealand,6,Tadhg Beirne,1992-01-08,32.84
+08/11/2024,New Zealand,23,Jamie Osborne,2001-11-16,22.98
+08/11/2024,New Zealand,19,Iain Henderson,1992-02-21,32.72
+08/11/2024,New Zealand,7,Josh van der Flier,1993-04-25,31.54
+08/11/2024,New Zealand,18,Tom O'Toole,1998-09-23,26.13
+08/11/2024,New Zealand,14,Mack Hansen,1998-03-27,26.62
+08/11/2024,New Zealand,4,Joe McCarthy,2001-03-26,23.62
+08/11/2024,New Zealand,21,Conor Murray,1989-04-20,35.55
+08/11/2024,New Zealand,13,Garry Ringrose,1995-01-26,29.79
+08/11/2024,New Zealand,5,James Ryan,1996-07-24,28.29
+08/11/2024,New Zealand,16,Rob Herring,1990-04-27,34.54
+08/11/2024,New Zealand,9,Jamison Gibson-Park,1992-02-23,32.71
+08/11/2024,New Zealand,1,Andrew Porter,1996-01-16,28.81
+08/11/2024,New Zealand,8,Caelan Doris,1998-04-02,26.6
+08/11/2024,New Zealand,10,Jack Crowley,2000-01-13,24.82
+08/11/2024,New Zealand,11,James Lowe,1992-07-08,32.34
+08/11/2024,New Zealand,3,Finlay Bealham,1991-10-09,33.08
+08/11/2024,New Zealand,22,Ciaran Frawley,1997-12-04,26.93
+08/11/2024,New Zealand,20,Peter O'Mahony,1989-09-17,35.14
+15/11/2024,Argentina,2,Ronan Kelleher,1998-01-24,26.81
+15/11/2024,Argentina,22,Sam Prendergast,2003-02-12,21.76
+15/11/2024,Argentina,17,Cian Healy,1987-10-07,37.11
+15/11/2024,Argentina,15,Hugo Keenan,1996-06-18,28.41
+15/11/2024,Argentina,19,Ryan Baird,1999-07-26,25.31
+15/11/2024,Argentina,6,Tadhg Beirne,1992-01-08,32.85
+15/11/2024,Argentina,23,Jamie Osborne,2001-11-16,23.0
+15/11/2024,Argentina,18,Tom Clarkson,2000-02-22,24.73
+15/11/2024,Argentina,21,Craig Casey,1999-04-19,25.58
+15/11/2024,Argentina,7,Josh van der Flier,1993-04-25,31.56
+15/11/2024,Argentina,14,Mack Hansen,1998-03-27,26.64
+15/11/2024,Argentina,4,Joe McCarthy,2001-03-26,23.64
+15/11/2024,Argentina,13,Garry Ringrose,1995-01-26,29.8
+15/11/2024,Argentina,5,James Ryan,1996-07-24,28.31
+15/11/2024,Argentina,12,Robbie Henshaw,1993-06-12,31.43
+15/11/2024,Argentina,16,Rob Herring,1990-04-27,34.56
+15/11/2024,Argentina,9,Jamison Gibson-Park,1992-02-23,32.73
+15/11/2024,Argentina,1,Andrew Porter,1996-01-16,28.83
+15/11/2024,Argentina,8,Caelan Doris,1998-04-02,26.62
+15/11/2024,Argentina,10,Jack Crowley,2000-01-13,24.84
+15/11/2024,Argentina,11,James Lowe,1992-07-08,32.36
+15/11/2024,Argentina,3,Finlay Bealham,1991-10-09,33.1
+15/11/2024,Argentina,20,Peter O'Mahony,1989-09-17,35.16
+23/11/2024,Fiji,16,Ronan Kelleher,1998-01-24,26.83
+23/11/2024,Fiji,10,Sam Prendergast,2003-02-12,21.78
+23/11/2024,Fiji,6,Cormac Izuchukwu,2000-01-28,24.82
+23/11/2024,Fiji,12,Bundee Aki,1990-04-07,34.63
+23/11/2024,Fiji,5,Tadhg Beirne,1992-01-08,32.88
+23/11/2024,Fiji,15,Jamie Osborne,2001-11-16,23.02
+23/11/2024,Fiji,20,Cian Prendergast,2000-02-23,24.75
+23/11/2024,Fiji,18,Tom Clarkson,2000-02-22,24.75
+23/11/2024,Fiji,9,Craig Casey,1999-04-19,25.6
+23/11/2024,Fiji,19,Iain Henderson,1992-02-21,32.76
+23/11/2024,Fiji,7,Josh van der Flier,1993-04-25,31.58
+23/11/2024,Fiji,17,Tom O'Toole,1998-09-23,26.17
+23/11/2024,Fiji,14,Mack Hansen,1998-03-27,26.66
+23/11/2024,Fiji,4,Joe McCarthy,2001-03-26,23.66
+23/11/2024,Fiji,21,Conor Murray,1989-04-20,35.6
+23/11/2024,Fiji,11,Jacob Stockdale,1996-04-03,28.64
+23/11/2024,Fiji,23,Stuart McCloskey,1992-08-06,32.3
+23/11/2024,Fiji,2,Gus McCarthy,2003-07-23,21.34
+23/11/2024,Fiji,13,Robbie Henshaw,1993-06-12,31.45
+23/11/2024,Fiji,1,Andrew Porter,1996-01-16,28.85
+23/11/2024,Fiji,8,Caelan Doris,1998-04-02,26.65
+23/11/2024,Fiji,3,Finlay Bealham,1991-10-09,33.13
+23/11/2024,Fiji,22,Ciaran Frawley,1997-12-04,26.97
+30/11/2024,Australia,2,Ronan Kelleher,1998-01-24,26.85
+30/11/2024,Australia,10,Sam Prendergast,2003-02-12,21.8
+30/11/2024,Australia,12,Bundee Aki,1990-04-07,34.65
+30/11/2024,Australia,17,Cian Healy,1987-10-07,37.15
+30/11/2024,Australia,15,Hugo Keenan,1996-06-18,28.45
+30/11/2024,Australia,6,Tadhg Beirne,1992-01-08,32.9
+30/11/2024,Australia,21,Craig Casey,1999-04-19,25.62
+30/11/2024,Australia,19,Iain Henderson,1992-02-21,32.78
+30/11/2024,Australia,7,Josh van der Flier,1993-04-25,31.6
+30/11/2024,Australia,18,Tom O'Toole,1998-09-23,26.19
+30/11/2024,Australia,14,Mack Hansen,1998-03-27,26.68
+30/11/2024,Australia,4,Joe McCarthy,2001-03-26,23.68
+30/11/2024,Australia,23,Garry Ringrose,1995-01-26,29.85
+30/11/2024,Australia,5,James Ryan,1996-07-24,28.35
+30/11/2024,Australia,16,Gus McCarthy,2003-07-23,21.36
+30/11/2024,Australia,13,Robbie Henshaw,1993-06-12,31.47
+30/11/2024,Australia,9,Jamison Gibson-Park,1992-02-23,32.77
+30/11/2024,Australia,1,Andrew Porter,1996-01-16,28.87
+30/11/2024,Australia,8,Caelan Doris,1998-04-02,26.66
+30/11/2024,Australia,22,Jack Crowley,2000-01-13,24.88
+30/11/2024,Australia,11,James Lowe,1992-07-08,32.4
+30/11/2024,Australia,3,Finlay Bealham,1991-10-09,33.15
+30/11/2024,Australia,20,Peter O'Mahony,1989-09-17,35.2
+01/02/2025,England,2,Ronan Kelleher,1998-01-24,27.02
+01/02/2025,England,10,Sam Prendergast,2003-02-12,21.97
+01/02/2025,England,12,Bundee Aki,1990-04-07,34.82
+01/02/2025,England,17,Cian Healy,1987-10-07,37.32
+01/02/2025,England,15,Hugo Keenan,1996-06-18,28.62
+01/02/2025,England,20,Jack Conan,1992-07-29,32.51
+01/02/2025,England,6,Ryan Baird,1999-07-26,25.52
+01/02/2025,England,5,Tadhg Beirne,1992-01-08,33.07
+01/02/2025,England,18,Tom Clarkson,2000-02-22,24.95
+01/02/2025,England,19,Iain Henderson,1992-02-21,32.95
+01/02/2025,England,7,Josh van der Flier,1993-04-25,31.77
+01/02/2025,England,14,Mack Hansen,1998-03-27,26.85
+01/02/2025,England,21,Conor Murray,1989-04-20,35.79
+01/02/2025,England,13,Garry Ringrose,1995-01-26,30.02
+01/02/2025,England,4,James Ryan,1996-07-24,28.53
+01/02/2025,England,16,Dan Sheehan,1998-09-17,26.38
+01/02/2025,England,23,Robbie Henshaw,1993-06-12,31.64
+01/02/2025,England,9,Jamison Gibson-Park,1992-02-23,32.94
+01/02/2025,England,1,Andrew Porter,1996-01-16,29.05
+01/02/2025,England,8,Caelan Doris,1998-04-02,26.84
+01/02/2025,England,22,Jack Crowley,2000-01-13,25.05
+01/02/2025,England,11,James Lowe,1992-07-08,32.57
+01/02/2025,England,3,Finlay Bealham,1991-10-09,33.32
+09/02/2025,Scotland,2,Ronan Kelleher,1998-01-24,27.05
+09/02/2025,Scotland,10,Sam Prendergast,2003-02-12,21.99
+09/02/2025,Scotland,12,Bundee Aki,1990-04-07,34.85
+09/02/2025,Scotland,17,Cian Healy,1987-10-07,37.35
+09/02/2025,Scotland,15,Hugo Keenan,1996-06-18,28.65
+09/02/2025,Scotland,20,Jack Conan,1992-07-29,32.53
+09/02/2025,Scotland,19,Ryan Baird,1999-07-26,25.54
+09/02/2025,Scotland,5,Tadhg Beirne,1992-01-08,33.09
+09/02/2025,Scotland,18,Tom Clarkson,2000-02-22,24.97
+09/02/2025,Scotland,7,Josh van der Flier,1993-04-25,31.8
+09/02/2025,Scotland,21,Conor Murray,1989-04-20,35.81
+09/02/2025,Scotland,23,Garry Ringrose,1995-01-26,30.04
+09/02/2025,Scotland,4,James Ryan,1996-07-24,28.55
+09/02/2025,Scotland,16,Dan Sheehan,1998-09-17,26.4
+09/02/2025,Scotland,13,Robbie Henshaw,1993-06-12,31.66
+09/02/2025,Scotland,9,Jamison Gibson-Park,1992-02-23,32.96
+09/02/2025,Scotland,1,Andrew Porter,1996-01-16,29.07
+09/02/2025,Scotland,8,Caelan Doris,1998-04-02,26.86
+09/02/2025,Scotland,22,Jack Crowley,2000-01-13,25.08
+09/02/2025,Scotland,14,Calvin Nash,1997-08-08,27.51
+09/02/2025,Scotland,11,James Lowe,1992-07-08,32.59
+09/02/2025,Scotland,3,Finlay Bealham,1991-10-09,33.34
+09/02/2025,Scotland,6,Peter O'Mahony,1989-09-17,35.4
+22/02/2025,Wales,10,Sam Prendergast,2003-02-12,22.03
+22/02/2025,Wales,23,Bundee Aki,1990-04-07,34.88
+22/02/2025,Wales,8,Jack Conan,1992-07-29,32.57
+22/02/2025,Wales,20,Ryan Baird,1999-07-26,25.58
+22/02/2025,Wales,5,Tadhg Beirne,1992-01-08,33.13
+22/02/2025,Wales,15,Jamie Osborne,2001-11-16,23.27
+22/02/2025,Wales,3,Tom Clarkson,2000-02-22,25.0
+22/02/2025,Wales,7,Josh van der Flier,1993-04-25,31.83
+22/02/2025,Wales,17,Jack Boyle,2002-03-10,22.96
+22/02/2025,Wales,14,Mack Hansen,1998-03-27,26.91
+22/02/2025,Wales,4,Joe McCarthy,2001-03-26,23.91
+22/02/2025,Wales,21,Conor Murray,1989-04-20,35.84
+22/02/2025,Wales,13,Garry Ringrose,1995-01-26,30.08
+22/02/2025,Wales,19,James Ryan,1996-07-24,28.58
+22/02/2025,Wales,2,Dan Sheehan,1998-09-17,26.43
+22/02/2025,Wales,16,Gus McCarthy,2003-07-23,21.59
+22/02/2025,Wales,12,Robbie Henshaw,1993-06-12,31.7
+22/02/2025,Wales,9,Jamison Gibson-Park,1992-02-23,33.0
+22/02/2025,Wales,1,Andrew Porter,1996-01-16,29.1
+22/02/2025,Wales,22,Jack Crowley,2000-01-13,25.11
+22/02/2025,Wales,11,James Lowe,1992-07-08,32.63
+22/02/2025,Wales,18,Finlay Bealham,1991-10-09,33.38
+22/02/2025,Wales,6,Peter O'Mahony,1989-09-17,35.43
+08/03/2025,France,10,Sam Prendergast,2003-02-12,22.07
+08/03/2025,France,12,Bundee Aki,1990-04-07,34.92
+08/03/2025,France,17,Cian Healy,1987-10-07,37.42
+08/03/2025,France,15,Hugo Keenan,1996-06-18,28.72
+08/03/2025,France,20,Jack Conan,1992-07-29,32.61
+08/03/2025,France,21,Ryan Baird,1999-07-26,25.62
+08/03/2025,France,5,Tadhg Beirne,1992-01-08,33.16
+08/03/2025,France,14,Jamie Osborne,2001-11-16,23.31
+08/03/2025,France,18,Tom Clarkson,2000-02-22,25.04
+08/03/2025,France,7,Josh van der Flier,1993-04-25,31.87
+08/03/2025,France,4,Joe McCarthy,2001-03-26,23.95
+08/03/2025,France,22,Conor Murray,1989-04-20,35.88
+08/03/2025,France,19,James Ryan,1996-07-24,28.62
+08/03/2025,France,2,Dan Sheehan,1998-09-17,26.47
+08/03/2025,France,13,Robbie Henshaw,1993-06-12,31.74
+08/03/2025,France,16,Rob Herring,1990-04-27,34.86
+08/03/2025,France,9,Jamison Gibson-Park,1992-02-23,33.04
+08/03/2025,France,1,Andrew Porter,1996-01-16,29.14
+08/03/2025,France,8,Caelan Doris,1998-04-02,26.93
+08/03/2025,France,23,Jack Crowley,2000-01-13,25.15
+08/03/2025,France,11,Calvin Nash,1997-08-08,27.58
+08/03/2025,France,3,Finlay Bealham,1991-10-09,33.41
+08/03/2025,France,6,Peter O'Mahony,1989-09-17,35.47
+15/03/2025,Italy,22,Sam Prendergast,2003-02-12,22.09
+15/03/2025,Italy,23,Bundee Aki,1990-04-07,34.94
+15/03/2025,Italy,18,Tadhg Furlong,1992-11-14,32.33
+15/03/2025,Italy,15,Hugo Keenan,1996-06-18,28.74
+15/03/2025,Italy,6,Jack Conan,1992-07-29,32.63
+15/03/2025,Italy,5,Tadhg Beirne,1992-01-08,33.18
+15/03/2025,Italy,7,Josh van der Flier,1993-04-25,31.89
+15/03/2025,Italy,17,Jack Boyle,2002-03-10,23.01
+15/03/2025,Italy,14,Mack Hansen,1998-03-27,26.97
+15/03/2025,Italy,19,Joe McCarthy,2001-03-26,23.97
+15/03/2025,Italy,21,Conor Murray,1989-04-20,35.9
+15/03/2025,Italy,13,Garry Ringrose,1995-01-26,30.13
+15/03/2025,Italy,4,James Ryan,1996-07-24,28.64
+15/03/2025,Italy,2,Dan Sheehan,1998-09-17,26.49
+15/03/2025,Italy,16,Gus McCarthy,2003-07-23,21.65
+15/03/2025,Italy,12,Robbie Henshaw,1993-06-12,31.76
+15/03/2025,Italy,9,Jamison Gibson-Park,1992-02-23,33.06
+15/03/2025,Italy,1,Andrew Porter,1996-01-16,29.16
+15/03/2025,Italy,8,Caelan Doris,1998-04-02,26.95
+15/03/2025,Italy,10,Jack Crowley,2000-01-13,25.17
+15/03/2025,Italy,11,James Lowe,1992-07-08,32.69
+15/03/2025,Italy,3,Finlay Bealham,1991-10-09,33.43
+15/03/2025,Italy,20,Peter O'Mahony,1989-09-17,35.49
+05/07/2025,Georgia,19,Thomas Ahern,2000-02-22,25.37
+05/07/2025,Georgia,10,Sam Prendergast,2003-02-12,22.39
+05/07/2025,Georgia,15,Jimmy O'Brien,1996-11-27,28.6
+05/07/2025,Georgia,4,Cormac Izuchukwu,2000-01-28,25.44
+05/07/2025,Georgia,17,Michael Milne,2000-02-05,25.41
+05/07/2025,Georgia,6,Ryan Baird,1999-07-26,25.94
+05/07/2025,Georgia,13,Jamie Osborne,2001-11-16,23.63
+05/07/2025,Georgia,3,Tom Clarkson,2000-02-22,25.37
+05/07/2025,Georgia,18,Jack Aungier,1998-11-20,26.62
+05/07/2025,Georgia,9,Craig Casey,1999-04-19,26.21
+05/07/2025,Georgia,5,Darragh Murray,2001-07-04,24.0
+05/07/2025,Georgia,16,Tom Stewart,2001-01-11,24.48
+05/07/2025,Georgia,1,Jack Boyle,2002-03-10,23.32
+05/07/2025,Georgia,7,Nick Timoney,1995-08-01,29.93
+05/07/2025,Georgia,11,Jacob Stockdale,1996-04-03,29.25
+05/07/2025,Georgia,12,Stuart McCloskey,1992-08-06,32.91
+05/07/2025,Georgia,20,Max Deegan,1996-10-01,28.76
+05/07/2025,Georgia,2,Gus McCarthy,2003-07-23,21.95
+05/07/2025,Georgia,14,Tommy O'Brien,1998-05-28,27.11
+05/07/2025,Georgia,8,Gavin Coombes,1997-12-11,27.57
+05/07/2025,Georgia,21,Ben Murphy,2001-04-23,24.2
+05/07/2025,Georgia,22,Jack Crowley,2000-01-13,25.48
+05/07/2025,Georgia,23,Calvin Nash,1997-08-08,27.91
+12/07/2025,Portugal,4,Thomas Ahern,2000-02-22,25.39
+12/07/2025,Portugal,15,Jimmy O'Brien,1996-11-27,28.62
+12/07/2025,Portugal,19,Cormac Izuchukwu,2000-01-28,25.45
+12/07/2025,Portugal,17,Michael Milne,2000-02-05,25.43
+12/07/2025,Portugal,6,Ryan Baird,1999-07-26,25.96
+12/07/2025,Portugal,11,Shayne Bolton,2000-06-29,25.04
+12/07/2025,Portugal,8,Cian Prendergast,2000-02-23,25.38
+12/07/2025,Portugal,3,Tom Clarkson,2000-02-22,25.39
+12/07/2025,Portugal,13,Hugh Gavin,2004-01-10,21.5
+12/07/2025,Portugal,9,Craig Casey,1999-04-19,26.23
+12/07/2025,Portugal,5,Darragh Murray,2001-07-04,24.02
+12/07/2025,Portugal,16,Tom Stewart,2001-01-11,24.5
+12/07/2025,Portugal,1,Jack Boyle,2002-03-10,23.34
+12/07/2025,Portugal,18,Tom O'Toole,1998-09-23,26.8
+12/07/2025,Portugal,12,Stuart McCloskey,1992-08-06,32.93
+12/07/2025,Portugal,20,Max Deegan,1996-10-01,28.78
+12/07/2025,Portugal,2,Gus McCarthy,2003-07-23,21.97
+12/07/2025,Portugal,14,Tommy O'Brien,1998-05-28,27.12
+12/07/2025,Portugal,21,Ben Murphy,2001-04-23,24.22
+12/07/2025,Portugal,10,Jack Crowley,2000-01-13,25.5
+12/07/2025,Portugal,7,Alex Kendellen,2001-03-01,24.36
+12/07/2025,Portugal,23,Calvin Nash,1997-08-08,27.93
+12/07/2025,Portugal,22,Ciaran Frawley,1997-12-04,27.6
+01/11/2025,New Zealand,16,Ronan Kelleher,1998-01-24,27.77
+01/11/2025,New Zealand,22,Sam Prendergast,2003-02-12,22.72
+01/11/2025,New Zealand,23,Bundee Aki,1990-04-07,35.57
+01/11/2025,New Zealand,3,Tadhg Furlong,1992-11-14,32.96
+01/11/2025,New Zealand,8,Jack Conan,1992-07-29,33.26
+01/11/2025,New Zealand,6,Ryan Baird,1999-07-26,26.27
+01/11/2025,New Zealand,5,Tadhg Beirne,1992-01-08,33.82
+01/11/2025,New Zealand,15,Jamie Osborne,2001-11-16,23.96
+01/11/2025,New Zealand,21,Craig Casey,1999-04-19,26.54
+01/11/2025,New Zealand,19,Iain Henderson,1992-02-21,33.7
+01/11/2025,New Zealand,7,Josh van der Flier,1993-04-25,32.52
+01/11/2025,New Zealand,17,Paddy McCarthy,2003-05-28,22.43
+01/11/2025,New Zealand,13,Garry Ringrose,1995-01-26,30.77
+01/11/2025,New Zealand,12,Stuart McCloskey,1992-08-06,33.24
+01/11/2025,New Zealand,4,James Ryan,1996-07-24,29.27
+01/11/2025,New Zealand,2,Dan Sheehan,1998-09-17,27.12
+01/11/2025,New Zealand,9,Jamison Gibson-Park,1992-02-23,33.69
+01/11/2025,New Zealand,1,Andrew Porter,1996-01-16,29.79
+01/11/2025,New Zealand,20,Caelan Doris,1998-04-02,27.58
+01/11/2025,New Zealand,14,Tommy O'Brien,1998-05-28,27.43
+01/11/2025,New Zealand,10,Jack Crowley,2000-01-13,25.8
+01/11/2025,New Zealand,11,James Lowe,1992-07-08,33.32
+01/11/2025,New Zealand,18,Finlay Bealham,1991-10-09,34.07
+08/11/2025,Japan,2,Ronan Kelleher,1998-01-24,27.79
+08/11/2025,Japan,22,Sam Prendergast,2003-02-12,22.74
+08/11/2025,Japan,23,Jimmy O'Brien,1996-11-27,28.95
+08/11/2025,Japan,20,Jack Conan,1992-07-29,33.28
+08/11/2025,Japan,13,Tom Farrell,1993-10-01,32.1
+08/11/2025,Japan,6,Ryan Baird,1999-07-26,26.29
+08/11/2025,Japan,5,Tadhg Beirne,1992-01-08,33.84
+08/11/2025,Japan,15,Jamie Osborne,2001-11-16,23.98
+08/11/2025,Japan,19,Cian Prendergast,2000-02-23,25.71
+08/11/2025,Japan,3,Tom Clarkson,2000-02-22,25.71
+08/11/2025,Japan,9,Craig Casey,1999-04-19,26.56
+08/11/2025,Japan,17,Paddy McCarthy,2003-05-28,22.45
+08/11/2025,Japan,7,Nick Timoney,1995-08-01,30.27
+08/11/2025,Japan,11,Jacob Stockdale,1996-04-03,29.6
+08/11/2025,Japan,21,Caolin Blade,1994-04-29,31.53
+08/11/2025,Japan,4,James Ryan,1996-07-24,29.29
+08/11/2025,Japan,16,Gus McCarthy,2003-07-23,22.3
+08/11/2025,Japan,12,Robbie Henshaw,1993-06-12,32.41
+08/11/2025,Japan,1,Andrew Porter,1996-01-16,29.81
+08/11/2025,Japan,8,Caelan Doris,1998-04-02,27.6
+08/11/2025,Japan,14,Tommy O'Brien,1998-05-28,27.45
+08/11/2025,Japan,10,Jack Crowley,2000-01-13,25.82
+08/11/2025,Japan,18,Finlay Bealham,1991-10-09,34.08
+15/11/2025,Australia,4,James Ryan,1996-07-24,29.31
+15/11/2025,Australia,2,Dan Sheehan,1998-09-17,27.16
+15/11/2025,Australia,13,Robbie Henshaw,1993-06-12,32.43
+15/11/2025,Australia,9,Jamison Gibson-Park,1992-02-23,33.73
+15/11/2025,Australia,17,Andrew Porter,1996-01-16,29.83
+15/11/2025,Australia,7,Caelan Doris,1998-04-02,27.62
+15/11/2025,Australia,14,Tommy O'Brien,1998-05-28,27.47
+15/11/2025,Australia,22,Jack Crowley,2000-01-13,25.84
+15/11/2025,Australia,11,James Lowe,1992-07-08,33.36
+15/11/2025,Australia,16,Ronan Kelleher,1998-01-24,27.81
+15/11/2025,Australia,10,Sam Prendergast,2003-02-12,22.76
+15/11/2025,Australia,23,Bundee Aki,1990-04-07,35.61
+15/11/2025,Australia,3,Tadhg Furlong,1992-11-14,33.0
+15/11/2025,Australia,8,Jack Conan,1992-07-29,33.3
+15/11/2025,Australia,6,Ryan Baird,1999-07-26,26.31
+15/11/2025,Australia,5,Tadhg Beirne,1992-01-08,33.85
+15/11/2025,Australia,20,Cian Prendergast,2000-02-23,25.73
+15/11/2025,Australia,18,Tom Clarkson,2000-02-22,25.73
+15/11/2025,Australia,21,Craig Casey,1999-04-19,26.58
+15/11/2025,Australia,1,Paddy McCarthy,2003-05-28,22.47
+15/11/2025,Australia,19,Nick Timoney,1995-08-01,30.29
+15/11/2025,Australia,15,Mack Hansen,1998-03-27,27.64
+15/11/2025,Australia,12,Stuart McCloskey,1992-08-06,33.28
+22/11/2025,South Africa,16,Ronan Kelleher,1998-01-24,27.83
+22/11/2025,South Africa,10,Sam Prendergast,2003-02-12,22.78
+22/11/2025,South Africa,12,Bundee Aki,1990-04-07,35.63
+22/11/2025,South Africa,3,Tadhg Furlong,1992-11-14,33.02
+22/11/2025,South Africa,20,Jack Conan,1992-07-29,33.32
+22/11/2025,South Africa,23,Tom Farrell,1993-10-01,32.14
+22/11/2025,South Africa,6,Ryan Baird,1999-07-26,26.33
+22/11/2025,South Africa,5,Tadhg Beirne,1992-01-08,33.87
+22/11/2025,South Africa,19,Cian Prendergast,2000-02-23,25.75
+22/11/2025,South Africa,21,Craig Casey,1999-04-19,26.6
+22/11/2025,South Africa,7,Josh van der Flier,1993-04-25,32.58
+22/11/2025,South Africa,17,Paddy McCarthy,2003-05-28,22.49
+22/11/2025,South Africa,15,Mack Hansen,1998-03-27,27.66
+22/11/2025,South Africa,13,Garry Ringrose,1995-01-26,30.82
+22/11/2025,South Africa,4,James Ryan,1996-07-24,29.33
+22/11/2025,South Africa,2,Dan Sheehan,1998-09-17,27.18
+22/11/2025,South Africa,9,Jamison Gibson-Park,1992-02-23,33.75
+22/11/2025,South Africa,1,Andrew Porter,1996-01-16,29.85
+22/11/2025,South Africa,8,Caelan Doris,1998-04-02,27.64
+22/11/2025,South Africa,14,Tommy O'Brien,1998-05-28,27.49
+22/11/2025,South Africa,22,Jack Crowley,2000-01-13,25.86
+22/11/2025,South Africa,11,James Lowe,1992-07-08,33.38
+22/11/2025,South Africa,18,Finlay Bealham,1991-10-09,34.12
+05/02/2026,France,1,Jeremy Loughman,1995-07-22,30.54
+05/02/2026,France,2,Dan Sheehan,1998-09-17,27.39
+05/02/2026,France,3,Tom Clarkson,2000-02-22,25.96
+05/02/2026,France,4,Joe McCarthy,2001-03-26,24.87
+05/02/2026,France,5,Tadhg Beirne,1992-01-08,34.08
+05/02/2026,France,6,Cian Prendergast,2000-02-23,25.95
+05/02/2026,France,7,Josh van der Flier,1993-04-25,32.78
+05/02/2026,France,8,Caelan Doris,1998-04-02,27.85
+05/02/2026,France,9,Jamison Gibson-Park,1992-02-23,33.95
+05/02/2026,France,10,Sam Prendergast,2003-02-12,22.98
+05/02/2026,France,11,Jacob Stockdale,1996-04-03,29.84
+05/02/2026,France,12,Stuart McCloskey,1992-08-06,33.5
+05/02/2026,France,13,Garry Ringrose,1995-01-26,31.03
+05/02/2026,France,14,Tommy O'Brien,1998-05-28,27.69
+05/02/2026,France,15,Jamie Osborne,2001-11-16,24.22
+05/02/2026,France,16,Ronan Kelleher,1998-01-24,28.03
+05/02/2026,France,17,Michael Milne,2000-02-05,26.0
+05/02/2026,France,18,Finlay Bealham,1991-10-09,34.33
+05/02/2026,France,19,James Ryan,1996-07-24,29.54
+05/02/2026,France,20,Jack Conan,1992-07-29,33.52
+05/02/2026,France,21,Nick Timoney,1995-08-01,30.52
+05/02/2026,France,22,Craig Casey,1999-04-19,26.8
+05/02/2026,France,23,Jack Crowley,2000-01-13,26.06
+14/02/2026,Italy,16,Ronan Kelleher,1998-01-24,28.06
+14/02/2026,Italy,10,Sam Prendergast,2003-02-12,23.01
+14/02/2026,Italy,6,Cormac Izuchukwu,2000-01-28,26.05
+14/02/2026,Italy,18,Tadhg Furlong,1992-11-14,33.25
+14/02/2026,Italy,8,Jack Conan,1992-07-29,33.55
+14/02/2026,Italy,20,Tadhg Beirne,1992-01-08,34.1
+14/02/2026,Italy,15,Jamie Osborne,2001-11-16,24.25
+14/02/2026,Italy,14,Robert Baloucoune,1997-08-19,28.49
+14/02/2026,Italy,3,Tom Clarkson,2000-02-22,25.98
+14/02/2026,Italy,9,Craig Casey,1999-04-19,26.83
+14/02/2026,Italy,1,Jeremy Loughman,1995-07-22,30.57
+14/02/2026,Italy,19,Edwin Edogbo,2002-12-21,23.15
+14/02/2026,Italy,17,Tom O'Toole,1998-09-23,27.4
+14/02/2026,Italy,21,Nick Timoney,1995-08-01,30.54
+14/02/2026,Italy,4,Joe McCarthy,2001-03-26,24.89
+14/02/2026,Italy,13,Garry Ringrose,1995-01-26,31.05
+14/02/2026,Italy,12,Stuart McCloskey,1992-08-06,33.53
+14/02/2026,Italy,5,James Ryan,1996-07-24,29.56
+14/02/2026,Italy,2,Dan Sheehan,1998-09-17,27.41
+14/02/2026,Italy,22,Jamison Gibson-Park,1992-02-23,33.98
+14/02/2026,Italy,7,Caelan Doris,1998-04-02,27.87
+14/02/2026,Italy,23,Jack Crowley,2000-01-13,26.09
+14/02/2026,Italy,11,James Lowe,1992-07-08,33.61
+21/02/2026,England,16,Ronan Kelleher,1998-01-24,28.08
+21/02/2026,England,3,Tadhg Furlong,1992-11-14,33.27
+21/02/2026,England,6,Tadhg Beirne,1992-01-08,34.12
+21/02/2026,England,15,Jamie Osborne,2001-11-16,24.27
+21/02/2026,England,20,Cian Prendergast,2000-02-23,26.0
+21/02/2026,England,14,Robert Baloucoune,1997-08-19,28.51
+21/02/2026,England,21,Craig Casey,1999-04-19,26.85
+21/02/2026,England,1,Jeremy Loughman,1995-07-22,30.59
+21/02/2026,England,7,Josh van der Flier,1993-04-25,32.83
+21/02/2026,England,17,Tom O'Toole,1998-09-23,27.41
+21/02/2026,England,19,Nick Timoney,1995-08-01,30.56
+21/02/2026,England,4,Joe McCarthy,2001-03-26,24.91
+21/02/2026,England,13,Garry Ringrose,1995-01-26,31.07
+21/02/2026,England,12,Stuart McCloskey,1992-08-06,33.54
+21/02/2026,England,5,James Ryan,1996-07-24,29.58
+21/02/2026,England,2,Dan Sheehan,1998-09-17,27.43
+21/02/2026,England,9,Jamison Gibson-Park,1992-02-23,34.0
+21/02/2026,England,8,Caelan Doris,1998-04-02,27.89
+21/02/2026,England,23,Tommy O'Brien,1998-05-28,27.74
+21/02/2026,England,10,Jack Crowley,2000-01-13,26.11
+21/02/2026,England,11,James Lowe,1992-07-08,33.62
+21/02/2026,England,18,Finlay Bealham,1991-10-09,34.37
+21/02/2026,England,22,Ciaran Frawley,1997-12-04,28.22
+06/03/2026,Wales,13,Garry Ringrose,1995-01-26,31.11
+06/03/2026,Wales,11,Jacob Stockdale,1996-04-03,29.92
+06/03/2026,Wales,12,Stuart McCloskey,1992-08-06,33.58
+06/03/2026,Wales,4,James Ryan,1996-07-24,29.62
+06/03/2026,Wales,9,Jamison Gibson-Park,1992-02-23,34.03
+06/03/2026,Wales,21,Nathan Doak,2001-12-17,24.22
+06/03/2026,Wales,8,Caelan Doris,1998-04-02,27.93
+06/03/2026,Wales,10,Jack Crowley,2000-01-13,26.14
+06/03/2026,Wales,23,Ciaran Frawley,1997-12-04,28.25
+06/03/2026,Wales,2,Ronan Kelleher,1998-01-24,28.11
+06/03/2026,Wales,3,Tadhg Furlong,1992-11-14,33.31
+06/03/2026,Wales,6,Jack Conan,1992-07-29,33.6
+06/03/2026,Wales,17,Michael Milne,2000-02-05,26.08
+06/03/2026,Wales,22,Tom Farrell,1993-10-01,32.43
+06/03/2026,Wales,5,Tadhg Beirne,1992-01-08,34.16
+06/03/2026,Wales,15,Jamie Osborne,2001-11-16,24.3
+06/03/2026,Wales,14,Robert Baloucoune,1997-08-19,28.55
+06/03/2026,Wales,18,Tom Clarkson,2000-02-22,26.03
+06/03/2026,Wales,20,Josh van der Flier,1993-04-25,32.86
+06/03/2026,Wales,16,Tom Stewart,2001-01-11,25.15
+06/03/2026,Wales,1,Tom O'Toole,1998-09-23,27.45
+06/03/2026,Wales,7,Nick Timoney,1995-08-01,30.6
+06/03/2026,Wales,19,Joe McCarthy,2001-03-26,24.95
+14/03/2026,Scotland,16,Ronan Kelleher,1998-01-24,28.13
+14/03/2026,Scotland,23,Bundee Aki,1990-04-07,35.94
+14/03/2026,Scotland,3,Tadhg Furlong,1992-11-14,33.33
+14/03/2026,Scotland,6,Jack Conan,1992-07-29,33.62
+14/03/2026,Scotland,17,Michael Milne,2000-02-05,26.1
+14/03/2026,Scotland,5,Tadhg Beirne,1992-01-08,34.18
+14/03/2026,Scotland,15,Jamie Osborne,2001-11-16,24.32
+14/03/2026,Scotland,14,Robert Baloucoune,1997-08-19,28.57
+14/03/2026,Scotland,21,Craig Casey,1999-04-19,26.9
+14/03/2026,Scotland,19,Darragh Murray,2001-07-04,24.69
+14/03/2026,Scotland,7,Josh van der Flier,1993-04-25,32.89
+14/03/2026,Scotland,1,Tom O'Toole,1998-09-23,27.47
+14/03/2026,Scotland,20,Nick Timoney,1995-08-01,30.62
+14/03/2026,Scotland,4,Joe McCarthy,2001-03-26,24.97
+14/03/2026,Scotland,13,Garry Ringrose,1995-01-26,31.13
+14/03/2026,Scotland,12,Stuart McCloskey,1992-08-06,33.6
+14/03/2026,Scotland,2,Dan Sheehan,1998-09-17,27.49
+14/03/2026,Scotland,9,Jamison Gibson-Park,1992-02-23,34.05
+14/03/2026,Scotland,8,Caelan Doris,1998-04-02,27.95
+14/03/2026,Scotland,11,Tommy O'Brien,1998-05-28,27.8
+14/03/2026,Scotland,10,Jack Crowley,2000-01-13,26.17
+14/03/2026,Scotland,18,Finlay Bealham,1991-10-09,34.43
+14/03/2026,Scotland,22,Ciaran Frawley,1997-12-04,28.27
+04/07/2026,Australia,16,Ronan Kelleher,1998-01-24,28.44
+04/07/2026,Australia,10,Sam Prendergast,2003-02-12,23.39
+04/07/2026,Australia,14,Jimmy O'Brien,1996-11-27,29.6
+04/07/2026,Australia,23,Bundee Aki,1990-04-07,36.24
+04/07/2026,Australia,3,Tadhg Furlong,1992-11-14,33.64
+04/07/2026,Australia,15,Hugo Keenan,1996-06-18,30.04
+04/07/2026,Australia,8,Jack Conan,1992-07-29,33.93
+04/07/2026,Australia,19,Tadhg Beirne,1992-01-08,34.49
+04/07/2026,Australia,11,Jamie Osborne,2001-11-16,24.63
+04/07/2026,Australia,6,Cian Prendergast,2000-02-23,26.36
+04/07/2026,Australia,18,Tom Clarkson,2000-02-22,26.36
+04/07/2026,Australia,21,Craig Casey,1999-04-19,27.21
+04/07/2026,Australia,17,Jeremy Loughman,1995-07-22,30.95
+04/07/2026,Australia,7,Josh van der Flier,1993-04-25,33.19
+04/07/2026,Australia,1,Tom O'Toole,1998-09-23,27.78
+04/07/2026,Australia,20,Nick Timoney,1995-08-01,30.92
+04/07/2026,Australia,4,Joe McCarthy,2001-03-26,25.27
+04/07/2026,Australia,13,Garry Ringrose,1995-01-26,31.44
+04/07/2026,Australia,12,Stuart McCloskey,1992-08-06,33.91
+04/07/2026,Australia,5,James Ryan,1996-07-24,29.94
+04/07/2026,Australia,2,Dan Sheehan,1998-09-17,27.8
+04/07/2026,Australia,9,Jamison Gibson-Park,1992-02-23,34.36
+04/07/2026,Australia,22,Ciaran Frawley,1997-12-04,28.58
+11/07/2026,Japan,2,Ronan Kelleher,1998-01-24,28.46
+11/07/2026,Japan,14,Jimmy O'Brien,1996-11-27,29.62
+11/07/2026,Japan,19,Cormac Izuchukwu,2000-01-28,26.45
+11/07/2026,Japan,23,Bundee Aki,1990-04-07,36.26
+11/07/2026,Japan,6,Jack Conan,1992-07-29,33.95
+11/07/2026,Japan,4,Tadhg Beirne,1992-01-08,34.51
+11/07/2026,Japan,15,Jamie Osborne,2001-11-16,24.65
+11/07/2026,Japan,3,Tom Clarkson,2000-02-22,26.38
+11/07/2026,Japan,9,Craig Casey,1999-04-19,27.23
+11/07/2026,Japan,16,Tom Stewart,2001-01-11,25.5
+11/07/2026,Japan,1,Tom O'Toole,1998-09-23,27.8
+11/07/2026,Japan,7,Nick Timoney,1995-08-01,30.94
+11/07/2026,Japan,11,Jacob Stockdale,1996-04-03,30.27
+11/07/2026,Japan,20,Bryn Ward,2004-07-17,21.98
+11/07/2026,Japan,22,Harry Byrne,1999-04-22,27.22
+11/07/2026,Japan,12,Stuart McCloskey,1992-08-06,33.93
+11/07/2026,Japan,8,Sean Jansen,1999-05-10,27.17
+11/07/2026,Japan,5,James Ryan,1996-07-24,29.96
+11/07/2026,Japan,17,Billy Bohan,2005-11-22,20.63
+11/07/2026,Japan,13,Robbie Henshaw,1993-06-12,33.08
+11/07/2026,Japan,18,Sam Illo,2001-02-16,25.4
+11/07/2026,Japan,21,Nathan Doak,2001-12-17,24.56
+11/07/2026,Japan,10,Ciaran Frawley,1997-12-04,28.6
+18/07/2026,New Zealand,16,Ronan Kelleher,1998-01-24,28.48
+18/07/2026,New Zealand,10,Sam Prendergast,2003-02-12,23.43
+18/07/2026,New Zealand,11,Jimmy O'Brien,1996-11-27,29.64
+18/07/2026,New Zealand,23,Bundee Aki,1990-04-07,36.28
+18/07/2026,New Zealand,3,Tadhg Furlong,1992-11-14,33.67
+18/07/2026,New Zealand,15,Hugo Keenan,1996-06-18,30.08
+18/07/2026,New Zealand,8,Jack Conan,1992-07-29,33.97
+18/07/2026,New Zealand,6,Tadhg Beirne,1992-01-08,34.53
+18/07/2026,New Zealand,14,Robert Baloucoune,1997-08-19,28.91
+18/07/2026,New Zealand,18,Tom Clarkson,2000-02-22,26.4
+18/07/2026,New Zealand,21,Craig Casey,1999-04-19,27.25
+18/07/2026,New Zealand,17,Jeremy Loughman,1995-07-22,30.99
+18/07/2026,New Zealand,7,Josh van der Flier,1993-04-25,33.23
+18/07/2026,New Zealand,1,Tom O'Toole,1998-09-23,27.82
+18/07/2026,New Zealand,19,Nick Timoney,1995-08-01,30.96
+18/07/2026,New Zealand,4,Joe McCarthy,2001-03-26,25.31
+18/07/2026,New Zealand,13,Garry Ringrose,1995-01-26,31.47
+18/07/2026,New Zealand,12,Stuart McCloskey,1992-08-06,33.95
+18/07/2026,New Zealand,20,Sean Jansen,1999-05-10,27.19
+18/07/2026,New Zealand,5,James Ryan,1996-07-24,29.98
+18/07/2026,New Zealand,2,Dan Sheehan,1998-09-17,27.83
+18/07/2026,New Zealand,9,Jamison Gibson-Park,1992-02-23,34.4
+18/07/2026,New Zealand,22,Ciaran Frawley,1997-12-04,28.62

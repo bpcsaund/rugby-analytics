@@ -1,0 +1,1956 @@
+date,opposition,shirt,player,started,minutes
+01/02/2019,Wales,14,Damian Penaud,y,63
+01/02/2019,Wales,23,Geoffrey Doumayrou,n,13
+01/02/2019,Wales,16,Julien Marchand,n,22
+01/02/2019,Wales,4,Sebastien Vahaamahina,y,80
+01/02/2019,Wales,13,Romain Ntamack,y,80
+01/02/2019,Wales,22,Gael Fickou,n,17
+01/02/2019,Wales,18,Demba Bamba,n,32
+01/02/2019,Wales,21,Baptiste Serin,n,22
+01/02/2019,Wales,9,Morgan Parra,y,58
+01/02/2019,Wales,12,Wesley Fofana,y,67
+01/02/2019,Wales,10,Camille Lopez,y,80
+01/02/2019,Wales,2,Guilhem Guirado,y,58
+01/02/2019,Wales,8,Louis Picamoles,y,71
+01/02/2019,Wales,3,Uini Atonio,y,48
+01/02/2019,Wales,11,Yoann Huget,y,80
+01/02/2019,Wales,20,Gregory Alldritt,n,9
+01/02/2019,Wales,7,Arthur Iturria,y,80
+01/02/2019,Wales,6,Wenceslas Lauret,y,80
+01/02/2019,Wales,19,Felix Lambey,n,22
+01/02/2019,Wales,1,Jefferson Poirot,y,61
+01/02/2019,Wales,17,Dany Priso,n,19
+01/02/2019,Wales,5,Paul Willemse,y,58
+01/02/2019,Wales,15,Maxime Medard,y,80
+10/02/2019,England,14,Damian Penaud,y,70
+10/02/2019,England,13,Geoffrey Doumayrou,y,80
+10/02/2019,England,5,Sebastien Vahaamahina,y,57
+10/02/2019,England,22,Romain Ntamack,n,33
+10/02/2019,England,21,Antoine Dupont,n,33
+10/02/2019,England,11,Gael Fickou,y,80
+10/02/2019,England,3,Demba Bamba,y,57
+10/02/2019,England,18,Dorian Aldegheri,n,23
+10/02/2019,England,9,Morgan Parra,y,47
+10/02/2019,England,10,Camille Lopez,y,57
+10/02/2019,England,2,Guilhem Guirado,y,76
+10/02/2019,England,8,Louis Picamoles,y,80
+10/02/2019,England,12,Mathieu Bastareaud,y,80
+10/02/2019,England,16,Pierre Bourgarit,n,4
+10/02/2019,England,15,Yoann Huget,y,40
+10/02/2019,England,20,Gregory Alldritt,n,10
+10/02/2019,England,7,Arthur Iturria,y,80
+10/02/2019,England,23,Thomas Ramos,n,40
+10/02/2019,England,6,Yacouba Camara,y,80
+10/02/2019,England,4,Felix Lambey,y,70
+10/02/2019,England,1,Jefferson Poirot,y,75
+10/02/2019,England,17,Dany Priso,n,5
+10/02/2019,England,19,Paul Willemse,n,23
+23/02/2019,Scotland,14,Damian Penaud,y,80
+23/02/2019,Scotland,16,Camille Chat,n,10
+23/02/2019,Scotland,17,Etienne Falgoux,n,10
+23/02/2019,Scotland,4,Sebastien Vahaamahina,y,80
+23/02/2019,Scotland,10,Romain Ntamack,y,76
+23/02/2019,Scotland,9,Antoine Dupont,y,69
+23/02/2019,Scotland,12,Gael Fickou,y,80
+23/02/2019,Scotland,3,Demba Bamba,y,69
+23/02/2019,Scotland,18,Dorian Aldegheri,n,11
+23/02/2019,Scotland,21,Baptiste Serin,n,11
+23/02/2019,Scotland,2,Guilhem Guirado,y,70
+23/02/2019,Scotland,22,Anthony Belleau,n,4
+23/02/2019,Scotland,8,Louis Picamoles,y,69
+23/02/2019,Scotland,13,Mathieu Bastareaud,y,80
+23/02/2019,Scotland,11,Yoann Huget,y,80
+23/02/2019,Scotland,20,Gregory Alldritt,n,11
+23/02/2019,Scotland,7,Arthur Iturria,y,80
+23/02/2019,Scotland,15,Thomas Ramos,y,70
+23/02/2019,Scotland,6,Wenceslas Lauret,y,80
+23/02/2019,Scotland,5,Felix Lambey,y,68
+23/02/2019,Scotland,1,Jefferson Poirot,y,70
+23/02/2019,Scotland,19,Paul Willemse,n,12
+23/02/2019,Scotland,23,Maxime Medard,n,10
+10/03/2019,Ireland,14,Damian Penaud,y,80
+10/03/2019,Ireland,16,Camille Chat,n,8
+10/03/2019,Ireland,17,Etienne Falgoux,n,63
+10/03/2019,Ireland,4,Sebastien Vahaamahina,y,80
+10/03/2019,Ireland,10,Romain Ntamack,y,76
+10/03/2019,Ireland,9,Antoine Dupont,y,72
+10/03/2019,Ireland,12,Gael Fickou,y,80
+10/03/2019,Ireland,3,Demba Bamba,y,55
+10/03/2019,Ireland,18,Dorian Aldegheri,n,25
+10/03/2019,Ireland,21,Baptiste Serin,n,8
+10/03/2019,Ireland,2,Guilhem Guirado,y,72
+10/03/2019,Ireland,22,Anthony Belleau,n,4
+10/03/2019,Ireland,8,Louis Picamoles,y,80
+10/03/2019,Ireland,13,Mathieu Bastareaud,y,80
+10/03/2019,Ireland,11,Yoann Huget,y,80
+10/03/2019,Ireland,20,Gregory Alldritt,n,69
+10/03/2019,Ireland,7,Arthur Iturria,y,80
+10/03/2019,Ireland,15,Thomas Ramos,y,63
+10/03/2019,Ireland,6,Wenceslas Lauret,y,11
+10/03/2019,Ireland,5,Felix Lambey,y,63
+10/03/2019,Ireland,1,Jefferson Poirot,y,17
+10/03/2019,Ireland,19,Paul Willemse,n,17
+10/03/2019,Ireland,23,Maxime Medard,n,17
+16/03/2019,Italy,14,Damian Penaud,y,80
+16/03/2019,Italy,16,Camille Chat,n,62
+16/03/2019,Italy,1,Etienne Falgoux,y,65
+16/03/2019,Italy,12,Geoffrey Doumayrou,y,80
+16/03/2019,Italy,10,Romain Ntamack,y,80
+16/03/2019,Italy,9,Antoine Dupont,y,57
+16/03/2019,Italy,3,Demba Bamba,y,80
+16/03/2019,Italy,18,Dorian Aldegheri,n,5
+16/03/2019,Italy,21,Baptiste Serin,n,23
+16/03/2019,Italy,19,Paul Gabrillagues,n,20
+16/03/2019,Italy,22,Camille Lopez,n,0
+16/03/2019,Italy,2,Guilhem Guirado,y,18
+16/03/2019,Italy,8,Louis Picamoles,y,80
+16/03/2019,Italy,13,Mathieu Bastareaud,y,80
+16/03/2019,Italy,11,Yoann Huget,y,68
+16/03/2019,Italy,6,Gregory Alldritt,y,58
+16/03/2019,Italy,20,Arthur Iturria,n,22
+16/03/2019,Italy,23,Thomas Ramos,n,12
+16/03/2019,Italy,7,Yacouba Camara,y,75
+16/03/2019,Italy,4,Felix Lambey,y,80
+16/03/2019,Italy,17,Dany Priso,n,15
+16/03/2019,Italy,5,Paul Willemse,y,60
+16/03/2019,Italy,15,Maxime Medard,y,80
+17/08/2019,Scotland,14,Damian Penaud,y,65
+17/08/2019,Scotland,16,Peato Mauvaka,n,24
+17/08/2019,Scotland,2,Camille Chat,y,56
+17/08/2019,Scotland,6,Francois Cros,y,80
+17/08/2019,Scotland,5,Sebastien Vahaamahina,y,80
+17/08/2019,Scotland,22,Romain Ntamack,n,13
+17/08/2019,Scotland,9,Antoine Dupont,y,65
+17/08/2019,Scotland,13,Gael Fickou,y,80
+17/08/2019,Scotland,21,Baptiste Serin,n,15
+17/08/2019,Scotland,4,Paul Gabrillagues,y,71
+17/08/2019,Scotland,12,Wesley Fofana,y,67
+17/08/2019,Scotland,10,Camille Lopez,y,80
+17/08/2019,Scotland,3,Rabah Slimani,y,56
+17/08/2019,Scotland,20,Louis Picamoles,n,22
+17/08/2019,Scotland,18,Emerick Setiano,n,24
+17/08/2019,Scotland,8,Gregory Alldritt,y,58
+17/08/2019,Scotland,23,Thomas Ramos,n,15
+17/08/2019,Scotland,11,Alivereti Raka,y,80
+17/08/2019,Scotland,19,Felix Lambey,n,9
+17/08/2019,Scotland,1,Jefferson Poirot,y,56
+17/08/2019,Scotland,7,Charles Ollivon,y,80
+17/08/2019,Scotland,17,Dany Priso,n,24
+17/08/2019,Scotland,15,Maxime Medard,y,80
+24/08/2019,Scotland,14,Damian Penaud,y,80
+24/08/2019,Scotland,16,Camille Chat,n,29
+24/08/2019,Scotland,5,Sebastien Vahaamahina,y,52
+24/08/2019,Scotland,22,Romain Ntamack,n,42
+24/08/2019,Scotland,9,Antoine Dupont,y,63
+24/08/2019,Scotland,12,Gael Fickou,y,80
+24/08/2019,Scotland,21,Baptiste Serin,n,17
+24/08/2019,Scotland,10,Camille Lopez,y,38
+24/08/2019,Scotland,2,Guilhem Guirado,y,51
+24/08/2019,Scotland,3,Rabah Slimani,y,63
+24/08/2019,Scotland,18,Emerick Setiano,n,17
+24/08/2019,Scotland,8,Gregory Alldritt,y,75
+24/08/2019,Scotland,6,Arthur Iturria,y,80
+24/08/2019,Scotland,15,Thomas Ramos,y,65
+24/08/2019,Scotland,17,Cyril Baille,n,29
+24/08/2019,Scotland,11,Alivereti Raka,y,80
+24/08/2019,Scotland,20,Yacouba Camara,n,5
+24/08/2019,Scotland,4,Felix Lambey,y,80
+24/08/2019,Scotland,13,Sofiane Guitoune,y,80
+24/08/2019,Scotland,19,Romain Taofifenua,n,28
+24/08/2019,Scotland,1,Jefferson Poirot,y,51
+24/08/2019,Scotland,7,Charles Ollivon,y,80
+24/08/2019,Scotland,23,Maxime Medard,n,15
+30/08/2019,Italy,2,Camille Chat,y,52
+30/08/2019,Italy,20,Francois Cros,n,18
+30/08/2019,Italy,10,Romain Ntamack,y,80
+30/08/2019,Italy,9,Antoine Dupont,y,57
+30/08/2019,Italy,11,Gael Fickou,y,80
+30/08/2019,Italy,21,Baptiste Serin,n,23
+30/08/2019,Italy,12,Wesley Fofana,y,69
+30/08/2019,Italy,16,Guilhem Guirado,n,28
+30/08/2019,Italy,3,Rabah Slimani,y,52
+30/08/2019,Italy,8,Louis Picamoles,y,80
+30/08/2019,Italy,18,Emerick Setiano,n,28
+30/08/2019,Italy,14,Yoann Huget,y,80
+30/08/2019,Italy,4,Arthur Iturria,y,55
+30/08/2019,Italy,23,Thomas Ramos,n,11
+30/08/2019,Italy,17,Cyril Baille,n,28
+30/08/2019,Italy,6,Wenceslas Lauret,y,62
+30/08/2019,Italy,7,Yacouba Camara,y,80
+30/08/2019,Italy,19,Felix Lambey,n,25
+30/08/2019,Italy,13,Sofiane Guitoune,y,57
+30/08/2019,Italy,5,Romain Taofifenua,y,80
+30/08/2019,Italy,1,Jefferson Poirot,y,52
+30/08/2019,Italy,22,Virimi Vakatawa,n,23
+30/08/2019,Italy,15,Maxime Medard,y,80
+21/09/2019,Argentina,14,Damian Penaud,y,80
+21/09/2019,Argentina,16,Camille Chat,n,0
+21/09/2019,Argentina,5,Sebastien Vahaamahina,y,80
+21/09/2019,Argentina,10,Romain Ntamack,y,80
+21/09/2019,Argentina,9,Antoine Dupont,y,80
+21/09/2019,Argentina,12,Gael Fickou,y,80
+21/09/2019,Argentina,19,Bernard Le Roux,n,0
+21/09/2019,Argentina,18,Demba Bamba,n,0
+21/09/2019,Argentina,22,Camille Lopez,n,0
+21/09/2019,Argentina,2,Guilhem Guirado,y,80
+21/09/2019,Argentina,3,Rabah Slimani,y,80
+21/09/2019,Argentina,20,Louis Picamoles,n,0
+21/09/2019,Argentina,11,Yoann Huget,y,80
+21/09/2019,Argentina,8,Gregory Alldritt,y,80
+21/09/2019,Argentina,4,Arthur Iturria,y,80
+21/09/2019,Argentina,23,Thomas Ramos,n,0
+21/09/2019,Argentina,17,Cyril Baille,n,0
+21/09/2019,Argentina,6,Wenceslas Lauret,y,80
+21/09/2019,Argentina,21,Maxime Machenaud,n,0
+21/09/2019,Argentina,1,Jefferson Poirot,y,80
+21/09/2019,Argentina,13,Virimi Vakatawa,y,80
+21/09/2019,Argentina,7,Charles Ollivon,y,80
+21/09/2019,Argentina,15,Maxime Medard,y,80
+02/10/2019,USA,2,Camille Chat,y,80
+02/10/2019,USA,19,Sebastien Vahaamahina,n,23
+02/10/2019,USA,22,Romain Ntamack,n,0
+02/10/2019,USA,12,Gael Fickou,y,80
+02/10/2019,USA,4,Bernard Le Roux,y,80
+02/10/2019,USA,21,Baptiste Serin,n,0
+02/10/2019,USA,5,Paul Gabrillagues,y,57
+02/10/2019,USA,10,Camille Lopez,y,80
+02/10/2019,USA,16,Guilhem Guirado,n,0
+02/10/2019,USA,18,Rabah Slimani,n,0
+02/10/2019,USA,8,Louis Picamoles,y,80
+02/10/2019,USA,3,Emerick Setiano,y,80
+02/10/2019,USA,11,Yoann Huget,y,80
+02/10/2019,USA,20,Gregory Alldritt,n,0
+02/10/2019,USA,6,Arthur Iturria,y,80
+02/10/2019,USA,15,Thomas Ramos,y,80
+02/10/2019,USA,1,Cyril Baille,y,80
+02/10/2019,USA,14,Alivereti Raka,y,80
+02/10/2019,USA,7,Yacouba Camara,y,80
+02/10/2019,USA,13,Sofiane Guitoune,y,80
+02/10/2019,USA,9,Maxime Machenaud,y,80
+02/10/2019,USA,17,Jefferson Poirot,n,0
+02/10/2019,USA,23,Maxime Medard,n,0
+06/10/2019,Tonga,8,Gregory Alldritt,y,80
+06/10/2019,Tonga,17,Cyril Baille,n,0
+06/10/2019,Tonga,11,Alivereti Raka,y,80
+06/10/2019,Tonga,6,Wenceslas Lauret,y,80
+06/10/2019,Tonga,20,Yacouba Camara,n,0
+06/10/2019,Tonga,12,Sofiane Guitoune,y,80
+06/10/2019,Tonga,1,Jefferson Poirot,y,80
+06/10/2019,Tonga,13,Virimi Vakatawa,y,80
+06/10/2019,Tonga,7,Charles Ollivon,y,80
+06/10/2019,Tonga,15,Maxime Medard,y,80
+06/10/2019,Tonga,14,Damian Penaud,y,80
+06/10/2019,Tonga,2,Camille Chat,y,80
+06/10/2019,Tonga,5,Sebastien Vahaamahina,y,80
+06/10/2019,Tonga,10,Romain Ntamack,y,80
+06/10/2019,Tonga,21,Antoine Dupont,n,0
+06/10/2019,Tonga,19,Bernard Le Roux,n,0
+06/10/2019,Tonga,23,Pierre-Louis Barassi,n,0
+06/10/2019,Tonga,9,Baptiste Serin,y,80
+06/10/2019,Tonga,4,Paul Gabrillagues,y,80
+06/10/2019,Tonga,22,Camille Lopez,n,0
+06/10/2019,Tonga,16,Guilhem Guirado,n,0
+06/10/2019,Tonga,3,Rabah Slimani,y,80
+06/10/2019,Tonga,18,Emerick Setiano,n,0
+20/10/2019,Wales,14,Damian Penaud,y,80
+20/10/2019,Wales,16,Camille Chat,n,0
+20/10/2019,Wales,5,Sebastien Vahaamahina,y,80
+20/10/2019,Wales,10,Romain Ntamack,y,80
+20/10/2019,Wales,9,Antoine Dupont,y,80
+20/10/2019,Wales,23,Vincent Rattez,n,0
+20/10/2019,Wales,12,Gael Fickou,y,80
+20/10/2019,Wales,4,Bernard Le Roux,y,80
+20/10/2019,Wales,21,Baptiste Serin,n,0
+20/10/2019,Wales,19,Paul Gabrillagues,n,0
+20/10/2019,Wales,22,Camille Lopez,n,0
+20/10/2019,Wales,2,Guilhem Guirado,y,80
+20/10/2019,Wales,3,Rabah Slimani,y,80
+20/10/2019,Wales,20,Louis Picamoles,n,0
+20/10/2019,Wales,18,Emerick Setiano,n,0
+20/10/2019,Wales,11,Yoann Huget,y,80
+20/10/2019,Wales,8,Gregory Alldritt,y,80
+20/10/2019,Wales,17,Cyril Baille,n,0
+20/10/2019,Wales,6,Wenceslas Lauret,y,80
+20/10/2019,Wales,1,Jefferson Poirot,y,80
+20/10/2019,Wales,13,Virimi Vakatawa,y,80
+20/10/2019,Wales,7,Charles Ollivon,y,80
+20/10/2019,Wales,15,Maxime Medard,y,80
+02/02/2020,England,19,Boris Palu,n,23
+02/02/2020,England,16,Peato Mauvaka,n,12
+02/02/2020,England,6,Francois Cros,y,56
+02/02/2020,England,14,Teddy Thomas,y,80
+02/02/2020,England,2,Julien Marchand,y,68
+02/02/2020,England,10,Romain Ntamack,y,76
+02/02/2020,England,9,Antoine Dupont,y,80
+02/02/2020,England,22,Matthieu Jalibert,n,4
+02/02/2020,England,11,Vincent Rattez,y,80
+02/02/2020,England,12,Gael Fickou,y,80
+02/02/2020,England,4,Bernard Le Roux,y,80
+02/02/2020,England,18,Demba Bamba,n,31
+02/02/2020,England,23,Arthur Vincent,n,0
+02/02/2020,England,21,Baptiste Serin,n,0
+02/02/2020,England,15,Anthony Bouthier,y,80
+02/02/2020,England,20,Cameron Woki,n,24
+02/02/2020,England,8,Gregory Alldritt,y,80
+02/02/2020,England,1,Cyril Baille,y,49
+02/02/2020,England,17,Jefferson Poirot,n,31
+02/02/2020,England,13,Virimi Vakatawa,y,80
+02/02/2020,England,3,Mohamed Haouas,y,49
+02/02/2020,England,7,Charles Ollivon,y,80
+02/02/2020,England,5,Paul Willemse,y,57
+09/02/2020,Italy,20,Boris Palu,n,9
+09/02/2020,Italy,16,Peato Mauvaka,n,18
+09/02/2020,Italy,6,Francois Cros,y,61
+09/02/2020,Italy,14,Teddy Thomas,y,80
+09/02/2020,Italy,2,Julien Marchand,y,62
+09/02/2020,Italy,10,Romain Ntamack,y,71
+09/02/2020,Italy,9,Antoine Dupont,y,72
+09/02/2020,Italy,23,Matthieu Jalibert,n,9
+09/02/2020,Italy,11,Vincent Rattez,y,80
+09/02/2020,Italy,12,Gael Fickou,y,80
+09/02/2020,Italy,4,Bernard Le Roux,y,71
+09/02/2020,Italy,18,Demba Bamba,n,19
+09/02/2020,Italy,13,Arthur Vincent,y,80
+09/02/2020,Italy,22,Baptiste Serin,n,8
+09/02/2020,Italy,15,Anthony Bouthier,y,80
+09/02/2020,Italy,21,Cameron Woki,n,19
+09/02/2020,Italy,8,Gregory Alldritt,y,80
+09/02/2020,Italy,1,Cyril Baille,y,61
+09/02/2020,Italy,19,Romain Taofifenua,n,37
+09/02/2020,Italy,17,Jefferson Poirot,n,19
+09/02/2020,Italy,3,Mohamed Haouas,y,61
+09/02/2020,Italy,7,Charles Ollivon,y,80
+09/02/2020,Italy,5,Paul Willemse,y,43
+22/02/2020,Wales,16,Camille Chat,n,23
+22/02/2020,Wales,6,Francois Cros,y,69
+22/02/2020,Wales,14,Teddy Thomas,y,66
+22/02/2020,Wales,2,Julien Marchand,y,57
+22/02/2020,Wales,17,Jean-Baptiste Gros,n,40
+22/02/2020,Wales,10,Romain Ntamack,y,75
+22/02/2020,Wales,9,Antoine Dupont,y,75
+22/02/2020,Wales,22,Matthieu Jalibert,n,14
+22/02/2020,Wales,11,Gael Fickou,y,80
+22/02/2020,Wales,4,Bernard Le Roux,y,69
+22/02/2020,Wales,18,Demba Bamba,n,11
+22/02/2020,Wales,12,Arthur Vincent,y,80
+22/02/2020,Wales,21,Baptiste Serin,n,5
+22/02/2020,Wales,15,Anthony Bouthier,y,80
+22/02/2020,Wales,8,Gregory Alldritt,y,80
+22/02/2020,Wales,23,Thomas Ramos,n,5
+22/02/2020,Wales,1,Cyril Baille,y,40
+22/02/2020,Wales,19,Romain Taofifenua,n,11
+22/02/2020,Wales,20,Dylan Cretin,n,1
+22/02/2020,Wales,13,Virimi Vakatawa,y,80
+22/02/2020,Wales,3,Mohamed Haouas,y,79
+22/02/2020,Wales,7,Charles Ollivon,y,80
+22/02/2020,Wales,5,Paul Willemse,y,80
+08/03/2020,Scotland,14,Damian Penaud,y,65
+08/03/2020,Scotland,16,Peato Mauvaka,n,15
+08/03/2020,Scotland,6,Francois Cros,y,48
+08/03/2020,Scotland,2,Julien Marchand,y,65
+08/03/2020,Scotland,17,Jean-Baptiste Gros,n,30
+08/03/2020,Scotland,10,Romain Ntamack,y,8
+08/03/2020,Scotland,9,Antoine Dupont,y,78
+08/03/2020,Scotland,22,Matthieu Jalibert,n,72
+08/03/2020,Scotland,11,Gael Fickou,y,80
+08/03/2020,Scotland,4,Bernard Le Roux,y,80
+08/03/2020,Scotland,18,Demba Bamba,n,32
+08/03/2020,Scotland,12,Arthur Vincent,y,80
+08/03/2020,Scotland,21,Baptiste Serin,n,2
+08/03/2020,Scotland,15,Anthony Bouthier,y,71
+08/03/2020,Scotland,8,Gregory Alldritt,y,80
+08/03/2020,Scotland,23,Thomas Ramos,n,9
+08/03/2020,Scotland,19,Romain Taofifenua,n,32
+08/03/2020,Scotland,20,Dylan Cretin,n,15
+08/03/2020,Scotland,1,Jefferson Poirot,y,50
+08/03/2020,Scotland,13,Virimi Vakatawa,y,80
+08/03/2020,Scotland,3,Mohamed Haouas,y,80
+08/03/2020,Scotland,7,Charles Ollivon,y,80
+08/03/2020,Scotland,5,Paul Willemse,y,48
+24/10/2020,Wales,15,Anthony Bouthier,y,40
+24/10/2020,Wales,8,Gregory Alldritt,y,75
+24/10/2020,Wales,23,Thomas Ramos,n,40
+24/10/2020,Wales,1,Cyril Baille,y,57
+24/10/2020,Wales,19,Romain Taofifenua,n,23
+24/10/2020,Wales,20,Dylan Cretin,n,5
+24/10/2020,Wales,13,Virimi Vakatawa,y,71
+24/10/2020,Wales,3,Mohamed Haouas,y,57
+24/10/2020,Wales,7,Charles Ollivon,y,80
+24/10/2020,Wales,5,Paul Willemse,y,57
+24/10/2020,Wales,16,Camille Chat,n,23
+24/10/2020,Wales,6,Francois Cros,y,80
+24/10/2020,Wales,14,Teddy Thomas,y,80
+24/10/2020,Wales,2,Julien Marchand,y,57
+24/10/2020,Wales,17,Jean-Baptiste Gros,n,23
+24/10/2020,Wales,10,Romain Ntamack,y,80
+24/10/2020,Wales,9,Antoine Dupont,y,70
+24/10/2020,Wales,11,Vincent Rattez,y,80
+24/10/2020,Wales,12,Gael Fickou,y,80
+24/10/2020,Wales,4,Bernard Le Roux,y,80
+24/10/2020,Wales,18,Demba Bamba,n,23
+24/10/2020,Wales,22,Arthur Vincent,n,9
+24/10/2020,Wales,21,Baptiste Serin,n,10
+31/10/2020,Ireland,16,Camille Chat,n,24
+31/10/2020,Ireland,6,Francois Cros,y,33
+31/10/2020,Ireland,2,Julien Marchand,y,56
+31/10/2020,Ireland,17,Jean-Baptiste Gros,n,23
+31/10/2020,Ireland,10,Romain Ntamack,y,80
+31/10/2020,Ireland,9,Antoine Dupont,y,77
+31/10/2020,Ireland,14,Vincent Rattez,y,80
+31/10/2020,Ireland,11,Gael Fickou,y,80
+31/10/2020,Ireland,4,Bernard Le Roux,y,80
+31/10/2020,Ireland,18,Demba Bamba,n,24
+31/10/2020,Ireland,12,Arthur Vincent,y,80
+31/10/2020,Ireland,21,Baptiste Serin,n,3
+31/10/2020,Ireland,15,Anthony Bouthier,y,73
+31/10/2020,Ireland,8,Gregory Alldritt,y,80
+31/10/2020,Ireland,23,Thomas Ramos,n,7
+31/10/2020,Ireland,1,Cyril Baille,y,57
+31/10/2020,Ireland,19,Romain Taofifenua,n,7
+31/10/2020,Ireland,20,Dylan Cretin,n,47
+31/10/2020,Ireland,13,Virimi Vakatawa,y,73
+31/10/2020,Ireland,3,Mohamed Haouas,y,56
+31/10/2020,Ireland,7,Charles Ollivon,y,80
+31/10/2020,Ireland,22,Arthur Retiere,n,7
+31/10/2020,Ireland,5,Paul Willemse,y,73
+22/11/2020,Scotland,2,Camille Chat,y,54
+22/11/2020,Scotland,14,Teddy Thomas,y,80
+22/11/2020,Scotland,16,Julien Marchand,n,26
+22/11/2020,Scotland,1,Jean-Baptiste Gros,y,54
+22/11/2020,Scotland,9,Antoine Dupont,y,80
+22/11/2020,Scotland,10,Matthieu Jalibert,y,80
+22/11/2020,Scotland,11,Vincent Rattez,y,70
+22/11/2020,Scotland,21,Baptiste Couilloud,n,0
+22/11/2020,Scotland,12,Gael Fickou,y,80
+22/11/2020,Scotland,4,Bernard Le Roux,y,80
+22/11/2020,Scotland,3,Demba Bamba,y,56
+22/11/2020,Scotland,23,Arthur Vincent,n,10
+22/11/2020,Scotland,20,Cameron Woki,n,0
+22/11/2020,Scotland,8,Gregory Alldritt,y,80
+22/11/2020,Scotland,15,Thomas Ramos,y,80
+22/11/2020,Scotland,22,Louis Carbonel,n,0
+22/11/2020,Scotland,17,Cyril Baille,n,26
+22/11/2020,Scotland,5,Romain Taofifenua,y,63
+22/11/2020,Scotland,6,Dylan Cretin,y,80
+22/11/2020,Scotland,13,Virimi Vakatawa,y,80
+22/11/2020,Scotland,18,Mohamed Haouas,n,24
+22/11/2020,Scotland,7,Charles Ollivon,y,80
+22/11/2020,Scotland,19,Paul Willemse,n,17
+28/11/2020,Italy,4,Killian Geraci,y,59
+28/11/2020,Italy,2,Peato Mauvaka,y,52
+28/11/2020,Italy,23,Yoram Moefana,n,11
+28/11/2020,Italy,16,Teddy Baubigny,n,28
+28/11/2020,Italy,11,Gabin Villiere,y,80
+28/11/2020,Italy,14,Teddy Thomas,y,80
+28/11/2020,Italy,7,Sekou Macalou,y,80
+28/11/2020,Italy,10,Matthieu Jalibert,y,70
+28/11/2020,Italy,21,Baptiste Couilloud,n,10
+28/11/2020,Italy,1,Rodrigue Neti,y,52
+28/11/2020,Italy,19,Cyril Cazeaux,n,21
+28/11/2020,Italy,17,Hassane Kolingar,n,28
+28/11/2020,Italy,3,Dorian Aldegheri,y,52
+28/11/2020,Italy,9,Baptiste Serin,y,70
+28/11/2020,Italy,15,Brice Dulin,y,80
+28/11/2020,Italy,8,Anthony Jelonch,y,80
+28/11/2020,Italy,18,Uini Atonio,n,28
+28/11/2020,Italy,5,Baptiste Pesenti-Compagnoni,y,75
+28/11/2020,Italy,6,Cameron Woki,y,80
+28/11/2020,Italy,22,Louis Carbonel,n,10
+28/11/2020,Italy,13,Jean Pascal Barraque,y,69
+28/11/2020,Italy,12,Jonathan Danty,y,80
+28/11/2020,Italy,20,Swan Rebbadj,n,5
+06/12/2020,England,4,Killian Geraci,y,80
+06/12/2020,England,16,Peato Mauvaka,n,27
+06/12/2020,England,13,Yoram Moefana,y,80
+06/12/2020,England,11,Gabin Villiere,y,80
+06/12/2020,England,20,Sekou Macalou,n,24
+06/12/2020,England,10,Matthieu Jalibert,y,62
+06/12/2020,England,9,Baptiste Couilloud,y,80
+06/12/2020,England,17,Rodrigue Neti,n,28
+06/12/2020,England,23,Pierre-Louis Barassi,n,32
+06/12/2020,England,1,Hassane Kolingar,y,52
+06/12/2020,England,3,Dorian Aldegheri,y,40
+06/12/2020,England,15,Brice Dulin,y,80
+06/12/2020,England,8,Selevasio Tolofua,y,80
+06/12/2020,England,7,Anthony Jelonch,y,80
+06/12/2020,England,2,Pierre Bourgarit,y,53
+06/12/2020,England,21,Sebastien Bezy,n,0
+06/12/2020,England,18,Uini Atonio,n,40
+06/12/2020,England,5,Baptiste Pesenti-Compagnoni,y,56
+06/12/2020,England,6,Cameron Woki,y,56
+06/12/2020,England,22,Louis Carbonel,n,18
+06/12/2020,England,14,Alivereti Raka,y,80
+06/12/2020,England,19,Guillaume Ducat,n,24
+06/12/2020,England,12,Jonathan Danty,y,48
+06/02/2021,Italy,23,Damian Penaud,n,20
+06/02/2021,Italy,11,Gabin Villiere,y,80
+06/02/2021,Italy,14,Teddy Thomas,y,80
+06/02/2021,Italy,2,Julien Marchand,y,45
+06/02/2021,Italy,17,Jean-Baptiste Gros,n,28
+06/02/2021,Italy,9,Antoine Dupont,y,59
+06/02/2021,Italy,10,Matthieu Jalibert,y,60
+06/02/2021,Italy,12,Gael Fickou,y,60
+06/02/2021,Italy,4,Bernard Le Roux,y,80
+06/02/2021,Italy,13,Arthur Vincent,y,80
+06/02/2021,Italy,18,Dorian Aldegheri,n,28
+06/02/2021,Italy,21,Baptiste Serin,n,21
+06/02/2021,Italy,15,Brice Dulin,y,80
+06/02/2021,Italy,20,Anthony Jelonch,n,22
+06/02/2021,Italy,16,Pierre Bourgarit,n,35
+06/02/2021,Italy,8,Gregory Alldritt,y,58
+06/02/2021,Italy,22,Louis Carbonel,n,20
+06/02/2021,Italy,1,Cyril Baille,y,52
+06/02/2021,Italy,19,Romain Taofifenua,n,22
+06/02/2021,Italy,6,Dylan Cretin,y,80
+06/02/2021,Italy,3,Mohamed Haouas,y,52
+06/02/2021,Italy,7,Charles Ollivon,y,80
+06/02/2021,Italy,5,Paul Willemse,y,58
+14/02/2021,Ireland,14,Damian Penaud,y,67
+14/02/2021,Ireland,11,Gabin Villiere,y,80
+14/02/2021,Ireland,23,Teddy Thomas,n,13
+14/02/2021,Ireland,2,Julien Marchand,y,75
+14/02/2021,Ireland,9,Antoine Dupont,y,80
+14/02/2021,Ireland,10,Matthieu Jalibert,y,80
+14/02/2021,Ireland,12,Gael Fickou,y,80
+14/02/2021,Ireland,4,Bernard Le Roux,y,80
+14/02/2021,Ireland,13,Arthur Vincent,y,80
+14/02/2021,Ireland,17,Hassane Kolingar,n,5
+14/02/2021,Ireland,21,Baptiste Serin,n,0
+14/02/2021,Ireland,15,Brice Dulin,y,80
+14/02/2021,Ireland,6,Anthony Jelonch,y,67
+14/02/2021,Ireland,22,Anthony Bouthier,n,0
+14/02/2021,Ireland,16,Pierre Bourgarit,n,5
+14/02/2021,Ireland,18,Uini Atonio,n,22
+14/02/2021,Ireland,8,Gregory Alldritt,y,80
+14/02/2021,Ireland,1,Cyril Baille,y,75
+14/02/2021,Ireland,19,Romain Taofifenua,n,10
+14/02/2021,Ireland,20,Dylan Cretin,n,13
+14/02/2021,Ireland,3,Mohamed Haouas,y,58
+14/02/2021,Ireland,7,Charles Ollivon,y,80
+14/02/2021,Ireland,5,Paul Willemse,y,70
+13/03/2021,England,11,Damian Penaud,y,80
+13/03/2021,England,16,Camille Chat,n,6
+13/03/2021,England,14,Teddy Thomas,y,80
+13/03/2021,England,2,Julien Marchand,y,74
+13/03/2021,England,17,Jean-Baptiste Gros,n,12
+13/03/2021,England,23,Romain Ntamack,n,0
+13/03/2021,England,9,Antoine Dupont,y,80
+13/03/2021,England,10,Matthieu Jalibert,y,80
+13/03/2021,England,12,Gael Fickou,y,80
+13/03/2021,England,19,Cyril Cazeaux,n,21
+13/03/2021,England,18,Dorian Aldegheri,n,20
+13/03/2021,England,22,Baptiste Serin,n,0
+13/03/2021,England,15,Brice Dulin,y,80
+13/03/2021,England,21,Anthony Jelonch,n,0
+13/03/2021,England,20,Cameron Woki,n,6
+13/03/2021,England,8,Gregory Alldritt,y,80
+13/03/2021,England,1,Cyril Baille,y,68
+13/03/2021,England,4,Romain Taofifenua,y,59
+13/03/2021,England,6,Dylan Cretin,y,74
+13/03/2021,England,13,Virimi Vakatawa,y,80
+13/03/2021,England,3,Mohamed Haouas,y,60
+13/03/2021,England,7,Charles Ollivon,y,80
+13/03/2021,England,5,Paul Willemse,y,80
+20/03/2021,Wales,11,Damian Penaud,y,80
+20/03/2021,Wales,16,Camille Chat,n,11
+20/03/2021,Wales,14,Teddy Thomas,y,57
+20/03/2021,Wales,2,Julien Marchand,y,69
+20/03/2021,Wales,17,Jean-Baptiste Gros,n,21
+20/03/2021,Wales,22,Romain Ntamack,n,51
+20/03/2021,Wales,9,Antoine Dupont,y,74
+20/03/2021,Wales,10,Matthieu Jalibert,y,29
+20/03/2021,Wales,12,Gael Fickou,y,80
+20/03/2021,Wales,23,Arthur Vincent,n,23
+20/03/2021,Wales,21,Baptiste Serin,n,6
+20/03/2021,Wales,15,Brice Dulin,y,80
+20/03/2021,Wales,20,Anthony Jelonch,n,29
+20/03/2021,Wales,18,Uini Atonio,n,20
+20/03/2021,Wales,8,Gregory Alldritt,y,71
+20/03/2021,Wales,1,Cyril Baille,y,59
+20/03/2021,Wales,4,Romain Taofifenua,y,21
+20/03/2021,Wales,6,Dylan Cretin,y,51
+20/03/2021,Wales,13,Virimi Vakatawa,y,80
+20/03/2021,Wales,3,Mohamed Haouas,y,80
+20/03/2021,Wales,7,Charles Ollivon,y,80
+20/03/2021,Wales,5,Paul Willemse,y,80
+20/03/2021,Wales,19,Swan Rebbadj,n,59
+26/03/2021,Scotland,14,Damian Penaud,y,80
+26/03/2021,Scotland,16,Camille Chat,n,24
+26/03/2021,Scotland,23,Teddy Thomas,n,20
+26/03/2021,Scotland,2,Julien Marchand,y,56
+26/03/2021,Scotland,17,Jean-Baptiste Gros,n,24
+26/03/2021,Scotland,10,Romain Ntamack,y,80
+26/03/2021,Scotland,9,Antoine Dupont,y,71
+26/03/2021,Scotland,11,Gael Fickou,y,80
+26/03/2021,Scotland,4,Bernard Le Roux,y,50
+26/03/2021,Scotland,12,Arthur Vincent,y,80
+26/03/2021,Scotland,21,Baptiste Serin,n,9
+26/03/2021,Scotland,15,Brice Dulin,y,80
+26/03/2021,Scotland,6,Anthony Jelonch,y,63
+26/03/2021,Scotland,22,Anthony Bouthier,n,0
+26/03/2021,Scotland,18,Uini Atonio,n,19
+26/03/2021,Scotland,8,Gregory Alldritt,y,80
+26/03/2021,Scotland,1,Cyril Baille,y,56
+26/03/2021,Scotland,19,Romain Taofifenua,n,30
+26/03/2021,Scotland,20,Dylan Cretin,n,17
+26/03/2021,Scotland,13,Virimi Vakatawa,y,60
+26/03/2021,Scotland,3,Mohamed Haouas,y,61
+26/03/2021,Scotland,7,Charles Ollivon,y,80
+26/03/2021,Scotland,5,Swan Rebbadj,y,80
+07/07/2021,Australia,4,Killian Geraci,y,58
+07/07/2021,Australia,14,Damian Penaud,y,80
+07/07/2021,Australia,11,Gabin Villiere,y,80
+07/07/2021,Australia,1,Jean-Baptiste Gros,y,65
+07/07/2021,Australia,15,Melvyn Jaminet,y,80
+07/07/2021,Australia,8,Sekou Macalou,y,54
+07/07/2021,Australia,22,Teddy Iribaren,n,10
+07/07/2021,Australia,9,Baptiste Couilloud,y,70
+07/07/2021,Australia,20,Cyril Cazeaux,n,22
+07/07/2021,Australia,3,Demba Bamba,y,52
+07/07/2021,Australia,13,Arthur Vincent,y,80
+07/07/2021,Australia,16,Anthony Etrillard,n,15
+07/07/2021,Australia,18,Sipili Falatea,n,28
+07/07/2021,Australia,7,Anthony Jelonch,y,80
+07/07/2021,Australia,23,Anthony Bouthier,n,0
+07/07/2021,Australia,19,Baptiste Pesenti-Compagnoni,n,27
+07/07/2021,Australia,21,Cameron Woki,n,26
+07/07/2021,Australia,10,Louis Carbonel,y,80
+07/07/2021,Australia,17,Quentin Walcker,n,15
+07/07/2021,Australia,2,Gaetan Barlot,y,65
+07/07/2021,Australia,5,Romain Taofifenua,y,53
+07/07/2021,Australia,6,Dylan Cretin,y,80
+07/07/2021,Australia,12,Jonathan Danty,y,80
+13/07/2021,Australia,19,Killian Geraci,n,5
+13/07/2021,Australia,14,Damian Penaud,y,80
+13/07/2021,Australia,4,Pierre-Henri Azagoh,y,67
+13/07/2021,Australia,11,Gabin Villiere,y,80
+13/07/2021,Australia,1,Jean-Baptiste Gros,y,67
+13/07/2021,Australia,6,Ibrahim Diallo,y,67
+13/07/2021,Australia,15,Melvyn Jaminet,y,80
+13/07/2021,Australia,3,Wilfrid Hounkpatin,y,51
+13/07/2021,Australia,21,Sekou Macalou,n,13
+13/07/2021,Australia,22,Teddy Iribaren,n,2
+13/07/2021,Australia,9,Baptiste Couilloud,y,78
+13/07/2021,Australia,5,Cyril Cazeaux,y,51
+13/07/2021,Australia,18,Demba Bamba,n,29
+13/07/2021,Australia,13,Arthur Vincent,y,80
+13/07/2021,Australia,16,Anthony Etrillard,n,13
+13/07/2021,Australia,17,Enzo Forletta,n,13
+13/07/2021,Australia,8,Anthony Jelonch,y,80
+13/07/2021,Australia,23,Anthony Bouthier,n,8
+13/07/2021,Australia,7,Cameron Woki,y,80
+13/07/2021,Australia,10,Louis Carbonel,y,80
+13/07/2021,Australia,2,Gaetan Barlot,y,67
+13/07/2021,Australia,20,Romain Taofifenua,n,29
+13/07/2021,Australia,12,Jonathan Danty,y,80
+17/07/2021,Australia,14,Damian Penaud,y,61
+17/07/2021,Australia,10,Antoine Hastoy,y,67
+17/07/2021,Australia,11,Teddy Thomas,y,80
+17/07/2021,Australia,15,Melvyn Jaminet,y,80
+17/07/2021,Australia,21,Teddy Iribaren,n,0
+17/07/2021,Australia,9,Baptiste Couilloud,y,80
+17/07/2021,Australia,4,Cyril Cazeaux,y,80
+17/07/2021,Australia,18,Demba Bamba,n,33
+17/07/2021,Australia,20,Alexandre Becognee,n,29
+17/07/2021,Australia,13,Pierre-Louis Barassi,y,80
+17/07/2021,Australia,12,Arthur Vincent,y,80
+17/07/2021,Australia,23,Julien Heriteau,n,19
+17/07/2021,Australia,16,Anthony Etrillard,n,22
+17/07/2021,Australia,1,Enzo Forletta,y,63
+17/07/2021,Australia,3,Sipili Falatea,y,47
+17/07/2021,Australia,8,Anthony Jelonch,y,68
+17/07/2021,Australia,22,Anthony Bouthier,n,13
+17/07/2021,Australia,19,Baptiste Pesenti-Compagnoni,n,14
+17/07/2021,Australia,7,Cameron Woki,y,80
+17/07/2021,Australia,17,Quentin Walcker,n,17
+17/07/2021,Australia,2,Gaetan Barlot,y,58
+17/07/2021,Australia,5,Romain Taofifenua,y,66
+17/07/2021,Australia,6,Dylan Cretin,y,63
+06/11/2021,Argentina,14,Damian Penaud,y,80
+06/11/2021,Argentina,16,Peato Mauvaka,n,28
+06/11/2021,Argentina,6,Francois Cros,y,46
+06/11/2021,Argentina,11,Gabin Villiere,y,80
+06/11/2021,Argentina,2,Julien Marchand,y,63
+06/11/2021,Argentina,17,Jean-Baptiste Gros,n,17
+06/11/2021,Argentina,12,Romain Ntamack,y,54
+06/11/2021,Argentina,15,Melvyn Jaminet,y,80
+06/11/2021,Argentina,9,Antoine Dupont,y,80
+06/11/2021,Argentina,20,Sekou Macalou,n,12
+06/11/2021,Argentina,10,Matthieu Jalibert,y,80
+06/11/2021,Argentina,13,Gael Fickou,y,80
+06/11/2021,Argentina,18,Demba Bamba,n,28
+06/11/2021,Argentina,8,Anthony Jelonch,y,80
+06/11/2021,Argentina,7,Cameron Woki,y,80
+06/11/2021,Argentina,21,Gregory Alldritt,n,23
+06/11/2021,Argentina,1,Cyril Baille,y,63
+06/11/2021,Argentina,19,Romain Taofifenua,n,28
+06/11/2021,Argentina,3,Mohamed Haouas,y,52
+06/11/2021,Argentina,4,Thibaud Flament,y,68
+06/11/2021,Argentina,22,Maxime Lucu,n,0
+06/11/2021,Argentina,5,Paul Willemse,y,52
+06/11/2021,Argentina,23,Jonathan Danty,n,26
+14/11/2021,Georgia,14,Damian Penaud,y,80
+14/11/2021,Georgia,16,Peato Mauvaka,n,40
+14/11/2021,Georgia,21,Francois Cros,n,18
+14/11/2021,Georgia,2,Julien Marchand,y,40
+14/11/2021,Georgia,17,Jean-Baptiste Gros,n,34
+14/11/2021,Georgia,12,Romain Ntamack,y,80
+14/11/2021,Georgia,15,Melvyn Jaminet,y,53
+14/11/2021,Georgia,9,Antoine Dupont,y,59
+14/11/2021,Georgia,7,Sekou Macalou,y,80
+14/11/2021,Georgia,10,Matthieu Jalibert,y,80
+14/11/2021,Georgia,11,Matthis Lebel,y,80
+14/11/2021,Georgia,13,Gael Fickou,y,80
+14/11/2021,Georgia,18,Demba Bamba,n,34
+14/11/2021,Georgia,6,Anthony Jelonch,y,62
+14/11/2021,Georgia,3,Uini Atonio,y,46
+14/11/2021,Georgia,4,Cameron Woki,y,49
+14/11/2021,Georgia,8,Gregory Alldritt,y,80
+14/11/2021,Georgia,1,Cyril Baille,y,46
+14/11/2021,Georgia,5,Romain Taofifenua,y,49
+14/11/2021,Georgia,19,Thibaud Flament,n,31
+14/11/2021,Georgia,22,Maxime Lucu,n,21
+14/11/2021,Georgia,20,Paul Willemse,n,31
+14/11/2021,Georgia,23,Jonathan Danty,n,27
+20/11/2021,New Zealand,14,Damian Penaud,y,80
+20/11/2021,New Zealand,2,Peato Mauvaka,y,58
+20/11/2021,New Zealand,6,Francois Cros,y,61
+20/11/2021,New Zealand,11,Gabin Villiere,y,80
+20/11/2021,New Zealand,17,Jean-Baptiste Gros,n,31
+20/11/2021,New Zealand,10,Romain Ntamack,y,67
+20/11/2021,New Zealand,15,Melvyn Jaminet,y,80
+20/11/2021,New Zealand,9,Antoine Dupont,y,76
+20/11/2021,New Zealand,23,Matthieu Jalibert,n,13
+20/11/2021,New Zealand,13,Gael Fickou,y,80
+20/11/2021,New Zealand,18,Demba Bamba,n,32
+20/11/2021,New Zealand,7,Anthony Jelonch,y,80
+20/11/2021,New Zealand,3,Uini Atonio,y,48
+20/11/2021,New Zealand,4,Cameron Woki,y,73
+20/11/2021,New Zealand,8,Gregory Alldritt,y,80
+20/11/2021,New Zealand,1,Cyril Baille,y,49
+20/11/2021,New Zealand,16,Gaetan Barlot,n,22
+20/11/2021,New Zealand,19,Romain Taofifenua,n,31
+20/11/2021,New Zealand,21,Dylan Cretin,n,7
+20/11/2021,New Zealand,20,Thibaud Flament,n,19
+20/11/2021,New Zealand,22,Maxime Lucu,n,4
+20/11/2021,New Zealand,5,Paul Willemse,y,49
+20/11/2021,New Zealand,12,Jonathan Danty,y,80
+06/02/2022,Italy,14,Damian Penaud,y,80
+06/02/2022,Italy,16,Peato Mauvaka,n,22
+06/02/2022,Italy,22,Yoram Moefana,n,22
+06/02/2022,Italy,20,Francois Cros,n,9
+06/02/2022,Italy,11,Gabin Villiere,y,80
+06/02/2022,Italy,2,Julien Marchand,y,58
+06/02/2022,Italy,17,Jean-Baptiste Gros,n,30
+06/02/2022,Italy,10,Romain Ntamack,y,80
+06/02/2022,Italy,15,Melvyn Jaminet,y,76
+06/02/2022,Italy,9,Antoine Dupont,y,70
+06/02/2022,Italy,13,Gael Fickou,y,80
+06/02/2022,Italy,18,Demba Bamba,n,29
+06/02/2022,Italy,6,Anthony Jelonch,y,80
+06/02/2022,Italy,3,Uini Atonio,y,51
+06/02/2022,Italy,4,Cameron Woki,y,80
+06/02/2022,Italy,8,Gregory Alldritt,y,71
+06/02/2022,Italy,23,Thomas Ramos,n,4
+06/02/2022,Italy,1,Cyril Baille,y,50
+06/02/2022,Italy,19,Romain Taofifenua,n,24
+06/02/2022,Italy,7,Dylan Cretin,y,80
+06/02/2022,Italy,21,Maxime Lucu,n,10
+06/02/2022,Italy,5,Paul Willemse,y,56
+06/02/2022,Italy,12,Jonathan Danty,y,58
+12/02/2022,Ireland,14,Damian Penaud,y,80
+12/02/2022,Ireland,16,Peato Mauvaka,n,23
+12/02/2022,Ireland,12,Yoram Moefana,y,80
+12/02/2022,Ireland,6,Francois Cros,y,73
+12/02/2022,Ireland,11,Gabin Villiere,y,80
+12/02/2022,Ireland,2,Julien Marchand,y,57
+12/02/2022,Ireland,17,Jean-Baptiste Gros,n,23
+12/02/2022,Ireland,10,Romain Ntamack,y,80
+12/02/2022,Ireland,15,Melvyn Jaminet,y,80
+12/02/2022,Ireland,9,Antoine Dupont,y,70
+12/02/2022,Ireland,13,Gael Fickou,y,80
+12/02/2022,Ireland,18,Demba Bamba,n,23
+12/02/2022,Ireland,7,Anthony Jelonch,y,80
+12/02/2022,Ireland,3,Uini Atonio,y,57
+12/02/2022,Ireland,4,Cameron Woki,y,57
+12/02/2022,Ireland,8,Gregory Alldritt,y,80
+12/02/2022,Ireland,23,Thomas Ramos,n,0
+12/02/2022,Ireland,1,Cyril Baille,y,57
+12/02/2022,Ireland,19,Romain Taofifenua,n,22
+12/02/2022,Ireland,21,Dylan Cretin,n,7
+12/02/2022,Ireland,20,Thibaud Flament,n,23
+12/02/2022,Ireland,22,Maxime Lucu,n,10
+12/02/2022,Ireland,5,Paul Willemse,y,58
+26/02/2022,Scotland,14,Damian Penaud,y,80
+26/02/2022,Scotland,16,Peato Mauvaka,n,26
+26/02/2022,Scotland,11,Yoram Moefana,y,80
+26/02/2022,Scotland,6,Francois Cros,y,80
+26/02/2022,Scotland,2,Julien Marchand,y,54
+26/02/2022,Scotland,17,Jean-Baptiste Gros,n,22
+26/02/2022,Scotland,10,Romain Ntamack,y,80
+26/02/2022,Scotland,15,Melvyn Jaminet,y,72
+26/02/2022,Scotland,9,Antoine Dupont,y,74
+26/02/2022,Scotland,13,Gael Fickou,y,80
+26/02/2022,Scotland,18,Demba Bamba,n,33
+26/02/2022,Scotland,7,Anthony Jelonch,y,54
+26/02/2022,Scotland,3,Uini Atonio,y,47
+26/02/2022,Scotland,4,Cameron Woki,y,67
+26/02/2022,Scotland,8,Gregory Alldritt,y,80
+26/02/2022,Scotland,23,Thomas Ramos,n,8
+26/02/2022,Scotland,1,Cyril Baille,y,58
+26/02/2022,Scotland,19,Romain Taofifenua,n,26
+26/02/2022,Scotland,21,Dylan Cretin,n,13
+26/02/2022,Scotland,20,Thibaud Flament,n,26
+26/02/2022,Scotland,22,Maxime Lucu,n,6
+26/02/2022,Scotland,5,Paul Willemse,y,54
+26/02/2022,Scotland,12,Jonathan Danty,y,80
+11/03/2022,Wales,16,Peato Mauvaka,n,27
+11/03/2022,Wales,14,Yoram Moefana,y,80
+11/03/2022,Wales,6,Francois Cros,y,80
+11/03/2022,Wales,11,Gabin Villiere,y,80
+11/03/2022,Wales,2,Julien Marchand,y,53
+11/03/2022,Wales,17,Jean-Baptiste Gros,n,27
+11/03/2022,Wales,10,Romain Ntamack,y,80
+11/03/2022,Wales,15,Melvyn Jaminet,y,80
+11/03/2022,Wales,9,Antoine Dupont,y,72
+11/03/2022,Wales,19,Matthis Lebel,n,0
+11/03/2022,Wales,13,Gael Fickou,y,80
+11/03/2022,Wales,7,Anthony Jelonch,y,80
+11/03/2022,Wales,3,Uini Atonio,y,40
+11/03/2022,Wales,4,Cameron Woki,y,65
+11/03/2022,Wales,8,Gregory Alldritt,y,65
+11/03/2022,Wales,23,Thomas Ramos,n,0
+11/03/2022,Wales,1,Cyril Baille,y,53
+11/03/2022,Wales,21,Dylan Cretin,n,15
+11/03/2022,Wales,18,Mohamed Haouas,n,40
+11/03/2022,Wales,20,Thibaud Flament,n,15
+11/03/2022,Wales,22,Maxime Lucu,n,8
+11/03/2022,Wales,5,Paul Willemse,y,80
+11/03/2022,Wales,12,Jonathan Danty,y,80
+19/03/2022,England,14,Damian Penaud,y,80
+19/03/2022,England,16,Peato Mauvaka,n,30
+19/03/2022,England,6,Francois Cros,y,71
+19/03/2022,England,11,Gabin Villiere,y,80
+19/03/2022,England,2,Julien Marchand,y,50
+19/03/2022,England,17,Jean-Baptiste Gros,n,29
+19/03/2022,England,10,Romain Ntamack,y,80
+19/03/2022,England,15,Melvyn Jaminet,y,77
+19/03/2022,England,9,Antoine Dupont,y,77
+19/03/2022,England,13,Gael Fickou,y,80
+19/03/2022,England,7,Anthony Jelonch,y,80
+19/03/2022,England,3,Uini Atonio,y,55
+19/03/2022,England,4,Cameron Woki,y,71
+19/03/2022,England,8,Gregory Alldritt,y,80
+19/03/2022,England,23,Thomas Ramos,n,3
+19/03/2022,England,1,Cyril Baille,y,51
+19/03/2022,England,19,Romain Taofifenua,n,30
+19/03/2022,England,21,Dylan Cretin,n,9
+19/03/2022,England,18,Mohamed Haouas,n,25
+19/03/2022,England,20,Thibaud Flament,n,9
+19/03/2022,England,22,Maxime Lucu,n,3
+19/03/2022,England,5,Paul Willemse,y,50
+19/03/2022,England,12,Jonathan Danty,y,80
+02/07/2022,Japan,14,Damian Penaud,y,80
+02/07/2022,Japan,2,Peato Mauvaka,y,60
+02/07/2022,Japan,23,Antoine Hastoy,n,11
+02/07/2022,Japan,12,Yoram Moefana,y,80
+02/07/2022,Japan,1,Jean-Baptiste Gros,y,46
+02/07/2022,Japan,15,Melvyn Jaminet,y,80
+02/07/2022,Japan,21,Sekou Macalou,n,19
+02/07/2022,Japan,10,Matthieu Jalibert,y,69
+02/07/2022,Japan,22,Baptiste Couilloud,n,11
+02/07/2022,Japan,11,Matthis Lebel,y,80
+02/07/2022,Japan,3,Demba Bamba,y,46
+02/07/2022,Japan,20,Selevasio Tolofua,n,16
+02/07/2022,Japan,18,Sipili Falatea,n,34
+02/07/2022,Japan,8,Yoan Tanga,y,64
+02/07/2022,Japan,16,Pierre Bourgarit,n,20
+02/07/2022,Japan,7,Dylan Cretin,y,80
+02/07/2022,Japan,5,Thomas Jolmes,y,44
+02/07/2022,Japan,13,Virimi Vakatawa,y,61
+02/07/2022,Japan,6,Charles Ollivon,y,80
+02/07/2022,Japan,19,Thomas Lavault,n,36
+02/07/2022,Japan,17,Dany Priso,n,34
+02/07/2022,Japan,4,Thibaud Flament,y,80
+02/07/2022,Japan,9,Maxime Lucu,y,69
+09/07/2022,Japan,14,Damian Penaud,y,64
+09/07/2022,Japan,2,Peato Mauvaka,y,43
+09/07/2022,Japan,23,Antoine Hastoy,n,0
+09/07/2022,Japan,12,Yoram Moefana,y,80
+09/07/2022,Japan,1,Jean-Baptiste Gros,y,45
+09/07/2022,Japan,20,Ibrahim Diallo,n,37
+09/07/2022,Japan,21,Sekou Macalou,n,16
+09/07/2022,Japan,10,Matthieu Jalibert,y,80
+09/07/2022,Japan,22,Baptiste Couilloud,n,30
+09/07/2022,Japan,11,Matthis Lebel,y,80
+09/07/2022,Japan,3,Demba Bamba,y,45
+09/07/2022,Japan,18,Sipili Falatea,n,35
+09/07/2022,Japan,8,Yoan Tanga,y,80
+09/07/2022,Japan,16,Pierre Bourgarit,n,37
+09/07/2022,Japan,6,Dylan Cretin,y,43
+09/07/2022,Japan,5,Thomas Jolmes,y,43
+09/07/2022,Japan,13,Virimi Vakatawa,y,80
+09/07/2022,Japan,7,Charles Ollivon,y,80
+09/07/2022,Japan,19,Thomas Lavault,n,37
+09/07/2022,Japan,17,Dany Priso,n,35
+09/07/2022,Japan,4,Thibaud Flament,y,80
+09/07/2022,Japan,9,Maxime Lucu,y,50
+09/07/2022,Japan,15,Max Spring,y,80
+05/11/2022,Australia,14,Damian Penaud,y,80
+05/11/2022,Australia,16,Peato Mauvaka,n,26
+05/11/2022,Australia,11,Yoram Moefana,y,80
+05/11/2022,Australia,2,Julien Marchand,y,54
+05/11/2022,Australia,10,Romain Ntamack,y,58
+05/11/2022,Australia,9,Antoine Dupont,y,80
+05/11/2022,Australia,21,Sekou Macalou,n,0
+05/11/2022,Australia,23,Matthieu Jalibert,n,22
+05/11/2022,Australia,20,Matthis Lebel,n,13
+05/11/2022,Australia,13,Gael Fickou,y,67
+05/11/2022,Australia,18,Sipili Falatea,n,26
+05/11/2022,Australia,6,Anthony Jelonch,y,80
+05/11/2022,Australia,3,Uini Atonio,y,54
+05/11/2022,Australia,4,Cameron Woki,y,51
+05/11/2022,Australia,8,Gregory Alldritt,y,80
+05/11/2022,Australia,15,Thomas Ramos,y,80
+05/11/2022,Australia,1,Cyril Baille,y,54
+05/11/2022,Australia,19,Romain Taofifenua,n,29
+05/11/2022,Australia,7,Charles Ollivon,y,80
+05/11/2022,Australia,17,Dany Priso,n,26
+05/11/2022,Australia,5,Thibaud Flament,y,80
+05/11/2022,Australia,22,Maxime Lucu,n,0
+05/11/2022,Australia,12,Jonathan Danty,y,80
+12/11/2022,South Africa,14,Damian Penaud,y,80
+12/11/2022,South Africa,16,Peato Mauvaka,n,19
+12/11/2022,South Africa,11,Yoram Moefana,y,80
+12/11/2022,South Africa,2,Julien Marchand,y,61
+12/11/2022,South Africa,10,Romain Ntamack,y,70
+12/11/2022,South Africa,9,Antoine Dupont,y,80
+12/11/2022,South Africa,21,Sekou Macalou,n,68
+12/11/2022,South Africa,23,Matthieu Jalibert,n,10
+12/11/2022,South Africa,13,Gael Fickou,y,80
+12/11/2022,South Africa,18,Sipili Falatea,n,30
+12/11/2022,South Africa,6,Anthony Jelonch,y,80
+12/11/2022,South Africa,20,Bastien Chalureau,n,3
+12/11/2022,South Africa,3,Uini Atonio,y,50
+12/11/2022,South Africa,4,Cameron Woki,y,77
+12/11/2022,South Africa,8,Gregory Alldritt,y,53
+12/11/2022,South Africa,15,Thomas Ramos,y,80
+12/11/2022,South Africa,1,Cyril Baille,y,33
+12/11/2022,South Africa,19,Romain Taofifenua,n,48
+12/11/2022,South Africa,17,Reda Wardi,n,47
+12/11/2022,South Africa,7,Charles Ollivon,y,80
+12/11/2022,South Africa,5,Thibaud Flament,y,32
+12/11/2022,South Africa,22,Maxime Lucu,n,27
+12/11/2022,South Africa,12,Jonathan Danty,y,12
+20/11/2022,Japan,14,Damian Penaud,y,80
+20/11/2022,Japan,16,Peato Mauvaka,n,21
+20/11/2022,Japan,11,Yoram Moefana,y,80
+20/11/2022,Japan,2,Julien Marchand,y,59
+20/11/2022,Japan,10,Romain Ntamack,y,57
+20/11/2022,Japan,21,Sekou Macalou,n,65
+20/11/2022,Japan,23,Matthieu Jalibert,n,23
+20/11/2022,Japan,22,Baptiste Couilloud,n,10
+20/11/2022,Japan,13,Gael Fickou,y,15
+20/11/2022,Japan,18,Sipili Falatea,n,34
+20/11/2022,Japan,6,Anthony Jelonch,y,80
+20/11/2022,Japan,20,Bastien Chalureau,n,21
+20/11/2022,Japan,3,Uini Atonio,y,46
+20/11/2022,Japan,19,Florian Verhaeghe,n,5
+20/11/2022,Japan,4,Cameron Woki,y,75
+20/11/2022,Japan,8,Gregory Alldritt,y,80
+20/11/2022,Japan,15,Thomas Ramos,y,80
+20/11/2022,Japan,5,Romain Taofifenua,y,59
+20/11/2022,Japan,1,Reda Wardi,y,62
+20/11/2022,Japan,7,Charles Ollivon,y,80
+20/11/2022,Japan,17,Dany Priso,n,18
+20/11/2022,Japan,9,Maxime Lucu,y,70
+20/11/2022,Japan,12,Jonathan Danty,y,80
+05/02/2023,Italy,14,Damian Penaud,y,80
+05/02/2023,Italy,12,Yoram Moefana,y,80
+05/02/2023,Italy,2,Julien Marchand,y,63
+05/02/2023,Italy,10,Romain Ntamack,y,65
+05/02/2023,Italy,9,Antoine Dupont,y,80
+05/02/2023,Italy,21,Sekou Macalou,n,18
+05/02/2023,Italy,23,Matthieu Jalibert,n,15
+05/02/2023,Italy,13,Gael Fickou,y,80
+05/02/2023,Italy,18,Sipili Falatea,n,28
+05/02/2023,Italy,6,Anthony Jelonch,y,80
+05/02/2023,Italy,3,Uini Atonio,y,52
+05/02/2023,Italy,8,Gregory Alldritt,y,62
+05/02/2023,Italy,22,Nolann Le Garrec,n,0
+05/02/2023,Italy,15,Thomas Ramos,y,80
+05/02/2023,Italy,1,Cyril Baille,y,52
+05/02/2023,Italy,11,Ethan Dumortier,y,80
+05/02/2023,Italy,16,Gaetan Barlot,n,17
+05/02/2023,Italy,19,Romain Taofifenua,n,26
+05/02/2023,Italy,17,Reda Wardi,n,28
+05/02/2023,Italy,7,Charles Ollivon,y,80
+05/02/2023,Italy,20,Thomas Lavault,n,0
+05/02/2023,Italy,4,Thibaud Flament,y,80
+05/02/2023,Italy,5,Paul Willemse,y,54
+11/02/2023,Ireland,14,Damian Penaud,y,80
+11/02/2023,Ireland,12,Yoram Moefana,y,80
+11/02/2023,Ireland,20,Francois Cros,n,11
+11/02/2023,Ireland,2,Julien Marchand,y,74
+11/02/2023,Ireland,10,Romain Ntamack,y,80
+11/02/2023,Ireland,9,Antoine Dupont,y,80
+11/02/2023,Ireland,21,Sekou Macalou,n,28
+11/02/2023,Ireland,23,Matthieu Jalibert,n,18
+11/02/2023,Ireland,22,Baptiste Couilloud,n,0
+11/02/2023,Ireland,13,Gael Fickou,y,80
+11/02/2023,Ireland,18,Sipili Falatea,n,23
+11/02/2023,Ireland,6,Anthony Jelonch,y,80
+11/02/2023,Ireland,3,Uini Atonio,y,57
+11/02/2023,Ireland,8,Gregory Alldritt,y,52
+11/02/2023,Ireland,15,Thomas Ramos,y,62
+11/02/2023,Ireland,1,Cyril Baille,y,58
+11/02/2023,Ireland,11,Ethan Dumortier,y,80
+11/02/2023,Ireland,16,Gaetan Barlot,n,6
+11/02/2023,Ireland,19,Romain Taofifenua,n,34
+11/02/2023,Ireland,17,Reda Wardi,n,22
+11/02/2023,Ireland,7,Charles Ollivon,y,69
+11/02/2023,Ireland,4,Thibaud Flament,y,80
+11/02/2023,Ireland,5,Paul Willemse,y,46
+26/02/2023,Scotland,14,Damian Penaud,y,80
+26/02/2023,Scotland,12,Yoram Moefana,y,80
+26/02/2023,Scotland,20,Francois Cros,n,11
+26/02/2023,Scotland,2,Julien Marchand,y,70
+26/02/2023,Scotland,10,Romain Ntamack,y,69
+26/02/2023,Scotland,9,Antoine Dupont,y,80
+26/02/2023,Scotland,21,Sekou Macalou,n,0
+26/02/2023,Scotland,23,Matthieu Jalibert,n,11
+26/02/2023,Scotland,22,Baptiste Couilloud,n,0
+26/02/2023,Scotland,13,Gael Fickou,y,80
+26/02/2023,Scotland,18,Sipili Falatea,n,67
+26/02/2023,Scotland,6,Anthony Jelonch,y,69
+26/02/2023,Scotland,8,Gregory Alldritt,y,13
+26/02/2023,Scotland,15,Thomas Ramos,y,80
+26/02/2023,Scotland,1,Cyril Baille,y,63
+26/02/2023,Scotland,11,Ethan Dumortier,y,80
+26/02/2023,Scotland,16,Gaetan Barlot,n,10
+26/02/2023,Scotland,19,Romain Taofifenua,n,27
+26/02/2023,Scotland,17,Reda Wardi,n,17
+26/02/2023,Scotland,3,Mohamed Haouas,y,80
+26/02/2023,Scotland,7,Charles Ollivon,y,80
+26/02/2023,Scotland,4,Thibaud Flament,y,80
+26/02/2023,Scotland,5,Paul Willemse,y,53
+11/03/2023,England,14,Damian Penaud,y,80
+11/03/2023,England,16,Peato Mauvaka,n,18
+11/03/2023,England,22,Yoram Moefana,n,15
+11/03/2023,England,6,Francois Cros,y,80
+11/03/2023,England,2,Julien Marchand,y,62
+11/03/2023,England,10,Romain Ntamack,y,73
+11/03/2023,England,23,Melvyn Jaminet,n,7
+11/03/2023,England,9,Antoine Dupont,y,69
+11/03/2023,England,20,Sekou Macalou,n,17
+11/03/2023,England,13,Gael Fickou,y,80
+11/03/2023,England,3,Dorian Aldegheri,y,50
+11/03/2023,England,18,Sipili Falatea,n,30
+11/03/2023,England,8,Gregory Alldritt,y,80
+11/03/2023,England,15,Thomas Ramos,y,80
+11/03/2023,England,1,Cyril Baille,y,62
+11/03/2023,England,11,Ethan Dumortier,y,80
+11/03/2023,England,19,Romain Taofifenua,n,30
+11/03/2023,England,17,Reda Wardi,n,18
+11/03/2023,England,7,Charles Ollivon,y,63
+11/03/2023,England,4,Thibaud Flament,y,80
+11/03/2023,England,21,Maxime Lucu,n,11
+11/03/2023,England,5,Paul Willemse,y,50
+11/03/2023,England,12,Jonathan Danty,y,65
+18/03/2023,Wales,14,Damian Penaud,y,80
+18/03/2023,Wales,16,Peato Mauvaka,n,29
+18/03/2023,Wales,22,Yoram Moefana,n,5
+18/03/2023,Wales,6,Francois Cros,y,80
+18/03/2023,Wales,2,Julien Marchand,y,51
+18/03/2023,Wales,10,Romain Ntamack,y,80
+18/03/2023,Wales,23,Melvyn Jaminet,n,0
+18/03/2023,Wales,9,Antoine Dupont,y,75
+18/03/2023,Wales,20,Sekou Macalou,n,5
+18/03/2023,Wales,13,Gael Fickou,y,80
+18/03/2023,Wales,18,Sipili Falatea,n,32
+18/03/2023,Wales,19,Bastien Chalureau,n,19
+18/03/2023,Wales,3,Uini Atonio,y,48
+18/03/2023,Wales,8,Gregory Alldritt,y,80
+18/03/2023,Wales,15,Thomas Ramos,y,80
+18/03/2023,Wales,1,Cyril Baille,y,51
+18/03/2023,Wales,11,Ethan Dumortier,y,75
+18/03/2023,Wales,5,Romain Taofifenua,y,61
+18/03/2023,Wales,17,Reda Wardi,n,29
+18/03/2023,Wales,7,Charles Ollivon,y,75
+18/03/2023,Wales,4,Thibaud Flament,y,80
+18/03/2023,Wales,21,Maxime Lucu,n,5
+18/03/2023,Wales,12,Jonathan Danty,y,80
+05/08/2023,Scotland,16,Peato Mauvaka,n,18
+05/08/2023,Scotland,22,Antoine Hastoy,n,12
+05/08/2023,Scotland,12,Yoram Moefana,y,80
+05/08/2023,Scotland,14,Louis Bielle-Biarrey,y,80
+05/08/2023,Scotland,13,Emilien Gailleton,y,80
+05/08/2023,Scotland,1,Jean-Baptiste Gros,y,62
+05/08/2023,Scotland,7,Sekou Macalou,y,62
+05/08/2023,Scotland,10,Matthieu Jalibert,y,68
+05/08/2023,Scotland,9,Baptiste Couilloud,y,77
+05/08/2023,Scotland,3,Demba Bamba,y,47
+05/08/2023,Scotland,6,Paul Boudehent,y,80
+05/08/2023,Scotland,23,Arthur Vincent,n,3
+05/08/2023,Scotland,21,Baptiste Serin,n,3
+05/08/2023,Scotland,15,Brice Dulin,y,80
+05/08/2023,Scotland,18,Sipili Falatea,n,33
+05/08/2023,Scotland,8,Yoan Tanga,y,80
+05/08/2023,Scotland,5,Bastien Chalureau,y,62
+05/08/2023,Scotland,2,Pierre Bourgarit,y,62
+05/08/2023,Scotland,4,Cameron Woki,y,80
+05/08/2023,Scotland,11,Ethan Dumortier,y,77
+05/08/2023,Scotland,20,Dylan Cretin,n,18
+05/08/2023,Scotland,17,Reda Wardi,n,18
+05/08/2023,Scotland,19,Paul Willemse,n,18
+12/08/2023,Scotland,14,Damian Penaud,y,80
+12/08/2023,Scotland,23,Louis Bielle-Biarrey,n,25
+12/08/2023,Scotland,11,Gabin Villiere,y,80
+12/08/2023,Scotland,2,Julien Marchand,y,49
+12/08/2023,Scotland,17,Jean-Baptiste Gros,n,32
+12/08/2023,Scotland,10,Romain Ntamack,y,55
+12/08/2023,Scotland,9,Antoine Dupont,y,69
+12/08/2023,Scotland,21,Sekou Macalou,n,17
+12/08/2023,Scotland,13,Gael Fickou,y,80
+12/08/2023,Scotland,6,Paul Boudehent,y,80
+12/08/2023,Scotland,3,Dorian Aldegheri,y,49
+12/08/2023,Scotland,20,Bastien Chalureau,n,17
+12/08/2023,Scotland,16,Pierre Bourgarit,n,31
+12/08/2023,Scotland,18,Uini Atonio,n,31
+12/08/2023,Scotland,19,Florian Verhaeghe,n,14
+12/08/2023,Scotland,4,Cameron Woki,y,80
+12/08/2023,Scotland,8,Gregory Alldritt,y,66
+12/08/2023,Scotland,15,Thomas Ramos,y,80
+12/08/2023,Scotland,1,Cyril Baille,y,48
+12/08/2023,Scotland,7,Charles Ollivon,y,80
+12/08/2023,Scotland,5,Thibaud Flament,y,63
+12/08/2023,Scotland,22,Maxime Lucu,n,11
+12/08/2023,Scotland,12,Jonathan Danty,y,63
+19/08/2023,Fiji,2,Peato Mauvaka,y,80
+19/08/2023,Fiji,10,Antoine Hastoy,y,62
+19/08/2023,Fiji,11,Yoram Moefana,y,80
+19/08/2023,Fiji,14,Louis Bielle-Biarrey,y,80
+19/08/2023,Fiji,6,Francois Cros,y,80
+19/08/2023,Fiji,17,Jean-Baptiste Gros,n,0
+19/08/2023,Fiji,15,Melvyn Jaminet,y,80
+19/08/2023,Fiji,21,Sekou Macalou,n,0
+19/08/2023,Fiji,23,Matthieu Jalibert,n,18
+19/08/2023,Fiji,13,Arthur Vincent,y,80
+19/08/2023,Fiji,22,Baptiste Serin,n,18
+19/08/2023,Fiji,19,Bastien Chalureau,n,18
+19/08/2023,Fiji,16,Pierre Bourgarit,n,25
+19/08/2023,Fiji,3,Uini Atonio,y,80
+19/08/2023,Fiji,4,Florian Verhaeghe,y,62
+19/08/2023,Fiji,8,Gregory Alldritt,y,55
+19/08/2023,Fiji,18,Thomas Laclayat,n,0
+19/08/2023,Fiji,7,Dylan Cretin,y,80
+19/08/2023,Fiji,1,Reda Wardi,y,80
+19/08/2023,Fiji,20,Thibaud Flament,n,18
+19/08/2023,Fiji,9,Maxime Lucu,y,62
+19/08/2023,Fiji,5,Paul Willemse,y,62
+19/08/2023,Fiji,12,Jonathan Danty,y,80
+27/08/2023,Australia,14,Damian Penaud,y,80
+27/08/2023,Australia,16,Peato Mauvaka,n,33
+27/08/2023,Australia,6,Francois Cros,y,80
+27/08/2023,Australia,17,Sebastien Taofifenua,n,33
+27/08/2023,Australia,11,Gabin Villiere,y,80
+27/08/2023,Australia,2,Julien Marchand,y,47
+27/08/2023,Australia,1,Jean-Baptiste Gros,y,47
+27/08/2023,Australia,23,Melvyn Jaminet,n,12
+27/08/2023,Australia,9,Antoine Dupont,y,59
+27/08/2023,Australia,10,Matthieu Jalibert,y,80
+27/08/2023,Australia,22,Baptiste Couilloud,n,21
+27/08/2023,Australia,13,Gael Fickou,y,80
+27/08/2023,Australia,21,Paul Boudehent,n,15
+27/08/2023,Australia,18,Dorian Aldegheri,n,33
+27/08/2023,Australia,3,Uini Atonio,y,47
+27/08/2023,Australia,20,Cameron Woki,n,33
+27/08/2023,Australia,8,Gregory Alldritt,y,65
+27/08/2023,Australia,15,Thomas Ramos,y,68
+27/08/2023,Australia,19,Romain Taofifenua,n,33
+27/08/2023,Australia,7,Charles Ollivon,y,80
+27/08/2023,Australia,4,Thibaud Flament,y,47
+27/08/2023,Australia,5,Paul Willemse,y,47
+27/08/2023,Australia,12,Jonathan Danty,y,80
+08/09/2023,New Zealand,14,Damian Penaud,y,80
+08/09/2023,New Zealand,16,Peato Mauvaka,n,68
+08/09/2023,New Zealand,12,Yoram Moefana,y,57
+08/09/2023,New Zealand,6,Francois Cros,y,62
+08/09/2023,New Zealand,11,Gabin Villiere,y,80
+08/09/2023,New Zealand,2,Julien Marchand,y,12
+08/09/2023,New Zealand,17,Jean-Baptiste Gros,n,27
+08/09/2023,New Zealand,23,Melvyn Jaminet,n,5
+08/09/2023,New Zealand,9,Antoine Dupont,y,75
+08/09/2023,New Zealand,10,Matthieu Jalibert,y,80
+08/09/2023,New Zealand,13,Gael Fickou,y,80
+08/09/2023,New Zealand,20,Paul Boudehent,n,18
+08/09/2023,New Zealand,22,Arthur Vincent,n,23
+08/09/2023,New Zealand,18,Dorian Aldegheri,n,27
+08/09/2023,New Zealand,3,Uini Atonio,y,53
+08/09/2023,New Zealand,4,Cameron Woki,y,48
+08/09/2023,New Zealand,8,Gregory Alldritt,y,80
+08/09/2023,New Zealand,15,Thomas Ramos,y,75
+08/09/2023,New Zealand,19,Romain Taofifenua,n,32
+08/09/2023,New Zealand,1,Reda Wardi,y,53
+08/09/2023,New Zealand,7,Charles Ollivon,y,80
+08/09/2023,New Zealand,5,Thibaud Flament,y,80
+08/09/2023,New Zealand,21,Maxime Lucu,n,5
+14/09/2023,Uruguay,16,Peato Mauvaka,n,31
+14/09/2023,Uruguay,10,Antoine Hastoy,y,80
+14/09/2023,Uruguay,12,Yoram Moefana,y,80
+14/09/2023,Uruguay,14,Louis Bielle-Biarrey,y,80
+14/09/2023,Uruguay,21,Francois Cros,n,30
+14/09/2023,Uruguay,11,Gabin Villiere,y,80
+14/09/2023,Uruguay,1,Jean-Baptiste Gros,y,49
+14/09/2023,Uruguay,15,Melvyn Jaminet,y,80
+14/09/2023,Uruguay,7,Sekou Macalou,y,80
+14/09/2023,Uruguay,22,Baptiste Couilloud,n,17
+14/09/2023,Uruguay,6,Paul Boudehent,y,80
+14/09/2023,Uruguay,13,Arthur Vincent,y,80
+14/09/2023,Uruguay,3,Dorian Aldegheri,y,49
+14/09/2023,Uruguay,18,Sipili Falatea,n,31
+14/09/2023,Uruguay,8,Anthony Jelonch,y,50
+14/09/2023,Uruguay,19,Bastien Chalureau,n,31
+14/09/2023,Uruguay,2,Pierre Bourgarit,y,49
+14/09/2023,Uruguay,4,Cameron Woki,y,57
+14/09/2023,Uruguay,23,Thomas Ramos,n,0
+14/09/2023,Uruguay,5,Romain Taofifenua,y,49
+14/09/2023,Uruguay,17,Reda Wardi,n,31
+14/09/2023,Uruguay,20,Thibaud Flament,n,23
+14/09/2023,Uruguay,9,Maxime Lucu,y,63
+21/09/2023,Namibia,14,Damian Penaud,y,80
+21/09/2023,Namibia,2,Peato Mauvaka,y,53
+21/09/2023,Namibia,22,Yoram Moefana,n,15
+21/09/2023,Namibia,11,Louis Bielle-Biarrey,y,80
+21/09/2023,Namibia,6,Francois Cros,y,80
+21/09/2023,Namibia,23,Melvyn Jaminet,n,27
+21/09/2023,Namibia,9,Antoine Dupont,y,80
+21/09/2023,Namibia,10,Matthieu Jalibert,y,53
+21/09/2023,Namibia,21,Baptiste Couilloud,n,0
+21/09/2023,Namibia,13,Gael Fickou,y,80
+21/09/2023,Namibia,20,Paul Boudehent,n,3
+21/09/2023,Namibia,18,Dorian Aldegheri,n,40
+21/09/2023,Namibia,8,Anthony Jelonch,y,54
+21/09/2023,Namibia,16,Pierre Bourgarit,n,27
+21/09/2023,Namibia,3,Uini Atonio,y,40
+21/09/2023,Namibia,4,Cameron Woki,y,40
+21/09/2023,Namibia,15,Thomas Ramos,y,80
+21/09/2023,Namibia,1,Cyril Baille,y,40
+21/09/2023,Namibia,19,Romain Taofifenua,n,40
+21/09/2023,Namibia,17,Reda Wardi,n,40
+21/09/2023,Namibia,7,Charles Ollivon,y,80
+21/09/2023,Namibia,5,Thibaud Flament,y,80
+21/09/2023,Namibia,12,Jonathan Danty,y,80
+06/10/2023,Italy,14,Damian Penaud,y,80
+06/10/2023,Italy,2,Peato Mauvaka,y,54
+06/10/2023,Italy,22,Yoram Moefana,n,19
+06/10/2023,Italy,11,Louis Bielle-Biarrey,y,80
+06/10/2023,Italy,20,Francois Cros,n,26
+06/10/2023,Italy,23,Melvyn Jaminet,n,19
+06/10/2023,Italy,10,Matthieu Jalibert,y,80
+06/10/2023,Italy,21,Baptiste Couilloud,n,26
+06/10/2023,Italy,13,Gael Fickou,y,61
+06/10/2023,Italy,18,Dorian Aldegheri,n,36
+06/10/2023,Italy,6,Anthony Jelonch,y,80
+06/10/2023,Italy,16,Pierre Bourgarit,n,26
+06/10/2023,Italy,3,Uini Atonio,y,44
+06/10/2023,Italy,4,Cameron Woki,y,80
+06/10/2023,Italy,8,Gregory Alldritt,y,80
+06/10/2023,Italy,15,Thomas Ramos,y,61
+06/10/2023,Italy,1,Cyril Baille,y,54
+06/10/2023,Italy,19,Romain Taofifenua,n,36
+06/10/2023,Italy,17,Reda Wardi,n,26
+06/10/2023,Italy,7,Charles Ollivon,y,54
+06/10/2023,Italy,5,Thibaud Flament,y,44
+06/10/2023,Italy,9,Maxime Lucu,y,54
+06/10/2023,Italy,12,Jonathan Danty,y,80
+15/10/2023,South Africa,14,Damian Penaud,y,80
+15/10/2023,South Africa,2,Peato Mauvaka,y,64
+15/10/2023,South Africa,23,Yoram Moefana,n,8
+15/10/2023,South Africa,11,Louis Bielle-Biarrey,y,80
+15/10/2023,South Africa,20,Francois Cros,n,29
+15/10/2023,South Africa,9,Antoine Dupont,y,80
+15/10/2023,South Africa,21,Sekou Macalou,n,12
+15/10/2023,South Africa,10,Matthieu Jalibert,y,72
+15/10/2023,South Africa,13,Gael Fickou,y,80
+15/10/2023,South Africa,18,Dorian Aldegheri,n,22
+15/10/2023,South Africa,6,Anthony Jelonch,y,51
+15/10/2023,South Africa,16,Pierre Bourgarit,n,16
+15/10/2023,South Africa,3,Uini Atonio,y,58
+15/10/2023,South Africa,4,Cameron Woki,y,80
+15/10/2023,South Africa,8,Gregory Alldritt,y,68
+15/10/2023,South Africa,15,Thomas Ramos,y,80
+15/10/2023,South Africa,1,Cyril Baille,y,49
+15/10/2023,South Africa,19,Romain Taofifenua,n,31
+15/10/2023,South Africa,17,Reda Wardi,n,31
+15/10/2023,South Africa,7,Charles Ollivon,y,80
+15/10/2023,South Africa,5,Thibaud Flament,y,49
+15/10/2023,South Africa,22,Maxime Lucu,n,0
+15/10/2023,South Africa,12,Jonathan Danty,y,80
+02/02/2024,Ireland,14,Damian Penaud,y,80
+02/02/2024,Ireland,2,Peato Mauvaka,y,53
+02/02/2024,Ireland,11,Yoram Moefana,y,80
+02/02/2024,Ireland,23,Louis Bielle-Biarrey,n,17
+02/02/2024,Ireland,6,Francois Cros,y,63
+02/02/2024,Ireland,16,Julien Marchand,n,27
+02/02/2024,Ireland,19,Posolo Tuilagi,n,27
+02/02/2024,Ireland,10,Matthieu Jalibert,y,80
+02/02/2024,Ireland,13,Gael Fickou,y,80
+02/02/2024,Ireland,21,Paul Boudehent,n,17
+02/02/2024,Ireland,18,Dorian Aldegheri,n,27
+02/02/2024,Ireland,4,Paul Gabrillagues,y,53
+02/02/2024,Ireland,3,Uini Atonio,y,53
+02/02/2024,Ireland,20,Cameron Woki,n,17
+02/02/2024,Ireland,8,Gregory Alldritt,y,80
+02/02/2024,Ireland,22,Nolann Le Garrec,n,17
+02/02/2024,Ireland,15,Thomas Ramos,y,80
+02/02/2024,Ireland,1,Cyril Baille,y,62
+02/02/2024,Ireland,17,Reda Wardi,n,18
+02/02/2024,Ireland,7,Charles Ollivon,y,63
+02/02/2024,Ireland,9,Maxime Lucu,y,63
+02/02/2024,Ireland,5,Paul Willemse,y,80
+02/02/2024,Ireland,12,Jonathan Danty,y,63
+10/02/2024,Scotland,14,Damian Penaud,y,80
+10/02/2024,Scotland,2,Peato Mauvaka,y,48
+10/02/2024,Scotland,23,Yoram Moefana,n,18
+10/02/2024,Scotland,11,Louis Bielle-Biarrey,y,80
+10/02/2024,Scotland,6,Francois Cros,y,80
+10/02/2024,Scotland,17,Sebastien Taofifenua,n,22
+10/02/2024,Scotland,16,Julien Marchand,n,32
+10/02/2024,Scotland,19,Posolo Tuilagi,n,32
+10/02/2024,Scotland,10,Matthieu Jalibert,y,80
+10/02/2024,Scotland,13,Gael Fickou,y,80
+10/02/2024,Scotland,20,Alexandre Roumat,n,32
+10/02/2024,Scotland,21,Paul Boudehent,n,30
+10/02/2024,Scotland,18,Dorian Aldegheri,n,22
+10/02/2024,Scotland,5,Paul Gabrillagues,y,48
+10/02/2024,Scotland,3,Uini Atonio,y,58
+10/02/2024,Scotland,4,Cameron Woki,y,48
+10/02/2024,Scotland,8,Gregory Alldritt,y,50
+10/02/2024,Scotland,22,Nolann Le Garrec,n,0
+10/02/2024,Scotland,15,Thomas Ramos,y,80
+10/02/2024,Scotland,1,Cyril Baille,y,58
+10/02/2024,Scotland,7,Charles Ollivon,y,80
+10/02/2024,Scotland,9,Maxime Lucu,y,80
+10/02/2024,Scotland,12,Jonathan Danty,y,62
+25/02/2024,Italy,14,Damian Penaud,y,80
+25/02/2024,Italy,2,Peato Mauvaka,y,49
+25/02/2024,Italy,23,Yoram Moefana,n,44
+25/02/2024,Italy,8,Francois Cros,y,80
+25/02/2024,Italy,17,Sebastien Taofifenua,n,32
+25/02/2024,Italy,16,Julien Marchand,n,31
+25/02/2024,Italy,10,Matthieu Jalibert,y,36
+25/02/2024,Italy,21,Esteban Abadie,n,14
+25/02/2024,Italy,11,Matthis Lebel,y,80
+25/02/2024,Italy,13,Gael Fickou,y,80
+25/02/2024,Italy,6,Paul Boudehent,y,80
+25/02/2024,Italy,18,Dorian Aldegheri,n,31
+25/02/2024,Italy,20,Alexandre Roumat,n,31
+25/02/2024,Italy,5,Posolo Tuilagi,y,48
+25/02/2024,Italy,3,Uini Atonio,y,49
+25/02/2024,Italy,4,Cameron Woki,y,49
+25/02/2024,Italy,22,Nolann Le Garrec,n,31
+25/02/2024,Italy,15,Thomas Ramos,y,80
+25/02/2024,Italy,1,Cyril Baille,y,48
+25/02/2024,Italy,19,Romain Taofifenua,n,32
+25/02/2024,Italy,7,Charles Ollivon,y,66
+25/02/2024,Italy,9,Maxime Lucu,y,49
+25/02/2024,Italy,12,Jonathan Danty,y,80
+10/03/2024,Wales,15,Leo Barre,y,80
+10/03/2024,Wales,14,Damian Penaud,y,80
+10/03/2024,Wales,16,Peato Mauvaka,n,0
+10/03/2024,Wales,23,Yoram Moefana,n,0
+10/03/2024,Wales,11,Louis Bielle-Biarrey,y,80
+10/03/2024,Wales,18,Georges-Henri Colombe,n,0
+10/03/2024,Wales,6,Francois Cros,y,80
+10/03/2024,Wales,12,Nicolas Depoortere,y,80
+10/03/2024,Wales,5,Emmanuel Meafou,y,80
+10/03/2024,Wales,17,Sebastien Taofifenua,n,0
+10/03/2024,Wales,2,Julien Marchand,y,80
+10/03/2024,Wales,13,Gael Fickou,y,80
+10/03/2024,Wales,21,Paul Boudehent,n,0
+10/03/2024,Wales,20,Alexandre Roumat,n,0
+10/03/2024,Wales,3,Uini Atonio,y,80
+10/03/2024,Wales,8,Gregory Alldritt,y,80
+10/03/2024,Wales,9,Nolann Le Garrec,y,80
+10/03/2024,Wales,10,Thomas Ramos,y,80
+10/03/2024,Wales,1,Cyril Baille,y,80
+10/03/2024,Wales,19,Romain Taofifenua,n,0
+10/03/2024,Wales,7,Charles Ollivon,y,80
+10/03/2024,Wales,4,Thibaud Flament,y,80
+10/03/2024,Wales,22,Maxime Lucu,n,0
+16/03/2024,England,20,Alexandre Roumat,n,0
+16/03/2024,England,3,Uini Atonio,y,61
+16/03/2024,England,8,Gregory Alldritt,y,80
+16/03/2024,England,9,Nolann Le Garrec,y,80
+16/03/2024,England,10,Thomas Ramos,y,80
+16/03/2024,England,1,Cyril Baille,y,80
+16/03/2024,England,19,Romain Taofifenua,n,0
+16/03/2024,England,7,Charles Ollivon,y,80
+16/03/2024,England,4,Thibaud Flament,y,80
+16/03/2024,England,22,Maxime Lucu,n,0
+16/03/2024,England,15,Leo Barre,y,80
+16/03/2024,England,14,Damian Penaud,y,80
+16/03/2024,England,16,Peato Mauvaka,n,0
+16/03/2024,England,23,Yoram Moefana,n,0
+16/03/2024,England,11,Louis Bielle-Biarrey,y,80
+16/03/2024,England,18,Georges-Henri Colombe,n,0
+16/03/2024,England,6,Francois Cros,y,80
+16/03/2024,England,12,Nicolas Depoortere,y,80
+16/03/2024,England,5,Emmanuel Meafou,y,80
+16/03/2024,England,17,Sebastien Taofifenua,n,0
+16/03/2024,England,2,Julien Marchand,y,80
+16/03/2024,England,13,Gael Fickou,y,80
+16/03/2024,England,21,Paul Boudehent,n,0
+06/07/2024,Argentina,15,Leo Barre,y,72
+06/07/2024,Argentina,10,Antoine Hastoy,y,80
+06/07/2024,Argentina,8,Jordan Joseph,y,69
+06/07/2024,Argentina,3,Georges-Henri Colombe,y,51
+06/07/2024,Argentina,16,Teddy Baubigny,n,14
+06/07/2024,Argentina,17,Sebastien Taofifenua,n,22
+06/07/2024,Argentina,7,Oscar Jegou,y,80
+06/07/2024,Argentina,13,Emilien Gailleton,y,80
+06/07/2024,Argentina,1,Jean-Baptiste Gros,y,58
+06/07/2024,Argentina,21,Ibrahim Diallo,n,11
+06/07/2024,Argentina,23,Melvyn Jaminet,n,8
+06/07/2024,Argentina,22,Baptiste Couilloud,n,10
+06/07/2024,Argentina,4,Hugo Auradou,y,51
+06/07/2024,Argentina,12,Antoine Frisch,y,80
+06/07/2024,Argentina,18,Demba Bamba,n,29
+06/07/2024,Argentina,9,Baptiste Serin,y,70
+06/07/2024,Argentina,19,Posolo Tuilagi,n,29
+06/07/2024,Argentina,6,Lenni Nouchi,y,80
+06/07/2024,Argentina,5,Baptiste Pesenti-Compagnoni,y,51
+06/07/2024,Argentina,11,Lester Etien,y,80
+06/07/2024,Argentina,14,Theo Attissogbe,y,80
+06/07/2024,Argentina,2,Gaetan Barlot,y,66
+06/07/2024,Argentina,20,Mickael Guillard,n,29
+10/07/2024,Uruguay,4,Pierre-Henri Azagoh,y,59
+10/07/2024,Uruguay,23,Nathanael Hulleu,n,16
+10/07/2024,Uruguay,2,Teddy Baubigny,y,50
+10/07/2024,Uruguay,17,Sebastien Taofifenua,n,21
+10/07/2024,Uruguay,5,Florent Vanverberghe,y,80
+10/07/2024,Uruguay,6,Ibrahim Diallo,y,80
+10/07/2024,Uruguay,9,Baptiste Couilloud,y,50
+10/07/2024,Uruguay,14,Jules Favre,y,80
+10/07/2024,Uruguay,10,Leo Berdeu,y,55
+10/07/2024,Uruguay,18,Demba Bamba,n,42
+10/07/2024,Uruguay,22,Joris Segonds,n,25
+10/07/2024,Uruguay,8,Killian Tixeront,y,50
+10/07/2024,Uruguay,13,Arthur Vincent,y,80
+10/07/2024,Uruguay,1,Giorgi Beria,y,80
+10/07/2024,Uruguay,19,Posolo Tuilagi,n,21
+10/07/2024,Uruguay,7,Romain Briatte,y,80
+10/07/2024,Uruguay,16,Janick Tarrit,n,30
+10/07/2024,Uruguay,3,Thomas Laclayat,y,17
+10/07/2024,Uruguay,12,Leon Darricarrere,y,80
+10/07/2024,Uruguay,11,Joris Jurand,y,80
+10/07/2024,Uruguay,15,Lucas Dubois,y,64
+10/07/2024,Uruguay,21,Baptiste Jauneau,n,30
+10/07/2024,Uruguay,20,Yann Peysson,n,30
+13/07/2024,Argentina,7,Judicael Cancoriet,y,80
+13/07/2024,Argentina,15,Leo Barre,y,80
+13/07/2024,Argentina,10,Antoine Hastoy,y,80
+13/07/2024,Argentina,8,Jordan Joseph,y,80
+13/07/2024,Argentina,3,Georges-Henri Colombe,y,42
+13/07/2024,Argentina,16,Teddy Baubigny,n,12
+13/07/2024,Argentina,17,Sebastien Taofifenua,n,24
+13/07/2024,Argentina,13,Emilien Gailleton,y,80
+13/07/2024,Argentina,1,Jean-Baptiste Gros,y,56
+13/07/2024,Argentina,23,Leo Berdeu,n,0
+13/07/2024,Argentina,12,Antoine Frisch,y,80
+13/07/2024,Argentina,18,Demba Bamba,n,38
+13/07/2024,Argentina,21,Killian Tixeront,n,12
+13/07/2024,Argentina,9,Baptiste Serin,y,68
+13/07/2024,Argentina,19,Posolo Tuilagi,n,0
+13/07/2024,Argentina,20,Romain Briatte,n,0
+13/07/2024,Argentina,6,Lenni Nouchi,y,80
+13/07/2024,Argentina,5,Baptiste Pesenti-Compagnoni,y,80
+13/07/2024,Argentina,11,Lester Etien,y,80
+13/07/2024,Argentina,14,Theo Attissogbe,y,80
+13/07/2024,Argentina,2,Gaetan Barlot,y,68
+13/07/2024,Argentina,22,Baptiste Jauneau,n,12
+13/07/2024,Argentina,4,Mickael Guillard,y,68
+09/11/2024,Japan,15,Leo Barre,y,51
+09/11/2024,Japan,2,Peato Mauvaka,y,80
+09/11/2024,Japan,12,Yoram Moefana,y,80
+09/11/2024,Japan,11,Louis Bielle-Biarrey,y,80
+09/11/2024,Japan,18,Georges-Henri Colombe,n,29
+09/11/2024,Japan,6,Francois Cros,y,40
+09/11/2024,Japan,5,Emmanuel Meafou,y,80
+09/11/2024,Japan,13,Emilien Gailleton,y,55
+09/11/2024,Japan,16,Julien Marchand,n,29
+09/11/2024,Japan,1,Jean-Baptiste Gros,y,52
+09/11/2024,Japan,9,Antoine Dupont,y,65
+09/11/2024,Japan,22,Matthieu Jalibert,n,29
+09/11/2024,Japan,23,Gael Fickou,n,25
+09/11/2024,Japan,3,Tevita Tatafu,y,51
+09/11/2024,Japan,20,Paul Boudehent,n,47
+09/11/2024,Japan,7,Alexandre Roumat,y,80
+09/11/2024,Japan,8,Gregory Alldritt,y,80
+09/11/2024,Japan,10,Thomas Ramos,y,80
+09/11/2024,Japan,14,Theo Attissogbe,y,80
+09/11/2024,Japan,17,Reda Wardi,n,28
+09/11/2024,Japan,4,Thibaud Flament,y,33
+09/11/2024,Japan,21,Maxime Lucu,n,15
+09/11/2024,Japan,19,Mickael Guillard,n,40
+16/11/2024,New Zealand,2,Peato Mauvaka,y,48
+16/11/2024,New Zealand,12,Yoram Moefana,y,59
+16/11/2024,New Zealand,11,Louis Bielle-Biarrey,y,80
+16/11/2024,New Zealand,18,Georges-Henri Colombe,n,70
+16/11/2024,New Zealand,5,Emmanuel Meafou,y,48
+16/11/2024,New Zealand,14,Gabin Villiere,y,80
+16/11/2024,New Zealand,15,Romain Buros,y,68
+16/11/2024,New Zealand,23,Emilien Gailleton,n,21
+16/11/2024,New Zealand,16,Julien Marchand,n,32
+16/11/2024,New Zealand,1,Jean-Baptiste Gros,y,48
+16/11/2024,New Zealand,9,Antoine Dupont,y,80
+16/11/2024,New Zealand,13,Gael Fickou,y,80
+16/11/2024,New Zealand,3,Tevita Tatafu,y,10
+16/11/2024,New Zealand,6,Paul Boudehent,y,70
+16/11/2024,New Zealand,7,Alexandre Roumat,y,80
+16/11/2024,New Zealand,8,Gregory Alldritt,y,48
+16/11/2024,New Zealand,22,Nolann Le Garrec,n,12
+16/11/2024,New Zealand,10,Thomas Ramos,y,80
+16/11/2024,New Zealand,20,Romain Taofifenua,n,7
+16/11/2024,New Zealand,17,Reda Wardi,n,32
+16/11/2024,New Zealand,21,Charles Ollivon,n,0
+16/11/2024,New Zealand,4,Thibaud Flament,y,80
+16/11/2024,New Zealand,19,Mickael Guillard,n,32
+22/11/2024,Argentina,15,Leo Barre,y,62
+22/11/2024,Argentina,2,Peato Mauvaka,y,51
+22/11/2024,Argentina,12,Yoram Moefana,y,80
+22/11/2024,Argentina,11,Louis Bielle-Biarrey,y,80
+22/11/2024,Argentina,18,Georges-Henri Colombe,n,29
+22/11/2024,Argentina,6,Francois Cros,y,80
+22/11/2024,Argentina,5,Emmanuel Meafou,y,51
+22/11/2024,Argentina,14,Gabin Villiere,y,80
+22/11/2024,Argentina,23,Emilien Gailleton,n,8
+22/11/2024,Argentina,16,Julien Marchand,n,29
+22/11/2024,Argentina,1,Jean-Baptiste Gros,y,4
+22/11/2024,Argentina,9,Antoine Dupont,y,80
+22/11/2024,Argentina,13,Gael Fickou,y,72
+22/11/2024,Argentina,7,Paul Boudehent,y,40
+22/11/2024,Argentina,21,Marko Gazzotti,n,40
+22/11/2024,Argentina,19,Alexandre Roumat,n,19
+22/11/2024,Argentina,3,Uini Atonio,y,51
+22/11/2024,Argentina,22,Nolann Le Garrec,n,18
+22/11/2024,Argentina,10,Thomas Ramos,y,80
+22/11/2024,Argentina,17,Reda Wardi,n,76
+22/11/2024,Argentina,8,Charles Ollivon,y,80
+22/11/2024,Argentina,4,Thibaud Flament,y,61
+22/11/2024,Argentina,20,Mickael Guillard,n,29
+31/01/2025,Wales,2,Peato Mauvaka,y,49
+31/01/2025,Wales,12,Yoram Moefana,y,80
+31/01/2025,Wales,11,Louis Bielle-Biarrey,y,80
+31/01/2025,Wales,18,Georges-Henri Colombe,n,31
+31/01/2025,Wales,6,Francois Cros,y,60
+31/01/2025,Wales,5,Emmanuel Meafou,y,49
+31/01/2025,Wales,21,Oscar Jegou,n,20
+31/01/2025,Wales,23,Emilien Gailleton,n,13
+31/01/2025,Wales,16,Julien Marchand,n,31
+31/01/2025,Wales,1,Jean-Baptiste Gros,y,49
+31/01/2025,Wales,10,Romain Ntamack,y,80
+31/01/2025,Wales,9,Antoine Dupont,y,49
+31/01/2025,Wales,19,Hugo Auradou,n,31
+31/01/2025,Wales,7,Paul Boudehent,y,80
+31/01/2025,Wales,13,Pierre-Louis Barassi,y,80
+31/01/2025,Wales,4,Alexandre Roumat,y,49
+31/01/2025,Wales,3,Uini Atonio,y,49
+31/01/2025,Wales,8,Gregory Alldritt,y,80
+31/01/2025,Wales,22,Nolann Le Garrec,n,31
+31/01/2025,Wales,15,Thomas Ramos,y,67
+31/01/2025,Wales,17,Cyril Baille,n,31
+31/01/2025,Wales,14,Theo Attissogbe,y,80
+31/01/2025,Wales,20,Mickael Guillard,n,31
+08/02/2025,England,14,Damian Penaud,y,80
+08/02/2025,England,2,Peato Mauvaka,y,56
+08/02/2025,England,12,Yoram Moefana,y,80
+08/02/2025,England,11,Louis Bielle-Biarrey,y,80
+08/02/2025,England,18,Georges-Henri Colombe,n,24
+08/02/2025,England,6,Francois Cros,y,80
+08/02/2025,England,5,Emmanuel Meafou,y,66
+08/02/2025,England,21,Oscar Jegou,n,30
+08/02/2025,England,23,Emilien Gailleton,n,0
+08/02/2025,England,16,Julien Marchand,n,24
+08/02/2025,England,1,Jean-Baptiste Gros,y,56
+08/02/2025,England,9,Antoine Dupont,y,80
+08/02/2025,England,10,Matthieu Jalibert,y,66
+08/02/2025,England,19,Hugo Auradou,n,30
+08/02/2025,England,7,Paul Boudehent,y,50
+08/02/2025,England,13,Pierre-Louis Barassi,y,80
+08/02/2025,England,4,Alexandre Roumat,y,50
+08/02/2025,England,3,Uini Atonio,y,56
+08/02/2025,England,8,Gregory Alldritt,y,80
+08/02/2025,England,22,Nolann Le Garrec,n,14
+08/02/2025,England,15,Thomas Ramos,y,80
+08/02/2025,England,17,Cyril Baille,n,24
+08/02/2025,England,20,Mickael Guillard,n,14
+23/02/2025,Italy,15,Leo Barre,y,80
+23/02/2025,Italy,2,Peato Mauvaka,y,48
+23/02/2025,Italy,12,Yoram Moefana,y,80
+23/02/2025,Italy,11,Louis Bielle-Biarrey,y,80
+23/02/2025,Italy,6,Francois Cros,y,80
+23/02/2025,Italy,21,Oscar Jegou,n,32
+23/02/2025,Italy,16,Julien Marchand,n,32
+23/02/2025,Italy,1,Jean-Baptiste Gros,y,48
+23/02/2025,Italy,9,Antoine Dupont,y,80
+23/02/2025,Italy,7,Paul Boudehent,y,48
+23/02/2025,Italy,13,Pierre-Louis Barassi,y,80
+23/02/2025,Italy,18,Dorian Aldegheri,n,32
+23/02/2025,Italy,20,Alexandre Roumat,n,14
+23/02/2025,Italy,22,Anthony Jelonch,n,32
+23/02/2025,Italy,3,Uini Atonio,y,48
+23/02/2025,Italy,8,Gregory Alldritt,y,48
+23/02/2025,Italy,10,Thomas Ramos,y,68
+23/02/2025,Italy,17,Cyril Baille,n,32
+23/02/2025,Italy,14,Theo Attissogbe,y,80
+23/02/2025,Italy,19,Romain Taofifenua,n,32
+23/02/2025,Italy,4,Thibaud Flament,y,66
+23/02/2025,Italy,23,Maxime Lucu,n,12
+23/02/2025,Italy,5,Mickael Guillard,y,48
+08/03/2025,Ireland,14,Damian Penaud,y,80
+08/03/2025,Ireland,2,Peato Mauvaka,y,49
+08/03/2025,Ireland,12,Yoram Moefana,y,80
+08/03/2025,Ireland,11,Louis Bielle-Biarrey,y,80
+08/03/2025,Ireland,6,Francois Cros,y,80
+08/03/2025,Ireland,19,Emmanuel Meafou,n,31
+08/03/2025,Ireland,21,Oscar Jegou,n,0
+08/03/2025,Ireland,16,Julien Marchand,n,31
+08/03/2025,Ireland,1,Jean-Baptiste Gros,y,49
+08/03/2025,Ireland,10,Romain Ntamack,y,80
+08/03/2025,Ireland,9,Antoine Dupont,y,28
+08/03/2025,Ireland,20,Hugo Auradou,n,5
+08/03/2025,Ireland,7,Paul Boudehent,y,80
+08/03/2025,Ireland,13,Pierre-Louis Barassi,y,47
+08/03/2025,Ireland,18,Dorian Aldegheri,n,31
+08/03/2025,Ireland,22,Anthony Jelonch,n,31
+08/03/2025,Ireland,3,Uini Atonio,y,49
+08/03/2025,Ireland,8,Gregory Alldritt,y,49
+08/03/2025,Ireland,15,Thomas Ramos,y,80
+08/03/2025,Ireland,17,Cyril Baille,n,31
+08/03/2025,Ireland,4,Thibaud Flament,y,75
+08/03/2025,Ireland,23,Maxime Lucu,n,52
+08/03/2025,Ireland,5,Mickael Guillard,y,49
+15/03/2025,Scotland,14,Damian Penaud,y,23
+15/03/2025,Scotland,2,Peato Mauvaka,y,46
+15/03/2025,Scotland,12,Yoram Moefana,y,80
+15/03/2025,Scotland,11,Louis Bielle-Biarrey,y,80
+15/03/2025,Scotland,6,Francois Cros,y,80
+15/03/2025,Scotland,20,Emmanuel Meafou,n,34
+15/03/2025,Scotland,21,Oscar Jegou,n,34
+15/03/2025,Scotland,16,Julien Marchand,n,34
+15/03/2025,Scotland,1,Jean-Baptiste Gros,y,46
+15/03/2025,Scotland,10,Romain Ntamack,y,80
+15/03/2025,Scotland,13,Gael Fickou,y,80
+15/03/2025,Scotland,19,Hugo Auradou,n,6
+15/03/2025,Scotland,7,Paul Boudehent,y,46
+15/03/2025,Scotland,18,Dorian Aldegheri,n,36
+15/03/2025,Scotland,22,Anthony Jelonch,n,34
+15/03/2025,Scotland,3,Uini Atonio,y,44
+15/03/2025,Scotland,8,Gregory Alldritt,y,46
+15/03/2025,Scotland,23,Nolann Le Garrec,n,5
+15/03/2025,Scotland,15,Thomas Ramos,y,80
+15/03/2025,Scotland,17,Cyril Baille,n,34
+15/03/2025,Scotland,4,Thibaud Flament,y,74
+15/03/2025,Scotland,9,Maxime Lucu,y,75
+15/03/2025,Scotland,5,Mickael Guillard,y,46
+05/07/2025,New Zealand,23,Antoine Hastoy,n,17
+05/07/2025,New Zealand,11,Gabin Villiere,y,80
+05/07/2025,New Zealand,13,Emilien Gailleton,y,80
+05/07/2025,New Zealand,12,Gael Fickou,y,80
+05/07/2025,New Zealand,4,Hugo Auradou,y,48
+05/07/2025,New Zealand,21,Jacobus Van Tonder,n,32
+05/07/2025,New Zealand,10,Joris Segonds,y,63
+05/07/2025,New Zealand,7,Killian Tixeront,y,48
+05/07/2025,New Zealand,1,Giorgi Beria,y,48
+05/07/2025,New Zealand,3,Rabah Slimani,y,48
+05/07/2025,New Zealand,14,Tom Spring,y,71
+05/07/2025,New Zealand,16,Pierre Bourgarit,n,25
+05/07/2025,New Zealand,20,Cameron Woki,n,32
+05/07/2025,New Zealand,6,Alexandre Fischer,y,80
+05/07/2025,New Zealand,9,Nolann Le Garrec,y,58
+05/07/2025,New Zealand,5,Tyler Duguid,y,48
+05/07/2025,New Zealand,15,Theo Attissogbe,y,80
+05/07/2025,New Zealand,2,Gaetan Barlot,y,55
+05/07/2025,New Zealand,19,Romain Taofifenua,n,32
+05/07/2025,New Zealand,17,Paul Mallez,n,32
+05/07/2025,New Zealand,22,Baptiste Jauneau,n,22
+05/07/2025,New Zealand,18,Regis Montagne,n,32
+05/07/2025,New Zealand,8,Mickael Guillard,y,80
+12/07/2025,New Zealand,15,Leo Barre,y,80
+12/07/2025,New Zealand,23,Antoine Hastoy,n,36
+12/07/2025,New Zealand,3,Georges-Henri Colombe,y,40
+12/07/2025,New Zealand,13,Nicolas Depoortere,y,80
+12/07/2025,New Zealand,21,Bastien Vergnes,n,36
+12/07/2025,New Zealand,22,Thibault Daubagna,n,9
+12/07/2025,New Zealand,11,Emilien Gailleton,y,80
+12/07/2025,New Zealand,8,Esteban Abadie,y,44
+12/07/2025,New Zealand,7,Jacobus Van Tonder,y,44
+12/07/2025,New Zealand,10,Joris Segonds,y,44
+12/07/2025,New Zealand,12,Pierre-Louis Barassi,y,80
+12/07/2025,New Zealand,1,Baptiste Erdocio,y,44
+12/07/2025,New Zealand,6,Pierre Bochaton,y,80
+12/07/2025,New Zealand,16,Pierre Bourgarit,n,27
+12/07/2025,New Zealand,20,Cameron Woki,n,36
+12/07/2025,New Zealand,9,Nolann Le Garrec,y,71
+12/07/2025,New Zealand,14,Theo Attissogbe,y,80
+12/07/2025,New Zealand,2,Gaetan Barlot,y,53
+12/07/2025,New Zealand,19,Romain Taofifenua,n,36
+12/07/2025,New Zealand,17,Paul Mallez,n,36
+12/07/2025,New Zealand,4,Joshua Brennan,y,80
+12/07/2025,New Zealand,5,Matthias Halagahu,y,44
+12/07/2025,New Zealand,18,Regis Montagne,n,40
+19/07/2025,New Zealand,15,Leo Barre,y,60
+19/07/2025,New Zealand,10,Antoine Hastoy,y,80
+19/07/2025,New Zealand,13,Nicolas Depoortere,y,80
+19/07/2025,New Zealand,11,Gabin Villiere,y,80
+19/07/2025,New Zealand,22,Thibault Daubagna,n,9
+19/07/2025,New Zealand,23,Emilien Gailleton,n,20
+19/07/2025,New Zealand,12,Gael Fickou,y,80
+19/07/2025,New Zealand,4,Hugo Auradou,y,60
+19/07/2025,New Zealand,18,Demba Bamba,n,36
+19/07/2025,New Zealand,20,Killian Tixeront,n,20
+19/07/2025,New Zealand,1,Baptiste Erdocio,y,44
+19/07/2025,New Zealand,21,Pierre Bochaton,n,40
+19/07/2025,New Zealand,3,Rabah Slimani,y,44
+19/07/2025,New Zealand,2,Pierre Bourgarit,y,44
+19/07/2025,New Zealand,6,Alexandre Fischer,y,40
+19/07/2025,New Zealand,9,Nolann Le Garrec,y,71
+19/07/2025,New Zealand,14,Theo Attissogbe,y,80
+19/07/2025,New Zealand,16,Gaetan Barlot,n,36
+19/07/2025,New Zealand,19,Romain Taofifenua,n,36
+19/07/2025,New Zealand,17,Paul Mallez,n,36
+19/07/2025,New Zealand,7,Joshua Brennan,y,80
+19/07/2025,New Zealand,5,Matthias Halagahu,y,44
+19/07/2025,New Zealand,8,Mickael Guillard,y,80
+08/11/2025,South Africa,14,Damian Penaud,y,80
+08/11/2025,South Africa,16,Guillaume Cramont,n,33
+08/11/2025,South Africa,11,Louis Bielle-Biarrey,y,80
+08/11/2025,South Africa,23,Nicolas Depoortere,n,21
+08/11/2025,South Africa,5,Emmanuel Meafou,y,47
+08/11/2025,South Africa,21,Oscar Jegou,n,33
+08/11/2025,South Africa,2,Julien Marchand,y,47
+08/11/2025,South Africa,17,Jean-Baptiste Gros,n,33
+08/11/2025,South Africa,10,Romain Ntamack,y,80
+08/11/2025,South Africa,12,Gael Fickou,y,59
+08/11/2025,South Africa,20,Hugo Auradou,n,8
+08/11/2025,South Africa,7,Paul Boudehent,y,72
+08/11/2025,South Africa,13,Pierre-Louis Barassi,y,80
+08/11/2025,South Africa,18,Dorian Aldegheri,n,33
+08/11/2025,South Africa,1,Baptiste Erdocio,y,47
+08/11/2025,South Africa,6,Anthony Jelonch,y,80
+08/11/2025,South Africa,9,Nolann Le Garrec,y,59
+08/11/2025,South Africa,15,Thomas Ramos,y,80
+08/11/2025,South Africa,19,Romain Taofifenua,n,33
+08/11/2025,South Africa,4,Thibaud Flament,y,80
+08/11/2025,South Africa,22,Maxime Lucu,n,21
+08/11/2025,South Africa,3,Regis Montagne,y,47
+08/11/2025,South Africa,8,Mickael Guillard,y,47
+15/11/2025,Fiji,6,Anthony Jelonch,y,80
+15/11/2025,Fiji,8,Gregory Alldritt,y,80
+15/11/2025,Fiji,15,Thomas Ramos,y,80
+15/11/2025,Fiji,18,Thomas Laclayat,n,17
+15/11/2025,Fiji,5,Romain Taofifenua,y,63
+15/11/2025,Fiji,4,Charles Ollivon,y,80
+15/11/2025,Fiji,9,Maxime Lucu,y,76
+15/11/2025,Fiji,19,Jimi Maximin,n,17
+15/11/2025,Fiji,22,Baptiste Jauneau,n,4
+15/11/2025,Fiji,3,Regis Montagne,y,63
+15/11/2025,Fiji,14,Damian Penaud,y,80
+15/11/2025,Fiji,11,Louis Bielle-Biarrey,y,80
+15/11/2025,Fiji,12,Nicolas Depoortere,y,80
+15/11/2025,Fiji,7,Oscar Jegou,y,80
+15/11/2025,Fiji,23,Emilien Gailleton,n,16
+15/11/2025,Fiji,2,Julien Marchand,y,49
+15/11/2025,Fiji,1,Jean-Baptiste Gros,y,49
+15/11/2025,Fiji,10,Romain Ntamack,y,80
+15/11/2025,Fiji,20,Hugo Auradou,n,29
+15/11/2025,Fiji,17,Rodrigue Neti,n,31
+15/11/2025,Fiji,21,Paul Boudehent,n,22
+15/11/2025,Fiji,13,Pierre-Louis Barassi,y,13
+15/11/2025,Fiji,16,Maxime Lamothe,n,31
+22/11/2025,Australia,14,Damian Penaud,y,80
+22/11/2025,Australia,11,Louis Bielle-Biarrey,y,80
+22/11/2025,Australia,13,Nicolas Depoortere,y,80
+22/11/2025,Australia,5,Emmanuel Meafou,y,65
+22/11/2025,Australia,21,Oscar Jegou,n,0
+22/11/2025,Australia,2,Julien Marchand,y,65
+22/11/2025,Australia,1,Jean-Baptiste Gros,y,65
+22/11/2025,Australia,10,Romain Ntamack,y,80
+22/11/2025,Australia,23,Kalvin Gourgues,n,15
+22/11/2025,Australia,12,Gael Fickou,y,65
+22/11/2025,Australia,20,Hugo Auradou,n,15
+22/11/2025,Australia,17,Rodrigue Neti,n,15
+22/11/2025,Australia,16,Maxime Lamothe,n,15
+22/11/2025,Australia,6,Anthony Jelonch,y,80
+22/11/2025,Australia,8,Gregory Alldritt,y,65
+22/11/2025,Australia,15,Thomas Ramos,y,80
+22/11/2025,Australia,18,Thomas Laclayat,n,15
+22/11/2025,Australia,19,Romain Taofifenua,n,15
+22/11/2025,Australia,7,Charles Ollivon,y,15
+22/11/2025,Australia,4,Thibaud Flament,y,80
+22/11/2025,Australia,9,Maxime Lucu,y,73
+22/11/2025,Australia,22,Baptiste Jauneau,n,7
+22/11/2025,Australia,3,Regis Montagne,y,65
+15/02/2026,Wales,11,Louis Bielle-Biarrey,y,80
+15/02/2026,Wales,6,Francois Cros,y,52
+15/02/2026,Wales,20,Emmanuel Meafou,n,12
+15/02/2026,Wales,7,Oscar Jegou,y,80
+15/02/2026,Wales,13,Emilien Gailleton,y,67
+15/02/2026,Wales,2,Julien Marchand,y,50
+15/02/2026,Wales,1,Jean-Baptiste Gros,y,50
+15/02/2026,Wales,9,Antoine Dupont,y,59
+15/02/2026,Wales,10,Matthieu Jalibert,y,80
+15/02/2026,Wales,23,Noah Nene,n,13
+15/02/2026,Wales,17,Rodrigue Neti,n,30
+15/02/2026,Wales,3,Dorian Aldegheri,y,50
+15/02/2026,Wales,22,Baptiste Serin,n,21
+15/02/2026,Wales,16,Maxime Lamothe,n,30
+15/02/2026,Wales,8,Anthony Jelonch,y,52
+15/02/2026,Wales,21,Lenni Nouchi,n,28
+15/02/2026,Wales,12,Fabien Brau-Boirie,y,80
+15/02/2026,Wales,15,Thomas Ramos,y,80
+15/02/2026,Wales,14,Theo Attissogbe,y,80
+15/02/2026,Wales,4,Charles Ollivon,y,80
+15/02/2026,Wales,19,Thibaud Flament,n,28
+15/02/2026,Wales,18,Regis Montagne,n,30
+15/02/2026,Wales,5,Mickael Guillard,y,68
+22/02/2026,Italy,16,Peato Mauvaka,n,22
+22/02/2026,Italy,11,Louis Bielle-Biarrey,y,80
+22/02/2026,Italy,18,Georges-Henri Colombe,n,26
+22/02/2026,Italy,6,Francois Cros,y,55
+22/02/2026,Italy,14,Gael Drean,y,80
+22/02/2026,Italy,5,Emmanuel Meafou,y,80
+22/02/2026,Italy,7,Oscar Jegou,y,55
+22/02/2026,Italy,13,Emilien Gailleton,y,73
+22/02/2026,Italy,2,Julien Marchand,y,58
+22/02/2026,Italy,1,Jean-Baptiste Gros,y,38
+22/02/2026,Italy,9,Antoine Dupont,y,76
+22/02/2026,Italy,17,Rodrigue Neti,n,42
+22/02/2026,Italy,23,Pierre-Louis Barassi,n,22
+22/02/2026,Italy,3,Dorian Aldegheri,y,54
+22/02/2026,Italy,22,Baptiste Serin,n,4
+22/02/2026,Italy,8,Anthony Jelonch,y,74
+22/02/2026,Italy,21,Lenni Nouchi,n,25
+22/02/2026,Italy,12,Fabien Brau-Boirie,y,66
+22/02/2026,Italy,15,Thomas Ramos,y,80
+22/02/2026,Italy,14,Theo Attissogbe,y,80
+22/02/2026,Italy,19,Charles Ollivon,n,25
+22/02/2026,Italy,4,Thibaud Flament,y,80
+22/02/2026,Italy,20,Mickael Guillard,n,6
+07/03/2026,Scotland,16,Peato Mauvaka,n,36
+07/03/2026,Scotland,12,Yoram Moefana,y,80
+07/03/2026,Scotland,11,Louis Bielle-Biarrey,y,80
+07/03/2026,Scotland,6,Francois Cros,y,80
+07/03/2026,Scotland,13,Nicolas Depoortere,y,44
+07/03/2026,Scotland,20,Emmanuel Meafou,n,36
+07/03/2026,Scotland,7,Oscar Jegou,y,80
+07/03/2026,Scotland,2,Julien Marchand,y,44
+07/03/2026,Scotland,1,Jean-Baptiste Gros,y,52
+07/03/2026,Scotland,9,Antoine Dupont,y,69
+07/03/2026,Scotland,10,Matthieu Jalibert,y,80
+07/03/2026,Scotland,17,Rodrigue Neti,n,28
+07/03/2026,Scotland,18,Demba Bamba,n,28
+07/03/2026,Scotland,23,Pierre-Louis Barassi,n,36
+07/03/2026,Scotland,3,Dorian Aldegheri,y,52
+07/03/2026,Scotland,22,Baptiste Serin,n,11
+07/03/2026,Scotland,8,Anthony Jelonch,y,42
+07/03/2026,Scotland,21,Lenni Nouchi,n,38
+07/03/2026,Scotland,15,Thomas Ramos,y,80
+07/03/2026,Scotland,14,Theo Attissogbe,y,80
+07/03/2026,Scotland,4,Charles Ollivon,y,44
+07/03/2026,Scotland,19,Thibaud Flament,n,36
+07/03/2026,Scotland,5,Mickael Guillard,y,44
+14/03/2026,England,16,Peato Mauvaka,n,34
+14/03/2026,England,12,Yoram Moefana,y,80
+14/03/2026,England,11,Louis Bielle-Biarrey,y,80
+14/03/2026,England,6,Francois Cros,y,80
+14/03/2026,England,5,Emmanuel Meafou,y,65
+14/03/2026,England,23,Emilien Gailleton,n,0
+14/03/2026,England,2,Julien Marchand,y,46
+14/03/2026,England,1,Jean-Baptiste Gros,y,65
+14/03/2026,England,9,Antoine Dupont,y,80
+14/03/2026,England,10,Matthieu Jalibert,y,80
+14/03/2026,England,19,Hugo Auradou,n,2
+14/03/2026,England,17,Rodrigue Neti,n,15
+14/03/2026,England,7,Temo Matiu,y,40
+14/03/2026,England,18,Demba Bamba,n,34
+14/03/2026,England,13,Pierre-Louis Barassi,y,80
+14/03/2026,England,3,Dorian Aldegheri,y,46
+14/03/2026,England,22,Baptiste Serin,n,0
+14/03/2026,England,15,Thomas Ramos,y,80
+14/03/2026,England,14,Theo Attissogbe,y,80
+14/03/2026,England,21,Joshua Brennan,n,15
+14/03/2026,England,8,Charles Ollivon,y,78
+14/03/2026,England,4,Thibaud Flament,y,80
+14/03/2026,England,20,Mickael Guillard,n,40
+04/07/2026,New Zealand,16,Barnabe Massa,n,17
+04/07/2026,New Zealand,14,Damian Penaud,y,40
+04/07/2026,New Zealand,22,Antoine Hastoy,n,57
+04/07/2026,New Zealand,12,Yoram Moefana,y,80
+04/07/2026,New Zealand,23,Nicolas Depoortere,n,11
+04/07/2026,New Zealand,7,Oscar Jegou,y,80
+04/07/2026,New Zealand,5,Tom Staniforth,y,55
+04/07/2026,New Zealand,10,Matthieu Jalibert,y,80
+04/07/2026,New Zealand,4,Hugo Auradou,y,80
+04/07/2026,New Zealand,3,Demba Bamba,y,48
+04/07/2026,New Zealand,8,Marko Gazzotti,y,80
+04/07/2026,New Zealand,20,Killian Tixeront,n,25
+04/07/2026,New Zealand,2,Maxime Lamothe,y,63
+04/07/2026,New Zealand,6,Pierre Bochaton,y,34
+04/07/2026,New Zealand,13,Fabien Brau-Boirie,y,69
+04/07/2026,New Zealand,21,Nolann Le Garrec,n,5
+04/07/2026,New Zealand,11,Theo Attissogbe,y,80
+04/07/2026,New Zealand,1,Jefferson Poirot,y,55
+04/07/2026,New Zealand,17,Reda Wardi,n,25
+04/07/2026,New Zealand,9,Maxime Lucu,y,75
+04/07/2026,New Zealand,15,Max Spring,y,63
+04/07/2026,New Zealand,18,Regis Montagne,n,32
+04/07/2026,New Zealand,19,Mickael Guillard,n,46
+11/07/2026,Australia,2,Peato Mauvaka,y,46
+11/07/2026,Australia,12,Yoram Moefana,y,70
+11/07/2026,Australia,5,Emmanuel Meafou,y,52
+11/07/2026,Australia,7,Oscar Jegou,y,46
+11/07/2026,Australia,20,Tom Staniforth,n,28
+11/07/2026,Australia,10,Romain Ntamack,y,80
+11/07/2026,Australia,11,Aaron Grandidier Nkanang,y,80
+11/07/2026,Australia,15,Matthieu Jalibert,y,80
+11/07/2026,Australia,23,Kalvin Gourgues,n,10
+11/07/2026,Australia,19,Hugo Auradou,n,9
+11/07/2026,Australia,1,Moses Alo Emile,y,46
+11/07/2026,Australia,18,Tevita Tatafu,n,34
+11/07/2026,Australia,3,Demba Bamba,y,46
+11/07/2026,Australia,8,Marko Gazzotti,y,80
+11/07/2026,Australia,21,Killian Tixeront,n,34
+11/07/2026,Australia,16,Maxime Lamothe,n,34
+11/07/2026,Australia,6,Lenni Nouchi,y,80
+11/07/2026,Australia,13,Fabien Brau-Boirie,y,80
+11/07/2026,Australia,4,Florian Verhaeghe,y,71
+11/07/2026,Australia,22,Nolann Le Garrec,n,17
+11/07/2026,Australia,14,Theo Attissogbe,y,80
+11/07/2026,Australia,17,Jefferson Poirot,n,34
+11/07/2026,Australia,9,Maxime Lucu,y,63
+18/07/2026,Japan,16,Peato Mauvaka,n,25
+18/07/2026,Japan,12,Yoram Moefana,y,55
+18/07/2026,Japan,5,Emmanuel Meafou,y,55
+18/07/2026,Japan,20,Tom Staniforth,n,25
+18/07/2026,Japan,10,Romain Ntamack,y,80
+18/07/2026,Japan,11,Aaron Grandidier Nkanang,y,80
+18/07/2026,Japan,15,Matthieu Jalibert,y,80
+18/07/2026,Japan,23,Kalvin Gourgues,n,25
+18/07/2026,Japan,19,Hugo Auradou,n,51
+18/07/2026,Japan,7,Marko Gazzotti,y,80
+18/07/2026,Japan,21,Killian Tixeront,n,29
+18/07/2026,Japan,8,Alexandre Roumat,y,80
+18/07/2026,Japan,18,Sipili Falatea,n,25
+18/07/2026,Japan,2,Maxime Lamothe,y,55
+18/07/2026,Japan,22,Paul Graou,n,12
+18/07/2026,Japan,6,Lenni Nouchi,y,51
+18/07/2026,Japan,13,Fabien Brau-Boirie,y,80
+18/07/2026,Japan,4,Florian Verhaeghe,y,29
+18/07/2026,Japan,14,Theo Attissogbe,y,80
+18/07/2026,Japan,1,Jefferson Poirot,y,55
+18/07/2026,Japan,17,Reda Wardi,n,25
+18/07/2026,Japan,9,Maxime Lucu,y,68
+18/07/2026,Japan,3,Regis Montagne,y,55

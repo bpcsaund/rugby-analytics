@@ -1,0 +1,1366 @@
+team,date,opposition,competition,starting_xv_avg_age,bench_avg_age,full_squad_avg_age,players_with_dob,players_total
+argentina,16/05/2015,Uruguay,CONSUR Cup 2015,24.69,22.38,23.89,23,23
+argentina,23/05/2015,Paraguay,CONSUR Cup 2015,23.89,25.13,24.32,23,23
+argentina,20/06/2015,French Barbarians,Tour 2015,25.04,25.1,25.07,26,26
+argentina,17/07/2015,New Zealand,The Rugby Championship 2015,27.69,25.96,27.09,23,23
+argentina,25/07/2015,Australia,The Rugby Championship 2015,27.23,26.01,26.81,23,23
+argentina,08/08/2015,South Africa,The Rugby Championship 2015,27.78,24.41,26.61,23,23
+argentina,15/08/2015,South Africa,The Rugby Championship 2015,26.54,25.75,26.27,23,23
+argentina,20/09/2015,New Zealand,Men's Rugby World Cup 2015,27.55,26.66,27.24,23,23
+argentina,25/09/2015,Georgia,Men's Rugby World Cup 2015,27.81,24.96,26.82,23,23
+argentina,04/10/2015,Tonga,Men's Rugby World Cup 2015,26.65,25.83,26.36,23,23
+argentina,11/10/2015,Namibia,Men's Rugby World Cup 2015,26.09,30.1,27.48,23,23
+argentina,18/10/2015,Ireland,Men's Rugby World Cup 2015,27.26,25.4,26.61,23,23
+argentina,25/10/2015,Australia,Men's Rugby World Cup 2015,27.76,24.83,26.74,23,23
+argentina,30/10/2015,South Africa,Men's Rugby World Cup 2015,26.68,25.38,26.23,23,23
+argentina,21/11/2015,Barbarians,Men's Internationals 2015,24.31,24.6,24.41,23,23
+argentina,11/06/2016,Italy,Men's Internationals 2016,25.63,25.43,25.56,23,23
+argentina,19/06/2016,France,Men's Internationals 2016,25.97,25.37,25.76,23,23
+argentina,25/06/2016,France,Men's Internationals 2016,25.42,25.86,25.58,23,23
+argentina,20/08/2016,South Africa,The Rugby Championship 2016,26.84,24.53,26.03,23,23
+argentina,27/08/2016,South Africa,The Rugby Championship 2016,26.85,25.12,26.25,23,23
+argentina,10/09/2016,New Zealand,The Rugby Championship 2016,26.35,25.1,25.91,23,23
+argentina,17/09/2016,Australia,The Rugby Championship 2016,27.07,25.14,26.4,23,23
+argentina,01/10/2016,New Zealand,The Rugby Championship 2016,26.11,26.4,26.21,23,23
+argentina,08/10/2016,Australia,The Rugby Championship 2016,26.48,26.1,26.35,23,23
+argentina,05/11/2016,Japan,Tour 2016,25.63,27.18,26.17,23,23
+argentina,12/11/2016,Wales,Tour 2016,26.26,25.77,26.09,23,23
+argentina,19/11/2016,Scotland,Tour 2016,26.28,27.14,26.58,23,23
+argentina,26/11/2016,England,Tour 2016,26.96,24.84,26.23,23,23
+argentina,10/06/2017,England,Tour 2017,26.61,27.14,26.79,23,23
+argentina,17/06/2017,England,Tour 2017,26.68,26.25,26.53,23,23
+argentina,24/06/2017,Georgia,Tour 2017,27.08,25.87,26.66,23,23
+argentina,19/08/2017,South Africa,The Rugby Championship 2017,26.61,26.63,26.62,23,23
+argentina,26/08/2017,South Africa,The Rugby Championship 2017,27.37,25.43,26.69,23,23
+argentina,09/09/2017,New Zealand,The Rugby Championship 2017,26.7,24.97,26.1,23,23
+argentina,16/09/2017,Australia,The Rugby Championship 2017,26.33,26.2,26.28,23,23
+argentina,30/09/2017,New Zealand,The Rugby Championship 2017,26.75,26.7,26.73,23,23
+argentina,07/10/2017,Australia,The Rugby Championship 2017,26.44,27.5,26.81,23,23
+argentina,11/11/2017,England,Tour 2017,26.96,26.68,26.86,23,23
+argentina,18/11/2017,Italy,Tour 2017,27.01,26.47,26.83,23,23
+argentina,25/11/2017,Ireland,Tour 2017,26.58,25.44,26.18,23,23
+argentina,09/06/2018,Wales,Tour 2018,26.06,25.64,25.92,23,23
+argentina,16/06/2018,Wales,Tour 2018,26.45,24.96,25.93,23,23
+argentina,23/06/2018,Scotland,Tour 2018,26.48,24.42,25.76,23,23
+argentina,18/08/2018,South Africa,The Rugby Championship 2018,26.38,25.96,26.23,23,23
+argentina,25/08/2018,South Africa,The Rugby Championship 2018,26.32,25.68,26.1,23,23
+argentina,08/09/2018,New Zealand,The Rugby Championship 2018,26.69,26.67,26.68,23,23
+argentina,15/09/2018,Australia,The Rugby Championship 2018,26.12,27.25,26.51,23,23
+argentina,29/09/2018,New Zealand,The Rugby Championship 2018,26.31,27.48,26.72,23,23
+argentina,06/10/2018,Australia,The Rugby Championship 2018,27.02,27.57,27.21,23,23
+argentina,10/11/2018,Ireland,Tour 2018,26.73,25.82,26.42,23,23
+argentina,17/11/2018,France,Tour 2018,26.45,26.71,26.54,23,23
+argentina,24/11/2018,Scotland,Tour 2018,26.39,26.14,26.31,23,23
+argentina,01/12/2018,Barbarians,Killik Cup 2018,26.01,24.84,25.6,23,23
+argentina,20/07/2019,New Zealand,The Rugby Championship 2019,28.17,26.2,27.48,23,23
+argentina,27/07/2019,Australia,The Rugby Championship 2019,27.85,28.36,28.02,23,23
+argentina,10/08/2019,South Africa,The Rugby Championship 2019,28.24,26.18,27.52,23,23
+argentina,17/08/2019,South Africa,Men's Internationals 2019,26.16,27.76,26.72,23,23
+argentina,21/09/2019,France,Men's Rugby World Cup 2019,28.34,25.68,27.41,23,23
+argentina,28/09/2019,Tonga,Men's Rugby World Cup 2019,27.19,27.02,27.13,23,23
+argentina,05/10/2019,England,Men's Rugby World Cup 2019,27.45,25.63,26.82,23,23
+argentina,09/10/2019,USA,Men's Rugby World Cup 2019,26.93,27.06,26.98,23,23
+argentina,14/11/2020,New Zealand,The Rugby Championship 2020,27.93,24.98,26.91,23,23
+argentina,21/11/2020,Australia,The Rugby Championship 2020,27.65,25.68,26.97,23,23
+argentina,28/11/2020,New Zealand,The Rugby Championship 2020,26.53,25.93,26.32,23,23
+argentina,05/12/2020,Australia,The Rugby Championship 2020,27.57,24.93,26.65,23,23
+argentina,03/07/2021,Romania,Men's Internationals 2021,28.42,26.57,27.78,23,23
+argentina,10/07/2021,Wales,Men's Internationals 2021,28.72,26.86,28.07,23,23
+argentina,17/07/2021,Wales,Men's Internationals 2021,28.34,28.33,28.34,23,23
+argentina,14/08/2021,South Africa,The Rugby Championship 2021,28.16,28.91,28.42,23,23
+argentina,21/08/2021,South Africa,The Rugby Championship 2021,27.47,26.22,27.04,23,23
+argentina,12/09/2021,New Zealand,The Rugby Championship 2021,27.72,26.88,27.43,23,23
+argentina,18/09/2021,New Zealand,The Rugby Championship 2021,25.77,28.25,26.63,23,23
+argentina,25/09/2021,Australia,The Rugby Championship 2021,25.79,24.51,25.35,23,23
+argentina,02/10/2021,Australia,The Rugby Championship 2021,25.62,25.63,25.63,23,23
+argentina,06/11/2021,France,Autumn Nations Series 2021,27.59,25.81,26.97,23,23
+argentina,13/11/2021,Italy,Autumn Nations Series 2021,27.44,26.45,27.1,23,23
+argentina,21/11/2021,Ireland,Autumn Nations Series 2021,27.12,27.33,27.2,23,23
+argentina,02/07/2022,Scotland,Men's Internationals 2022,29.2,29.04,29.14,23,23
+argentina,09/07/2022,Scotland,Men's Internationals 2022,29.14,28.68,28.98,23,23
+argentina,16/07/2022,Scotland,Men's Internationals 2022,27.92,26.71,27.5,23,23
+argentina,06/08/2022,Australia,The Rugby Championship 2022,29.09,28.05,28.73,23,23
+argentina,13/08/2022,Australia,The Rugby Championship 2022,28.59,29.59,28.94,23,23
+argentina,27/08/2022,New Zealand,The Rugby Championship 2022,27.2,27.5,27.3,23,23
+argentina,03/09/2022,New Zealand,The Rugby Championship 2022,27.89,27.7,27.82,23,23
+argentina,17/09/2022,South Africa,The Rugby Championship 2022,27.8,30.91,28.88,23,23
+argentina,24/09/2022,South Africa,The Rugby Championship 2022,28.64,29.12,28.81,23,23
+argentina,06/11/2022,England,Autumn Nations Series 2022,28.05,27.06,27.71,23,23
+argentina,12/11/2022,Wales,Autumn Nations Series 2022,28.64,27.08,28.1,23,23
+argentina,19/11/2022,Scotland,Autumn Nations Series 2022,27.53,28.49,27.86,23,23
+argentina,08/07/2023,New Zealand,The Rugby Championship 2023,27.71,28.78,28.08,23,23
+argentina,15/07/2023,Australia,The Rugby Championship 2023,27.91,31.18,29.05,23,23
+argentina,29/07/2023,South Africa,The Rugby Championship 2023,27.47,27.95,27.64,23,23
+argentina,05/08/2023,South Africa,Men's Internationals 2023,27.15,29.93,28.12,23,23
+argentina,26/08/2023,Spain,Men's Internationals 2023,28.78,26.89,28.12,23,23
+argentina,09/09/2023,England,Men's Rugby World Cup 2023,27.76,29.38,28.32,23,23
+argentina,22/09/2023,Samoa,Men's Rugby World Cup 2023,27.57,30.7,28.66,23,23
+argentina,30/09/2023,Chile,Men's Rugby World Cup 2023,29.01,27.56,28.51,23,23
+argentina,08/10/2023,Japan,Men's Rugby World Cup 2023,27.64,30.43,28.61,23,23
+argentina,14/10/2023,Wales,Men's Rugby World Cup 2023,27.95,31.61,29.22,23,23
+argentina,20/10/2023,New Zealand,Men's Rugby World Cup 2023,27.66,31.63,29.04,23,23
+argentina,27/10/2023,England,Men's Rugby World Cup 2023,27.86,31.65,29.18,23,23
+argentina,06/07/2024,France,Men's Internationals 2024,28.39,26.82,27.84,23,23
+argentina,13/07/2024,France,Men's Internationals 2024,27.69,27.36,27.58,23,23
+argentina,20/07/2024,Uruguay,Men's Internationals 2024,26.31,28.33,27.02,23,23
+argentina,10/08/2024,New Zealand,The Rugby Championship 2024,26.72,28.25,27.25,23,23
+argentina,17/08/2024,New Zealand,The Rugby Championship 2024,26.78,27.66,27.08,23,23
+argentina,31/08/2024,Australia,The Rugby Championship 2024,27.17,29.68,28.04,23,23
+argentina,21/09/2024,South Africa,The Rugby Championship 2024,26.99,27.36,27.12,23,23
+argentina,28/09/2024,South Africa,The Rugby Championship 2024,26.78,27.41,27.0,23,23
+argentina,09/11/2024,Italy,Autumn Nations Series 2024,27.11,30.01,28.12,23,23
+argentina,15/11/2024,Ireland,Autumn Nations Series 2024,27.69,27.63,27.67,23,23
+argentina,22/11/2024,France,Autumn Nations Series 2024,27.36,28.41,27.73,23,23
+argentina,20/06/2025,British & Irish Lions,Tour 2025,26.78,27.91,27.18,23,23
+argentina,05/07/2025,England,Men's Internationals 2025,27.44,27.59,27.49,23,23
+argentina,12/07/2025,England,Men's Internationals 2025,28.41,25.93,27.55,23,23
+argentina,19/07/2025,Uruguay,Men's Internationals 2025,28.29,26.66,27.74,21,23
+argentina,16/08/2025,New Zealand,The Rugby Championship 2025,27.45,29.12,28.03,23,23
+argentina,23/08/2025,New Zealand,The Rugby Championship 2025,27.2,29.55,28.02,23,23
+argentina,06/09/2025,Australia,The Rugby Championship 2025,27.68,24.65,26.62,23,23
+argentina,13/09/2025,Australia,The Rugby Championship 2025,27.22,25.52,26.63,23,23
+argentina,27/09/2025,South Africa,The Rugby Championship 2025,27.89,26.82,27.52,23,23
+argentina,04/10/2025,South Africa,The Rugby Championship 2025,28.13,24.33,26.81,23,23
+argentina,09/11/2025,Wales,Autumn Nations Series 2025,28.16,26.43,27.56,23,23
+argentina,16/11/2025,Scotland,Autumn Nations Series 2025,28.18,25.54,27.26,23,23
+argentina,23/11/2025,England,Autumn Nations Series 2025,28.52,25.51,27.48,23,23
+argentina,04/07/2026,Scotland,Nations Championship 2026,28.55,26.58,27.87,23,23
+argentina,11/07/2026,Wales,Nations Championship 2026,27.82,29.8,28.51,23,23
+argentina,18/07/2026,England,Nations Championship 2026,28.71,27.68,28.35,23,23
+australia,18/07/2015,South Africa,The Rugby Championship 2015,27.77,28.32,27.96,23,23
+australia,25/07/2015,Argentina,The Rugby Championship 2015,27.42,27.17,27.33,23,23
+australia,08/08/2015,New Zealand,The Rugby Championship 2015,28.56,27.04,28.03,23,23
+australia,15/08/2015,New Zealand,The Rugby Championship 2015,27.67,29.11,28.17,23,23
+australia,05/09/2015,USA,Men's Internationals 2015,27.62,26.76,27.32,23,23
+australia,23/09/2015,Fiji,Men's Rugby World Cup 2015,27.78,27.85,27.81,23,23
+australia,27/09/2015,Uruguay,Men's Rugby World Cup 2015,27.29,28.2,27.61,23,23
+australia,03/10/2015,England,Men's Rugby World Cup 2015,27.81,28.39,28.01,23,23
+australia,10/10/2015,Wales,Men's Rugby World Cup 2015,28.36,27.77,28.15,23,23
+australia,18/10/2015,Scotland,Men's Rugby World Cup 2015,28.24,27.75,28.07,23,23
+australia,25/10/2015,Argentina,Men's Rugby World Cup 2015,28.39,28.54,28.44,23,23
+australia,31/10/2015,New Zealand,Men's Rugby World Cup 2015,28.25,28.47,28.33,23,23
+australia,11/06/2016,England,Tour 2016,27.46,28.23,27.73,23,23
+australia,18/06/2016,England,Tour 2016,27.02,28.84,27.65,23,23
+australia,25/06/2016,England,Tour 2016,27.2,28.03,27.49,23,23
+australia,20/08/2016,New Zealand,The Rugby Championship 2016,28.46,28.34,28.41,23,23
+australia,27/08/2016,New Zealand,The Rugby Championship 2016,28.03,26.59,27.53,23,23
+australia,10/09/2016,South Africa,The Rugby Championship 2016,27.39,26.88,27.21,23,23
+australia,17/09/2016,Argentina,The Rugby Championship 2016,27.42,26.01,26.93,23,23
+australia,01/10/2016,South Africa,The Rugby Championship 2016,27.05,26.88,26.99,23,23
+australia,08/10/2016,Argentina,The Rugby Championship 2016,27.23,26.96,27.14,23,23
+australia,22/10/2016,New Zealand,Bledisloe Cup 2016,27.21,25.79,26.71,23,23
+australia,05/11/2016,Wales,Tour 2016,27.14,26.4,26.88,23,23
+australia,12/11/2016,Scotland,Tour 2016,27.22,26.25,26.88,23,23
+australia,19/11/2016,France,Tour 2016,26.57,27.2,26.79,23,23
+australia,26/11/2016,Ireland,Tour 2016,27.86,25.68,27.1,23,23
+australia,03/12/2016,England,Tour 2016,27.2,26.28,26.88,23,23
+australia,10/06/2017,Fiji,Men's Internationals 2017,27.29,27.44,27.34,23,23
+australia,17/06/2017,Scotland,Tour 2017,27.28,27.08,27.21,23,23
+australia,24/06/2017,Italy,Tour 2017,27.21,27.28,27.24,23,23
+australia,19/08/2017,New Zealand,The Rugby Championship 2017,26.76,27.47,27.01,23,23
+australia,26/08/2017,New Zealand,The Rugby Championship 2017,27.3,26.43,27.0,23,23
+australia,09/09/2017,South Africa,The Rugby Championship 2017,27.2,24.62,26.3,23,23
+australia,16/09/2017,Argentina,The Rugby Championship 2017,27.29,23.7,26.05,23,23
+australia,30/09/2017,South Africa,The Rugby Championship 2017,26.62,25.77,26.32,23,23
+australia,07/10/2017,Argentina,The Rugby Championship 2017,26.64,27.43,26.92,23,23
+australia,21/10/2017,New Zealand,Bledisloe Cup 2017,27.17,25.96,26.75,23,23
+australia,28/10/2017,Barbarians,Men's Internationals 2017,25.38,25.66,25.48,23,23
+australia,04/11/2017,Japan,Tour 2017,26.87,26.39,26.71,23,23
+australia,11/11/2017,Wales,Tour 2017,26.86,28.07,27.28,23,23
+australia,18/11/2017,England,Tour 2017,26.88,27.78,27.19,23,23
+australia,25/11/2017,Scotland,Tour 2017,27.54,27.64,27.57,23,23
+australia,09/06/2018,Ireland,Tour 2018,27.22,25.21,26.52,23,23
+australia,16/06/2018,Ireland,Tour 2018,27.24,25.23,26.54,23,23
+australia,23/06/2018,Ireland,Tour 2018,27.02,24.77,26.24,23,23
+australia,18/08/2018,New Zealand,The Rugby Championship 2018,27.68,26.1,27.13,23,23
+australia,25/08/2018,New Zealand,The Rugby Championship 2018,26.83,27.29,26.99,23,23
+australia,08/09/2018,South Africa,The Rugby Championship 2018,26.69,25.02,26.11,23,23
+australia,15/09/2018,Argentina,The Rugby Championship 2018,27.47,26.13,27.0,23,23
+australia,29/09/2018,South Africa,The Rugby Championship 2018,26.72,27.28,26.92,23,23
+australia,06/10/2018,Argentina,The Rugby Championship 2018,26.77,27.48,27.02,23,23
+australia,27/10/2018,New Zealand,Bledisloe Cup 2018,27.31,26.62,27.07,23,23
+australia,10/11/2018,Wales,Tour 2018,27.32,27.77,27.48,23,23
+australia,17/11/2018,Italy,Tour 2018,26.92,29.5,27.82,23,23
+australia,24/11/2018,England,Tour 2018,27.24,27.22,27.24,23,23
+australia,20/07/2019,South Africa,The Rugby Championship 2019,27.19,26.89,27.09,23,23
+australia,27/07/2019,Argentina,The Rugby Championship 2019,27.5,28.26,27.77,23,23
+australia,10/08/2019,New Zealand,The Rugby Championship 2019,27.04,27.52,27.21,23,23
+australia,17/08/2019,New Zealand,Bledisloe Cup 2019,26.98,28.31,27.44,23,23
+australia,07/09/2019,Samoa,Men's Internationals 2019,28.92,27.06,28.27,23,23
+australia,21/09/2019,Fiji,Men's Rugby World Cup 2019,27.72,28.65,28.04,23,23
+australia,29/09/2019,Wales,Men's Rugby World Cup 2019,28.43,28.43,28.43,23,23
+australia,05/10/2019,Uruguay,Men's Rugby World Cup 2019,27.7,29.21,28.23,23,23
+australia,11/10/2019,Georgia,Men's Rugby World Cup 2019,27.62,28.01,27.76,23,23
+australia,19/10/2019,England,Men's Rugby World Cup 2019,27.31,27.01,27.2,23,23
+australia,11/10/2020,New Zealand,Bledisloe Cup 2020,26.97,25.9,26.6,23,23
+australia,18/10/2020,New Zealand,Bledisloe Cup 2020,26.73,25.99,26.47,23,23
+australia,31/10/2020,New Zealand,The Rugby Championship 2020,26.12,25.17,25.79,23,23
+australia,07/11/2020,New Zealand,The Rugby Championship 2020,26.19,23.42,25.23,23,23
+australia,21/11/2020,Argentina,The Rugby Championship 2020,26.04,23.97,25.32,23,23
+australia,05/12/2020,Argentina,The Rugby Championship 2020,26.49,24.51,25.81,23,23
+australia,07/07/2021,France,Tour 2021,26.37,23.67,25.43,23,23
+australia,13/07/2021,France,Tour 2021,26.24,23.97,25.45,23,23
+australia,17/07/2021,France,Tour 2021,25.84,25.89,25.86,23,23
+australia,07/08/2021,New Zealand,Bledisloe Cup 2021,24.92,25.89,25.26,23,23
+australia,14/08/2021,New Zealand,The Rugby Championship 2021,26.39,25.91,26.22,23,23
+australia,05/09/2021,New Zealand,The Rugby Championship 2021,26.21,25.33,25.9,23,23
+australia,12/09/2021,South Africa,The Rugby Championship 2021,26.31,27.3,26.65,23,23
+australia,18/09/2021,South Africa,The Rugby Championship 2021,27.48,25.04,26.63,23,23
+australia,25/09/2021,Argentina,The Rugby Championship 2021,27.48,25.57,26.82,23,23
+australia,02/10/2021,Argentina,The Rugby Championship 2021,27.11,27.48,27.24,23,23
+australia,23/10/2021,Japan,Men's Internationals 2021,26.92,25.7,26.5,23,23
+australia,07/11/2021,Scotland,Autumn Nations Series 2021,26.84,26.64,26.77,23,23
+australia,13/11/2021,England,Autumn Nations Series 2021,27.16,26.7,27.0,23,23
+australia,20/11/2021,Wales,Autumn Nations Series 2021,27.77,25.54,26.99,23,23
+australia,02/07/2022,England,Men's Internationals 2022,27.34,29.13,27.96,23,23
+australia,09/07/2022,England,Men's Internationals 2022,26.96,28.81,27.6,23,23
+australia,16/07/2022,England,Men's Internationals 2022,27.2,25.95,26.77,23,23
+australia,06/08/2022,Argentina,The Rugby Championship 2022,27.45,26.52,27.13,23,23
+australia,13/08/2022,Argentina,The Rugby Championship 2022,27.34,25.72,26.78,23,23
+australia,27/08/2022,South Africa,The Rugby Championship 2022,27.56,27.39,27.5,23,23
+australia,03/09/2022,South Africa,The Rugby Championship 2022,27.58,28.06,27.75,23,23
+australia,15/09/2022,New Zealand,The Rugby Championship 2022,28.44,26.93,27.92,23,23
+australia,24/09/2022,New Zealand,The Rugby Championship 2022,28.64,25.55,27.56,23,23
+australia,29/10/2022,Scotland,Autumn Nations Series 2022,28.06,26.61,27.56,23,23
+australia,05/11/2022,France,Autumn Nations Series 2022,28.64,28.33,28.53,23,23
+australia,12/11/2022,Italy,Autumn Nations Series 2022,26.52,25.44,26.15,23,23
+australia,19/11/2022,Ireland,Autumn Nations Series 2022,28.25,27.34,27.94,23,23
+australia,26/11/2022,Wales,Autumn Nations Series 2022,26.53,26.98,26.69,23,23
+australia,08/07/2023,South Africa,The Rugby Championship 2023,28.97,27.3,28.39,23,23
+australia,15/07/2023,Argentina,The Rugby Championship 2023,29.42,25.41,28.02,23,23
+australia,29/07/2023,New Zealand,The Rugby Championship 2023,26.57,30.25,27.85,23,23
+australia,05/08/2023,New Zealand,Bledisloe Cup 2023,26.08,29.19,27.16,23,23
+australia,27/08/2023,France,Summer Nations Series 2023,26.39,25.36,26.03,23,23
+australia,09/09/2023,Georgia,Men's Rugby World Cup 2023,26.5,26.38,26.45,23,23
+australia,17/09/2023,Fiji,Men's Rugby World Cup 2023,27.03,26.9,26.99,23,23
+australia,24/09/2023,Wales,Men's Rugby World Cup 2023,26.99,26.84,26.94,23,23
+australia,01/10/2023,Portugal,Men's Rugby World Cup 2023,26.98,26.77,26.91,23,23
+australia,06/07/2024,Wales,Men's Internationals 2024,27.18,25.04,26.43,23,23
+australia,13/07/2024,Wales,Men's Internationals 2024,27.0,26.8,26.93,23,23
+australia,20/07/2024,Georgia,Men's Internationals 2024,25.67,26.75,26.04,23,23
+australia,10/08/2024,South Africa,The Rugby Championship 2024,26.76,25.64,26.37,23,23
+australia,17/08/2024,South Africa,The Rugby Championship 2024,27.22,25.46,26.61,23,23
+australia,31/08/2024,Argentina,The Rugby Championship 2024,26.83,24.77,26.11,23,23
+australia,21/09/2024,New Zealand,The Rugby Championship 2024,26.87,27.47,27.08,23,23
+australia,28/09/2024,New Zealand,The Rugby Championship 2024,26.3,26.18,26.26,23,23
+australia,09/11/2024,England,Autumn Nations Series 2024,26.06,27.31,26.5,23,23
+australia,17/11/2024,Wales,Autumn Nations Series 2024,27.44,26.57,27.14,23,23
+australia,24/11/2024,Scotland,Autumn Nations Series 2024,27.19,23.94,26.06,23,23
+australia,30/11/2024,Ireland,Autumn Nations Series 2024,26.65,25.9,26.39,23,23
+australia,06/07/2025,Fiji,Men's Internationals 2025,26.93,26.76,26.87,23,23
+australia,19/07/2025,British & Irish Lions,Tour 2025,27.02,26.51,26.84,23,23
+australia,26/07/2025,British & Irish Lions,Tour 2025,27.87,25.83,27.16,23,23
+australia,02/08/2025,British & Irish Lions,Tour 2025,27.15,26.31,26.86,23,23
+australia,16/08/2025,South Africa,The Rugby Championship 2025,28.04,26.18,27.39,23,23
+australia,23/08/2025,South Africa,The Rugby Championship 2025,27.67,26.83,27.38,23,23
+australia,06/09/2025,Argentina,The Rugby Championship 2025,26.47,27.76,26.92,23,23
+australia,13/09/2025,Argentina,The Rugby Championship 2025,26.97,27.87,27.28,23,23
+australia,27/09/2025,New Zealand,Bledisloe Cup 2025,27.16,27.5,27.28,23,23
+australia,04/10/2025,New Zealand,The Rugby Championship 2025,27.63,28.19,27.82,23,23
+australia,25/10/2025,Japan,Men's Internationals 2025,26.97,27.69,27.22,23,23
+australia,01/11/2025,England,Autumn Nations Series 2025,26.38,29.21,27.36,23,23
+australia,08/11/2025,Italy,Autumn Nations Series 2025,26.7,27.89,27.12,23,23
+australia,15/11/2025,Ireland,Autumn Nations Series 2025,27.36,26.83,27.18,23,23
+australia,22/11/2025,France,Autumn Nations Series 2025,26.27,27.92,26.85,23,23
+australia,04/07/2026,Ireland,Nations Championship 2026,26.9,28.79,27.56,23,23
+australia,11/07/2026,France,Nations Championship 2026,26.88,30.16,28.02,23,23
+australia,18/07/2026,Italy,Nations Championship 2026,27.1,28.13,27.45,23,23
+england,06/02/2015,Wales,Six Nations 2015,25.88,28.43,26.77,23,23
+england,14/02/2015,Italy,Six Nations 2015,25.9,28.45,26.79,23,23
+england,01/03/2015,Ireland,Six Nations 2015,25.56,28.34,26.53,23,23
+england,14/03/2015,Scotland,Six Nations 2015,25.84,27.75,26.51,23,23
+england,21/03/2015,France,Six Nations 2015,26.09,28.42,26.9,23,23
+england,15/08/2015,France,Men's Internationals 2015,26.44,27.67,26.87,23,23
+england,22/08/2015,France,Men's Internationals 2015,26.22,28.55,27.03,23,23
+england,05/09/2015,Ireland,Men's Internationals 2015,26.93,25.59,26.46,23,23
+england,18/09/2015,Fiji,Men's Rugby World Cup 2015,26.96,26.15,26.68,23,23
+england,26/09/2015,Wales,Men's Rugby World Cup 2015,27.0,27.01,27.0,23,23
+england,03/10/2015,Australia,Men's Rugby World Cup 2015,26.96,27.93,27.3,23,23
+england,10/10/2015,Uruguay,Men's Rugby World Cup 2015,26.99,27.77,27.26,23,23
+england,06/02/2016,Scotland,Six Nations 2016,26.34,24.72,25.77,23,23
+england,14/02/2016,Italy,Six Nations 2016,26.29,24.74,25.75,23,23
+england,27/02/2016,Ireland,Six Nations 2016,25.98,25.23,25.72,23,23
+england,12/03/2016,Wales,Six Nations 2016,26.02,24.86,25.61,23,23
+england,19/03/2016,France,Six Nations 2016,26.18,24.61,25.63,23,23
+england,29/05/2016,Wales,Men's Internationals 2016,26.64,24.51,25.9,23,23
+england,11/06/2016,Australia,Tour 2016,26.65,25.23,26.16,23,23
+england,18/06/2016,Australia,Tour 2016,26.25,25.66,26.05,23,23
+england,25/06/2016,Australia,Tour 2016,25.77,25.68,25.74,23,23
+england,12/11/2016,South Africa,Tour 2016,27.08,27.02,27.06,23,23
+england,19/11/2016,Fiji,Tour 2016,26.77,25.79,26.43,23,23
+england,26/11/2016,Argentina,Tour 2016,27.26,25.65,26.7,23,23
+england,03/12/2016,Australia,Tour 2016,27.4,25.67,26.8,23,23
+england,04/02/2017,France,Six Nations 2017,26.94,27.54,27.15,23,23
+england,11/02/2017,Wales,Six Nations 2017,26.34,28.66,27.15,23,23
+england,26/02/2017,Italy,Six Nations 2017,27.57,25.76,26.94,23,23
+england,11/03/2017,Scotland,Six Nations 2017,26.94,26.82,26.9,23,23
+england,18/03/2017,Ireland,Six Nations 2017,26.81,27.12,26.92,23,23
+england,28/05/2017,Barbarians,,24.69,25.13,24.85,23,23
+england,10/06/2017,Argentina,Tour 2017,25.8,24.51,25.35,23,23
+england,17/06/2017,Argentina,Tour 2017,26.37,24.02,25.55,23,23
+england,11/11/2017,Argentina,Tour 2017,27.3,26.37,26.98,23,23
+england,18/11/2017,Australia,Tour 2017,27.04,26.55,26.87,23,23
+england,25/11/2017,Samoa,Tour 2017,26.45,27.43,26.79,23,23
+england,04/02/2018,Italy,Six Nations 2018,27.9,26.32,27.35,23,23
+england,10/02/2018,Wales,Six Nations 2018,27.81,27.33,27.64,23,23
+england,24/02/2018,Scotland,Six Nations 2018,28.08,27.71,27.95,23,23
+england,10/03/2018,France,Six Nations 2018,27.62,28.46,27.91,23,23
+england,17/03/2018,Ireland,Six Nations 2018,28.02,28.89,28.32,23,23
+england,27/05/2018,Barbarians,Men's Internationals 2018,26.48,26.41,26.46,23,23
+england,09/06/2018,South Africa,Tour 2018,26.27,26.53,26.36,23,23
+england,16/06/2018,South Africa,Tour 2018,26.44,27.06,26.66,23,23
+england,23/06/2018,South Africa,Tour 2018,27.27,25.49,26.65,23,23
+england,03/11/2018,South Africa,Tour 2018,27.17,27.28,27.2,23,23
+england,10/11/2018,New Zealand,Tour 2018,27.96,27.12,27.67,23,23
+england,17/11/2018,Japan,Men's Internationals 2018,26.39,27.23,26.68,23,23
+england,24/11/2018,Australia,Tour 2018,27.05,28.13,27.42,23,23
+england,02/02/2019,Ireland,Six Nations 2019,26.86,27.39,27.05,23,23
+england,10/02/2019,France,Six Nations 2019,27.66,27.64,27.66,23,23
+england,23/02/2019,Wales,Six Nations 2019,27.4,25.88,26.87,23,23
+england,09/03/2019,Italy,Six Nations 2019,26.93,27.91,27.27,23,23
+england,16/03/2019,Scotland,Six Nations 2019,27.31,27.77,27.47,23,23
+england,02/06/2019,Barbarians,Men's Internationals 2019,24.15,24.18,24.16,23,23
+england,11/08/2019,Wales,Men's Internationals 2019,26.5,27.67,26.9,23,23
+england,17/08/2019,Wales,Men's Internationals 2019,27.18,27.89,27.43,23,23
+england,24/08/2019,Ireland,Men's Internationals 2019,26.69,29.06,27.52,23,23
+england,06/09/2019,Italy,Men's Internationals 2019,28.03,26.23,27.4,23,23
+england,22/09/2019,Tonga,Men's Rugby World Cup 2019,27.09,28.04,27.42,23,23
+england,26/09/2019,USA,Men's Rugby World Cup 2019,27.44,27.34,27.41,23,23
+england,05/10/2019,Argentina,Men's Rugby World Cup 2019,27.06,28.47,27.55,23,23
+england,19/10/2019,Australia,Men's Rugby World Cup 2019,27.13,28.68,27.67,23,23
+england,26/10/2019,New Zealand,Men's Rugby World Cup 2019,27.15,29.47,27.96,23,23
+england,02/11/2019,South Africa,Men's Rugby World Cup 2019,27.17,28.78,27.73,23,23
+england,02/02/2020,France,Six Nations 2020,27.1,27.18,27.13,23,23
+england,08/02/2020,Scotland,Six Nations 2020,27.17,26.81,27.05,23,23
+england,23/02/2020,Ireland,Six Nations 2020,27.87,26.39,27.36,23,23
+england,07/03/2020,Wales,Six Nations 2020,28.18,26.43,27.57,23,23
+england,31/10/2020,Italy,Six Nations 2020,27.54,25.0,26.66,23,23
+england,14/11/2020,Georgia,Autumn Nations Cup 2020,27.36,25.95,26.87,23,23
+england,21/11/2020,Ireland,Autumn Nations Cup 2020,27.71,25.97,27.1,23,23
+england,28/11/2020,Wales,Autumn Nations Cup 2020,28.16,25.8,27.34,23,23
+england,06/12/2020,France,Autumn Nations Cup 2020,27.72,26.09,27.16,23,23
+england,06/02/2021,Scotland,Six Nations 2021,27.48,27.4,27.45,23,23
+england,13/02/2021,Italy,Six Nations 2021,28.29,25.85,27.44,23,23
+england,27/02/2021,Wales,Six Nations 2021,28.47,25.0,27.26,23,23
+england,13/03/2021,France,Six Nations 2021,27.97,26.25,27.37,23,23
+england,20/03/2021,Ireland,Six Nations 2021,27.84,25.58,27.05,23,23
+england,04/07/2021,USA,Men's Internationals 2021,24.7,25.29,24.9,23,23
+england,10/07/2021,Canada,Men's Internationals 2021,24.27,25.78,24.8,23,23
+england,06/11/2021,Tonga,Autumn Nations Series 2021,27.66,26.28,27.18,23,23
+england,13/11/2021,Australia,Autumn Nations Series 2021,27.57,25.18,26.74,23,23
+england,20/11/2021,South Africa,Autumn Nations Series 2021,26.79,25.29,26.27,23,23
+england,05/02/2022,Scotland,Six Nations 2022,26.53,27.71,26.94,23,23
+england,13/02/2022,Italy,Six Nations 2022,25.79,28.57,26.76,23,23
+england,26/02/2022,Wales,Six Nations 2022,26.73,28.35,27.3,23,23
+england,12/03/2022,Ireland,Six Nations 2022,26.86,28.54,27.44,23,23
+england,19/03/2022,France,Six Nations 2022,27.17,26.57,26.96,23,23
+england,19/06/2022,Barbarians,,26.25,27.55,26.7,23,23
+england,02/07/2022,Australia,Men's Internationals 2022,27.93,24.7,26.9,22,23
+england,09/07/2022,Australia,Men's Internationals 2022,26.96,25.92,26.58,22,23
+england,16/07/2022,Australia,Men's Internationals 2022,27.63,24.31,26.42,22,23
+england,06/11/2022,Argentina,Autumn Nations Series 2022,27.78,26.75,27.42,23,23
+england,12/11/2022,Japan,Autumn Nations Series 2022,27.06,29.37,27.9,22,23
+england,19/11/2022,New Zealand,Autumn Nations Series 2022,27.86,29.47,28.38,22,23
+england,26/11/2022,South Africa,Autumn Nations Series 2022,27.48,28.93,27.98,23,23
+england,04/02/2023,Scotland,Six Nations 2023,26.29,28.77,27.15,23,23
+england,12/02/2023,Italy,Six Nations 2023,26.59,26.82,26.67,23,23
+england,25/02/2023,Wales,Six Nations 2023,26.95,27.94,27.29,23,23
+england,11/03/2023,France,Six Nations 2023,26.5,28.09,27.05,23,23
+england,18/03/2023,Ireland,Six Nations 2023,27.51,27.64,27.55,23,23
+england,05/08/2023,Wales,Summer Nations Series 2023,26.57,26.57,26.57,22,23
+england,12/08/2023,Wales,Summer Nations Series 2023,27.61,29.27,28.18,23,23
+england,19/08/2023,Ireland,Summer Nations Series 2023,29.52,27.6,28.86,23,23
+england,26/08/2023,Fiji,Summer Nations Series 2023,28.12,28.95,28.4,23,23
+england,09/09/2023,Argentina,Men's Rugby World Cup 2023,29.23,27.28,28.55,23,23
+england,17/09/2023,Japan,Men's Rugby World Cup 2023,29.34,26.78,28.45,23,23
+england,23/09/2023,Chile,Men's Rugby World Cup 2023,27.2,28.54,27.66,23,23
+england,07/10/2023,Samoa,Men's Rugby World Cup 2023,29.38,28.15,28.95,23,23
+england,15/10/2023,Fiji,Men's Rugby World Cup 2023,29.55,28.91,29.33,23,23
+england,21/10/2023,South Africa,Men's Rugby World Cup 2023,29.7,28.45,29.27,23,23
+england,27/10/2023,Argentina,Men's Rugby World Cup 2023,26.93,30.03,28.01,23,23
+england,03/02/2024,Italy,Six Nations 2024,27.84,26.93,27.52,23,23
+england,10/02/2024,Wales,Six Nations 2024,27.86,26.91,27.53,23,23
+england,24/02/2024,Scotland,Six Nations 2024,29.14,25.46,27.86,23,23
+england,09/03/2024,Ireland,Six Nations 2024,27.57,28.39,27.85,23,23
+england,16/03/2024,France,Six Nations 2024,28.27,29.12,28.56,23,23
+england,22/06/2024,Japan,Men's Internationals 2024,27.0,26.56,26.84,23,23
+england,06/07/2024,New Zealand,Men's Internationals 2024,27.1,26.53,26.9,23,23
+england,13/07/2024,New Zealand,Men's Internationals 2024,26.07,26.73,26.3,23,23
+england,02/11/2024,New Zealand,Autumn Nations Series 2024,27.31,27.88,27.51,23,23
+england,09/11/2024,Australia,Autumn Nations Series 2024,27.33,28.61,27.77,23,23
+england,16/11/2024,South Africa,Autumn Nations Series 2024,26.79,28.53,27.4,23,23
+england,24/11/2024,Japan,Autumn Nations Series 2024,27.34,24.66,26.41,23,23
+england,01/02/2025,Ireland,Six Nations 2025,27.26,24.52,26.3,23,23
+england,08/02/2025,France,Six Nations 2025,27.09,27.08,27.09,23,23
+england,22/02/2025,Scotland,Six Nations 2025,27.18,27.3,27.23,23,23
+england,09/03/2025,Italy,Six Nations 2025,27.42,25.79,26.86,23,23
+england,15/03/2025,Wales,Six Nations 2025,27.29,26.08,26.87,23,23
+england,05/07/2025,Argentina,Men's Internationals 2025,28.13,24.28,26.79,23,23
+england,12/07/2025,Argentina,Men's Internationals 2025,27.21,24.72,26.34,23,23
+england,19/07/2025,USA,Men's Internationals 2025,25.29,26.49,25.71,23,23
+england,01/11/2025,Australia,Autumn Nations Series 2025,27.07,27.93,27.37,23,23
+england,08/11/2025,Fiji,Autumn Nations Series 2025,26.27,26.95,26.51,23,23
+england,15/11/2025,New Zealand,Autumn Nations Series 2025,27.27,28.07,27.55,23,23
+england,23/11/2025,Argentina,Autumn Nations Series 2025,28.44,26.5,27.76,23,23
+england,07/02/2026,Wales,Six Nations 2026,27.48,29.01,28.01,23,23
+england,14/02/2026,Scotland,Six Nations 2026,27.65,28.34,27.89,23,23
+england,21/02/2026,Ireland,Six Nations 2026,27.51,28.12,27.73,23,23
+england,07/03/2026,Italy,Six Nations 2026,28.21,26.79,27.72,23,23
+england,14/03/2026,France,Six Nations 2026,27.96,27.33,27.74,23,23
+england,04/07/2026,South Africa,Nations Championship 2026,26.98,28.02,27.39,23,23
+england,11/07/2026,Fiji,Nations Championship 2026,27.13,26.93,27.06,23,23
+england,18/07/2026,Argentina,Nations Championship 2026,27.15,28.01,27.45,23,23
+france,07/02/2015,Scotland,Six Nations 2015,28.05,26.52,27.51,23,23
+france,14/02/2015,Ireland,Six Nations 2015,27.6,27.65,27.61,23,23
+france,28/02/2015,Wales,Six Nations 2015,26.76,29.27,27.63,23,23
+france,15/03/2015,Italy,Six Nations 2015,27.5,27.76,27.59,23,23
+france,21/03/2015,England,Six Nations 2015,27.95,27.63,27.84,23,23
+france,15/08/2015,England,Men's Internationals 2015,28.89,26.5,28.06,23,23
+france,22/08/2015,England,Men's Internationals 2015,28.55,28.72,28.61,23,23
+france,05/09/2015,Scotland,Men's Internationals 2015,28.98,30.5,29.51,23,23
+france,19/09/2015,Italy,Men's Rugby World Cup 2015,29.03,29.05,29.03,23,23
+france,23/09/2015,Romania,Men's Rugby World Cup 2015,27.97,29.79,28.6,23,23
+france,01/10/2015,Canada,Men's Rugby World Cup 2015,28.86,30.74,29.51,23,23
+france,11/10/2015,Ireland,Men's Rugby World Cup 2015,29.0,29.68,29.24,23,23
+france,17/10/2015,New Zealand,Men's Rugby World Cup 2015,28.49,31.47,29.52,23,23
+france,06/02/2016,Italy,Six Nations 2016,26.11,24.86,25.67,23,23
+france,13/02/2016,Ireland,Six Nations 2016,25.94,24.89,25.58,23,23
+france,26/02/2016,Wales,Six Nations 2016,26.6,25.55,26.24,23,23
+france,13/03/2016,Scotland,Six Nations 2016,26.88,25.45,26.38,23,23
+france,19/03/2016,England,Six Nations 2016,27.22,25.08,26.48,23,23
+france,19/06/2016,Argentina,Men's Internationals 2016,26.73,26.82,26.76,23,23
+france,25/06/2016,Argentina,Men's Internationals 2016,26.85,26.22,26.63,23,23
+france,12/11/2016,Samoa,Tour 2016,28.23,23.81,26.69,23,23
+france,19/11/2016,Australia,Tour 2016,27.08,26.12,26.74,23,23
+france,26/11/2016,New Zealand,Tour 2016,27.19,25.45,26.59,23,23
+france,04/02/2017,England,Six Nations 2017,27.13,27.11,27.12,23,23
+france,12/02/2017,Scotland,Six Nations 2017,26.93,27.89,27.26,23,23
+france,25/02/2017,Ireland,Six Nations 2017,27.31,26.96,27.19,23,23
+france,11/03/2017,Italy,Six Nations 2017,26.74,26.12,26.52,23,23
+france,18/03/2017,Wales,Six Nations 2017,26.4,27.17,26.67,23,23
+france,10/06/2017,South Africa,Tour 2017,27.48,25.47,26.78,23,23
+france,17/06/2017,South Africa,Tour 2017,27.01,26.79,26.93,23,23
+france,24/06/2017,South Africa,Tour 2017,26.15,27.53,26.63,23,23
+france,11/11/2017,New Zealand,Tour 2017,26.44,26.23,26.37,23,23
+france,18/11/2017,South Africa,Tour 2017,26.46,25.88,26.26,23,23
+france,25/11/2017,Japan,Tour 2017,26.59,25.39,26.17,23,23
+france,03/02/2018,Ireland,Six Nations 2018,26.57,24.64,25.9,23,23
+france,11/02/2018,Scotland,Six Nations 2018,27.14,26.33,26.86,23,23
+france,23/02/2018,Italy,Six Nations 2018,27.89,25.68,27.12,23,23
+france,10/03/2018,England,Six Nations 2018,27.86,26.01,27.22,23,23
+france,17/03/2018,Wales,Six Nations 2018,27.13,25.99,26.73,23,23
+france,09/06/2018,New Zealand,Tour 2018,26.69,26.8,26.73,23,23
+france,16/06/2018,New Zealand,Tour 2018,26.84,25.87,26.5,23,23
+france,23/06/2018,New Zealand,Tour 2018,26.88,26.68,26.81,23,23
+france,10/11/2018,South Africa,Tour 2018,28.07,24.58,26.85,23,23
+france,17/11/2018,Argentina,Tour 2018,28.4,25.23,27.3,23,23
+france,24/11/2018,Fiji,Tour 2018,28.52,24.29,27.05,23,23
+france,01/02/2019,Wales,Six Nations 2019,28.39,24.41,27.01,23,23
+france,10/02/2019,England,Six Nations 2019,27.56,23.22,26.05,23,23
+france,23/02/2019,Scotland,Six Nations 2019,26.34,25.36,26.0,23,23
+france,10/03/2019,Ireland,Six Nations 2019,26.38,25.4,26.04,23,23
+france,16/03/2019,Italy,Six Nations 2019,26.66,25.38,26.21,23,23
+france,17/08/2019,Scotland,Men's Internationals 2019,26.59,24.97,26.02,23,23
+france,24/08/2019,Scotland,Men's Internationals 2019,26.52,25.64,26.22,23,23
+france,30/08/2019,Italy,Men's Internationals 2019,27.97,26.22,27.36,23,23
+france,21/09/2019,Argentina,Men's Rugby World Cup 2019,27.13,27.57,27.28,23,23
+france,02/10/2019,USA,Men's Rugby World Cup 2019,27.51,27.4,27.47,23,23
+france,06/10/2019,Tonga,Men's Rugby World Cup 2019,26.59,26.64,26.61,23,23
+france,20/10/2019,Wales,Men's Rugby World Cup 2019,27.54,27.09,27.38,23,23
+france,02/02/2020,England,Six Nations 2020,25.99,23.08,24.97,23,23
+france,09/02/2020,Italy,Six Nations 2020,25.51,24.23,25.06,23,23
+france,22/02/2020,Wales,Six Nations 2020,25.54,23.83,24.95,23,23
+france,08/03/2020,Scotland,Six Nations 2020,25.44,23.74,24.85,23,23
+france,24/10/2020,Wales,Men's Internationals 2020,26.71,24.39,25.91,23,23
+france,31/10/2020,Ireland,Six Nations 2020,26.33,24.68,25.76,23,23
+france,22/11/2020,Scotland,Autumn Nations Cup 2020,25.87,24.48,25.38,23,23
+france,28/11/2020,Italy,Autumn Nations Cup 2020,25.53,24.11,25.03,23,23
+france,06/12/2020,England,Autumn Nations Cup 2020,24.27,25.49,24.69,23,23
+france,06/02/2021,Italy,Six Nations 2021,26.23,25.07,25.83,23,23
+france,14/02/2021,Ireland,Six Nations 2021,26.1,26.77,26.34,23,23
+france,13/03/2021,England,Six Nations 2021,26.68,24.54,25.93,23,23
+france,20/03/2021,Wales,Six Nations 2021,26.7,24.87,26.06,23,23
+france,26/03/2021,Scotland,Six Nations 2021,26.27,26.95,26.51,23,23
+france,07/07/2021,Australia,Tour 2021,24.49,26.33,25.13,23,23
+france,13/07/2021,Australia,Tour 2021,24.42,27.12,25.36,23,23
+france,17/07/2021,Australia,Tour 2021,24.76,26.59,25.4,23,23
+france,06/11/2021,Argentina,Autumn Nations Series 2021,25.55,26.39,25.84,23,23
+france,14/11/2021,Georgia,Autumn Nations Series 2021,25.69,26.26,25.89,23,23
+france,20/11/2021,New Zealand,Autumn Nations Series 2021,26.15,25.37,25.88,23,23
+france,06/02/2022,Italy,Six Nations 2022,26.27,26.01,26.18,23,23
+france,12/02/2022,Ireland,Six Nations 2022,25.97,26.04,26.0,23,23
+france,26/02/2022,Scotland,Six Nations 2022,26.22,26.08,26.17,23,23
+france,11/03/2022,Wales,Six Nations 2022,26.31,25.55,26.05,23,23
+france,19/03/2022,England,Six Nations 2022,26.58,26.64,26.6,23,23
+france,02/07/2022,Japan,Men's Internationals 2022,25.46,25.48,25.47,23,23
+france,09/07/2022,Japan,Men's Internationals 2022,25.37,25.42,25.39,23,23
+france,05/11/2022,Australia,Autumn Nations Series 2022,26.93,27.15,27.01,23,23
+france,12/11/2022,South Africa,Autumn Nations Series 2022,26.95,27.86,27.27,23,23
+france,20/11/2022,Japan,Tour 2022,27.55,26.69,27.25,23,23
+france,05/02/2023,Italy,Six Nations 2023,27.04,25.99,26.67,23,23
+france,11/02/2023,Ireland,Six Nations 2023,27.05,27.25,27.12,23,23
+france,26/02/2023,Scotland,Six Nations 2023,26.83,27.29,26.99,23,23
+france,11/03/2023,England,Six Nations 2023,27.58,27.05,27.4,23,23
+france,18/03/2023,Wales,Six Nations 2023,27.97,26.89,27.6,23,23
+france,05/08/2023,Scotland,Summer Nations Series 2023,25.35,27.11,25.96,23,23
+france,12/08/2023,Scotland,Summer Nations Series 2023,27.56,27.54,27.56,23,23
+france,19/08/2023,Fiji,Summer Nations Series 2023,27.08,27.02,27.06,23,23
+france,27/08/2023,Australia,Summer Nations Series 2023,28.26,27.49,27.99,23,23
+france,08/09/2023,New Zealand,Men's Rugby World Cup 2023,27.63,27.07,27.43,23,23
+france,14/09/2023,Uruguay,Men's Rugby World Cup 2023,26.26,27.85,26.81,23,23
+france,21/09/2023,Namibia,Men's Rugby World Cup 2023,27.74,26.84,27.42,23,23
+france,06/10/2023,Italy,Men's Rugby World Cup 2023,27.83,27.59,27.75,23,23
+france,15/10/2023,South Africa,Men's Rugby World Cup 2023,27.6,28.7,27.98,23,23
+france,02/02/2024,Ireland,Six Nations 2024,29.17,24.88,27.68,23,23
+france,10/02/2024,Scotland,Six Nations 2024,28.6,25.86,27.64,23,23
+france,25/02/2024,Italy,Six Nations 2024,28.0,27.88,27.96,23,23
+france,10/03/2024,Wales,Six Nations 2024,26.99,28.04,27.36,23,23
+france,16/03/2024,England,Six Nations 2024,27.01,28.06,27.37,23,23
+france,06/07/2024,Argentina,Men's Internationals 2024,24.6,25.8,25.02,23,23
+france,10/07/2024,Uruguay,Men's Internationals 2024,25.7,23.79,25.04,23,23
+france,13/07/2024,Argentina,Men's Internationals 2024,25.26,25.63,25.39,23,23
+france,09/11/2024,Japan,Autumn Nations Series 2024,25.42,27.84,26.26,23,23
+france,16/11/2024,New Zealand,Autumn Nations Series 2024,26.62,27.36,26.88,23,23
+france,22/11/2024,Argentina,Autumn Nations Series 2024,27.61,25.11,26.74,23,23
+france,31/01/2025,Wales,Six Nations 2025,26.89,24.95,26.21,23,23
+france,08/02/2025,England,Six Nations 2025,27.48,24.97,26.61,23,23
+france,23/02/2025,Italy,Six Nations 2025,26.58,29.67,27.65,23,23
+france,08/03/2025,Ireland,Six Nations 2025,27.38,27.96,27.58,23,23
+france,15/03/2025,Scotland,Six Nations 2025,27.93,26.82,27.54,23,23
+france,05/07/2025,New Zealand,Men's Internationals 2025,25.29,26.94,25.86,23,23
+france,12/07/2025,New Zealand,Men's Internationals 2025,24.28,28.24,25.66,23,23
+france,19/07/2025,New Zealand,Men's Internationals 2025,25.93,26.98,26.3,23,23
+france,08/11/2025,South Africa,Autumn Nations Series 2025,27.22,27.39,27.28,23,23
+france,15/11/2025,Fiji,Autumn Nations Series 2025,28.13,25.63,27.26,23,23
+france,22/11/2025,Australia,Autumn Nations Series 2025,28.3,26.07,27.52,23,23
+france,15/02/2026,Wales,Six Nations 2026,27.06,26.9,27.0,23,23
+france,22/02/2026,Italy,Six Nations 2026,26.85,28.45,27.4,23,23
+france,07/03/2026,Scotland,Six Nations 2026,27.51,28.29,27.78,23,23
+france,14/03/2026,England,Six Nations 2026,28.08,26.83,27.64,23,23
+france,04/07/2026,New Zealand,Nations Championship 2026,26.6,25.69,26.28,23,23
+france,11/07/2026,Australia,Nations Championship 2026,26.12,26.25,26.16,23,23
+france,18/07/2026,Japan,Nations Championship 2026,26.73,27.41,26.96,23,23
+ireland,07/02/2015,Italy,Six Nations 2015,28.21,27.17,27.85,23,23
+ireland,14/02/2015,France,Six Nations 2015,28.85,26.9,28.17,23,23
+ireland,01/03/2015,England,Six Nations 2015,28.4,27.35,28.04,23,23
+ireland,14/03/2015,Wales,Six Nations 2015,28.93,26.9,28.22,23,23
+ireland,21/03/2015,Scotland,Six Nations 2015,29.25,26.66,28.35,23,23
+ireland,08/08/2015,Wales,Men's Internationals 2015,28.85,28.14,28.6,23,23
+ireland,15/08/2015,Scotland,Men's Internationals 2015,29.68,29.68,29.68,23,23
+ireland,29/08/2015,Wales,Men's Internationals 2015,28.07,28.2,28.11,23,23
+ireland,05/09/2015,England,Men's Internationals 2015,29.19,29.84,29.42,23,23
+ireland,19/09/2015,Canada,Men's Rugby World Cup 2015,29.26,30.11,29.56,23,23
+ireland,27/09/2015,Romania,Men's Rugby World Cup 2015,29.65,27.81,29.01,23,23
+ireland,04/10/2015,Italy,Men's Rugby World Cup 2015,28.76,30.15,29.24,23,23
+ireland,11/10/2015,France,Men's Rugby World Cup 2015,29.56,29.24,29.45,23,23
+ireland,18/10/2015,Argentina,Men's Rugby World Cup 2015,28.56,29.18,28.77,23,23
+ireland,07/02/2016,Wales,Six Nations 2016,29.38,26.64,28.42,23,23
+ireland,13/02/2016,France,Six Nations 2016,29.56,28.9,29.33,23,23
+ireland,27/02/2016,England,Six Nations 2016,28.83,28.59,28.74,23,23
+ireland,12/03/2016,Italy,Six Nations 2016,29.05,27.16,28.39,23,23
+ireland,19/03/2016,Scotland,Six Nations 2016,29.47,29.12,29.34,23,23
+ireland,11/06/2016,South Africa,Tour 2016,28.39,25.41,27.36,23,23
+ireland,18/06/2016,South Africa,Tour 2016,27.18,27.39,27.25,23,23
+ireland,25/06/2016,South Africa,Tour 2016,28.09,27.11,27.75,23,23
+ireland,05/11/2016,New Zealand,Tour 2016,29.08,24.84,27.6,23,23
+ireland,12/11/2016,Canada,Tour 2016,26.42,26.01,26.27,23,23
+ireland,19/11/2016,New Zealand,Tour 2016,29.39,25.57,28.06,23,23
+ireland,26/11/2016,Australia,Tour 2016,28.08,25.95,27.34,23,23
+ireland,04/02/2017,Scotland,Six Nations 2017,27.81,27.18,27.59,23,23
+ireland,11/02/2017,Italy,Six Nations 2017,27.87,26.2,27.29,23,23
+ireland,25/02/2017,France,Six Nations 2017,28.85,27.23,28.28,23,23
+ireland,10/03/2017,Wales,Six Nations 2017,28.89,27.35,28.35,23,23
+ireland,18/03/2017,England,Six Nations 2017,27.99,26.45,27.45,23,23
+ireland,10/06/2017,USA,Men's Internationals 2017,25.97,24.41,25.43,23,23
+ireland,17/06/2017,Japan,Tour 2017,26.3,25.05,25.87,23,23
+ireland,24/06/2017,Japan,Tour 2017,25.97,25.15,25.69,23,23
+ireland,11/11/2017,South Africa,Tour 2017,28.43,25.79,27.51,23,23
+ireland,18/11/2017,Fiji,Tour 2017,25.93,26.41,26.1,23,23
+ireland,25/11/2017,Argentina,Tour 2017,27.63,28.15,27.81,23,23
+ireland,03/02/2018,France,Six Nations 2018,27.82,27.97,27.88,23,23
+ireland,10/02/2018,Italy,Six Nations 2018,28.16,26.03,27.42,23,23
+ireland,24/02/2018,Wales,Six Nations 2018,27.99,27.84,27.94,23,23
+ireland,10/03/2018,Scotland,Six Nations 2018,28.12,25.56,27.23,23,23
+ireland,17/03/2018,England,Six Nations 2018,27.76,26.29,27.25,23,23
+ireland,09/06/2018,Australia,Tour 2018,27.26,27.75,27.43,23,23
+ireland,16/06/2018,Australia,Tour 2018,27.85,25.57,27.06,23,23
+ireland,23/06/2018,Australia,Tour 2018,27.86,26.62,27.43,23,23
+ireland,03/11/2018,Italy,Men's Internationals 2018,25.7,28.45,26.65,23,23
+ireland,10/11/2018,Argentina,Tour 2018,28.12,27.18,27.79,23,23
+ireland,17/11/2018,New Zealand,Tour 2018,28.69,26.13,27.8,23,23
+ireland,24/11/2018,USA,Men's Internationals 2018,26.68,26.97,26.78,23,23
+ireland,02/02/2019,England,Six Nations 2019,28.61,27.48,28.22,23,23
+ireland,09/02/2019,Scotland,Six Nations 2019,29.2,26.34,28.21,23,23
+ireland,24/02/2019,Italy,Six Nations 2019,29.18,27.82,28.71,23,23
+ireland,10/03/2019,France,Six Nations 2019,28.07,27.84,27.99,23,23
+ireland,16/03/2019,Wales,Six Nations 2019,29.25,26.34,28.24,23,23
+ireland,10/08/2019,Italy,Men's Internationals 2019,27.51,28.1,27.71,23,23
+ireland,24/08/2019,England,Men's Internationals 2019,28.17,28.65,28.33,23,23
+ireland,31/08/2019,Wales,Men's Internationals 2019,27.57,28.79,27.99,23,23
+ireland,07/09/2019,Wales,Men's Internationals 2019,29.04,27.79,28.61,23,23
+ireland,22/09/2019,Scotland,Men's Rugby World Cup 2019,28.35,27.12,27.92,23,23
+ireland,28/09/2019,Japan,Men's Rugby World Cup 2019,28.69,27.17,28.16,23,23
+ireland,03/10/2019,Russia,Men's Rugby World Cup 2019,29.3,27.62,28.71,23,23
+ireland,12/10/2019,Samoa,Men's Rugby World Cup 2019,28.61,27.15,28.1,23,23
+ireland,19/10/2019,New Zealand,Men's Rugby World Cup 2019,29.21,26.48,28.26,23,23
+ireland,01/02/2020,Scotland,Six Nations 2020,27.63,27.8,27.69,23,23
+ireland,08/02/2020,Wales,Six Nations 2020,28.32,27.65,28.09,23,23
+ireland,23/02/2020,England,Six Nations 2020,28.74,26.58,27.99,23,23
+ireland,24/10/2020,Italy,Six Nations 2020,28.02,28.19,28.08,23,23
+ireland,31/10/2020,France,Six Nations 2020,28.15,28.24,28.18,23,23
+ireland,13/11/2020,Wales,Autumn Nations Cup 2020,27.84,28.83,28.19,23,23
+ireland,21/11/2020,England,Autumn Nations Cup 2020,27.89,28.5,28.1,23,23
+ireland,29/11/2020,Georgia,Autumn Nations Cup 2020,27.89,29.37,28.4,23,23
+ireland,05/12/2020,Scotland,Autumn Nations Cup 2020,28.93,27.51,28.43,23,23
+ireland,07/02/2021,Wales,Six Nations 2021,29.37,27.06,28.57,23,23
+ireland,14/02/2021,France,Six Nations 2021,28.82,25.28,27.59,23,23
+ireland,27/02/2021,Italy,Six Nations 2021,27.84,27.69,27.79,23,23
+ireland,14/03/2021,Scotland,Six Nations 2021,29.13,26.65,28.26,23,23
+ireland,20/03/2021,England,Six Nations 2021,29.79,26.72,28.72,23,23
+ireland,03/07/2021,Japan,Men's Internationals 2021,27.21,26.4,26.93,23,23
+ireland,10/07/2021,USA,Men's Internationals 2021,25.15,26.8,25.72,23,23
+ireland,06/11/2021,Japan,Autumn Nations Series 2021,28.3,30.23,28.97,23,23
+ireland,13/11/2021,New Zealand,Autumn Nations Series 2021,28.31,31.31,29.36,23,23
+ireland,21/11/2021,Argentina,Autumn Nations Series 2021,27.42,26.05,26.94,23,23
+ireland,05/02/2022,Wales,Six Nations 2022,28.17,28.18,28.17,23,23
+ireland,12/02/2022,France,Six Nations 2022,27.5,30.18,28.43,23,23
+ireland,27/02/2022,Italy,Six Nations 2022,27.07,29.29,27.84,23,23
+ireland,12/03/2022,England,Six Nations 2022,29.35,30.4,29.71,23,23
+ireland,19/03/2022,Scotland,Six Nations 2022,29.02,30.31,29.47,23,23
+ireland,29/06/2022,Maori All Blacks,Tour 2022,26.2,29.03,27.19,23,23
+ireland,02/07/2022,New Zealand,Men's Internationals 2022,29.14,29.83,29.38,23,23
+ireland,09/07/2022,New Zealand,Men's Internationals 2022,28.46,30.81,29.28,23,23
+ireland,12/07/2022,Maori All Blacks,Tour 2022,26.0,29.3,27.15,23,23
+ireland,16/07/2022,New Zealand,Men's Internationals 2022,28.8,31.14,29.62,23,23
+ireland,05/11/2022,South Africa,Autumn Nations Series 2022,28.69,29.95,29.13,23,23
+ireland,12/11/2022,Fiji,Autumn Nations Series 2022,28.21,25.8,27.37,23,23
+ireland,19/11/2022,Australia,Autumn Nations Series 2022,27.62,29.32,28.21,23,23
+ireland,04/02/2023,Wales,Six Nations 2023,29.35,29.65,29.46,23,23
+ireland,11/02/2023,France,Six Nations 2023,29.93,28.7,29.51,23,23
+ireland,25/02/2023,Italy,Six Nations 2023,28.26,27.91,28.14,23,23
+ireland,12/03/2023,Scotland,Six Nations 2023,29.53,28.5,29.17,23,23
+ireland,18/03/2023,England,Six Nations 2023,28.97,29.87,29.28,23,23
+ireland,05/08/2023,Italy,Summer Nations Series 2023,28.39,28.13,28.3,23,23
+ireland,19/08/2023,England,Summer Nations Series 2023,29.01,29.36,29.13,23,23
+ireland,26/08/2023,Samoa,Summer Nations Series 2023,28.81,28.59,28.73,23,23
+ireland,09/09/2023,Romania,Men's Rugby World Cup 2023,30.57,28.02,29.68,23,23
+ireland,16/09/2023,Tonga,Men's Rugby World Cup 2023,30.09,29.86,30.01,23,23
+ireland,23/09/2023,South Africa,Men's Rugby World Cup 2023,29.92,29.49,29.77,23,23
+ireland,07/10/2023,Scotland,Men's Rugby World Cup 2023,30.21,30.03,30.15,23,23
+ireland,14/10/2023,New Zealand,Men's Rugby World Cup 2023,30.23,28.93,29.78,23,23
+ireland,02/02/2024,France,Six Nations 2024,29.11,29.9,29.39,23,23
+ireland,11/02/2024,Italy,Six Nations 2024,27.67,28.28,27.88,23,23
+ireland,24/02/2024,Wales,Six Nations 2024,29.08,30.16,29.45,23,23
+ireland,09/03/2024,England,Six Nations 2024,29.21,30.55,29.68,23,23
+ireland,16/03/2024,Scotland,Six Nations 2024,29.17,30.03,29.47,23,23
+ireland,06/07/2024,South Africa,Men's Internationals 2024,28.7,30.01,29.16,23,23
+ireland,13/07/2024,South Africa,Men's Internationals 2024,28.65,31.54,29.65,23,23
+ireland,08/11/2024,New Zealand,Autumn Nations Series 2024,29.39,31.38,30.08,23,23
+ireland,15/11/2024,Argentina,Autumn Nations Series 2024,29.2,28.4,28.92,23,23
+ireland,23/11/2024,Fiji,Autumn Nations Series 2024,27.65,28.77,28.04,23,23
+ireland,30/11/2024,Australia,Autumn Nations Series 2024,29.35,29.13,29.27,23,23
+ireland,01/02/2025,England,Six Nations 2025,29.53,30.82,29.98,23,23
+ireland,09/02/2025,Scotland,Six Nations 2025,30.36,29.71,30.13,23,23
+ireland,22/02/2025,Wales,Six Nations 2025,29.13,28.49,28.91,23,23
+ireland,08/03/2025,France,Six Nations 2025,29.45,30.65,29.87,23,23
+ireland,15/03/2025,Italy,Six Nations 2025,30.06,28.67,29.58,23,23
+ireland,05/07/2025,Georgia,Men's Internationals 2025,26.24,26.03,26.17,23,23
+ireland,12/07/2025,Portugal,Men's Internationals 2025,25.52,26.34,25.8,23,23
+ireland,01/11/2025,New Zealand,Autumn Nations Series 2025,30.21,28.8,29.72,23,23
+ireland,08/11/2025,Japan,Autumn Nations Series 2025,28.57,27.63,28.24,23,23
+ireland,15/11/2025,Australia,Autumn Nations Series 2025,29.58,28.43,29.18,23,23
+ireland,22/11/2025,South Africa,Autumn Nations Series 2025,30.09,28.51,29.54,23,23
+ireland,14/02/2026,Italy,Six Nations 2026,28.44,29.57,28.84,23,23
+ireland,21/02/2026,England,Six Nations 2026,30.12,28.65,29.61,23,23
+ireland,06/03/2026,Wales,Six Nations 2026,30.16,27.5,29.23,23,23
+ireland,14/03/2026,Scotland,Six Nations 2026,29.84,29.38,29.68,23,23
+ireland,04/07/2026,Australia,Nations Championship 2026,29.69,30.4,29.93,23,23
+ireland,11/07/2026,Japan,Nations Championship 2026,29.77,26.0,28.46,23,23
+ireland,18/07/2026,New Zealand,Nations Championship 2026,30.55,29.52,30.19,23,23
+italy,07/02/2015,Ireland,Six Nations 2015,28.4,24.85,27.17,23,23
+italy,14/02/2015,England,Six Nations 2015,29.22,25.69,28.0,23,23
+italy,28/02/2015,Scotland,Six Nations 2015,27.11,25.64,26.6,23,23
+italy,15/03/2015,France,Six Nations 2015,27.49,27.99,27.66,23,23
+italy,21/03/2015,Wales,Six Nations 2015,28.6,28.08,28.42,23,23
+italy,22/08/2015,Scotland,Men's Internationals 2015,29.04,30.24,29.46,23,23
+italy,29/08/2015,Scotland,Men's Internationals 2015,26.93,29.38,27.78,23,23
+italy,05/09/2015,Wales,Men's Internationals 2015,29.13,28.35,28.86,23,23
+italy,19/09/2015,France,Men's Rugby World Cup 2015,28.58,27.49,28.2,23,23
+italy,26/09/2015,Canada,Men's Rugby World Cup 2015,28.38,28.66,28.48,23,23
+italy,04/10/2015,Ireland,Men's Rugby World Cup 2015,28.01,28.79,28.28,23,23
+italy,11/10/2015,Romania,Men's Rugby World Cup 2015,27.55,26.95,27.34,23,23
+italy,06/02/2016,France,Six Nations 2016,27.15,29.15,27.84,23,23
+italy,14/02/2016,England,Six Nations 2016,27.55,27.23,27.43,23,23
+italy,27/02/2016,Scotland,Six Nations 2016,27.69,28.18,27.86,23,23
+italy,12/03/2016,Ireland,Six Nations 2016,27.02,27.44,27.16,23,23
+italy,19/03/2016,Wales,Six Nations 2016,28.54,26.75,27.92,23,23
+italy,11/06/2016,Argentina,Men's Internationals 2016,26.99,26.51,26.82,23,23
+italy,18/06/2016,USA,Men's Internationals 2016,26.94,25.27,26.36,23,23
+italy,26/06/2016,Canada,Men's Internationals 2016,26.55,24.39,25.8,23,23
+italy,12/11/2016,New Zealand,Tour 2016,27.54,26.18,27.07,23,23
+italy,19/11/2016,South Africa,Tour 2016,27.56,25.82,26.95,23,23
+italy,26/11/2016,Tonga,Tour 2016,27.72,25.82,27.06,23,23
+italy,05/02/2017,Wales,Six Nations 2017,27.36,26.53,27.07,23,23
+italy,11/02/2017,Ireland,Six Nations 2017,27.93,26.21,27.33,23,23
+italy,26/02/2017,England,Six Nations 2017,27.57,27.62,27.59,23,23
+italy,11/03/2017,France,Six Nations 2017,27.92,26.32,27.36,23,23
+italy,18/03/2017,Scotland,Six Nations 2017,27.39,26.72,27.16,23,23
+italy,10/06/2017,Scotland,Tour 2017,26.34,26.65,26.45,23,23
+italy,17/06/2017,Fiji,Tour 2017,25.59,26.84,26.03,23,23
+italy,24/06/2017,Australia,Tour 2017,26.62,25.84,26.35,23,23
+italy,11/11/2017,Fiji,Tour 2017,27.16,26.37,26.88,23,23
+italy,18/11/2017,Argentina,Tour 2017,27.17,26.79,27.04,23,23
+italy,25/11/2017,South Africa,Tour 2017,26.45,26.91,26.61,23,23
+italy,04/02/2018,England,Six Nations 2018,27.02,27.35,27.14,23,23
+italy,10/02/2018,Ireland,Six Nations 2018,26.7,27.25,26.89,23,23
+italy,23/02/2018,France,Six Nations 2018,27.2,27.23,27.21,23,23
+italy,11/03/2018,Wales,Six Nations 2018,27.3,25.82,26.78,23,23
+italy,17/03/2018,Scotland,Six Nations 2018,27.14,26.11,26.79,23,23
+italy,09/06/2018,Japan,Tour 2018,26.63,27.78,27.03,23,23
+italy,16/06/2018,Japan,Tour 2018,27.2,25.86,26.73,23,23
+italy,03/11/2018,Ireland,Men's Internationals 2018,26.72,26.21,26.54,23,23
+italy,10/11/2018,Georgia,Men's Internationals 2018,27.58,26.42,27.18,23,23
+italy,17/11/2018,Australia,Tour 2018,28.2,26.44,27.59,23,23
+italy,24/11/2018,New Zealand,Tour 2018,28.09,26.37,27.49,23,23
+italy,02/02/2019,Scotland,Six Nations 2019,28.41,26.97,27.91,23,23
+italy,09/02/2019,Wales,Six Nations 2019,28.21,27.04,27.8,23,23
+italy,24/02/2019,Ireland,Six Nations 2019,28.29,27.89,28.15,23,23
+italy,09/03/2019,England,Six Nations 2019,28.11,27.24,27.81,23,23
+italy,16/03/2019,France,Six Nations 2019,27.7,27.25,27.54,23,23
+italy,10/08/2019,Ireland,Men's Internationals 2019,28.0,26.41,27.38,23,23
+italy,17/08/2019,Russia,Men's Internationals 2019,27.76,27.11,27.53,23,23
+italy,30/08/2019,France,Men's Internationals 2019,27.87,28.5,28.09,23,23
+italy,06/09/2019,England,Men's Internationals 2019,28.01,28.03,28.02,23,23
+italy,22/09/2019,Namibia,Men's Rugby World Cup 2019,28.88,26.56,28.07,23,23
+italy,26/09/2019,Canada,Men's Rugby World Cup 2019,27.41,26.72,27.17,23,23
+italy,04/10/2019,South Africa,Men's Rugby World Cup 2019,28.65,27.47,28.24,23,23
+italy,01/02/2020,Wales,Six Nations 2020,26.96,27.26,27.06,23,23
+italy,09/02/2020,France,Six Nations 2020,27.14,26.56,26.94,23,23
+italy,22/02/2020,Scotland,Six Nations 2020,27.34,26.67,27.11,23,23
+italy,24/10/2020,Ireland,Six Nations 2020,26.46,25.62,26.17,23,23
+italy,31/10/2020,England,Six Nations 2020,25.86,26.0,25.91,23,23
+italy,14/11/2020,Scotland,Autumn Nations Cup 2020,24.98,26.72,25.58,23,23
+italy,28/11/2020,France,Autumn Nations Cup 2020,25.15,25.26,25.19,23,23
+italy,05/12/2020,Wales,Autumn Nations Cup 2020,24.77,26.54,25.38,23,23
+italy,06/02/2021,France,Six Nations 2021,24.81,25.36,25.0,23,23
+italy,13/02/2021,England,Six Nations 2021,25.7,24.35,25.23,23,23
+italy,27/02/2021,Ireland,Six Nations 2021,26.21,24.93,25.77,23,23
+italy,13/03/2021,Wales,Six Nations 2021,25.19,26.89,25.78,23,23
+italy,20/03/2021,Scotland,Six Nations 2021,24.99,25.4,25.13,23,23
+italy,06/11/2021,New Zealand,Autumn Nations Series 2021,24.99,27.61,25.9,23,23
+italy,13/11/2021,Argentina,Autumn Nations Series 2021,25.32,26.36,25.68,23,23
+italy,20/11/2021,Uruguay,Autumn Nations Series 2021,27.12,27.11,27.12,22,23
+italy,06/02/2022,France,Six Nations 2022,25.05,25.38,25.17,23,23
+italy,13/02/2022,England,Six Nations 2022,25.5,25.06,25.35,23,23
+italy,27/02/2022,Ireland,Six Nations 2022,25.27,25.84,25.47,23,23
+italy,12/03/2022,Scotland,Six Nations 2022,26.06,26.39,26.17,23,23
+italy,19/03/2022,Wales,Six Nations 2022,26.37,26.3,26.35,23,23
+italy,25/06/2022,Portugal,Men's Internationals 2022,25.34,24.8,25.15,23,23
+italy,01/07/2022,Romania,Men's Internationals 2022,25.38,24.94,25.22,23,23
+italy,10/07/2022,Georgia,Men's Internationals 2022,25.82,24.95,25.52,23,23
+italy,05/11/2022,Samoa,Autumn Nations Series 2022,26.43,24.99,25.93,23,23
+italy,12/11/2022,Australia,Autumn Nations Series 2022,26.27,26.34,26.3,23,23
+italy,19/11/2022,South Africa,Tour 2022,26.71,24.77,26.04,23,23
+italy,05/02/2023,France,Six Nations 2023,26.27,28.0,26.87,23,23
+italy,12/02/2023,England,Six Nations 2023,26.26,27.41,26.66,23,23
+italy,25/02/2023,Ireland,Six Nations 2023,25.71,28.5,26.68,23,23
+italy,11/03/2023,Wales,Six Nations 2023,26.14,27.66,26.67,23,23
+italy,18/03/2023,Scotland,Six Nations 2023,26.26,26.45,26.33,23,23
+italy,29/07/2023,Scotland,Summer Nations Series 2023,27.69,23.84,26.35,23,23
+italy,05/08/2023,Ireland,Summer Nations Series 2023,26.05,26.6,26.24,23,23
+italy,19/08/2023,Romania,Summer Nations Series 2023,28.04,26.1,27.5,25,25
+italy,26/08/2023,Japan,Summer Nations Series 2023,27.07,27.09,27.08,23,23
+italy,09/09/2023,Namibia,Men's Rugby World Cup 2023,27.13,26.62,26.95,23,23
+italy,20/09/2023,Uruguay,Men's Rugby World Cup 2023,26.1,27.29,26.51,23,23
+italy,29/09/2023,New Zealand,Men's Rugby World Cup 2023,26.94,26.79,26.89,23,23
+italy,06/10/2023,France,Men's Rugby World Cup 2023,27.38,27.3,27.35,23,23
+italy,03/02/2024,England,Six Nations 2024,26.35,24.35,25.66,23,23
+italy,11/02/2024,Ireland,Six Nations 2024,25.7,25.27,25.55,23,23
+italy,25/02/2024,France,Six Nations 2024,25.71,24.26,25.21,23,23
+italy,09/03/2024,Scotland,Six Nations 2024,26.41,23.59,25.43,23,23
+italy,16/03/2024,Wales,Six Nations 2024,26.15,23.65,25.28,23,23
+italy,05/07/2024,Samoa,Men's Internationals 2024,26.09,24.52,25.55,23,23
+italy,12/07/2024,Tonga,Men's Internationals 2024,26.25,24.3,25.57,23,23
+italy,21/07/2024,Japan,Men's Internationals 2024,25.32,25.43,25.36,23,23
+italy,09/11/2024,Argentina,Autumn Nations Series 2024,26.46,27.26,26.74,23,23
+italy,17/11/2024,Georgia,Autumn Nations Series 2024,26.84,25.03,26.21,23,23
+italy,23/11/2024,New Zealand,Autumn Nations Series 2024,26.52,25.83,26.28,23,23
+italy,01/02/2025,Scotland,Six Nations 2025,27.92,24.38,26.69,23,23
+italy,08/02/2025,Wales,Six Nations 2025,27.93,24.52,26.75,23,23
+italy,23/02/2025,France,Six Nations 2025,27.26,24.91,26.44,23,23
+italy,09/03/2025,England,Six Nations 2025,27.29,26.25,26.93,23,23
+italy,15/03/2025,Ireland,Six Nations 2025,27.63,25.54,26.9,23,23
+italy,27/06/2025,Namibia,Men's Internationals 2025,25.97,23.97,25.28,23,23
+italy,05/07/2025,South Africa,Men's Internationals 2025,25.76,24.32,25.26,23,23
+italy,12/07/2025,South Africa,Men's Internationals 2025,25.7,24.73,25.36,23,23
+italy,08/11/2025,Australia,Autumn Nations Series 2025,26.95,27.22,27.05,23,23
+italy,15/11/2025,South Africa,Autumn Nations Series 2025,26.74,27.37,26.96,23,23
+italy,22/11/2025,Chile,Autumn Nations Series 2025,26.26,25.99,26.17,23,23
+italy,07/02/2026,Scotland,Six Nations 2026,27.39,25.59,26.76,23,23
+italy,14/02/2026,Ireland,Six Nations 2026,26.73,25.8,26.41,23,23
+italy,22/02/2026,France,Six Nations 2026,26.96,26.59,26.84,23,23
+italy,07/03/2026,England,Six Nations 2026,27.27,26.76,27.09,23,23
+italy,14/03/2026,Wales,Six Nations 2026,27.37,26.11,26.93,23,23
+italy,04/07/2026,Japan,Nations Championship 2026,26.61,26.14,26.44,23,23
+italy,11/07/2026,New Zealand,Nations Championship 2026,26.85,25.74,26.47,23,23
+italy,18/07/2026,Australia,Nations Championship 2026,27.22,26.13,26.84,23,23
+new_zealand,08/07/2015,Samoa,Men's Internationals 2015,29.85,26.76,28.78,23,23
+new_zealand,17/07/2015,Argentina,The Rugby Championship 2015,29.56,28.5,29.19,23,23
+new_zealand,25/07/2015,South Africa,The Rugby Championship 2015,29.08,26.77,28.28,23,23
+new_zealand,08/08/2015,Australia,The Rugby Championship 2015,29.6,25.11,28.04,23,23
+new_zealand,15/08/2015,Australia,The Rugby Championship 2015,29.39,27.92,28.88,23,23
+new_zealand,20/09/2015,Argentina,Men's Rugby World Cup 2015,29.75,28.52,29.33,23,23
+new_zealand,24/09/2015,Namibia,Men's Rugby World Cup 2015,27.02,32.03,28.76,23,23
+new_zealand,02/10/2015,Georgia,Men's Rugby World Cup 2015,29.48,27.93,28.94,23,23
+new_zealand,09/10/2015,Tonga,Men's Rugby World Cup 2015,29.37,29.55,29.44,23,23
+new_zealand,17/10/2015,France,Men's Rugby World Cup 2015,29.7,28.07,29.13,23,23
+new_zealand,24/10/2015,South Africa,Men's Rugby World Cup 2015,29.34,28.65,29.1,23,23
+new_zealand,31/10/2015,Australia,Men's Rugby World Cup 2015,29.36,28.67,29.12,23,23
+new_zealand,11/06/2016,Wales,Tour 2016,27.8,25.87,27.13,23,23
+new_zealand,18/06/2016,Wales,Tour 2016,27.79,25.89,27.13,23,23
+new_zealand,25/06/2016,Wales,Tour 2016,27.44,26.86,27.24,23,23
+new_zealand,20/08/2016,Australia,The Rugby Championship 2016,27.89,26.73,27.49,23,23
+new_zealand,27/08/2016,Australia,The Rugby Championship 2016,27.43,27.27,27.38,23,23
+new_zealand,10/09/2016,Argentina,The Rugby Championship 2016,27.91,27.0,27.59,23,23
+new_zealand,17/09/2016,South Africa,The Rugby Championship 2016,27.81,27.45,27.69,23,23
+new_zealand,01/10/2016,Argentina,The Rugby Championship 2016,26.63,26.49,26.58,23,23
+new_zealand,08/10/2016,South Africa,The Rugby Championship 2016,27.78,26.92,27.48,23,23
+new_zealand,22/10/2016,Australia,Bledisloe Cup 2016,27.87,27.02,27.58,23,23
+new_zealand,05/11/2016,Ireland,Tour 2016,27.7,25.39,26.9,23,23
+new_zealand,12/11/2016,Italy,Tour 2016,25.96,25.88,25.93,23,23
+new_zealand,19/11/2016,Ireland,Tour 2016,27.13,26.71,26.99,23,23
+new_zealand,26/11/2016,France,Tour 2016,27.64,26.39,27.21,23,23
+new_zealand,16/06/2017,Samoa,Men's Internationals 2017,27.87,26.35,27.34,23,23
+new_zealand,24/06/2017,British & Irish Lions,Tour 2017,28.42,26.7,27.82,23,23
+new_zealand,01/07/2017,British & Irish Lions,Tour 2017,27.67,26.96,27.43,23,23
+new_zealand,08/07/2017,British & Irish Lions,Tour 2017,27.23,27.1,27.19,23,23
+new_zealand,19/08/2017,Australia,The Rugby Championship 2017,27.58,26.9,27.34,23,23
+new_zealand,26/08/2017,Australia,The Rugby Championship 2017,27.63,25.36,26.84,23,23
+new_zealand,09/09/2017,Argentina,The Rugby Championship 2017,27.28,26.75,27.1,23,23
+new_zealand,16/09/2017,South Africa,The Rugby Championship 2017,27.39,26.12,26.95,23,23
+new_zealand,30/09/2017,Argentina,The Rugby Championship 2017,27.15,26.02,26.76,23,23
+new_zealand,07/10/2017,South Africa,The Rugby Championship 2017,27.28,27.19,27.25,23,23
+new_zealand,21/10/2017,Australia,Bledisloe Cup 2017,27.32,25.83,26.8,23,23
+new_zealand,04/11/2017,Barbarians,,26.3,26.06,26.22,23,23
+new_zealand,11/11/2017,France,Tour 2017,27.79,26.97,27.5,23,23
+new_zealand,14/11/2017,France XV,Tour 2017,25.86,23.11,24.9,23,23
+new_zealand,18/11/2017,Scotland,Tour 2017,27.52,27.2,27.41,23,23
+new_zealand,25/11/2017,Wales,Tour 2017,26.81,26.89,26.84,23,23
+new_zealand,09/06/2018,France,Tour 2018,27.11,25.37,26.5,23,23
+new_zealand,16/06/2018,France,Tour 2018,27.12,25.39,26.52,23,23
+new_zealand,23/06/2018,France,Tour 2018,27.16,25.83,26.7,23,23
+new_zealand,18/08/2018,Australia,The Rugby Championship 2018,28.19,25.6,27.29,23,23
+new_zealand,25/08/2018,Australia,The Rugby Championship 2018,27.91,25.16,26.95,23,23
+new_zealand,08/09/2018,Argentina,The Rugby Championship 2018,27.0,26.34,26.77,23,23
+new_zealand,15/09/2018,South Africa,The Rugby Championship 2018,27.43,26.13,26.98,23,23
+new_zealand,29/09/2018,Argentina,The Rugby Championship 2018,27.28,26.68,27.07,23,23
+new_zealand,06/10/2018,South Africa,The Rugby Championship 2018,28.32,26.06,27.54,23,23
+new_zealand,27/10/2018,Australia,Bledisloe Cup 2018,28.28,26.9,27.8,23,23
+new_zealand,03/11/2018,Japan,Tour 2018,25.98,25.37,25.77,23,23
+new_zealand,10/11/2018,England,Tour 2018,27.95,27.81,27.9,23,23
+new_zealand,17/11/2018,Ireland,Tour 2018,27.76,27.01,27.5,23,23
+new_zealand,24/11/2018,Italy,Tour 2018,26.5,24.95,25.96,23,23
+new_zealand,20/07/2019,Argentina,The Rugby Championship 2019,27.43,25.47,26.75,23,23
+new_zealand,27/07/2019,South Africa,The Rugby Championship 2019,28.98,27.18,28.35,23,23
+new_zealand,10/08/2019,Australia,The Rugby Championship 2019,28.48,27.25,28.05,23,23
+new_zealand,17/08/2019,Australia,Bledisloe Cup 2019,28.37,27.33,28.01,23,23
+new_zealand,07/09/2019,Tonga,Men's Internationals 2019,28.5,26.52,27.81,23,23
+new_zealand,21/09/2019,South Africa,Men's Rugby World Cup 2019,28.2,29.1,28.51,23,23
+new_zealand,02/10/2019,Canada,Men's Rugby World Cup 2019,27.48,29.23,28.09,23,23
+new_zealand,06/10/2019,Namibia,Men's Rugby World Cup 2019,27.27,28.38,27.65,23,23
+new_zealand,19/10/2019,Ireland,Men's Rugby World Cup 2019,27.7,29.0,28.16,23,23
+new_zealand,26/10/2019,England,Men's Rugby World Cup 2019,27.6,28.65,27.97,23,23
+new_zealand,01/11/2019,Wales,Men's Rugby World Cup 2019,29.34,27.27,28.62,23,23
+new_zealand,11/10/2020,Australia,Bledisloe Cup 2020,27.6,25.59,26.9,23,23
+new_zealand,18/10/2020,Australia,Bledisloe Cup 2020,27.28,26.5,27.01,23,23
+new_zealand,31/10/2020,Australia,The Rugby Championship 2020,27.45,26.43,27.1,23,23
+new_zealand,07/11/2020,Australia,The Rugby Championship 2020,27.24,24.4,26.25,23,23
+new_zealand,14/11/2020,Argentina,The Rugby Championship 2020,27.84,26.02,27.21,23,23
+new_zealand,28/11/2020,Argentina,The Rugby Championship 2020,28.03,25.96,27.31,23,23
+new_zealand,03/07/2021,Tonga,Men's Internationals 2021,27.22,26.69,27.04,23,23
+new_zealand,10/07/2021,Fiji,Men's Internationals 2021,27.54,26.9,27.32,23,23
+new_zealand,17/07/2021,Fiji,Men's Internationals 2021,27.62,27.6,27.61,23,23
+new_zealand,07/08/2021,Australia,Bledisloe Cup 2021,27.87,27.74,27.83,23,23
+new_zealand,14/08/2021,Australia,The Rugby Championship 2021,27.7,27.53,27.64,23,23
+new_zealand,05/09/2021,Australia,The Rugby Championship 2021,27.48,26.82,27.25,23,23
+new_zealand,12/09/2021,Argentina,The Rugby Championship 2021,26.81,26.26,26.62,23,23
+new_zealand,18/09/2021,Argentina,The Rugby Championship 2021,25.87,27.74,26.52,23,23
+new_zealand,25/09/2021,South Africa,The Rugby Championship 2021,27.88,26.69,27.47,23,23
+new_zealand,02/10/2021,South Africa,The Rugby Championship 2021,27.9,27.74,27.84,23,23
+new_zealand,23/10/2021,USA,Men's Internationals 2021,25.52,28.39,26.52,23,23
+new_zealand,30/10/2021,Wales,Autumn Nations Series 2021,28.16,26.2,27.48,23,23
+new_zealand,06/11/2021,Italy,Autumn Nations Series 2021,26.21,26.98,26.48,23,23
+new_zealand,13/11/2021,Ireland,Autumn Nations Series 2021,28.06,27.25,27.78,23,23
+new_zealand,20/11/2021,France,Autumn Nations Series 2021,28.6,27.16,28.1,23,23
+new_zealand,02/07/2022,Ireland,Men's Internationals 2022,28.72,27.35,28.24,23,23
+new_zealand,09/07/2022,Ireland,Men's Internationals 2022,28.14,27.02,27.75,23,23
+new_zealand,16/07/2022,Ireland,Men's Internationals 2022,29.08,27.79,28.63,23,23
+new_zealand,06/08/2022,South Africa,The Rugby Championship 2022,28.52,26.93,27.97,23,23
+new_zealand,13/08/2022,South Africa,The Rugby Championship 2022,27.62,26.89,27.36,23,23
+new_zealand,27/08/2022,Argentina,The Rugby Championship 2022,27.66,26.2,27.15,23,23
+new_zealand,03/09/2022,Argentina,The Rugby Championship 2022,27.68,28.28,27.89,23,23
+new_zealand,15/09/2022,Australia,The Rugby Championship 2022,27.57,27.8,27.65,23,23
+new_zealand,24/09/2022,Australia,The Rugby Championship 2022,28.09,26.9,27.68,23,23
+new_zealand,29/10/2022,Japan,Men's Internationals 2022,27.32,29.11,27.94,23,23
+new_zealand,05/11/2022,Wales,Autumn Nations Series 2022,28.2,26.98,27.77,23,23
+new_zealand,13/11/2022,Scotland,Autumn Nations Series 2022,27.64,27.31,27.53,23,23
+new_zealand,19/11/2022,England,Autumn Nations Series 2022,28.43,28.28,28.38,23,23
+new_zealand,08/07/2023,Argentina,The Rugby Championship 2023,28.5,28.41,28.47,23,23
+new_zealand,15/07/2023,South Africa,The Rugby Championship 2023,29.18,25.99,28.07,23,23
+new_zealand,29/07/2023,Australia,The Rugby Championship 2023,28.83,28.17,28.6,23,23
+new_zealand,05/08/2023,Australia,Bledisloe Cup 2023,27.99,28.67,28.23,23,23
+new_zealand,25/08/2023,South Africa,Men's Internationals 2023,29.54,24.47,27.78,23,23
+new_zealand,08/09/2023,France,Men's Rugby World Cup 2023,29.14,27.53,28.58,23,23
+new_zealand,15/09/2023,Namibia,Men's Rugby World Cup 2023,28.53,28.69,28.58,23,23
+new_zealand,29/09/2023,Italy,Men's Rugby World Cup 2023,29.71,29.24,29.55,23,23
+new_zealand,05/10/2023,Uruguay,Men's Rugby World Cup 2023,28.23,27.03,27.81,23,23
+new_zealand,14/10/2023,Ireland,Men's Rugby World Cup 2023,29.24,28.71,29.06,23,23
+new_zealand,20/10/2023,Argentina,Men's Rugby World Cup 2023,29.62,27.07,28.73,23,23
+new_zealand,28/10/2023,South Africa,Men's Rugby World Cup 2023,29.47,28.46,29.12,23,23
+new_zealand,06/07/2024,England,Men's Internationals 2024,28.73,28.32,28.58,23,23
+new_zealand,13/07/2024,England,Men's Internationals 2024,28.5,27.65,28.2,23,23
+new_zealand,19/07/2024,Fiji,Men's Internationals 2024,27.39,24.25,26.3,23,23
+new_zealand,10/08/2024,Argentina,The Rugby Championship 2024,28.7,25.84,27.71,23,23
+new_zealand,17/08/2024,Argentina,The Rugby Championship 2024,28.23,27.59,28.01,23,23
+new_zealand,31/08/2024,South Africa,The Rugby Championship 2024,29.1,26.77,28.29,23,23
+new_zealand,07/09/2024,South Africa,The Rugby Championship 2024,27.78,28.89,28.16,23,23
+new_zealand,21/09/2024,Australia,The Rugby Championship 2024,27.8,27.21,27.59,23,23
+new_zealand,28/09/2024,Australia,The Rugby Championship 2024,28.81,27.45,28.34,23,23
+new_zealand,26/10/2024,Japan,Men's Internationals 2024,27.07,26.43,26.85,23,23
+new_zealand,02/11/2024,England,Autumn Nations Series 2024,28.05,28.33,28.15,23,23
+new_zealand,08/11/2024,Ireland,Autumn Nations Series 2024,27.4,27.52,27.44,23,23
+new_zealand,16/11/2024,France,Autumn Nations Series 2024,27.61,27.85,27.7,23,23
+new_zealand,23/11/2024,Italy,Autumn Nations Series 2024,28.86,27.97,28.55,23,23
+new_zealand,05/07/2025,France,Men's Internationals 2025,28.15,26.95,27.73,23,23
+new_zealand,12/07/2025,France,Men's Internationals 2025,28.07,27.12,27.74,23,23
+new_zealand,19/07/2025,France,Men's Internationals 2025,27.8,27.41,27.66,23,23
+new_zealand,16/08/2025,Argentina,The Rugby Championship 2025,28.34,28.77,28.49,23,23
+new_zealand,23/08/2025,Argentina,The Rugby Championship 2025,28.15,26.79,27.67,23,23
+new_zealand,06/09/2025,South Africa,The Rugby Championship 2025,28.4,27.09,27.95,23,23
+new_zealand,13/09/2025,South Africa,The Rugby Championship 2025,27.9,26.38,27.37,23,23
+new_zealand,27/09/2025,Australia,Bledisloe Cup 2025,27.67,26.93,27.41,23,23
+new_zealand,04/10/2025,Australia,The Rugby Championship 2025,27.38,27.75,27.51,23,23
+new_zealand,01/11/2025,Ireland,Autumn Nations Series 2025,27.89,26.24,27.31,23,23
+new_zealand,08/11/2025,Scotland,Autumn Nations Series 2025,27.1,27.06,27.09,23,23
+new_zealand,15/11/2025,England,Autumn Nations Series 2025,28.07,26.67,27.52,23,23
+new_zealand,22/11/2025,Wales,Autumn Nations Series 2025,27.14,27.52,27.27,23,23
+new_zealand,04/07/2026,France,Nations Championship 2026,28.03,26.35,27.45,23,23
+new_zealand,11/07/2026,Italy,Nations Championship 2026,28.41,28.23,28.35,23,23
+new_zealand,18/07/2026,Ireland,Nations Championship 2026,29.08,26.91,28.33,23,23
+scotland,07/02/2015,France,Six Nations 2015,26.75,27.66,27.06,23,23
+scotland,15/02/2015,Wales,Six Nations 2015,27.11,27.23,27.15,23,23
+scotland,28/02/2015,Italy,Six Nations 2015,27.59,25.67,26.92,23,23
+scotland,14/03/2015,England,Six Nations 2015,26.77,26.73,26.76,23,23
+scotland,21/03/2015,Ireland,Six Nations 2015,26.44,27.21,26.71,23,23
+scotland,15/08/2015,Ireland,Men's Internationals 2015,27.8,26.98,27.51,23,23
+scotland,22/08/2015,Italy,Men's Internationals 2015,27.16,27.12,27.15,23,23
+scotland,29/08/2015,Italy,Men's Internationals 2015,27.15,26.95,27.08,23,23
+scotland,05/09/2015,France,Men's Internationals 2015,26.8,28.22,27.29,23,23
+scotland,23/09/2015,Japan,Men's Rugby World Cup 2015,26.96,27.42,27.12,23,23
+scotland,27/09/2015,USA,Men's Rugby World Cup 2015,27.06,27.84,27.33,23,23
+scotland,03/10/2015,South Africa,Men's Rugby World Cup 2015,26.84,28.79,27.52,23,23
+scotland,10/10/2015,Samoa,Men's Rugby World Cup 2015,26.56,28.56,27.25,23,23
+scotland,18/10/2015,Australia,Men's Rugby World Cup 2015,26.85,28.87,27.55,23,23
+scotland,06/02/2016,England,Six Nations 2016,27.06,25.87,26.64,23,23
+scotland,13/02/2016,Wales,Six Nations 2016,27.66,26.08,27.11,23,23
+scotland,27/02/2016,Italy,Six Nations 2016,27.32,27.85,27.51,23,23
+scotland,13/03/2016,France,Six Nations 2016,27.72,27.57,27.67,23,23
+scotland,19/03/2016,Ireland,Six Nations 2016,28.13,28.0,28.08,23,23
+scotland,18/06/2016,Japan,Tour 2016,27.23,27.43,27.3,23,23
+scotland,25/06/2016,Japan,Tour 2016,26.97,29.05,27.69,23,23
+scotland,12/11/2016,Australia,Tour 2016,26.49,27.24,26.75,23,23
+scotland,19/11/2016,Argentina,Tour 2016,25.61,28.34,26.56,23,23
+scotland,26/11/2016,Georgia,Tour 2016,26.27,26.88,26.48,23,23
+scotland,04/02/2017,Ireland,Six Nations 2017,26.3,27.84,26.83,23,23
+scotland,12/02/2017,France,Six Nations 2017,26.49,27.63,26.89,23,23
+scotland,25/02/2017,Wales,Six Nations 2017,26.49,27.11,26.71,23,23
+scotland,11/03/2017,England,Six Nations 2017,26.31,27.22,26.63,23,23
+scotland,18/03/2017,Italy,Six Nations 2017,26.61,26.89,26.71,23,23
+scotland,10/06/2017,Italy,Tour 2017,27.88,26.04,27.24,23,23
+scotland,17/06/2017,Australia,Tour 2017,26.52,29.31,27.49,23,23
+scotland,24/06/2017,Fiji,Tour 2017,28.31,26.37,27.64,23,23
+scotland,11/11/2017,Samoa,Tour 2017,27.07,26.47,26.86,23,23
+scotland,18/11/2017,New Zealand,Tour 2017,26.31,26.77,26.47,23,23
+scotland,25/11/2017,Australia,Tour 2017,27.12,27.01,27.08,23,23
+scotland,03/02/2018,Wales,Six Nations 2018,27.27,28.61,27.73,23,23
+scotland,11/02/2018,France,Six Nations 2018,27.89,27.37,27.71,23,23
+scotland,24/02/2018,England,Six Nations 2018,27.93,27.89,27.91,23,23
+scotland,10/03/2018,Ireland,Six Nations 2018,27.4,28.03,27.62,23,23
+scotland,17/03/2018,Italy,Six Nations 2018,28.4,25.68,27.46,23,23
+scotland,09/06/2018,Canada,Tour 2018,26.37,24.29,25.65,23,23
+scotland,16/06/2018,USA,Tour 2018,25.02,26.47,25.53,23,23
+scotland,23/06/2018,Argentina,Tour 2018,26.38,24.57,25.75,23,23
+scotland,03/11/2018,Wales,Doddie Weir Cup 2018,26.72,25.8,26.4,23,23
+scotland,10/11/2018,Fiji,Tour 2018,27.76,26.63,27.37,23,23
+scotland,17/11/2018,South Africa,Tour 2018,28.3,26.73,27.75,23,23
+scotland,24/11/2018,Argentina,Tour 2018,26.89,27.79,27.2,23,23
+scotland,02/02/2019,Italy,Six Nations 2019,27.29,26.41,26.98,23,23
+scotland,09/02/2019,Ireland,Six Nations 2019,27.98,26.49,27.46,23,23
+scotland,23/02/2019,France,Six Nations 2019,27.57,25.38,26.81,23,23
+scotland,09/03/2019,Wales,Six Nations 2019,26.88,28.71,27.52,23,23
+scotland,16/03/2019,England,Six Nations 2019,27.03,28.94,27.7,23,23
+scotland,17/08/2019,France,Men's Internationals 2019,27.52,24.64,26.52,23,23
+scotland,24/08/2019,France,Men's Internationals 2019,29.03,26.63,28.19,23,23
+scotland,31/08/2019,Georgia,Men's Internationals 2019,27.64,25.57,26.92,23,23
+scotland,06/09/2019,Georgia,Men's Internationals 2019,26.33,26.89,26.52,23,23
+scotland,22/09/2019,Ireland,Men's Rugby World Cup 2019,29.51,27.57,28.84,23,23
+scotland,30/09/2019,Samoa,Men's Rugby World Cup 2019,27.83,27.15,27.59,23,23
+scotland,09/10/2019,Russia,Men's Rugby World Cup 2019,27.42,28.37,27.75,23,23
+scotland,13/10/2019,Japan,Men's Rugby World Cup 2019,27.95,26.99,27.62,23,23
+scotland,01/02/2020,Ireland,Six Nations 2020,26.48,28.21,27.08,23,23
+scotland,08/02/2020,England,Six Nations 2020,26.16,27.72,26.71,23,23
+scotland,22/02/2020,Italy,Six Nations 2020,26.45,27.87,26.95,23,23
+scotland,08/03/2020,France,Six Nations 2020,27.01,27.6,27.22,23,23
+scotland,23/10/2020,Georgia,Men's Internationals 2020,26.1,29.01,27.12,23,23
+scotland,31/10/2020,Wales,Six Nations 2020,26.97,27.93,27.3,23,23
+scotland,14/11/2020,Italy,Autumn Nations Cup 2020,27.25,27.97,27.5,23,23
+scotland,22/11/2020,France,Autumn Nations Cup 2020,27.22,28.33,27.61,23,23
+scotland,05/12/2020,Ireland,Autumn Nations Cup 2020,27.0,29.78,27.97,23,23
+scotland,06/02/2021,England,Six Nations 2021,26.89,29.39,27.76,23,23
+scotland,13/02/2021,Wales,Six Nations 2021,27.02,29.41,27.85,23,23
+scotland,14/03/2021,Ireland,Six Nations 2021,28.07,28.46,28.21,23,23
+scotland,20/03/2021,Italy,Six Nations 2021,27.39,28.24,27.69,23,23
+scotland,26/03/2021,France,Six Nations 2021,27.76,28.06,27.86,23,23
+scotland,30/10/2021,Tonga,Autumn Nations Series 2021,26.4,26.15,26.31,23,23
+scotland,07/11/2021,Australia,Autumn Nations Series 2021,27.74,25.79,27.06,23,23
+scotland,13/11/2021,South Africa,Autumn Nations Series 2021,27.97,26.17,27.35,23,23
+scotland,20/11/2021,Japan,Autumn Nations Series 2021,27.75,26.3,27.25,23,23
+scotland,05/02/2022,England,Six Nations 2022,28.16,27.78,28.02,23,23
+scotland,12/02/2022,Wales,Six Nations 2022,28.71,25.53,27.61,23,23
+scotland,26/02/2022,France,Six Nations 2022,27.97,27.46,27.8,23,23
+scotland,12/03/2022,Italy,Six Nations 2022,27.93,28.18,28.02,23,23
+scotland,19/03/2022,Ireland,Six Nations 2022,27.72,29.09,28.2,23,23
+scotland,02/07/2022,Argentina,Men's Internationals 2022,27.47,25.3,26.72,23,23
+scotland,09/07/2022,Argentina,Men's Internationals 2022,27.28,26.52,27.02,23,23
+scotland,16/07/2022,Argentina,Men's Internationals 2022,26.05,27.27,26.47,23,23
+scotland,29/10/2022,Australia,Autumn Nations Series 2022,27.62,29.01,28.1,23,23
+scotland,05/11/2022,Fiji,Autumn Nations Series 2022,28.39,26.13,27.6,23,23
+scotland,13/11/2022,New Zealand,Autumn Nations Series 2022,29.09,28.34,28.83,23,23
+scotland,19/11/2022,Argentina,Autumn Nations Series 2022,28.64,25.91,27.69,23,23
+scotland,04/02/2023,England,Six Nations 2023,29.07,29.85,29.34,23,23
+scotland,11/02/2023,Wales,Six Nations 2023,28.44,30.45,29.14,23,23
+scotland,26/02/2023,France,Six Nations 2023,28.85,30.22,29.33,23,23
+scotland,12/03/2023,Ireland,Six Nations 2023,28.48,30.17,29.07,23,23
+scotland,18/03/2023,Italy,Six Nations 2023,27.76,27.27,27.59,23,23
+scotland,29/07/2023,Italy,Summer Nations Series 2023,27.08,26.68,26.94,23,23
+scotland,05/08/2023,France,Summer Nations Series 2023,28.42,28.09,28.3,23,23
+scotland,12/08/2023,France,Summer Nations Series 2023,29.71,28.16,29.17,23,23
+scotland,26/08/2023,Georgia,Summer Nations Series 2023,28.98,27.54,28.48,23,23
+scotland,10/09/2023,South Africa,Men's Rugby World Cup 2023,28.58,28.64,28.6,23,23
+scotland,24/09/2023,Tonga,Men's Rugby World Cup 2023,28.74,28.56,28.68,23,23
+scotland,30/09/2023,Romania,Men's Rugby World Cup 2023,27.89,29.26,28.36,23,23
+scotland,07/10/2023,Ireland,Men's Rugby World Cup 2023,28.99,27.77,28.57,23,23
+scotland,03/02/2024,Wales,Six Nations 2024,28.62,27.82,28.34,23,23
+scotland,10/02/2024,France,Six Nations 2024,28.05,27.22,27.76,23,23
+scotland,24/02/2024,England,Six Nations 2024,28.78,27.26,28.25,23,23
+scotland,09/03/2024,Italy,Six Nations 2024,28.66,28.22,28.51,23,23
+scotland,16/03/2024,Ireland,Six Nations 2024,28.6,27.38,28.17,23,23
+scotland,06/07/2024,Canada,Men's Internationals 2024,25.92,26.25,26.03,23,23
+scotland,12/07/2024,USA,Men's Internationals 2024,27.54,26.32,27.12,23,23
+scotland,20/07/2024,Chile,Men's Internationals 2024,25.95,25.77,25.88,23,23
+scotland,27/07/2024,Uruguay,Men's Internationals 2024,26.59,26.44,26.54,23,23
+scotland,02/11/2024,Fiji,Autumn Nations Series 2024,28.62,26.21,27.78,23,23
+scotland,10/11/2024,South Africa,Autumn Nations Series 2024,28.56,27.27,28.11,23,23
+scotland,16/11/2024,Portugal,Autumn Nations Series 2024,26.56,26.85,26.66,23,23
+scotland,24/11/2024,Australia,Autumn Nations Series 2024,28.52,27.6,28.2,23,23
+scotland,01/02/2025,Italy,Six Nations 2025,29.44,27.54,28.78,23,23
+scotland,09/02/2025,Ireland,Six Nations 2025,29.7,26.75,28.67,23,23
+scotland,22/02/2025,England,Six Nations 2025,29.7,26.63,28.63,23,23
+scotland,08/03/2025,Wales,Six Nations 2025,29.78,27.18,28.88,23,23
+scotland,15/03/2025,France,Six Nations 2025,29.03,26.05,27.99,23,23
+scotland,05/07/2025,Maori All Blacks,Men's Internationals 2025,26.42,26.47,26.44,23,23
+scotland,12/07/2025,Fiji,Men's Internationals 2025,28.14,28.21,28.17,23,23
+scotland,18/07/2025,Samoa,Men's Internationals 2025,28.05,27.57,27.88,23,23
+scotland,01/11/2025,USA,Autumn Nations Series 2025,27.65,26.42,27.23,23,23
+scotland,08/11/2025,New Zealand,Autumn Nations Series 2025,29.57,28.86,29.32,23,23
+scotland,16/11/2025,Argentina,Autumn Nations Series 2025,29.62,29.11,29.42,23,23
+scotland,23/11/2025,Tonga,Autumn Nations Series 2025,28.12,27.96,28.07,23,23
+scotland,07/02/2026,Italy,Six Nations 2026,29.6,28.93,29.37,23,23
+scotland,14/02/2026,England,Six Nations 2026,29.24,30.05,29.52,23,23
+scotland,21/02/2026,Wales,Six Nations 2026,29.21,31.2,29.9,23,23
+scotland,07/03/2026,France,Six Nations 2026,29.89,29.09,29.62,23,23
+scotland,14/03/2026,Ireland,Six Nations 2026,30.19,29.57,29.98,23,23
+scotland,04/07/2026,Argentina,Nations Championship 2026,29.5,28.03,28.99,23,23
+scotland,11/07/2026,South Africa,Nations Championship 2026,29.19,28.14,28.83,23,23
+scotland,18/07/2026,Fiji,Nations Championship 2026,28.11,27.59,27.93,23,23
+south_africa,18/07/2015,Australia,The Rugby Championship 2015,28.47,26.38,27.74,23,23
+south_africa,25/07/2015,New Zealand,The Rugby Championship 2015,27.65,27.07,27.45,23,23
+south_africa,08/08/2015,Argentina,The Rugby Championship 2015,27.28,25.92,26.81,23,23
+south_africa,15/08/2015,Argentina,The Rugby Championship 2015,28.64,26.4,27.86,23,23
+south_africa,19/09/2015,Japan,Men's Rugby World Cup 2015,29.78,26.88,28.77,23,23
+south_africa,26/09/2015,Samoa,Men's Rugby World Cup 2015,29.88,26.31,28.64,23,23
+south_africa,03/10/2015,Scotland,Men's Rugby World Cup 2015,28.09,26.8,27.64,23,23
+south_africa,07/10/2015,USA,Men's Rugby World Cup 2015,27.56,27.73,27.62,23,23
+south_africa,17/10/2015,Wales,Men's Rugby World Cup 2015,27.58,27.87,27.68,23,23
+south_africa,24/10/2015,New Zealand,Men's Rugby World Cup 2015,27.6,29.8,28.36,23,23
+south_africa,30/10/2015,Argentina,Men's Rugby World Cup 2015,28.52,27.19,28.06,23,23
+south_africa,11/06/2016,Ireland,Tour 2016,27.35,25.86,26.83,23,23
+south_africa,18/06/2016,Ireland,Tour 2016,27.4,27.32,27.37,23,23
+south_africa,25/06/2016,Ireland,Tour 2016,27.08,27.25,27.14,23,23
+south_africa,20/08/2016,Argentina,The Rugby Championship 2016,27.38,25.69,26.79,23,23
+south_africa,27/08/2016,Argentina,The Rugby Championship 2016,27.36,26.44,27.04,23,23
+south_africa,10/09/2016,Australia,The Rugby Championship 2016,27.55,26.86,27.31,23,23
+south_africa,17/09/2016,New Zealand,The Rugby Championship 2016,27.45,27.2,27.36,23,23
+south_africa,01/10/2016,Australia,The Rugby Championship 2016,28.16,27.01,27.76,23,23
+south_africa,08/10/2016,New Zealand,The Rugby Championship 2016,28.18,27.03,27.78,23,23
+south_africa,05/11/2016,Barbarians,Tour 2016,25.12,25.62,25.29,23,23
+south_africa,12/11/2016,England,Tour 2016,27.45,26.08,26.97,23,23
+south_africa,19/11/2016,Italy,Tour 2016,27.71,25.77,27.04,23,23
+south_africa,26/11/2016,Wales,Tour 2016,26.53,25.46,26.16,23,23
+south_africa,10/06/2017,France,Tour 2017,26.38,26.33,26.36,23,23
+south_africa,17/06/2017,France,Tour 2017,26.77,26.35,26.62,23,23
+south_africa,24/06/2017,France,Tour 2017,26.07,26.53,26.23,23,23
+south_africa,19/08/2017,Argentina,The Rugby Championship 2017,26.6,25.34,26.16,23,23
+south_africa,26/08/2017,Argentina,The Rugby Championship 2017,26.71,25.19,26.18,23,23
+south_africa,09/09/2017,Australia,The Rugby Championship 2017,26.54,25.77,26.27,23,23
+south_africa,16/09/2017,New Zealand,The Rugby Championship 2017,26.27,25.99,26.17,23,23
+south_africa,30/09/2017,Australia,The Rugby Championship 2017,26.9,26.24,26.67,23,23
+south_africa,07/10/2017,New Zealand,The Rugby Championship 2017,26.19,26.17,26.18,23,23
+south_africa,11/11/2017,Ireland,Tour 2017,26.91,26.13,26.64,23,23
+south_africa,18/11/2017,France,Tour 2017,26.79,26.5,26.69,23,23
+south_africa,25/11/2017,Italy,Tour 2017,26.96,26.63,26.84,23,23
+south_africa,02/12/2017,Wales,Tour 2017,25.05,27.09,25.76,23,23
+south_africa,02/06/2018,Wales,Men's Internationals 2018,25.09,24.45,24.87,23,23
+south_africa,09/06/2018,England,Tour 2018,26.25,25.14,25.86,23,23
+south_africa,16/06/2018,England,Tour 2018,26.69,24.34,25.87,23,23
+south_africa,23/06/2018,England,Tour 2018,26.68,26.11,26.48,23,23
+south_africa,18/08/2018,Argentina,The Rugby Championship 2018,27.34,24.7,26.42,23,23
+south_africa,25/08/2018,Argentina,The Rugby Championship 2018,27.47,24.95,26.59,23,23
+south_africa,08/09/2018,Australia,The Rugby Championship 2018,27.21,26.12,26.83,23,23
+south_africa,15/09/2018,New Zealand,The Rugby Championship 2018,26.54,28.0,27.04,23,23
+south_africa,29/09/2018,Australia,The Rugby Championship 2018,26.48,24.41,25.76,23,23
+south_africa,06/10/2018,New Zealand,The Rugby Championship 2018,26.75,26.07,26.51,23,23
+south_africa,03/11/2018,England,Tour 2018,25.99,24.96,25.63,23,23
+south_africa,10/11/2018,France,Tour 2018,26.9,26.51,26.76,23,23
+south_africa,17/11/2018,Scotland,Tour 2018,26.06,27.02,26.39,23,23
+south_africa,24/11/2018,Wales,Tour 2018,26.31,26.44,26.36,23,23
+south_africa,20/07/2019,Australia,The Rugby Championship 2019,27.81,29.99,28.57,23,23
+south_africa,27/07/2019,New Zealand,The Rugby Championship 2019,27.64,29.03,28.12,23,23
+south_africa,10/08/2019,Argentina,The Rugby Championship 2019,28.47,27.59,28.16,23,23
+south_africa,17/08/2019,Argentina,Men's Internationals 2019,27.56,27.46,27.53,23,23
+south_africa,06/09/2019,Japan,Men's Internationals 2019,27.88,29.15,28.32,23,23
+south_africa,21/09/2019,New Zealand,Men's Rugby World Cup 2019,27.92,29.19,28.36,23,23
+south_africa,28/09/2019,Namibia,Men's Rugby World Cup 2019,28.72,27.56,28.32,23,23
+south_africa,04/10/2019,Italy,Men's Rugby World Cup 2019,28.49,28.26,28.41,23,23
+south_africa,08/10/2019,Canada,Men's Rugby World Cup 2019,28.24,26.96,27.79,23,23
+south_africa,20/10/2019,Japan,Men's Rugby World Cup 2019,28.54,28.31,28.46,23,23
+south_africa,27/10/2019,Wales,Men's Rugby World Cup 2019,28.4,28.33,28.38,23,23
+south_africa,02/11/2019,England,Men's Rugby World Cup 2019,28.57,28.34,28.49,23,23
+south_africa,02/07/2021,Georgia,Men's Internationals 2021,29.57,27.5,28.85,23,23
+south_africa,24/07/2021,British & Irish Lions,Tour 2021,29.43,28.31,29.04,23,23
+south_africa,31/07/2021,British & Irish Lions,Tour 2021,29.4,27.73,28.82,23,23
+south_africa,07/08/2021,British & Irish Lions,Tour 2021,29.51,28.81,29.26,23,23
+south_africa,14/08/2021,Argentina,The Rugby Championship 2021,27.88,28.72,28.17,23,23
+south_africa,21/08/2021,Argentina,The Rugby Championship 2021,29.13,27.1,28.43,23,23
+south_africa,12/09/2021,Australia,The Rugby Championship 2021,29.96,26.72,28.84,23,23
+south_africa,18/09/2021,Australia,The Rugby Championship 2021,30.16,27.17,29.12,23,23
+south_africa,25/09/2021,New Zealand,The Rugby Championship 2021,30.01,29.53,29.85,23,23
+south_africa,02/10/2021,New Zealand,The Rugby Championship 2021,29.74,29.53,29.67,23,23
+south_africa,06/11/2021,Wales,Autumn Nations Series 2021,29.09,30.4,29.54,23,23
+south_africa,13/11/2021,Scotland,Autumn Nations Series 2021,30.06,29.71,29.94,23,23
+south_africa,20/11/2021,England,Autumn Nations Series 2021,30.12,29.66,29.96,23,23
+south_africa,02/07/2022,Wales,Men's Internationals 2022,29.72,28.23,29.21,23,23
+south_africa,09/07/2022,Wales,Men's Internationals 2022,27.71,28.25,27.9,23,23
+south_africa,16/07/2022,Wales,Men's Internationals 2022,29.26,29.75,29.43,23,23
+south_africa,06/08/2022,New Zealand,The Rugby Championship 2022,29.47,29.38,29.44,23,23
+south_africa,13/08/2022,New Zealand,The Rugby Championship 2022,29.2,29.75,29.39,23,23
+south_africa,27/08/2022,Australia,The Rugby Championship 2022,29.72,30.23,29.9,23,23
+south_africa,03/09/2022,Australia,The Rugby Championship 2022,28.78,32.12,29.94,23,23
+south_africa,17/09/2022,Argentina,The Rugby Championship 2022,28.82,30.44,29.38,23,23
+south_africa,24/09/2022,Argentina,The Rugby Championship 2022,29.45,30.75,29.9,23,23
+south_africa,05/11/2022,Ireland,Autumn Nations Series 2022,28.98,31.69,29.92,23,23
+south_africa,12/11/2022,France,Autumn Nations Series 2022,29.92,31.0,30.3,23,23
+south_africa,19/11/2022,Italy,Tour 2022,29.32,29.16,29.27,23,23
+south_africa,26/11/2022,England,Autumn Nations Series 2022,29.71,26.44,28.57,23,23
+south_africa,08/07/2023,Australia,The Rugby Championship 2023,30.14,28.75,29.66,23,23
+south_africa,15/07/2023,New Zealand,The Rugby Championship 2023,30.92,29.99,30.6,23,23
+south_africa,29/07/2023,Argentina,The Rugby Championship 2023,30.4,30.69,30.5,23,23
+south_africa,05/08/2023,Argentina,Men's Internationals 2023,30.03,27.87,29.28,23,23
+south_africa,19/08/2023,Wales,Summer Nations Series 2023,29.2,30.54,29.66,23,23
+south_africa,25/08/2023,New Zealand,Men's Internationals 2023,30.12,30.67,30.31,23,23
+south_africa,10/09/2023,Scotland,Men's Rugby World Cup 2023,30.06,31.27,30.48,23,23
+south_africa,17/09/2023,Romania,Men's Rugby World Cup 2023,30.05,30.78,30.34,23,23
+south_africa,23/09/2023,Ireland,Men's Rugby World Cup 2023,30.33,31.28,30.66,23,23
+south_africa,01/10/2023,Tonga,Men's Rugby World Cup 2023,31.13,29.58,30.59,23,23
+south_africa,15/10/2023,France,Men's Rugby World Cup 2023,31.12,31.71,31.33,23,23
+south_africa,21/10/2023,England,Men's Rugby World Cup 2023,31.14,31.73,31.34,23,23
+south_africa,28/10/2023,New Zealand,Men's Rugby World Cup 2023,31.27,31.42,31.32,23,23
+south_africa,22/06/2024,Wales,Men's Internationals 2024,30.09,28.41,29.51,23,23
+south_africa,06/07/2024,Ireland,Men's Internationals 2024,31.85,28.32,30.62,23,23
+south_africa,13/07/2024,Ireland,Men's Internationals 2024,31.87,28.33,30.64,23,23
+south_africa,20/07/2024,Portugal,Men's Internationals 2024,28.11,25.25,27.12,23,23
+south_africa,10/08/2024,Australia,The Rugby Championship 2024,30.61,29.61,30.26,23,23
+south_africa,17/08/2024,Australia,The Rugby Championship 2024,27.97,30.4,28.81,23,23
+south_africa,31/08/2024,New Zealand,The Rugby Championship 2024,29.92,29.95,29.93,23,23
+south_africa,07/09/2024,New Zealand,The Rugby Championship 2024,30.61,28.26,29.79,23,23
+south_africa,21/09/2024,Argentina,The Rugby Championship 2024,29.43,28.28,29.03,23,23
+south_africa,28/09/2024,Argentina,The Rugby Championship 2024,30.06,30.57,30.24,23,23
+south_africa,10/11/2024,Scotland,Autumn Nations Series 2024,30.26,30.67,30.4,23,23
+south_africa,16/11/2024,England,Autumn Nations Series 2024,30.45,30.71,30.54,23,23
+south_africa,23/11/2024,Wales,Autumn Nations Series 2024,29.32,29.98,29.55,23,23
+south_africa,28/06/2025,Barbarians,Men's Internationals 2025,29.47,30.77,29.93,23,23
+south_africa,05/07/2025,Italy,Men's Internationals 2025,30.43,32.58,31.18,23,23
+south_africa,12/07/2025,Italy,Men's Internationals 2025,30.0,26.91,28.93,23,23
+south_africa,19/07/2025,Georgia,Men's Internationals 2025,29.31,31.87,30.2,23,23
+south_africa,16/08/2025,Australia,The Rugby Championship 2025,30.8,30.22,30.6,23,23
+south_africa,23/08/2025,Australia,The Rugby Championship 2025,30.27,30.61,30.39,23,23
+south_africa,06/09/2025,New Zealand,The Rugby Championship 2025,31.11,28.82,30.31,23,23
+south_africa,13/09/2025,New Zealand,The Rugby Championship 2025,29.35,29.46,29.39,23,23
+south_africa,27/09/2025,Argentina,The Rugby Championship 2025,29.76,29.53,29.68,23,23
+south_africa,04/10/2025,Argentina,The Rugby Championship 2025,29.9,30.3,30.04,23,23
+south_africa,01/11/2025,Japan,Men's Internationals 2025,30.36,29.57,30.08,23,23
+south_africa,08/11/2025,France,Autumn Nations Series 2025,31.27,29.38,30.61,23,23
+south_africa,15/11/2025,Italy,Autumn Nations Series 2025,28.64,29.97,29.1,23,23
+south_africa,22/11/2025,Ireland,Autumn Nations Series 2025,30.51,30.06,30.35,23,23
+south_africa,29/11/2025,Wales,Autumn Nations Series 2025,29.21,30.43,29.63,23,23
+south_africa,20/06/2026,Barbarians,Men's Internationals 2026,30.07,25.96,28.64,23,23
+south_africa,04/07/2026,England,Nations Championship 2026,30.49,28.02,29.52,23,23
+south_africa,11/07/2026,Scotland,Nations Championship 2026,29.0,26.57,28.15,23,23
+south_africa,18/07/2026,Wales,Nations Championship 2026,29.3,28.58,29.05,23,23
+wales,06/02/2015,England,Six Nations 2015,26.58,28.73,27.32,23,23
+wales,15/02/2015,Scotland,Six Nations 2015,27.1,28.41,27.56,23,23
+wales,28/02/2015,France,Six Nations 2015,26.82,28.94,27.55,23,23
+wales,14/03/2015,Ireland,Six Nations 2015,26.85,27.18,26.97,23,23
+wales,21/03/2015,Italy,Six Nations 2015,26.55,26.1,26.39,23,23
+wales,08/08/2015,Ireland,Men's Internationals 2015,25.6,24.8,25.32,23,23
+wales,29/08/2015,Ireland,Men's Internationals 2015,27.04,27.73,27.28,23,23
+wales,05/09/2015,Italy,Men's Internationals 2015,26.24,27.46,26.66,23,23
+wales,20/09/2015,Uruguay,Men's Rugby World Cup 2015,26.04,26.24,26.11,23,23
+wales,26/09/2015,England,Men's Rugby World Cup 2015,26.51,27.45,26.84,23,23
+wales,01/10/2015,Fiji,Men's Rugby World Cup 2015,26.43,28.06,26.99,23,23
+wales,10/10/2015,Australia,Men's Rugby World Cup 2015,26.81,26.54,26.72,23,23
+wales,17/10/2015,South Africa,Men's Rugby World Cup 2015,26.75,28.2,27.25,23,23
+wales,07/02/2016,Ireland,Six Nations 2016,26.89,28.3,27.38,23,23
+wales,13/02/2016,Scotland,Six Nations 2016,26.9,28.18,27.35,23,23
+wales,26/02/2016,France,Six Nations 2016,26.59,27.46,26.89,23,23
+wales,12/03/2016,England,Six Nations 2016,26.63,28.47,27.27,23,23
+wales,19/03/2016,Italy,Six Nations 2016,26.58,27.59,26.93,23,23
+wales,29/05/2016,England,Men's Internationals 2016,25.83,27.73,26.49,23,23
+wales,11/06/2016,New Zealand,Tour 2016,27.14,25.11,26.43,23,23
+wales,14/06/2016,Chiefs,Tour 2016,26.37,26.63,26.46,23,23
+wales,18/06/2016,New Zealand,Tour 2016,27.34,26.22,26.95,23,23
+wales,25/06/2016,New Zealand,Tour 2016,26.64,26.35,26.54,23,23
+wales,05/11/2016,Australia,Tour 2016,28.13,24.73,26.95,23,23
+wales,12/11/2016,Argentina,Tour 2016,27.95,26.05,27.29,23,23
+wales,19/11/2016,Japan,Tour 2016,27.04,25.11,26.37,23,23
+wales,26/11/2016,South Africa,Tour 2016,28.04,25.75,27.25,23,23
+wales,05/02/2017,Italy,Six Nations 2017,26.81,26.22,26.6,23,23
+wales,11/02/2017,England,Six Nations 2017,27.13,25.88,26.7,23,23
+wales,25/02/2017,Scotland,Six Nations 2017,27.04,27.03,27.03,23,23
+wales,10/03/2017,Ireland,Six Nations 2017,27.07,27.06,27.07,23,23
+wales,18/03/2017,France,Six Nations 2017,27.09,27.09,27.09,23,23
+wales,16/06/2017,Tonga,Tour 2017,25.86,23.76,25.13,23,23
+wales,23/06/2017,Samoa,Tour 2017,24.36,25.1,24.62,23,23
+wales,11/11/2017,Australia,Tour 2017,27.6,24.18,26.41,23,23
+wales,18/11/2017,Georgia,Men's Internationals 2017,25.51,26.01,25.68,23,23
+wales,25/11/2017,New Zealand,Tour 2017,27.35,27.31,27.33,23,23
+wales,02/12/2017,South Africa,Tour 2017,27.39,25.2,26.63,23,23
+wales,03/02/2018,Scotland,Six Nations 2018,27.13,26.1,26.77,23,23
+wales,10/02/2018,England,Six Nations 2018,26.99,26.0,26.65,23,23
+wales,24/02/2018,Ireland,Six Nations 2018,27.7,26.72,27.36,23,23
+wales,11/03/2018,Italy,Six Nations 2018,26.46,26.21,26.38,23,23
+wales,17/03/2018,France,Six Nations 2018,28.05,26.39,27.47,23,23
+wales,02/06/2018,South Africa,Men's Internationals 2018,24.78,25.09,24.89,23,23
+wales,09/06/2018,Argentina,Tour 2018,25.31,24.91,25.17,23,23
+wales,16/06/2018,Argentina,Tour 2018,24.99,26.19,25.41,23,23
+wales,03/11/2018,Scotland,Doddie Weir Cup 2018,28.27,23.43,26.59,23,23
+wales,10/11/2018,Australia,Tour 2018,28.08,25.86,27.31,23,23
+wales,17/11/2018,Tonga,Men's Internationals 2018,24.62,25.47,24.92,23,23
+wales,24/11/2018,South Africa,Tour 2018,27.6,24.66,26.58,23,23
+wales,01/02/2019,France,Six Nations 2019,27.79,25.8,27.1,23,23
+wales,09/02/2019,Italy,Six Nations 2019,26.01,26.62,26.22,23,23
+wales,23/02/2019,England,Six Nations 2019,28.4,24.48,27.04,23,23
+wales,09/03/2019,Scotland,Six Nations 2019,28.18,25.09,27.1,23,23
+wales,16/03/2019,Ireland,Six Nations 2019,28.2,25.11,27.12,23,23
+wales,11/08/2019,England,Men's Internationals 2019,28.02,27.04,27.68,23,23
+wales,17/08/2019,England,Men's Internationals 2019,28.52,26.27,27.74,23,23
+wales,31/08/2019,Ireland,Men's Internationals 2019,26.16,25.48,25.93,23,23
+wales,07/09/2019,Ireland,Men's Internationals 2019,27.79,27.69,27.75,23,23
+wales,23/09/2019,Georgia,Men's Rugby World Cup 2019,28.91,26.77,28.16,23,23
+wales,29/09/2019,Australia,Men's Rugby World Cup 2019,28.92,25.8,27.84,23,23
+wales,09/10/2019,Fiji,Men's Rugby World Cup 2019,29.1,24.92,27.65,23,23
+wales,13/10/2019,Uruguay,Men's Rugby World Cup 2019,26.93,26.45,26.77,23,23
+wales,20/10/2019,France,Men's Rugby World Cup 2019,28.41,25.31,27.33,23,23
+wales,27/10/2019,South Africa,Men's Rugby World Cup 2019,28.93,25.19,27.63,23,23
+wales,01/11/2019,New Zealand,Men's Rugby World Cup 2019,26.82,28.37,27.36,23,23
+wales,30/11/2019,Barbarians,Men's Internationals 2019,27.33,25.26,26.61,23,23
+wales,01/02/2020,Italy,Six Nations 2020,28.73,26.19,27.84,23,23
+wales,08/02/2020,Ireland,Six Nations 2020,28.45,25.34,27.37,23,23
+wales,22/02/2020,France,Six Nations 2020,29.01,25.66,27.85,23,23
+wales,07/03/2020,England,Six Nations 2020,29.01,27.1,28.35,23,23
+wales,24/10/2020,France,Men's Internationals 2020,28.76,26.5,27.98,23,23
+wales,31/10/2020,Scotland,Six Nations 2020,28.61,27.29,28.15,23,23
+wales,13/11/2020,Ireland,Autumn Nations Cup 2020,28.73,27.56,28.32,23,23
+wales,21/11/2020,Georgia,Autumn Nations Cup 2020,26.27,27.3,26.63,23,23
+wales,28/11/2020,England,Autumn Nations Cup 2020,27.51,26.46,27.15,23,23
+wales,05/12/2020,Italy,Autumn Nations Cup 2020,27.96,26.25,27.37,23,23
+wales,07/02/2021,Ireland,Six Nations 2021,29.08,27.7,28.6,23,23
+wales,13/02/2021,Scotland,Six Nations 2021,28.78,26.74,28.07,23,23
+wales,27/02/2021,England,Six Nations 2021,29.25,27.39,28.6,23,23
+wales,13/03/2021,Italy,Six Nations 2021,29.91,26.88,28.85,23,23
+wales,20/03/2021,France,Six Nations 2021,29.66,26.61,28.6,23,23
+wales,03/07/2021,Canada,Men's Internationals 2021,27.0,26.08,26.68,23,23
+wales,10/07/2021,Argentina,Men's Internationals 2021,26.64,26.51,26.6,23,23
+wales,17/07/2021,Argentina,Men's Internationals 2021,26.57,27.19,26.78,23,23
+wales,30/10/2021,New Zealand,Autumn Nations Series 2021,27.93,27.97,27.94,23,23
+wales,06/11/2021,South Africa,Autumn Nations Series 2021,27.22,27.88,27.45,23,23
+wales,14/11/2021,Fiji,Autumn Nations Series 2021,27.23,26.2,26.88,23,23
+wales,20/11/2021,Australia,Autumn Nations Series 2021,27.16,27.48,27.27,23,23
+wales,05/02/2022,Ireland,Six Nations 2022,27.67,26.16,27.14,23,23
+wales,12/02/2022,Scotland,Six Nations 2022,27.4,27.39,27.4,23,23
+wales,26/02/2022,England,Six Nations 2022,28.44,26.94,27.92,23,23
+wales,11/03/2022,France,Six Nations 2022,29.29,25.91,28.11,23,23
+wales,19/03/2022,Italy,Six Nations 2022,28.63,27.48,28.23,23,23
+wales,02/07/2022,South Africa,Men's Internationals 2022,28.42,28.8,28.55,23,23
+wales,09/07/2022,South Africa,Men's Internationals 2022,28.77,28.99,28.85,23,23
+wales,16/07/2022,South Africa,Men's Internationals 2022,28.45,27.47,28.11,23,23
+wales,05/11/2022,New Zealand,Autumn Nations Series 2022,29.36,27.0,28.54,23,23
+wales,12/11/2022,Argentina,Autumn Nations Series 2022,29.68,27.09,28.78,23,23
+wales,19/11/2022,Georgia,Autumn Nations Series 2022,28.36,26.81,27.82,23,23
+wales,26/11/2022,Australia,Autumn Nations Series 2022,29.2,27.76,28.7,23,23
+wales,04/02/2023,Ireland,Six Nations 2023,29.67,28.57,29.29,23,23
+wales,11/02/2023,Scotland,Six Nations 2023,27.0,29.89,28.01,23,23
+wales,25/02/2023,England,Six Nations 2023,28.86,26.5,28.04,23,23
+wales,11/03/2023,Italy,Six Nations 2023,28.3,27.61,28.06,23,23
+wales,18/03/2023,France,Six Nations 2023,30.28,27.71,29.39,23,23
+wales,05/08/2023,England,Summer Nations Series 2023,26.48,27.52,26.84,23,23
+wales,12/08/2023,England,Summer Nations Series 2023,27.89,27.64,27.81,23,23
+wales,19/08/2023,South Africa,Summer Nations Series 2023,26.21,26.91,26.45,23,23
+wales,10/09/2023,Fiji,Men's Rugby World Cup 2023,29.5,25.55,28.13,23,23
+wales,16/09/2023,Portugal,Men's Rugby World Cup 2023,27.11,27.85,27.37,23,23
+wales,24/09/2023,Australia,Men's Rugby World Cup 2023,29.54,27.25,28.75,23,23
+wales,07/10/2023,Georgia,Men's Rugby World Cup 2023,27.53,28.17,27.75,23,23
+wales,14/10/2023,Argentina,Men's Rugby World Cup 2023,29.03,24.65,27.51,23,23
+wales,04/11/2023,Barbarians,,27.28,25.36,26.58,22,23
+wales,03/02/2024,Scotland,Six Nations 2024,26.45,25.02,25.95,23,23
+wales,10/02/2024,England,Six Nations 2024,26.43,26.3,26.38,23,23
+wales,24/02/2024,Ireland,Six Nations 2024,26.48,26.31,26.42,23,23
+wales,10/03/2024,France,Six Nations 2024,26.56,24.85,25.97,23,23
+wales,16/03/2024,Italy,Six Nations 2024,26.64,24.54,25.91,23,23
+wales,22/06/2024,South Africa,Men's Internationals 2024,26.15,24.66,25.63,23,23
+wales,06/07/2024,Australia,Men's Internationals 2024,25.19,26.43,25.62,23,23
+wales,13/07/2024,Australia,Men's Internationals 2024,25.23,25.74,25.41,23,23
+wales,19/07/2024,Queensland Reds,,25.66,25.02,25.43,23,23
+wales,10/11/2024,Fiji,Autumn Nations Series 2024,26.81,26.34,26.64,23,23
+wales,17/11/2024,Australia,Autumn Nations Series 2024,26.79,26.74,26.77,23,23
+wales,23/11/2024,South Africa,Autumn Nations Series 2024,25.43,26.65,25.85,23,23
+wales,31/01/2025,France,Six Nations 2025,28.46,26.89,27.92,23,23
+wales,08/02/2025,Italy,Six Nations 2025,27.93,26.99,27.6,23,23
+wales,22/02/2025,Ireland,Six Nations 2025,28.14,28.12,28.14,23,23
+wales,08/03/2025,Scotland,Six Nations 2025,28.18,27.78,28.04,23,23
+wales,15/03/2025,England,Six Nations 2025,28.21,28.25,28.23,23,23
+wales,05/07/2025,Japan,Men's Internationals 2025,27.42,28.01,27.62,23,23
+wales,12/07/2025,Japan,Men's Internationals 2025,26.5,27.77,26.94,23,23
+wales,09/11/2025,Argentina,Autumn Nations Series 2025,26.79,28.11,27.25,23,23
+wales,15/11/2025,Japan,Autumn Nations Series 2025,27.02,28.18,27.43,23,23
+wales,22/11/2025,New Zealand,Autumn Nations Series 2025,25.94,27.07,26.33,23,23
+wales,29/11/2025,South Africa,Autumn Nations Series 2025,26.05,26.58,26.24,23,23
+wales,07/02/2026,England,Six Nations 2026,26.72,27.65,27.05,23,23
+wales,15/02/2026,France,Six Nations 2026,27.02,27.77,27.28,23,23
+wales,21/02/2026,Scotland,Six Nations 2026,26.67,28.01,27.13,23,23
+wales,06/03/2026,Ireland,Six Nations 2026,26.49,28.93,27.34,23,23
+wales,14/03/2026,Italy,Six Nations 2026,26.51,29.26,27.47,23,23
+wales,27/06/2026,Barbarians,Men's Internationals 2026,26.64,26.48,26.58,23,23
+wales,04/07/2026,Fiji,Nations Championship 2026,27.04,27.93,27.35,23,23
+wales,11/07/2026,Argentina,Nations Championship 2026,27.29,27.57,27.39,23,23
+wales,18/07/2026,South Africa,Nations Championship 2026,27.01,27.86,27.31,23,23

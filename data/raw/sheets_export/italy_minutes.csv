@@ -1,0 +1,1889 @@
+date,opposition,shirt,player,started,minutes
+02/02/2019,Scotland,14,Angelo Esposito,y,80
+02/02/2019,Scotland,19,Federico Ruzza,n,28
+02/02/2019,Scotland,2,Leonardo Ghiraldini,y,59
+02/02/2019,Scotland,4,David Sisi,y,80
+02/02/2019,Scotland,15,Jayden Hayward,y,80
+02/02/2019,Scotland,16,Luca Bigi,n,21
+02/02/2019,Scotland,3,Simone Ferrari,y,63
+02/02/2019,Scotland,10,Tommaso Allan,y,72
+02/02/2019,Scotland,12,Tommaso Castello,y,51
+02/02/2019,Scotland,23,Edoardo Padovani,n,29
+02/02/2019,Scotland,9,Guglielmo Palazzani,y,80
+02/02/2019,Scotland,21,Tommaso Benvenuti,n,1
+02/02/2019,Scotland,5,Dean Budd,y,52
+02/02/2019,Scotland,1,Andrea Lovotti,y,52
+02/02/2019,Scotland,13,Luca Morisi,y,79
+02/02/2019,Scotland,6,Sebastian Negri,y,52
+02/02/2019,Scotland,8,Sergio Parisse,y,80
+02/02/2019,Scotland,20,Jimmy Tuivaiti,n,28
+02/02/2019,Scotland,18,Tiziano Pasquali,n,17
+02/02/2019,Scotland,7,Braam Steyn,y,80
+02/02/2019,Scotland,11,Michele Campagnaro,y,80
+02/02/2019,Scotland,17,Cherif Traore,n,28
+02/02/2019,Scotland,22,Ian McKinley,n,8
+09/02/2019,Wales,11,Angelo Esposito,y,80
+09/02/2019,Wales,19,Federico Ruzza,n,28
+09/02/2019,Wales,1,Nicola Quaglio,y,50
+09/02/2019,Wales,2,Leonardo Ghiraldini,y,60
+09/02/2019,Wales,4,David Sisi,y,80
+09/02/2019,Wales,15,Jayden Hayward,y,80
+09/02/2019,Wales,16,Luca Bigi,n,20
+09/02/2019,Wales,3,Simone Ferrari,y,60
+09/02/2019,Wales,10,Tommaso Allan,y,71
+09/02/2019,Wales,20,Marco Barbini,n,23
+09/02/2019,Wales,14,Edoardo Padovani,y,80
+09/02/2019,Wales,9,Guglielmo Palazzani,y,60
+09/02/2019,Wales,23,Tommaso Benvenuti,n,0
+09/02/2019,Wales,5,Dean Budd,y,52
+09/02/2019,Wales,12,Luca Morisi,y,80
+09/02/2019,Wales,6,Sebastian Negri,y,57
+09/02/2019,Wales,8,Sergio Parisse,y,80
+09/02/2019,Wales,18,Tiziano Pasquali,n,20
+09/02/2019,Wales,21,Edoardo Gori,n,20
+09/02/2019,Wales,7,Braam Steyn,y,80
+09/02/2019,Wales,13,Michele Campagnaro,y,80
+09/02/2019,Wales,17,Cherif Traore,n,30
+09/02/2019,Wales,22,Ian McKinley,n,9
+24/02/2019,Ireland,11,Angelo Esposito,y,80
+24/02/2019,Ireland,4,Federico Ruzza,y,80
+24/02/2019,Ireland,2,Leonardo Ghiraldini,y,80
+24/02/2019,Ireland,19,David Sisi,n,28
+24/02/2019,Ireland,15,Jayden Hayward,y,80
+24/02/2019,Ireland,16,Luca Bigi,n,0
+24/02/2019,Ireland,3,Simone Ferrari,y,52
+24/02/2019,Ireland,10,Tommaso Allan,y,74
+24/02/2019,Ireland,23,Tommaso Castello,n,8
+24/02/2019,Ireland,20,Alessandro Zanni,n,36
+24/02/2019,Ireland,9,Tito Tebaldi,y,80
+24/02/2019,Ireland,14,Edoardo Padovani,y,80
+24/02/2019,Ireland,21,Guglielmo Palazzani,n,0
+24/02/2019,Ireland,7,Maxime Mbandà,y,44
+24/02/2019,Ireland,5,Dean Budd,y,80
+24/02/2019,Ireland,1,Andrea Lovotti,y,60
+24/02/2019,Ireland,12,Luca Morisi,y,80
+24/02/2019,Ireland,6,Jimmy Tuivaiti,y,52
+24/02/2019,Ireland,18,Tiziano Pasquali,n,28
+24/02/2019,Ireland,8,Braam Steyn,y,80
+24/02/2019,Ireland,13,Michele Campagnaro,y,72
+24/02/2019,Ireland,17,Cherif Traore,n,20
+24/02/2019,Ireland,22,Ian McKinley,n,6
+09/03/2019,England,11,Angelo Esposito,y,80
+09/03/2019,England,4,Federico Ruzza,y,80
+09/03/2019,England,16,Leonardo Ghiraldini,n,31
+09/03/2019,England,19,David Sisi,n,30
+09/03/2019,England,15,Jayden Hayward,y,80
+09/03/2019,England,2,Luca Bigi,y,49
+09/03/2019,England,20,Jake Polledri,n,30
+09/03/2019,England,3,Simone Ferrari,y,49
+09/03/2019,England,10,Tommaso Allan,y,80
+09/03/2019,England,23,Tommaso Castello,n,10
+09/03/2019,England,9,Tito Tebaldi,y,80
+09/03/2019,England,14,Edoardo Padovani,y,80
+09/03/2019,England,21,Guglielmo Palazzani,n,18
+09/03/2019,England,5,Dean Budd,y,50
+09/03/2019,England,1,Andrea Lovotti,y,80
+09/03/2019,England,13,Luca Morisi,y,62
+09/03/2019,England,6,Sebastian Negri,y,50
+09/03/2019,England,8,Sergio Parisse,y,62
+09/03/2019,England,18,Tiziano Pasquali,n,31
+09/03/2019,England,7,Braam Steyn,y,80
+09/03/2019,England,12,Michele Campagnaro,y,23
+09/03/2019,England,17,Cherif Traore,n,18
+09/03/2019,England,22,Ian McKinley,n,47
+16/03/2019,France,11,Angelo Esposito,y,68
+16/03/2019,France,5,Federico Ruzza,y,80
+16/03/2019,France,2,Leonardo Ghiraldini,y,58
+16/03/2019,France,4,David Sisi,y,59
+16/03/2019,France,15,Jayden Hayward,y,80
+16/03/2019,France,13,Marco Zanon,y,80
+16/03/2019,France,25,Luca Bigi,n,22
+16/03/2019,France,7,Jake Polledri,y,80
+16/03/2019,France,18,Simone Ferrari,n,35
+16/03/2019,France,10,Tommaso Allan,y,80
+16/03/2019,France,23,Luca Sperandio,n,12
+16/03/2019,France,19,Alessandro Zanni,n,21
+16/03/2019,France,9,Tito Tebaldi,y,80
+16/03/2019,France,14,Edoardo Padovani,y,80
+16/03/2019,France,21,Guglielmo Palazzani,n,0
+16/03/2019,France,1,Andrea Lovotti,y,68
+16/03/2019,France,12,Luca Morisi,y,80
+16/03/2019,France,20,Sebastian Negri,n,16
+16/03/2019,France,8,Sergio Parisse,y,80
+16/03/2019,France,3,Tiziano Pasquali,y,45
+16/03/2019,France,6,Braam Steyn,y,64
+16/03/2019,France,17,Cherif Traore,n,12
+16/03/2019,France,22,Ian McKinley,n,0
+10/08/2019,Ireland,14,Angelo Esposito,y,80
+10/08/2019,Ireland,11,Giulio Bisegni,y,80
+10/08/2019,Ireland,21,Callum Braley,n,28
+10/08/2019,Ireland,1,Nicola Quaglio,y,40
+10/08/2019,Ireland,20,Renato Giammarioli,n,30
+10/08/2019,Ireland,16,Federico Zani,n,40
+10/08/2019,Ireland,6,Giovanni Licata,y,80
+10/08/2019,Ireland,18,Simone Ferrari,n,28
+10/08/2019,Ireland,10,Carlo Canna,y,80
+10/08/2019,Ireland,23,Matteo Minozzi,n,0
+10/08/2019,Ireland,4,Alessandro Zanni,y,53
+10/08/2019,Ireland,15,Edoardo Padovani,y,80
+10/08/2019,Ireland,9,Guglielmo Palazzani,y,52
+10/08/2019,Ireland,13,Tommaso Benvenuti,y,69
+10/08/2019,Ireland,7,Maxime Mbandà,y,48
+10/08/2019,Ireland,5,Dean Budd,y,80
+10/08/2019,Ireland,17,Andrea Lovotti,n,40
+10/08/2019,Ireland,2,Oliviero Fabiani,y,40
+10/08/2019,Ireland,26,Sebastian Negri,n,27
+10/08/2019,Ireland,8,Jimmy Tuivaiti,y,50
+10/08/2019,Ireland,3,Marco Riccioni,y,52
+10/08/2019,Ireland,19,Marco Lazzaroni,n,32
+10/08/2019,Ireland,22,Ian McKinley,n,51
+17/08/2019,Russia,21,Callum Braley,n,28
+17/08/2019,Russia,5,Federico Ruzza,y,80
+17/08/2019,Russia,4,David Sisi,y,51
+17/08/2019,Russia,16,Federico Zani,n,35
+17/08/2019,Russia,15,Jayden Hayward,y,51
+17/08/2019,Russia,2,Luca Bigi,y,45
+17/08/2019,Russia,7,Jake Polledri,y,80
+17/08/2019,Russia,14,Mattia Bellini,y,80
+17/08/2019,Russia,17,Simone Ferrari,n,40
+17/08/2019,Russia,22,Carlo Canna,n,29
+17/08/2019,Russia,10,Tommaso Allan,y,51
+17/08/2019,Russia,11,Matteo Minozzi,y,80
+17/08/2019,Russia,19,Alessandro Zanni,n,29
+17/08/2019,Russia,9,Tito Tebaldi,y,52
+17/08/2019,Russia,23,Edoardo Padovani,n,29
+17/08/2019,Russia,1,Andrea Lovotti,y,40
+17/08/2019,Russia,12,Luca Morisi,y,80
+17/08/2019,Russia,20,Sebastian Negri,n,29
+17/08/2019,Russia,8,Sergio Parisse,y,51
+17/08/2019,Russia,3,Tiziano Pasquali,y,45
+17/08/2019,Russia,6,Braam Steyn,y,80
+17/08/2019,Russia,13,Michele Campagnaro,y,80
+17/08/2019,Russia,18,Marco Riccioni,n,35
+30/08/2019,France,5,Federico Ruzza,y,52
+30/08/2019,France,16,Federico Zani,n,32
+30/08/2019,France,15,Jayden Hayward,y,80
+30/08/2019,France,2,Luca Bigi,y,48
+30/08/2019,France,7,Jake Polledri,y,76
+30/08/2019,France,14,Mattia Bellini,y,80
+30/08/2019,France,1,Simone Ferrari,y,40
+30/08/2019,France,22,Carlo Canna,n,19
+30/08/2019,France,10,Tommaso Allan,y,80
+30/08/2019,France,11,Matteo Minozzi,y,80
+30/08/2019,France,4,Alessandro Zanni,y,80
+30/08/2019,France,9,Tito Tebaldi,y,61
+30/08/2019,France,21,Guglielmo Palazzani,n,19
+30/08/2019,France,23,Tommaso Benvenuti,n,53
+30/08/2019,France,19,Dean Budd,n,28
+30/08/2019,France,17,Andrea Lovotti,n,40
+30/08/2019,France,12,Luca Morisi,y,27
+30/08/2019,France,20,Sebastian Negri,n,23
+30/08/2019,France,8,Sergio Parisse,y,80
+30/08/2019,France,18,Tiziano Pasquali,n,44
+30/08/2019,France,6,Braam Steyn,y,61
+30/08/2019,France,13,Michele Campagnaro,y,61
+30/08/2019,France,3,Marco Riccioni,y,36
+06/09/2019,England,13,Giulio Bisegni,y,80
+06/09/2019,England,9,Callum Braley,y,63
+06/09/2019,England,19,Federico Ruzza,n,32
+06/09/2019,England,1,Nicola Quaglio,y,47
+06/09/2019,England,4,David Sisi,y,70
+06/09/2019,England,16,Federico Zani,n,26
+06/09/2019,England,15,Jayden Hayward,y,80
+06/09/2019,England,14,Mattia Bellini,y,80
+06/09/2019,England,3,Simone Ferrari,y,47
+06/09/2019,England,10,Carlo Canna,y,73
+06/09/2019,England,23,Tommaso Allan,n,7
+06/09/2019,England,20,Alessandro Zanni,n,10
+06/09/2019,England,11,Edoardo Padovani,y,80
+06/09/2019,England,22,Guglielmo Palazzani,n,17
+06/09/2019,England,12,Tommaso Benvenuti,y,80
+06/09/2019,England,21,Maxime Mbandà,n,39
+06/09/2019,England,5,Dean Budd,y,80
+06/09/2019,England,17,Andrea Lovotti,n,33
+06/09/2019,England,2,Oliviero Fabiani,y,54
+06/09/2019,England,6,Sebastian Negri,y,48
+06/09/2019,England,8,Jimmy Tuivaiti,y,41
+06/09/2019,England,7,Braam Steyn,y,80
+06/09/2019,England,18,Marco Riccioni,n,33
+22/09/2019,Namibia,5,Federico Ruzza,y,80
+22/09/2019,Namibia,1,Nicola Quaglio,y,80
+22/09/2019,Namibia,15,Jayden Hayward,y,80
+22/09/2019,Namibia,2,Luca Bigi,y,80
+22/09/2019,Namibia,20,Jake Polledri,n,0
+22/09/2019,Namibia,11,Mattia Bellini,y,80
+22/09/2019,Namibia,17,Simone Ferrari,n,0
+22/09/2019,Namibia,22,Carlo Canna,n,0
+22/09/2019,Namibia,10,Tommaso Allan,y,80
+22/09/2019,Namibia,23,Matteo Minozzi,n,0
+22/09/2019,Namibia,4,Alessandro Zanni,y,80
+22/09/2019,Namibia,9,Tito Tebaldi,y,80
+22/09/2019,Namibia,14,Edoardo Padovani,y,80
+22/09/2019,Namibia,21,Guglielmo Palazzani,n,0
+22/09/2019,Namibia,13,Tommaso Benvenuti,y,80
+22/09/2019,Namibia,7,Maxime Mbandà,y,80
+22/09/2019,Namibia,19,Dean Budd,n,0
+22/09/2019,Namibia,12,Luca Morisi,y,80
+22/09/2019,Namibia,16,Oliviero Fabiani,n,0
+22/09/2019,Namibia,8,Sergio Parisse,y,80
+22/09/2019,Namibia,3,Tiziano Pasquali,y,39
+22/09/2019,Namibia,6,Braam Steyn,y,80
+22/09/2019,Namibia,18,Marco Riccioni,n,41
+26/09/2019,Canada,11,Giulio Bisegni,y,80
+26/09/2019,Canada,9,Callum Braley,y,80
+26/09/2019,Canada,19,Federico Ruzza,n,0
+26/09/2019,Canada,17,Nicola Quaglio,n,0
+26/09/2019,Canada,4,David Sisi,y,80
+26/09/2019,Canada,16,Federico Zani,n,0
+26/09/2019,Canada,12,Jayden Hayward,y,80
+26/09/2019,Canada,2,Luca Bigi,y,80
+26/09/2019,Canada,7,Jake Polledri,y,80
+26/09/2019,Canada,23,Mattia Bellini,n,0
+26/09/2019,Canada,3,Simone Ferrari,y,80
+26/09/2019,Canada,22,Carlo Canna,n,0
+26/09/2019,Canada,10,Tommaso Allan,y,80
+26/09/2019,Canada,15,Matteo Minozzi,y,80
+26/09/2019,Canada,21,Guglielmo Palazzani,n,0
+26/09/2019,Canada,14,Tommaso Benvenuti,y,80
+26/09/2019,Canada,20,Maxime Mbandà,n,0
+26/09/2019,Canada,5,Dean Budd,y,80
+26/09/2019,Canada,1,Andrea Lovotti,y,80
+26/09/2019,Canada,6,Sebastian Negri,y,80
+26/09/2019,Canada,8,Braam Steyn,y,80
+26/09/2019,Canada,13,Michele Campagnaro,y,80
+26/09/2019,Canada,18,Marco Riccioni,n,0
+04/10/2019,South Africa,22,Callum Braley,n,0
+04/10/2019,South Africa,19,Federico Ruzza,n,0
+04/10/2019,South Africa,17,Nicola Quaglio,n,0
+04/10/2019,South Africa,4,David Sisi,y,80
+04/10/2019,South Africa,16,Federico Zani,n,0
+04/10/2019,South Africa,12,Jayden Hayward,y,80
+04/10/2019,South Africa,2,Luca Bigi,y,80
+04/10/2019,South Africa,7,Jake Polledri,y,80
+04/10/2019,South Africa,3,Simone Ferrari,y,2
+04/10/2019,South Africa,23,Carlo Canna,n,0
+04/10/2019,South Africa,10,Tommaso Allan,y,80
+04/10/2019,South Africa,15,Matteo Minozzi,y,80
+04/10/2019,South Africa,20,Alessandro Zanni,n,0
+04/10/2019,South Africa,9,Tito Tebaldi,y,80
+04/10/2019,South Africa,14,Tommaso Benvenuti,y,80
+04/10/2019,South Africa,5,Dean Budd,y,80
+04/10/2019,South Africa,1,Andrea Lovotti,y,80
+04/10/2019,South Africa,13,Luca Morisi,y,80
+04/10/2019,South Africa,21,Sebastian Negri,n,0
+04/10/2019,South Africa,8,Sergio Parisse,y,80
+04/10/2019,South Africa,6,Braam Steyn,y,80
+04/10/2019,South Africa,11,Michele Campagnaro,y,80
+04/10/2019,South Africa,18,Marco Riccioni,n,78
+01/02/2020,Wales,9,Callum Braley,y,71
+01/02/2020,Wales,16,Federico Zani,n,11
+01/02/2020,Wales,21,Giovanni Licata,n,24
+01/02/2020,Wales,23,Jayden Hayward,n,24
+01/02/2020,Wales,2,Luca Bigi,y,69
+01/02/2020,Wales,6,Jake Polledri,y,80
+01/02/2020,Wales,11,Mattia Bellini,y,80
+01/02/2020,Wales,12,Carlo Canna,y,80
+01/02/2020,Wales,5,Niccolo Cannone,y,71
+01/02/2020,Wales,10,Tommaso Allan,y,80
+01/02/2020,Wales,14,Leonardo Sarto,y,56
+01/02/2020,Wales,17,Danilo Fischetti,n,33
+01/02/2020,Wales,3,Giosue Zilocchi,y,47
+01/02/2020,Wales,15,Matteo Minozzi,y,80
+01/02/2020,Wales,4,Alessandro Zanni,y,47
+01/02/2020,Wales,22,Guglielmo Palazzani,n,9
+01/02/2020,Wales,20,Dean Budd,n,9
+01/02/2020,Wales,1,Andrea Lovotti,y,47
+01/02/2020,Wales,13,Luca Morisi,y,80
+01/02/2020,Wales,7,Sebastian Negri,y,56
+01/02/2020,Wales,8,Braam Steyn,y,80
+01/02/2020,Wales,18,Marco Riccioni,n,33
+01/02/2020,Wales,19,Marco Lazzaroni,n,33
+09/02/2020,France,23,Giulio Bisegni,n,3
+09/02/2020,France,9,Callum Braley,y,61
+09/02/2020,France,20,Federico Ruzza,n,2
+09/02/2020,France,16,Federico Zani,n,19
+09/02/2020,France,21,Giovanni Licata,n,0
+09/02/2020,France,15,Jayden Hayward,y,80
+09/02/2020,France,2,Luca Bigi,y,61
+09/02/2020,France,6,Jake Polledri,y,61
+09/02/2020,France,14,Mattia Bellini,y,80
+09/02/2020,France,12,Carlo Canna,y,80
+09/02/2020,France,5,Niccolo Cannone,y,80
+09/02/2020,France,10,Tommaso Allan,y,77
+09/02/2020,France,17,Danilo Fischetti,n,27
+09/02/2020,France,3,Giosue Zilocchi,y,53
+09/02/2020,France,11,Matteo Minozzi,y,80
+09/02/2020,France,22,Guglielmo Palazzani,n,19
+09/02/2020,France,4,Dean Budd,y,78
+09/02/2020,France,1,Andrea Lovotti,y,53
+09/02/2020,France,13,Luca Morisi,y,80
+09/02/2020,France,7,Sebastian Negri,y,80
+09/02/2020,France,19,Jimmy Tuivaiti,n,19
+09/02/2020,France,8,Braam Steyn,y,80
+09/02/2020,France,18,Marco Riccioni,n,27
+22/02/2020,Scotland,23,Giulio Bisegni,n,5
+22/02/2020,Scotland,9,Callum Braley,y,59
+22/02/2020,Scotland,16,Federico Zani,n,20
+22/02/2020,Scotland,21,Giovanni Licata,n,36
+22/02/2020,Scotland,15,Jayden Hayward,y,80
+22/02/2020,Scotland,2,Luca Bigi,y,66
+22/02/2020,Scotland,6,Jake Polledri,y,80
+22/02/2020,Scotland,14,Mattia Bellini,y,75
+22/02/2020,Scotland,12,Carlo Canna,y,80
+22/02/2020,Scotland,5,Niccolo Cannone,y,68
+22/02/2020,Scotland,10,Tommaso Allan,y,74
+22/02/2020,Scotland,17,Danilo Fischetti,n,21
+22/02/2020,Scotland,3,Giosue Zilocchi,y,56
+22/02/2020,Scotland,11,Matteo Minozzi,y,80
+22/02/2020,Scotland,4,Alessandro Zanni,y,44
+22/02/2020,Scotland,22,Guglielmo Palazzani,n,21
+22/02/2020,Scotland,20,Dean Budd,n,36
+22/02/2020,Scotland,1,Andrea Lovotti,y,59
+22/02/2020,Scotland,13,Luca Morisi,y,80
+22/02/2020,Scotland,7,Sebastian Negri,y,44
+22/02/2020,Scotland,8,Braam Steyn,y,80
+22/02/2020,Scotland,18,Marco Riccioni,n,24
+22/02/2020,Scotland,19,Marco Lazzaroni,n,12
+24/10/2020,Ireland,22,Callum Braley,n,8
+24/10/2020,Ireland,19,David Sisi,n,33
+24/10/2020,Ireland,20,Johan Meyer,n,17
+24/10/2020,Ireland,15,Jayden Hayward,y,80
+24/10/2020,Ireland,2,Luca Bigi,y,47
+24/10/2020,Ireland,8,Jake Polledri,y,80
+24/10/2020,Ireland,11,Mattia Bellini,y,80
+24/10/2020,Ireland,17,Simone Ferrari,n,33
+24/10/2020,Ireland,12,Carlo Canna,y,80
+24/10/2020,Ireland,5,Niccolo Cannone,y,47
+24/10/2020,Ireland,1,Danilo Fischetti,y,47
+24/10/2020,Ireland,16,Gianmarco Lucchesi,n,33
+24/10/2020,Ireland,23,Federico Mori,n,26
+24/10/2020,Ireland,3,Giosue Zilocchi,y,47
+24/10/2020,Ireland,14,Edoardo Padovani,y,80
+24/10/2020,Ireland,21,Maxime Mbandà,n,11
+24/10/2020,Ireland,10,Paolo Garbisi,y,80
+24/10/2020,Ireland,18,Pietro Ceccarelli,n,33
+24/10/2020,Ireland,13,Luca Morisi,y,54
+24/10/2020,Ireland,6,Sebastian Negri,y,69
+24/10/2020,Ireland,7,Braam Steyn,y,80
+24/10/2020,Ireland,4,Marco Lazzaroni,y,63
+24/10/2020,Ireland,9,Marcello Violi,y,72
+31/10/2020,England,19,David Sisi,n,17
+31/10/2020,England,20,Johan Meyer,n,2
+31/10/2020,England,2,Luca Bigi,y,61
+31/10/2020,England,8,Jake Polledri,y,80
+31/10/2020,England,11,Mattia Bellini,y,80
+31/10/2020,England,17,Simone Ferrari,n,28
+31/10/2020,England,12,Carlo Canna,y,80
+31/10/2020,England,5,Niccolo Cannone,y,63
+31/10/2020,England,1,Danilo Fischetti,y,52
+31/10/2020,England,16,Gianmarco Lucchesi,n,19
+31/10/2020,England,23,Federico Mori,n,57
+31/10/2020,England,3,Giosue Zilocchi,y,62
+31/10/2020,England,15,Matteo Minozzi,y,46
+31/10/2020,England,14,Edoardo Padovani,y,23
+31/10/2020,England,22,Guglielmo Palazzani,n,34
+31/10/2020,England,21,Maxime Mbandà,n,6
+31/10/2020,England,10,Paolo Garbisi,y,80
+31/10/2020,England,18,Pietro Ceccarelli,n,18
+31/10/2020,England,13,Luca Morisi,y,80
+31/10/2020,England,6,Sebastian Negri,y,74
+31/10/2020,England,7,Braam Steyn,y,80
+31/10/2020,England,4,Marco Lazzaroni,y,78
+31/10/2020,England,9,Marcello Violi,y,80
+14/11/2020,Scotland,14,Jacopo Trulla,y,80
+14/11/2020,Scotland,16,Leonardo Ghiraldini,n,33
+14/11/2020,Scotland,19,Johan Meyer,n,32
+14/11/2020,Scotland,13,Marco Zanon,y,55
+14/11/2020,Scotland,2,Luca Bigi,y,47
+14/11/2020,Scotland,8,Jake Polledri,y,68
+14/11/2020,Scotland,11,Mattia Bellini,y,80
+14/11/2020,Scotland,17,Simone Ferrari,n,15
+14/11/2020,Scotland,12,Carlo Canna,y,80
+14/11/2020,Scotland,5,Niccolo Cannone,y,80
+14/11/2020,Scotland,22,Tommaso Allan,n,10
+14/11/2020,Scotland,21,Stephen Varney,n,25
+14/11/2020,Scotland,1,Danilo Fischetti,y,65
+14/11/2020,Scotland,23,Federico Mori,n,25
+14/11/2020,Scotland,3,Giosue Zilocchi,y,55
+14/11/2020,Scotland,15,Matteo Minozzi,y,70
+14/11/2020,Scotland,20,Maxime Mbandà,n,12
+14/11/2020,Scotland,10,Paolo Garbisi,y,80
+14/11/2020,Scotland,18,Pietro Ceccarelli,n,25
+14/11/2020,Scotland,6,Sebastian Negri,y,48
+14/11/2020,Scotland,7,Braam Steyn,y,80
+14/11/2020,Scotland,4,Marco Lazzaroni,y,80
+14/11/2020,Scotland,9,Marcello Violi,y,55
+28/11/2020,France,14,Jacopo Trulla,y,80
+28/11/2020,France,16,Leonardo Ghiraldini,n,28
+28/11/2020,France,7,Johan Meyer,y,80
+28/11/2020,France,13,Marco Zanon,y,52
+28/11/2020,France,2,Luca Bigi,y,52
+28/11/2020,France,17,Simone Ferrari,n,18
+28/11/2020,France,12,Carlo Canna,y,40
+28/11/2020,France,20,Michele Lamaro,n,18
+28/11/2020,France,19,Cristian Stoian,n,5
+28/11/2020,France,5,Niccolo Cannone,y,80
+28/11/2020,France,22,Tommaso Allan,n,28
+28/11/2020,France,21,Stephen Varney,n,13
+28/11/2020,France,1,Danilo Fischetti,y,62
+28/11/2020,France,23,Federico Mori,n,40
+28/11/2020,France,3,Giosue Zilocchi,y,62
+28/11/2020,France,11,Luca Sperandio,y,80
+28/11/2020,France,15,Matteo Minozzi,y,80
+28/11/2020,France,6,Maxime Mbandà,y,62
+28/11/2020,France,10,Paolo Garbisi,y,80
+28/11/2020,France,18,Pietro Ceccarelli,n,18
+28/11/2020,France,8,Braam Steyn,y,80
+28/11/2020,France,4,Marco Lazzaroni,y,75
+28/11/2020,France,9,Marcello Violi,y,67
+05/12/2020,Wales,15,Jacopo Trulla,y,80
+05/12/2020,Wales,16,Leonardo Ghiraldini,n,16
+05/12/2020,Wales,7,Johan Meyer,y,80
+05/12/2020,Wales,13,Marco Zanon,y,78
+05/12/2020,Wales,2,Luca Bigi,y,64
+05/12/2020,Wales,17,Simone Ferrari,n,3
+05/12/2020,Wales,12,Carlo Canna,y,80
+05/12/2020,Wales,20,Michele Lamaro,n,16
+05/12/2020,Wales,19,Cristian Stoian,n,2
+05/12/2020,Wales,5,Niccolo Cannone,y,78
+05/12/2020,Wales,22,Tommaso Allan,n,2
+05/12/2020,Wales,9,Stephen Varney,y,70
+05/12/2020,Wales,1,Danilo Fischetti,y,77
+05/12/2020,Wales,23,Federico Mori,n,24
+05/12/2020,Wales,3,Giosue Zilocchi,y,70
+05/12/2020,Wales,14,Luca Sperandio,y,56
+05/12/2020,Wales,21,Guglielmo Palazzani,n,10
+05/12/2020,Wales,6,Maxime Mbandà,y,64
+05/12/2020,Wales,10,Paolo Garbisi,y,80
+05/12/2020,Wales,18,Pietro Ceccarelli,n,10
+05/12/2020,Wales,11,Montanna Ioane,y,80
+05/12/2020,Wales,8,Braam Steyn,y,80
+05/12/2020,Wales,4,Marco Lazzaroni,y,80
+06/02/2021,France,15,Jacopo Trulla,y,80
+06/02/2021,France,20,Federico Ruzza,n,20
+06/02/2021,France,5,David Sisi,y,60
+06/02/2021,France,7,Johan Meyer,y,51
+06/02/2021,France,13,Marco Zanon,y,44
+06/02/2021,France,2,Luca Bigi,y,60
+06/02/2021,France,23,Carlo Canna,n,41
+06/02/2021,France,8,Michele Lamaro,y,80
+06/02/2021,France,19,Niccolo Cannone,n,20
+06/02/2021,France,1,Daniele Rimplelli,y,32
+06/02/2021,France,9,Stephen Varney,y,80
+06/02/2021,France,17,Danilo Fischetti,n,48
+06/02/2021,France,16,Gianmarco Lucchesi,n,20
+06/02/2021,France,18,Giosue Zilocchi,n,48
+06/02/2021,France,14,Luca Sperandio,y,80
+06/02/2021,France,22,Guglielmo Palazzani,n,4
+06/02/2021,France,21,Maxime Mbandà,n,25
+06/02/2021,France,10,Paolo Garbisi,y,75
+06/02/2021,France,12,Juan Ignacio Brex,y,80
+06/02/2021,France,6,Sebastian Negri,y,60
+06/02/2021,France,11,Montanna Ioane,y,80
+06/02/2021,France,3,Marco Riccioni,y,32
+06/02/2021,France,4,Marco Lazzaroni,y,80
+13/02/2021,England,15,Jacopo Trulla,y,80
+13/02/2021,England,20,Federico Ruzza,n,1
+13/02/2021,England,5,David Sisi,y,79
+13/02/2021,England,7,Johan Meyer,y,80
+13/02/2021,England,2,Luca Bigi,y,69
+13/02/2021,England,12,Carlo Canna,y,73
+13/02/2021,England,8,Michele Lamaro,y,45
+13/02/2021,England,19,Niccolo Cannone,n,35
+13/02/2021,England,22,Tommaso Allan,n,16
+13/02/2021,England,9,Stephen Varney,y,69
+13/02/2021,England,17,Danilo Fischetti,n,23
+13/02/2021,England,16,Gianmarco Lucchesi,n,11
+13/02/2021,England,23,Federico Mori,n,28
+13/02/2021,England,18,Giosue Zilocchi,n,36
+13/02/2021,England,14,Luca Sperandio,y,80
+13/02/2021,England,21,Guglielmo Palazzani,n,11
+13/02/2021,England,10,Paolo Garbisi,y,64
+13/02/2021,England,13,Juan Ignacio Brex,y,59
+13/02/2021,England,1,Andrea Lovotti,y,57
+13/02/2021,England,6,Sebastian Negri,y,80
+13/02/2021,England,11,Montanna Ioane,y,80
+13/02/2021,England,3,Marco Riccioni,y,44
+13/02/2021,England,4,Marco Lazzaroni,y,80
+27/02/2021,Ireland,15,Jacopo Trulla,y,80
+27/02/2021,Ireland,9,Callum Braley,y,78
+27/02/2021,Ireland,5,David Sisi,y,80
+27/02/2021,Ireland,7,Johan Meyer,y,80
+27/02/2021,Ireland,2,Luca Bigi,y,75
+27/02/2021,Ireland,23,Mattia Bellini,n,39
+27/02/2021,Ireland,12,Carlo Canna,y,80
+27/02/2021,Ireland,8,Michele Lamaro,y,80
+27/02/2021,Ireland,19,Niccolo Cannone,n,34
+27/02/2021,Ireland,16,Gianmarco Lucchesi,n,10
+27/02/2021,Ireland,22,Federico Mori,n,13
+27/02/2021,Ireland,18,Giosue Zilocchi,n,34
+27/02/2021,Ireland,14,Luca Sperandio,y,41
+27/02/2021,Ireland,21,Guglielmo Palazzani,n,2
+27/02/2021,Ireland,20,Maxime Mbandà,n,5
+27/02/2021,Ireland,10,Paolo Garbisi,y,80
+27/02/2021,Ireland,13,Juan Ignacio Brex,y,67
+27/02/2021,Ireland,1,Andrea Lovotti,y,57
+27/02/2021,Ireland,6,Sebastian Negri,y,75
+27/02/2021,Ireland,11,Montanna Ioane,y,80
+27/02/2021,Ireland,17,Cherif Traore,n,23
+27/02/2021,Ireland,3,Marco Riccioni,y,46
+27/02/2021,Ireland,4,Marco Lazzaroni,y,46
+13/03/2021,Wales,15,Jacopo Trulla,y,44
+13/03/2021,Wales,5,David Sisi,y,80
+13/03/2021,Wales,7,Johan Meyer,y,69
+13/03/2021,Wales,2,Luca Bigi,y,80
+13/03/2021,Wales,14,Mattia Bellini,y,80
+13/03/2021,Wales,12,Carlo Canna,y,80
+13/03/2021,Wales,8,Michele Lamaro,y,80
+13/03/2021,Wales,4,Niccolo Cannone,y,52
+13/03/2021,Wales,9,Stephen Varney,y,63
+13/03/2021,Wales,1,Danilo Fischetti,y,66
+13/03/2021,Wales,22,Federico Mori,n,26
+13/03/2021,Wales,3,Giosue Zilocchi,y,35
+13/03/2021,Wales,23,Edoardo Padovani,n,36
+13/03/2021,Wales,20,Maxime Mbandà,n,28
+13/03/2021,Wales,10,Paolo Garbisi,y,54
+13/03/2021,Wales,13,Juan Ignacio Brex,y,80
+13/03/2021,Wales,17,Andrea Lovotti,n,14
+13/03/2021,Wales,16,Oliviero Fabiani,n,11
+13/03/2021,Wales,6,Sebastian Negri,y,80
+13/03/2021,Wales,11,Montanna Ioane,y,68
+13/03/2021,Wales,18,Marco Riccioni,n,47
+13/03/2021,Wales,19,Marco Lazzaroni,n,11
+13/03/2021,Wales,21,Marcello Violi,n,17
+20/03/2021,Scotland,19,Riccardo Favretto,n,5
+20/03/2021,Scotland,5,Federico Ruzza,y,62
+20/03/2021,Scotland,7,Johan Meyer,y,75
+20/03/2021,Scotland,23,Marco Zanon,n,26
+20/03/2021,Scotland,2,Luca Bigi,y,70
+20/03/2021,Scotland,14,Mattia Bellini,y,80
+20/03/2021,Scotland,22,Carlo Canna,n,26
+20/03/2021,Scotland,8,Michele Lamaro,y,80
+20/03/2021,Scotland,4,Niccolo Cannone,y,80
+20/03/2021,Scotland,9,Stephen Varney,y,70
+20/03/2021,Scotland,1,Danilo Fischetti,y,70
+20/03/2021,Scotland,16,Gianmarco Lucchesi,n,10
+20/03/2021,Scotland,12,Federico Mori,y,54
+20/03/2021,Scotland,18,Giosue Zilocchi,n,47
+20/03/2021,Scotland,15,Edoardo Padovani,y,80
+20/03/2021,Scotland,20,Maxime Mbandà,n,18
+20/03/2021,Scotland,10,Paolo Garbisi,y,54
+20/03/2021,Scotland,13,Juan Ignacio Brex,y,80
+20/03/2021,Scotland,17,Andrea Lovotti,n,10
+20/03/2021,Scotland,6,Sebastian Negri,y,80
+20/03/2021,Scotland,11,Montanna Ioane,y,80
+20/03/2021,Scotland,3,Marco Riccioni,y,33
+20/03/2021,Scotland,21,Marcello Violi,n,10
+06/11/2021,New Zealand,22,Callum Braley,n,27
+06/11/2021,New Zealand,20,Federico Ruzza,n,19
+06/11/2021,New Zealand,8,Renato Giammarioli,y,46
+06/11/2021,New Zealand,5,David Sisi,y,61
+06/11/2021,New Zealand,12,Marco Zanon,y,80
+06/11/2021,New Zealand,16,Luca Bigi,n,27
+06/11/2021,New Zealand,23,Carlo Canna,n,19
+06/11/2021,New Zealand,7,Michele Lamaro,y,80
+06/11/2021,New Zealand,19,Niccolo Cannone,n,34
+06/11/2021,New Zealand,9,Stephen Varney,y,53
+06/11/2021,New Zealand,17,Ivan Nemer,n,34
+06/11/2021,New Zealand,1,Danilo Fischetti,y,46
+06/11/2021,New Zealand,2,Gianmarco Lucchesi,y,53
+06/11/2021,New Zealand,14,Federico Mori,y,80
+06/11/2021,New Zealand,15,Matteo Minozzi,y,80
+06/11/2021,New Zealand,10,Paolo Garbisi,y,61
+06/11/2021,New Zealand,13,Juan Ignacio Brex,y,80
+06/11/2021,New Zealand,18,Pietro Ceccarelli,n,25
+06/11/2021,New Zealand,6,Sebastian Negri,y,80
+06/11/2021,New Zealand,11,Montanna Ioane,y,80
+06/11/2021,New Zealand,21,Braam Steyn,n,34
+06/11/2021,New Zealand,3,Marco Riccioni,y,55
+06/11/2021,New Zealand,4,Marco Fuser,y,46
+13/11/2021,Argentina,15,Matteo Minozzi,y,57
+13/11/2021,Argentina,14,Edoardo Padovani,y,80
+13/11/2021,Argentina,10,Paolo Garbisi,y,80
+13/11/2021,Argentina,13,Juan Ignacio Brex,y,80
+13/11/2021,Argentina,18,Pietro Ceccarelli,n,28
+13/11/2021,Argentina,12,Luca Morisi,y,80
+13/11/2021,Argentina,6,Sebastian Negri,y,57
+13/11/2021,Argentina,11,Montanna Ioane,y,80
+13/11/2021,Argentina,3,Marco Riccioni,y,52
+13/11/2021,Argentina,19,Marco Fuser,n,31
+13/11/2021,Argentina,20,Federico Ruzza,n,31
+13/11/2021,Argentina,5,David Sisi,y,49
+13/11/2021,Argentina,21,Giovanni Pettinelli,n,23
+13/11/2021,Argentina,8,Giovanni Licata,y,49
+13/11/2021,Argentina,16,Luca Bigi,n,15
+13/11/2021,Argentina,22,Alessandro Fusco,n,13
+13/11/2021,Argentina,7,Michele Lamaro,y,80
+13/11/2021,Argentina,4,Niccolo Cannone,y,80
+13/11/2021,Argentina,9,Stephen Varney,y,67
+13/11/2021,Argentina,1,Ivan Nemer,y,49
+13/11/2021,Argentina,17,Danilo Fischetti,n,31
+13/11/2021,Argentina,2,Gianmarco Lucchesi,y,65
+13/11/2021,Argentina,23,Federico Mori,n,23
+20/11/2021,Uruguay,9,Callum Braley,y,62
+20/11/2021,Uruguay,5,Federico Ruzza,y,80
+20/11/2021,Uruguay,19,David Sisi,n,0
+20/11/2021,Uruguay,20,Giovanni Licata,n,18
+20/11/2021,Uruguay,2,Luca Bigi,y,51
+20/11/2021,Uruguay,14,Pierre Bruno,y,74
+20/11/2021,Uruguay,21,Alessandro Fusco,n,18
+20/11/2021,Uruguay,22,Carlo Canna,n,0
+20/11/2021,Uruguay,7,Michele Lamaro,y,80
+20/11/2021,Uruguay,3,Ivan Nemer,y,51
+20/11/2021,Uruguay,1,Danilo Fischetti,y,51
+20/11/2021,Uruguay,16,Hame Faiva,n,29
+20/11/2021,Uruguay,15,Edoardo Padovani,y,80
+20/11/2021,Uruguay,23,Ratuva Tavuyara,n,6
+20/11/2021,Uruguay,10,Paolo Garbisi,y,80
+20/11/2021,Uruguay,13,Juan Ignacio Brex,y,80
+20/11/2021,Uruguay,18,Pietro Ceccarelli,n,29
+20/11/2021,Uruguay,12,Luca Morisi,y,80
+20/11/2021,Uruguay,6,Sebastian Negri,y,62
+20/11/2021,Uruguay,11,Montanna Ioane,y,80
+20/11/2021,Uruguay,8,Braam Steyn,y,80
+20/11/2021,Uruguay,17,Cherif Traore,n,29
+20/11/2021,Uruguay,4,Marco Fuser,y,80
+06/02/2022,France,22,Callum Braley,n,14
+06/02/2022,France,23,Leonardo Marin,n,22
+06/02/2022,France,5,Federico Ruzza,y,66
+06/02/2022,France,20,Giovanni Pettinelli,n,24
+06/02/2022,France,12,Marco Zanon,y,80
+06/02/2022,France,7,Michele Lamaro,y,80
+06/02/2022,France,4,Niccolo Cannone,y,66
+06/02/2022,France,9,Stephen Varney,y,66
+06/02/2022,France,17,Ivan Nemer,n,29
+06/02/2022,France,1,Danilo Fischetti,y,51
+06/02/2022,France,2,Gianmarco Lucchesi,y,51
+06/02/2022,France,18,Giosue Zilocchi,n,29
+06/02/2022,France,8,Toa Halafihi,y,56
+06/02/2022,France,16,Hame Faiva,n,29
+06/02/2022,France,21,Manuel Zuliani,n,9
+06/02/2022,France,15,Edoardo Padovani,y,80
+06/02/2022,France,10,Paolo Garbisi,y,80
+06/02/2022,France,13,Juan Ignacio Brex,y,80
+06/02/2022,France,6,Sebastian Negri,y,71
+06/02/2022,France,11,Montanna Ioane,y,80
+06/02/2022,France,3,Tiziano Pasquali,y,51
+06/02/2022,France,19,Marco Fuser,n,29
+06/02/2022,France,14,Tommaso Menoncello,y,58
+13/02/2022,England,23,Leonardo Marin,n,25
+13/02/2022,England,5,Federico Ruzza,y,72
+13/02/2022,England,21,Giovanni Pettinelli,n,25
+13/02/2022,England,12,Marco Zanon,y,80
+13/02/2022,England,22,Alessandro Fusco,n,14
+13/02/2022,England,7,Michele Lamaro,y,80
+13/02/2022,England,4,Niccolo Cannone,y,80
+13/02/2022,England,9,Stephen Varney,y,66
+13/02/2022,England,1,Danilo Fischetti,y,46
+13/02/2022,England,2,Gianmarco Lucchesi,y,52
+13/02/2022,England,14,Federico Mori,y,55
+13/02/2022,England,8,Toa Halafihi,y,38
+13/02/2022,England,16,Hame Faiva,n,28
+13/02/2022,England,15,Edoardo Padovani,y,80
+13/02/2022,England,10,Paolo Garbisi,y,80
+13/02/2022,England,13,Juan Ignacio Brex,y,80
+13/02/2022,England,3,Pietro Ceccarelli,y,40
+13/02/2022,England,20,Sebastian Negri,n,17
+13/02/2022,England,11,Montanna Ioane,y,80
+13/02/2022,England,19,Andrea Zambonin,n,8
+13/02/2022,England,18,Tiziano Pasquali,n,40
+13/02/2022,England,6,Braam Steyn,y,80
+13/02/2022,England,17,Cherif Traore,n,34
+27/02/2022,Ireland,12,Leonardo Marin,y,68
+27/02/2022,Ireland,5,Federico Ruzza,y,68
+27/02/2022,Ireland,19,David Sisi,n,12
+27/02/2022,Ireland,6,Giovanni Pettinelli,y,70
+27/02/2022,Ireland,23,Marco Zanon,n,14
+27/02/2022,Ireland,14,Pierre Bruno,y,20
+27/02/2022,Ireland,22,Alessandro Fusco,n,60
+27/02/2022,Ireland,7,Michele Lamaro,y,64
+27/02/2022,Ireland,4,Niccolo Cannone,y,49
+27/02/2022,Ireland,9,Stephen Varney,y,40
+27/02/2022,Ireland,17,Ivan Nemer,n,60
+27/02/2022,Ireland,1,Danilo Fischetti,y,80
+27/02/2022,Ireland,2,Gianmarco Lucchesi,y,9
+27/02/2022,Ireland,8,Toa Halafihi,y,20
+27/02/2022,Ireland,16,Hame Faiva,n,71
+27/02/2022,Ireland,20,Manuel Zuliani,n,31
+27/02/2022,Ireland,15,Edoardo Padovani,y,80
+27/02/2022,Ireland,10,Paolo Garbisi,y,78
+27/02/2022,Ireland,13,Juan Ignacio Brex,y,80
+27/02/2022,Ireland,3,Pietro Ceccarelli,y,40
+27/02/2022,Ireland,11,Montanna Ioane,y,80
+27/02/2022,Ireland,18,Tiziano Pasquali,n,40
+27/02/2022,Ireland,21,Braam Steyn,n,26
+12/03/2022,Scotland,23,Ange Capuozzo,n,35
+12/03/2022,Scotland,9,Callum Braley,y,51
+12/03/2022,Scotland,12,Leonardo Marin,y,80
+12/03/2022,Scotland,5,Federico Ruzza,y,80
+12/03/2022,Scotland,19,David Sisi,n,24
+12/03/2022,Scotland,6,Giovanni Pettinelli,y,71
+12/03/2022,Scotland,22,Marco Zanon,n,17
+12/03/2022,Scotland,16,Luca Bigi,n,29
+12/03/2022,Scotland,14,Pierre Bruno,y,45
+12/03/2022,Scotland,21,Alessandro Fusco,n,29
+12/03/2022,Scotland,7,Michele Lamaro,y,72
+12/03/2022,Scotland,4,Niccolo Cannone,y,56
+12/03/2022,Scotland,17,Ivan Nemer,n,29
+12/03/2022,Scotland,1,Danilo Fischetti,y,51
+12/03/2022,Scotland,8,Toa Halafihi,y,80
+12/03/2022,Scotland,2,Giacomo Nicotera,y,51
+12/03/2022,Scotland,15,Edoardo Padovani,y,68
+12/03/2022,Scotland,10,Paolo Garbisi,y,80
+12/03/2022,Scotland,13,Juan Ignacio Brex,y,75
+12/03/2022,Scotland,3,Pietro Ceccarelli,y,51
+12/03/2022,Scotland,11,Montanna Ioane,y,80
+12/03/2022,Scotland,18,Tiziano Pasquali,n,29
+12/03/2022,Scotland,20,Braam Steyn,n,17
+19/03/2022,Wales,15,Ange Capuozzo,y,80
+19/03/2022,Wales,9,Callum Braley,y,61
+19/03/2022,Wales,12,Leonardo Marin,y,56
+19/03/2022,Wales,5,Federico Ruzza,y,80
+19/03/2022,Wales,19,David Sisi,n,5
+19/03/2022,Wales,6,Giovanni Pettinelli,y,75
+19/03/2022,Wales,23,Marco Zanon,n,24
+19/03/2022,Wales,16,Luca Bigi,n,27
+19/03/2022,Wales,22,Alessandro Fusco,n,19
+19/03/2022,Wales,7,Michele Lamaro,y,80
+19/03/2022,Wales,20,Niccolo Cannone,n,33
+19/03/2022,Wales,1,Danilo Fischetti,y,69
+19/03/2022,Wales,18,Filippo Alongi,n,27
+19/03/2022,Wales,8,Toa Halafihi,y,63
+19/03/2022,Wales,2,Giacomo Nicotera,y,53
+19/03/2022,Wales,14,Edoardo Padovani,y,80
+19/03/2022,Wales,10,Paolo Garbisi,y,80
+19/03/2022,Wales,13,Juan Ignacio Brex,y,80
+19/03/2022,Wales,3,Pietro Ceccarelli,y,53
+19/03/2022,Wales,11,Montanna Ioane,y,80
+19/03/2022,Wales,21,Braam Steyn,n,17
+19/03/2022,Wales,17,Cherif Traore,n,11
+19/03/2022,Wales,4,Marco Fuser,y,47
+25/06/2022,Portugal,15,Ange Capuozzo,y,80
+25/06/2022,Portugal,14,Jacopo Trulla,y,80
+25/06/2022,Portugal,12,Leonardo Marin,y,68
+25/06/2022,Portugal,20,Federico Ruzza,n,35
+25/06/2022,Portugal,8,Renato Giammarioli,y,47
+25/06/2022,Portugal,4,David Sisi,y,53
+25/06/2022,Portugal,6,Giovanni Pettinelli,y,80
+25/06/2022,Portugal,22,Manfredi Albanese,n,22
+25/06/2022,Portugal,23,Marco Zanon,n,12
+25/06/2022,Portugal,3,Simone Ferrari,y,53
+25/06/2022,Portugal,9,Alessandro Fusco,y,58
+25/06/2022,Portugal,18,Ion Neculai,n,27
+25/06/2022,Portugal,7,Michele Lamaro,y,80
+25/06/2022,Portugal,10,Giacomo Da Re,y,80
+25/06/2022,Portugal,1,Danilo Fischetti,y,70
+25/06/2022,Portugal,16,Gianmarco Lucchesi,n,35
+25/06/2022,Portugal,2,Hame Faiva,y,45
+25/06/2022,Portugal,21,Manuel Zuliani,n,33
+25/06/2022,Portugal,11,Edoardo Padovani,y,80
+25/06/2022,Portugal,13,Juan Ignacio Brex,y,80
+25/06/2022,Portugal,5,Andrea Zambonin,y,45
+25/06/2022,Portugal,17,Cherif Traore,n,10
+25/06/2022,Portugal,19,Marco Fuser,n,27
+01/07/2022,Romania,15,Ange Capuozzo,y,80
+01/07/2022,Romania,6,Federico Ruzza,y,80
+01/07/2022,Romania,21,Renato Giammarioli,n,29
+01/07/2022,Romania,19,David Sisi,n,28
+01/07/2022,Romania,22,Manfredi Albanese,n,13
+01/07/2022,Romania,12,Marco Zanon,y,80
+01/07/2022,Romania,11,Pierre Bruno,y,80
+01/07/2022,Romania,3,Simone Ferrari,y,52
+01/07/2022,Romania,18,Ion Neculai,n,28
+01/07/2022,Romania,20,Michele Lamaro,n,22
+01/07/2022,Romania,4,Niccolo Cannone,y,63
+01/07/2022,Romania,10,Tommaso Allan,y,80
+01/07/2022,Romania,1,Ivan Nemer,y,80
+01/07/2022,Romania,2,Gianmarco Lucchesi,y,52
+01/07/2022,Romania,8,Toa Halafihi,y,51
+01/07/2022,Romania,7,Manuel Zuliani,y,58
+01/07/2022,Romania,16,Giacomo Nicotera,n,28
+01/07/2022,Romania,14,Edoardo Padovani,y,64
+01/07/2022,Romania,23,Paolo Garbisi,n,16
+01/07/2022,Romania,9,Alessandro Garbisi,y,67
+01/07/2022,Romania,17,Cherif Traore,n,17
+01/07/2022,Romania,5,Marco Fuser,y,52
+01/07/2022,Romania,13,Tommaso Menoncello,y,80
+10/07/2022,Georgia,15,Ange Capuozzo,y,80
+10/07/2022,Georgia,6,Federico Ruzza,y,80
+10/07/2022,Georgia,21,Renato Giammarioli,n,9
+10/07/2022,Georgia,19,David Sisi,n,5
+10/07/2022,Georgia,20,Giovanni Pettinelli,n,27
+10/07/2022,Georgia,12,Marco Zanon,y,44
+10/07/2022,Georgia,3,Simone Ferrari,y,71
+10/07/2022,Georgia,22,Alessandro Fusco,n,18
+10/07/2022,Georgia,18,Ion Neculai,n,9
+10/07/2022,Georgia,7,Michele Lamaro,y,80
+10/07/2022,Georgia,4,Niccolo Cannone,y,75
+10/07/2022,Georgia,10,Tommaso Allan,y,80
+10/07/2022,Georgia,17,Ivan Nemer,n,29
+10/07/2022,Georgia,1,Danilo Fischetti,y,51
+10/07/2022,Georgia,2,Gianmarco Lucchesi,y,51
+10/07/2022,Georgia,8,Toa Halafihi,y,71
+10/07/2022,Georgia,16,Giacomo Nicotera,n,29
+10/07/2022,Georgia,11,Edoardo Padovani,y,80
+10/07/2022,Georgia,23,Paolo Garbisi,n,36
+10/07/2022,Georgia,13,Juan Ignacio Brex,y,80
+10/07/2022,Georgia,9,Alessandro Garbisi,y,62
+10/07/2022,Georgia,5,Marco Fuser,y,53
+10/07/2022,Georgia,14,Tommaso Menoncello,y,80
+05/11/2022,Samoa,22,Enrico Lucchin,n,29
+05/11/2022,Samoa,5,Federico Ruzza,y,80
+05/11/2022,Samoa,4,David Sisi,y,51
+05/11/2022,Samoa,21,Manfredi Albanese,n,16
+05/11/2022,Samoa,8,Lorenzo Cannone,y,80
+05/11/2022,Samoa,14,Pierre Bruno,y,80
+05/11/2022,Samoa,3,Simone Ferrari,y,62
+05/11/2022,Samoa,7,Michele Lamaro,y,80
+05/11/2022,Samoa,19,Niccolo Cannone,n,29
+05/11/2022,Samoa,15,Tommaso Allan,y,47
+05/11/2022,Samoa,9,Stephen Varney,y,64
+05/11/2022,Samoa,17,Ivan Nemer,n,23
+05/11/2022,Samoa,1,Danilo Fischetti,y,57
+05/11/2022,Samoa,16,Gianmarco Lucchesi,n,29
+05/11/2022,Samoa,20,Toa Halafihi,n,39
+05/11/2022,Samoa,6,Manuel Zuliani,y,41
+05/11/2022,Samoa,2,Giacomo Nicotera,y,51
+05/11/2022,Samoa,10,Paolo Garbisi,y,80
+05/11/2022,Samoa,13,Juan Ignacio Brex,y,80
+05/11/2022,Samoa,18,Pietro Ceccarelli,n,18
+05/11/2022,Samoa,12,Luca Morisi,y,51
+05/11/2022,Samoa,11,Montanna Ioane,y,80
+05/11/2022,Samoa,23,Tommaso Menoncello,n,33
+12/11/2022,Australia,15,Ange Capuozzo,y,80
+12/11/2022,Australia,5,Federico Ruzza,y,80
+12/11/2022,Australia,19,David Sisi,n,11
+12/11/2022,Australia,8,Lorenzo Cannone,y,80
+12/11/2022,Australia,14,Pierre Bruno,y,80
+12/11/2022,Australia,3,Simone Ferrari,y,47
+12/11/2022,Australia,7,Michele Lamaro,y,80
+12/11/2022,Australia,4,Niccolo Cannone,y,80
+12/11/2022,Australia,10,Tommaso Allan,y,69
+12/11/2022,Australia,9,Stephen Varney,y,80
+12/11/2022,Australia,17,Ivan Nemer,n,22
+12/11/2022,Australia,1,Danilo Fischetti,y,58
+12/11/2022,Australia,2,Gianmarco Lucchesi,y,58
+12/11/2022,Australia,20,Toa Halafihi,n,11
+12/11/2022,Australia,16,Giacomo Nicotera,n,22
+12/11/2022,Australia,22,Edoardo Padovani,n,11
+12/11/2022,Australia,13,Juan Ignacio Brex,y,80
+12/11/2022,Australia,21,Alessandro Garbisi,n,0
+12/11/2022,Australia,18,Pietro Ceccarelli,n,33
+12/11/2022,Australia,12,Luca Morisi,y,47
+12/11/2022,Australia,6,Sebastian Negri,y,58
+12/11/2022,Australia,11,Montanna Ioane,y,80
+12/11/2022,Australia,23,Tommaso Menoncello,n,33
+19/11/2022,South Africa,15,Ange Capuozzo,y,80
+19/11/2022,South Africa,5,Federico Ruzza,y,68
+19/11/2022,South Africa,19,David Sisi,n,12
+19/11/2022,South Africa,8,Lorenzo Cannone,y,80
+19/11/2022,South Africa,14,Pierre Bruno,y,77
+19/11/2022,South Africa,18,Simone Ferrari,n,40
+19/11/2022,South Africa,7,Michele Lamaro,y,80
+19/11/2022,South Africa,4,Niccolo Cannone,y,80
+19/11/2022,South Africa,10,Tommaso Allan,y,80
+19/11/2022,South Africa,9,Stephen Varney,y,61
+19/11/2022,South Africa,17,Ivan Nemer,n,29
+19/11/2022,South Africa,1,Danilo Fischetti,y,51
+19/11/2022,South Africa,16,Gianmarco Lucchesi,n,40
+19/11/2022,South Africa,20,Manuel Zuliani,n,29
+19/11/2022,South Africa,2,Giacomo Nicotera,y,40
+19/11/2022,South Africa,22,Edoardo Padovani,n,3
+19/11/2022,South Africa,13,Juan Ignacio Brex,y,80
+19/11/2022,South Africa,21,Alessandro Garbisi,n,19
+19/11/2022,South Africa,3,Pietro Ceccarelli,y,40
+19/11/2022,South Africa,12,Luca Morisi,y,51
+19/11/2022,South Africa,6,Sebastian Negri,y,51
+19/11/2022,South Africa,11,Montanna Ioane,y,80
+19/11/2022,South Africa,23,Tommaso Menoncello,n,29
+05/02/2023,France,15,Ange Capuozzo,y,80
+05/02/2023,France,5,Federico Ruzza,y,80
+05/02/2023,France,17,Federico Zani,n,12
+05/02/2023,France,20,Giovanni Pettinelli,n,11
+05/02/2023,France,16,Luca Bigi,n,11
+05/02/2023,France,8,Lorenzo Cannone,y,69
+05/02/2023,France,14,Pierre Bruno,y,66
+05/02/2023,France,3,Simone Ferrari,y,56
+05/02/2023,France,22,Alessandro Fusco,n,5
+05/02/2023,France,7,Michele Lamaro,y,80
+05/02/2023,France,4,Niccolo Cannone,y,69
+05/02/2023,France,10,Tommaso Allan,y,80
+05/02/2023,France,9,Stephen Varney,y,75
+05/02/2023,France,1,Danilo Fischetti,y,68
+05/02/2023,France,21,Manuel Zuliani,n,15
+05/02/2023,France,2,Giacomo Nicotera,y,69
+05/02/2023,France,23,Edoardo Padovani,n,14
+05/02/2023,France,13,Juan Ignacio Brex,y,80
+05/02/2023,France,18,Pietro Ceccarelli,n,24
+05/02/2023,France,12,Luca Morisi,y,80
+05/02/2023,France,6,Sebastian Negri,y,65
+05/02/2023,France,19,Edoardo Iachizzi,n,11
+05/02/2023,France,11,Tommaso Menoncello,y,80
+12/02/2023,England,15,Ange Capuozzo,y,80
+12/02/2023,England,5,Federico Ruzza,y,80
+12/02/2023,England,17,Federico Zani,n,25
+12/02/2023,England,16,Luca Bigi,n,19
+12/02/2023,England,8,Lorenzo Cannone,y,56
+12/02/2023,England,20,Jake Polledri,n,24
+12/02/2023,England,23,Pierre Bruno,n,33
+12/02/2023,England,18,Simone Ferrari,n,32
+12/02/2023,England,22,Alessandro Fusco,n,18
+12/02/2023,England,7,Michele Lamaro,y,24
+12/02/2023,England,4,Niccolo Cannone,y,73
+12/02/2023,England,10,Tommaso Allan,y,80
+12/02/2023,England,9,Stephen Varney,y,62
+12/02/2023,England,1,Danilo Fischetti,y,55
+12/02/2023,England,21,Manuel Zuliani,n,56
+12/02/2023,England,2,Giacomo Nicotera,y,61
+12/02/2023,England,14,Edoardo Padovani,y,80
+12/02/2023,England,13,Juan Ignacio Brex,y,80
+12/02/2023,England,12,Luca Morisi,y,47
+12/02/2023,England,6,Sebastian Negri,y,80
+12/02/2023,England,19,Edoardo Iachizzi,n,7
+12/02/2023,England,3,Marco Riccioni,y,48
+12/02/2023,England,11,Tommaso Menoncello,y,80
+25/02/2023,Ireland,15,Ange Capuozzo,y,80
+25/02/2023,Ireland,5,Federico Ruzza,y,80
+25/02/2023,Ireland,17,Federico Zani,n,20
+25/02/2023,Ireland,20,Giovanni Pettinelli,n,15
+25/02/2023,Ireland,16,Luca Bigi,n,39
+25/02/2023,Ireland,8,Lorenzo Cannone,y,65
+25/02/2023,Ireland,11,Pierre Bruno,y,80
+25/02/2023,Ireland,3,Simone Ferrari,y,47
+25/02/2023,Ireland,21,Alessandro Fusco,n,12
+25/02/2023,Ireland,7,Michele Lamaro,y,80
+25/02/2023,Ireland,4,Niccolo Cannone,y,65
+25/02/2023,Ireland,23,Tommaso Allan,n,7
+25/02/2023,Ireland,9,Stephen Varney,y,68
+25/02/2023,Ireland,1,Danilo Fischetti,y,60
+25/02/2023,Ireland,2,Giacomo Nicotera,y,41
+25/02/2023,Ireland,14,Edoardo Padovani,y,80
+25/02/2023,Ireland,10,Paolo Garbisi,y,73
+25/02/2023,Ireland,13,Juan Ignacio Brex,y,80
+25/02/2023,Ireland,22,Luca Morisi,n,2
+25/02/2023,Ireland,6,Sebastian Negri,y,80
+25/02/2023,Ireland,19,Edoardo Iachizzi,n,15
+25/02/2023,Ireland,18,Marco Riccioni,n,33
+25/02/2023,Ireland,12,Tommaso Menoncello,y,78
+11/03/2023,Wales,5,Federico Ruzza,y,80
+11/03/2023,Wales,17,Federico Zani,n,18
+11/03/2023,Wales,20,Giovanni Pettinelli,n,3
+11/03/2023,Wales,16,Luca Bigi,n,27
+11/03/2023,Wales,8,Lorenzo Cannone,y,80
+11/03/2023,Wales,11,Pierre Bruno,y,80
+11/03/2023,Wales,3,Simone Ferrari,y,49
+11/03/2023,Wales,22,Alessandro Fusco,n,24
+11/03/2023,Wales,7,Michele Lamaro,y,77
+11/03/2023,Wales,4,Niccolo Cannone,y,60
+11/03/2023,Wales,15,Tommaso Allan,y,80
+11/03/2023,Wales,9,Stephen Varney,y,56
+11/03/2023,Wales,1,Danilo Fischetti,y,62
+11/03/2023,Wales,21,Manuel Zuliani,n,27
+11/03/2023,Wales,2,Giacomo Nicotera,y,53
+11/03/2023,Wales,14,Edoardo Padovani,y,80
+11/03/2023,Wales,10,Paolo Garbisi,y,80
+11/03/2023,Wales,13,Juan Ignacio Brex,y,80
+11/03/2023,Wales,23,Luca Morisi,n,20
+11/03/2023,Wales,6,Sebastian Negri,y,53
+11/03/2023,Wales,19,Edoardo Iachizzi,n,20
+11/03/2023,Wales,18,Marco Riccioni,n,31
+11/03/2023,Wales,12,Tommaso Menoncello,y,60
+18/03/2023,Scotland,5,Federico Ruzza,y,80
+18/03/2023,Scotland,17,Federico Zani,n,24
+18/03/2023,Scotland,20,Giovanni Pettinelli,n,19
+18/03/2023,Scotland,23,Marco Zanon,n,9
+18/03/2023,Scotland,8,Lorenzo Cannone,y,61
+18/03/2023,Scotland,14,Pierre Bruno,y,80
+18/03/2023,Scotland,9,Alessandro Fusco,y,50
+18/03/2023,Scotland,7,Michele Lamaro,y,80
+18/03/2023,Scotland,19,Niccolo Cannone,n,47
+18/03/2023,Scotland,15,Tommaso Allan,y,80
+18/03/2023,Scotland,1,Danilo Fischetti,y,56
+18/03/2023,Scotland,21,Manuel Zuliani,n,34
+18/03/2023,Scotland,2,Giacomo Nicotera,y,71
+18/03/2023,Scotland,16,Marco Manfredi,n,9
+18/03/2023,Scotland,10,Paolo Garbisi,y,80
+18/03/2023,Scotland,13,Juan Ignacio Brex,y,80
+18/03/2023,Scotland,11,Simone Gesi,y,80
+18/03/2023,Scotland,22,Alessandro Garbisi,n,30
+18/03/2023,Scotland,18,Pietro Ceccarelli,n,22
+18/03/2023,Scotland,12,Luca Morisi,y,71
+18/03/2023,Scotland,6,Sebastian Negri,y,46
+18/03/2023,Scotland,4,Edoardo Iachizzi,y,33
+18/03/2023,Scotland,3,Marco Riccioni,y,58
+29/07/2023,Scotland,6,Federico Ruzza,y,80
+29/07/2023,Scotland,4,David Sisi,y,57
+29/07/2023,Scotland,1,Federico Zani,y,51
+29/07/2023,Scotland,15,Lorenzo Pani,y,80
+29/07/2023,Scotland,20,Lorenzo Cannone,n,29
+29/07/2023,Scotland,14,Pierre Bruno,y,51
+29/07/2023,Scotland,10,Tommaso Allan,y,80
+29/07/2023,Scotland,22,Giacomo Da Re,n,19
+29/07/2023,Scotland,17,Danilo Fischetti,n,29
+29/07/2023,Scotland,18,Filippo Alongi,n,20
+29/07/2023,Scotland,23,Federico Mori,n,20
+29/07/2023,Scotland,8,Toa Halafihi,y,80
+29/07/2023,Scotland,2,Hame Faiva,y,58
+29/07/2023,Scotland,7,Manuel Zuliani,y,51
+29/07/2023,Scotland,16,Marco Manfredi,n,22
+29/07/2023,Scotland,21,Alessandro Garbisi,n,29
+29/07/2023,Scotland,3,Pietro Ceccarelli,y,60
+29/07/2023,Scotland,12,Luca Morisi,y,60
+29/07/2023,Scotland,11,Montanna Ioane,y,80
+29/07/2023,Scotland,9,Martin Page-Relo,y,61
+29/07/2023,Scotland,5,Andrea Zambonin,y,80
+29/07/2023,Scotland,19,Edoardo Iachizzi,n,23
+29/07/2023,Scotland,13,Tommaso Menoncello,y,80
+05/08/2023,Ireland,5,Federico Ruzza,y,80
+05/08/2023,Ireland,21,Giovanni Pettinelli,n,22
+05/08/2023,Ireland,23,Lorenzo Pani,n,57
+05/08/2023,Ireland,16,Luca Bigi,n,24
+05/08/2023,Ireland,8,Lorenzo Cannone,y,80
+05/08/2023,Ireland,17,Paolo Buonfiglio,n,20
+05/08/2023,Ireland,18,Simone Ferrari,n,70
+05/08/2023,Ireland,22,Alessandro Fusco,n,40
+05/08/2023,Ireland,20,Michele Lamaro,n,39
+05/08/2023,Ireland,19,Niccolo Cannone,n,34
+05/08/2023,Ireland,15,Tommaso Allan,y,80
+05/08/2023,Ireland,9,Stephen Varney,y,40
+05/08/2023,Ireland,1,Danilo Fischetti,y,60
+05/08/2023,Ireland,7,Manuel Zuliani,y,41
+05/08/2023,Ireland,2,Giacomo Nicotera,y,56
+05/08/2023,Ireland,14,Paolo Odogwu,y,23
+05/08/2023,Ireland,10,Paolo Garbisi,y,80
+05/08/2023,Ireland,13,Juan Ignacio Brex,y,80
+05/08/2023,Ireland,4,Dino Lamb,y,46
+05/08/2023,Ireland,6,Sebastian Negri,y,58
+05/08/2023,Ireland,11,Montanna Ioane,y,80
+05/08/2023,Ireland,3,Marco Riccioni,y,10
+05/08/2023,Ireland,12,Tommaso Menoncello,y,80
+19/08/2023,Romania,15,Ange Capuozzo,y,70
+19/08/2023,Romania,16,Leonardo Marin,n,0
+19/08/2023,Romania,19,Federico Ruzza,n,10
+19/08/2023,Romania,17,Federico Zani,n,40
+19/08/2023,Romania,23,Lorenzo Pani,n,20
+19/08/2023,Romania,5,Luca Bigi,y,80
+19/08/2023,Romania,20,Lorenzo Cannone,n,57
+19/08/2023,Romania,3,Simone Ferrari,y,57
+19/08/2023,Romania,21,Alessandro Fusco,n,19
+19/08/2023,Romania,1,Michele Lamaro,y,23
+19/08/2023,Romania,22,Tommaso Allan,n,24
+19/08/2023,Romania,1,Ivan Nemer,y,40
+19/08/2023,Romania,6,Toa Halafihi,y,80
+19/08/2023,Romania,9,Hame Faiva,y,80
+19/08/2023,Romania,2,Giacomo Nicotera,y,50
+19/08/2023,Romania,7,Paolo Odogwu,y,60
+19/08/2023,Romania,10,Paolo Garbisi,y,80
+19/08/2023,Romania,13,Juan Ignacio Brex,y,80
+19/08/2023,Romania,5,Dino Lamb,y,80
+19/08/2023,Romania,9,Alessandro Garbisi,y,80
+19/08/2023,Romania,8,Pietro Ceccarelli,y,80
+19/08/2023,Romania,12,Luca Morisi,y,56
+19/08/2023,Romania,6,Sebastian Negri,y,59
+19/08/2023,Romania,11,Montanna Ioane,y,61
+19/08/2023,Romania,10,Marco Fuser,y,80
+26/08/2023,Japan,14,Ange Capuozzo,y,62
+26/08/2023,Japan,5,Federico Ruzza,y,72
+26/08/2023,Japan,20,Giovanni Pettinelli,n,8
+26/08/2023,Japan,16,Luca Bigi,n,24
+26/08/2023,Japan,8,Lorenzo Cannone,y,54
+26/08/2023,Japan,3,Simone Ferrari,y,54
+26/08/2023,Japan,7,Michele Lamaro,y,80
+26/08/2023,Japan,4,Niccolo Cannone,y,54
+26/08/2023,Japan,15,Tommaso Allan,y,80
+26/08/2023,Japan,9,Stephen Varney,y,72
+26/08/2023,Japan,1,Ivan Nemer,y,29
+26/08/2023,Japan,17,Danilo Fischetti,n,51
+26/08/2023,Japan,21,Manuel Zuliani,n,26
+26/08/2023,Japan,2,Giacomo Nicotera,y,56
+26/08/2023,Japan,23,Paolo Odogwu,n,18
+26/08/2023,Japan,10,Paolo Garbisi,y,80
+26/08/2023,Japan,13,Juan Ignacio Brex,y,80
+26/08/2023,Japan,19,Dino Lamb,n,26
+26/08/2023,Japan,18,Pietro Ceccarelli,n,26
+26/08/2023,Japan,12,Luca Morisi,y,80
+26/08/2023,Japan,6,Sebastian Negri,y,80
+26/08/2023,Japan,11,Montanna Ioane,y,80
+26/08/2023,Japan,22,Martin Page-Relo,n,8
+09/09/2023,Namibia,14,Ange Capuozzo,y,80
+09/09/2023,Namibia,5,Federico Ruzza,y,12
+09/09/2023,Namibia,19,David Sisi,n,24
+09/09/2023,Namibia,8,Lorenzo Cannone,y,80
+09/09/2023,Namibia,23,Pierre Bruno,n,33
+09/09/2023,Namibia,3,Simone Ferrari,y,50
+09/09/2023,Namibia,7,Michele Lamaro,y,80
+09/09/2023,Namibia,15,Tommaso Allan,y,80
+09/09/2023,Namibia,9,Stephen Varney,y,47
+09/09/2023,Namibia,17,Ivan Nemer,n,24
+09/09/2023,Namibia,1,Danilo Fischetti,y,56
+09/09/2023,Namibia,16,Hame Faiva,n,30
+09/09/2023,Namibia,20,Manuel Zuliani,n,33
+09/09/2023,Namibia,2,Giacomo Nicotera,y,50
+09/09/2023,Namibia,22,Paolo Odogwu,n,19
+09/09/2023,Namibia,10,Paolo Garbisi,y,80
+09/09/2023,Namibia,13,Juan Ignacio Brex,y,61
+09/09/2023,Namibia,4,Dino Lamb,y,80
+09/09/2023,Namibia,12,Luca Morisi,y,47
+09/09/2023,Namibia,6,Sebastian Negri,y,47
+09/09/2023,Namibia,11,Montanna Ioane,y,80
+09/09/2023,Namibia,21,Martin Page-Relo,n,33
+09/09/2023,Namibia,18,Marco Riccioni,n,30
+20/09/2023,Uruguay,15,Ange Capuozzo,y,80
+20/09/2023,Uruguay,5,Federico Ruzza,y,80
+20/09/2023,Uruguay,16,Federico Zani,n,12
+20/09/2023,Uruguay,21,Giovanni Pettinelli,n,18
+20/09/2023,Uruguay,14,Lorenzo Pani,y,29
+20/09/2023,Uruguay,8,Lorenzo Cannone,y,62
+20/09/2023,Uruguay,22,Alessandro Fusco,n,21
+20/09/2023,Uruguay,7,Michele Lamaro,y,80
+20/09/2023,Uruguay,4,Niccolo Cannone,y,49
+20/09/2023,Uruguay,10,Tommaso Allan,y,68
+20/09/2023,Uruguay,17,Ivan Nemer,n,13
+20/09/2023,Uruguay,1,Danilo Fischetti,y,67
+20/09/2023,Uruguay,20,Manuel Zuliani,n,21
+20/09/2023,Uruguay,2,Giacomo Nicotera,y,68
+20/09/2023,Uruguay,23,Paolo Odogwu,n,12
+20/09/2023,Uruguay,12,Paolo Garbisi,y,80
+20/09/2023,Uruguay,13,Juan Ignacio Brex,y,80
+20/09/2023,Uruguay,19,Dino Lamb,n,31
+20/09/2023,Uruguay,9,Alessandro Garbisi,y,59
+20/09/2023,Uruguay,18,Pietro Ceccarelli,n,31
+20/09/2023,Uruguay,6,Sebastian Negri,y,59
+20/09/2023,Uruguay,11,Montanna Ioane,y,80
+20/09/2023,Uruguay,3,Marco Riccioni,y,49
+29/09/2023,New Zealand,14,Ange Capuozzo,y,80
+29/09/2023,New Zealand,5,Federico Ruzza,y,80
+29/09/2023,New Zealand,8,Lorenzo Cannone,y,80
+29/09/2023,New Zealand,18,Simone Ferrari,n,16
+29/09/2023,New Zealand,7,Michele Lamaro,y,65
+29/09/2023,New Zealand,19,Niccolo Cannone,n,40
+29/09/2023,New Zealand,15,Tommaso Allan,y,60
+29/09/2023,New Zealand,9,Stephen Varney,y,49
+29/09/2023,New Zealand,17,Ivan Nemer,n,62
+29/09/2023,New Zealand,1,Danilo Fischetti,y,18
+29/09/2023,New Zealand,21,Toa Halafihi,n,15
+29/09/2023,New Zealand,16,Hame Faiva,n,31
+29/09/2023,New Zealand,20,Manuel Zuliani,n,31
+29/09/2023,New Zealand,2,Giacomo Nicotera,y,49
+29/09/2023,New Zealand,23,Paolo Odogwu,n,20
+29/09/2023,New Zealand,10,Paolo Garbisi,y,80
+29/09/2023,New Zealand,13,Juan Ignacio Brex,y,80
+29/09/2023,New Zealand,4,Dino Lamb,y,40
+29/09/2023,New Zealand,12,Luca Morisi,y,80
+29/09/2023,New Zealand,6,Sebastian Negri,y,49
+29/09/2023,New Zealand,11,Montanna Ioane,y,80
+29/09/2023,New Zealand,22,Martin Page-Relo,n,31
+29/09/2023,New Zealand,3,Marco Riccioni,y,64
+06/10/2023,France,15,Ange Capuozzo,y,31
+06/10/2023,France,5,Federico Ruzza,y,80
+06/10/2023,France,19,David Sisi,n,24
+06/10/2023,France,17,Federico Zani,n,19
+06/10/2023,France,23,Lorenzo Pani,n,0
+06/10/2023,France,8,Lorenzo Cannone,y,80
+06/10/2023,France,14,Pierre Bruno,y,64
+06/10/2023,France,1,Simone Ferrari,y,61
+06/10/2023,France,21,Alessandro Fusco,n,37
+06/10/2023,France,7,Michele Lamaro,y,43
+06/10/2023,France,4,Niccolo Cannone,y,56
+06/10/2023,France,10,Tommaso Allan,y,80
+06/10/2023,France,9,Stephen Varney,y,43
+06/10/2023,France,2,Hame Faiva,y,61
+06/10/2023,France,20,Manuel Zuliani,n,37
+06/10/2023,France,16,Marco Manfredi,n,19
+06/10/2023,France,12,Paolo Garbisi,y,80
+06/10/2023,France,13,Juan Ignacio Brex,y,80
+06/10/2023,France,3,Pietro Ceccarelli,y,55
+06/10/2023,France,22,Luca Morisi,n,16
+06/10/2023,France,6,Sebastian Negri,y,80
+06/10/2023,France,11,Montanna Ioane,y,80
+06/10/2023,France,18,Marco Riccioni,n,25
+03/02/2024,England,5,Federico Ruzza,y,73
+03/02/2024,England,14,Lorenzo Pani,y,69
+03/02/2024,England,8,Lorenzo Cannone,y,46
+03/02/2024,England,7,Michele Lamaro,y,80
+03/02/2024,England,4,Niccolo Cannone,y,80
+03/02/2024,England,17,Mirco Spagnolo,n,14
+03/02/2024,England,15,Tommaso Allan,y,80
+03/02/2024,England,19,Andrea Zambonin,n,7
+03/02/2024,England,22,Stephen Varney,n,27
+03/02/2024,England,1,Danilo Fischetti,y,66
+03/02/2024,England,2,Gianmarco Lucchesi,y,53
+03/02/2024,England,18,Giosue Zilocchi,n,34
+03/02/2024,England,21,Manuel Zuliani,n,34
+03/02/2024,England,16,Giacomo Nicotera,n,27
+03/02/2024,England,10,Paolo Garbisi,y,80
+03/02/2024,England,23,Federico Mori,n,11
+03/02/2024,England,13,Juan Ignacio Brex,y,80
+03/02/2024,England,20,Alessandro Izekor,n,14
+03/02/2024,England,9,Alessandro Garbisi,y,53
+03/02/2024,England,3,Pietro Ceccarelli,y,46
+03/02/2024,England,6,Sebastian Negri,y,66
+03/02/2024,England,11,Montanna Ioane,y,80
+03/02/2024,England,12,Tommaso Menoncello,y,80
+11/02/2024,Ireland,15,Ange Capuozzo,y,80
+11/02/2024,Ireland,20,Ross Vintcent,n,11
+11/02/2024,Ireland,5,Federico Ruzza,y,56
+11/02/2024,Ireland,14,Lorenzo Pani,y,58
+11/02/2024,Ireland,8,Michele Lamaro,y,80
+11/02/2024,Ireland,4,Niccolo Cannone,y,80
+11/02/2024,Ireland,17,Mirco Spagnolo,n,24
+11/02/2024,Ireland,22,Tommaso Allan,n,0
+11/02/2024,Ireland,19,Andrea Zambonin,n,24
+11/02/2024,Ireland,9,Stephen Varney,y,58
+11/02/2024,Ireland,1,Danilo Fischetti,y,56
+11/02/2024,Ireland,2,Gianmarco Lucchesi,y,56
+11/02/2024,Ireland,18,Giosue Zilocchi,n,36
+11/02/2024,Ireland,7,Manuel Zuliani,y,69
+11/02/2024,Ireland,16,Giacomo Nicotera,n,24
+11/02/2024,Ireland,10,Paolo Garbisi,y,80
+11/02/2024,Ireland,23,Federico Mori,n,22
+11/02/2024,Ireland,13,Juan Ignacio Brex,y,80
+11/02/2024,Ireland,6,Alessandro Izekor,y,80
+11/02/2024,Ireland,3,Pietro Ceccarelli,y,44
+11/02/2024,Ireland,11,Montanna Ioane,y,80
+11/02/2024,Ireland,21,Martin Page-Relo,n,22
+11/02/2024,Ireland,12,Tommaso Menoncello,y,80
+25/02/2024,France,15,Ange Capuozzo,y,80
+25/02/2024,France,6,Riccardo Favretto,y,49
+25/02/2024,France,8,Ross Vintcent,y,80
+25/02/2024,France,23,Leonardo Marin,n,14
+25/02/2024,France,5,Federico Ruzza,y,66
+25/02/2024,France,18,Simone Ferrari,n,17
+25/02/2024,France,7,Michele Lamaro,y,80
+25/02/2024,France,4,Niccolo Cannone,y,80
+25/02/2024,France,17,Mirco Spagnolo,n,24
+25/02/2024,France,22,Stephen Varney,n,26
+25/02/2024,France,1,Danilo Fischetti,y,56
+25/02/2024,France,16,Gianmarco Lucchesi,n,24
+25/02/2024,France,12,Federico Mori,y,66
+25/02/2024,France,3,Giosue Zilocchi,y,63
+25/02/2024,France,21,Manuel Zuliani,n,31
+25/02/2024,France,2,Giacomo Nicotera,y,56
+25/02/2024,France,10,Paolo Garbisi,y,80
+25/02/2024,France,13,Juan Ignacio Brex,y,80
+25/02/2024,France,11,Montanna Ioane,y,80
+25/02/2024,France,9,Martin Page-Relo,y,54
+25/02/2024,France,20,Andrea Zambonin,n,14
+25/02/2024,France,19,Matteo Canali,n,0
+25/02/2024,France,14,Tommaso Menoncello,y,80
+09/03/2024,Scotland,15,Ange Capuozzo,y,80
+09/03/2024,Scotland,8,Ross Vintcent,y,80
+09/03/2024,Scotland,22,Leonardo Marin,n,0
+09/03/2024,Scotland,5,Federico Ruzza,y,80
+09/03/2024,Scotland,20,Lorenzo Cannone,n,0
+09/03/2024,Scotland,3,Simone Ferrari,y,80
+09/03/2024,Scotland,7,Michele Lamaro,y,80
+09/03/2024,Scotland,4,Niccolo Cannone,y,80
+09/03/2024,Scotland,17,Mirco Spagnolo,n,0
+09/03/2024,Scotland,21,Stephen Varney,n,0
+09/03/2024,Scotland,1,Danilo Fischetti,y,80
+09/03/2024,Scotland,16,Gianmarco Lucchesi,n,0
+09/03/2024,Scotland,23,Federico Mori,n,0
+09/03/2024,Scotland,18,Giosue Zilocchi,n,0
+09/03/2024,Scotland,2,Giacomo Nicotera,y,80
+09/03/2024,Scotland,10,Paolo Garbisi,y,80
+09/03/2024,Scotland,13,Juan Ignacio Brex,y,80
+09/03/2024,Scotland,6,Sebastian Negri,y,80
+09/03/2024,Scotland,11,Montanna Ioane,y,80
+09/03/2024,Scotland,9,Martin Page-Relo,y,80
+09/03/2024,Scotland,19,Andrea Zambonin,n,0
+09/03/2024,Scotland,14,Louis Lynagh,y,80
+09/03/2024,Scotland,12,Tommaso Menoncello,y,80
+16/03/2024,Wales,19,Riccardo Favretto,n,5
+16/03/2024,Wales,20,Ross Vintcent,n,0
+16/03/2024,Wales,23,Leonardo Marin,n,0
+16/03/2024,Wales,5,Federico Ruzza,y,80
+16/03/2024,Wales,15,Lorenzo Pani,y,80
+16/03/2024,Wales,8,Lorenzo Cannone,y,80
+16/03/2024,Wales,3,Simone Ferrari,y,80
+16/03/2024,Wales,7,Michele Lamaro,y,80
+16/03/2024,Wales,4,Niccolo Cannone,y,75
+16/03/2024,Wales,17,Mirco Spagnolo,n,0
+16/03/2024,Wales,9,Stephen Varney,y,80
+16/03/2024,Wales,1,Danilo Fischetti,y,80
+16/03/2024,Wales,16,Gianmarco Lucchesi,n,40
+16/03/2024,Wales,18,Giosue Zilocchi,n,0
+16/03/2024,Wales,21,Manuel Zuliani,n,0
+16/03/2024,Wales,2,Giacomo Nicotera,y,40
+16/03/2024,Wales,10,Paolo Garbisi,y,80
+16/03/2024,Wales,13,Juan Ignacio Brex,y,80
+16/03/2024,Wales,6,Sebastian Negri,y,80
+16/03/2024,Wales,11,Montanna Ioane,y,80
+16/03/2024,Wales,22,Martin Page-Relo,n,0
+16/03/2024,Wales,14,Louis Lynagh,y,80
+16/03/2024,Wales,12,Tommaso Menoncello,y,80
+05/07/2024,Samoa,8,Ross Vintcent,y,52
+05/07/2024,Samoa,23,Leonardo Marin,n,0
+05/07/2024,Samoa,5,Federico Ruzza,y,80
+05/07/2024,Samoa,21,Lorenzo Cannone,n,28
+05/07/2024,Samoa,3,Simone Ferrari,y,55
+05/07/2024,Samoa,7,Michele Lamaro,y,80
+05/07/2024,Samoa,4,Niccolo Cannone,y,55
+05/07/2024,Samoa,17,Mirco Spagnolo,n,20
+05/07/2024,Samoa,9,Stephen Varney,y,54
+05/07/2024,Samoa,1,Danilo Fischetti,y,60
+05/07/2024,Samoa,15,Matt Gallagher,y,80
+05/07/2024,Samoa,16,Loris Zarantonello,n,10
+05/07/2024,Samoa,2,Gianmarco Lucchesi,y,70
+05/07/2024,Samoa,18,Giosue Zilocchi,n,25
+05/07/2024,Samoa,20,Manuel Zuliani,n,15
+05/07/2024,Samoa,10,Paolo Garbisi,y,80
+05/07/2024,Samoa,13,Juan Ignacio Brex,y,80
+05/07/2024,Samoa,6,Alessandro Izekor,y,65
+05/07/2024,Samoa,11,Montanna Ioane,y,80
+05/07/2024,Samoa,22,Martin Page-Relo,n,26
+05/07/2024,Samoa,19,Edoardo Iachizzi,n,25
+05/07/2024,Samoa,14,Louis Lynagh,y,80
+05/07/2024,Samoa,12,Tommaso Menoncello,y,80
+12/07/2024,Tonga,15,Ange Capuozzo,y,80
+12/07/2024,Tonga,21,Ross Vintcent,n,37
+12/07/2024,Tonga,14,Jacopo Trulla,y,80
+12/07/2024,Tonga,23,Leonardo Marin,n,15
+12/07/2024,Tonga,5,Federico Ruzza,y,41
+12/07/2024,Tonga,8,Lorenzo Cannone,y,80
+12/07/2024,Tonga,18,Simone Ferrari,n,23
+12/07/2024,Tonga,7,Michele Lamaro,y,64
+12/07/2024,Tonga,20,Niccolo Cannone,n,28
+12/07/2024,Tonga,17,Mirco Spagnolo,n,28
+12/07/2024,Tonga,1,Danilo Fischetti,y,52
+12/07/2024,Tonga,16,Gianmarco Lucchesi,n,12
+12/07/2024,Tonga,6,Manuel Zuliani,y,43
+12/07/2024,Tonga,2,Giacomo Nicotera,y,68
+12/07/2024,Tonga,10,Paolo Garbisi,y,65
+12/07/2024,Tonga,13,Juan Ignacio Brex,y,80
+12/07/2024,Tonga,22,Alessandro Garbisi,n,23
+12/07/2024,Tonga,11,Montanna Ioane,y,80
+12/07/2024,Tonga,9,Martin Page-Relo,y,57
+12/07/2024,Tonga,19,Andrea Zambonin,n,39
+12/07/2024,Tonga,4,Edoardo Iachizzi,y,68
+12/07/2024,Tonga,3,Marco Riccioni,y,57
+12/07/2024,Tonga,12,Tommaso Menoncello,y,80
+21/07/2024,Japan,15,Ange Capuozzo,y,80
+21/07/2024,Japan,6,Ross Vintcent,y,80
+21/07/2024,Japan,11,Jacopo Trulla,y,80
+21/07/2024,Japan,22,Leonardo Marin,n,14
+21/07/2024,Japan,19,Federico Ruzza,n,15
+21/07/2024,Japan,23,Marco Zanon,n,37
+21/07/2024,Japan,8,Lorenzo Cannone,y,66
+21/07/2024,Japan,18,Simone Ferrari,n,34
+21/07/2024,Japan,7,Michele Lamaro,y,60
+21/07/2024,Japan,4,Niccolo Cannone,y,80
+21/07/2024,Japan,17,Mirco Spagnolo,n,34
+21/07/2024,Japan,1,Danilo Fischetti,y,47
+21/07/2024,Japan,16,Gianmarco Lucchesi,n,0
+21/07/2024,Japan,20,Manuel Zuliani,n,21
+21/07/2024,Japan,2,Giacomo Nicotera,y,47
+21/07/2024,Japan,10,Paolo Garbisi,y,67
+21/07/2024,Japan,13,Juan Ignacio Brex,y,80
+21/07/2024,Japan,21,Alessandro Garbisi,n,21
+21/07/2024,Japan,9,Martin Page-Relo,y,65
+21/07/2024,Japan,5,Andrea Zambonin,y,80
+21/07/2024,Japan,3,Marco Riccioni,y,47
+21/07/2024,Japan,14,Louis Lynagh,y,44
+21/07/2024,Japan,12,Tommaso Menoncello,y,76
+09/11/2024,Argentina,10,Paolo Garbisi,y,80
+09/11/2024,Argentina,13,Juan Ignacio Brex,y,69
+09/11/2024,Argentina,19,Dino Lamb,n,35
+09/11/2024,Argentina,21,Alessandro Garbisi,n,17
+09/11/2024,Argentina,6,Sebastian Negri,y,59
+09/11/2024,Argentina,11,Montanna Ioane,y,80
+09/11/2024,Argentina,9,Martin Page-Relo,y,63
+09/11/2024,Argentina,3,Marco Riccioni,y,45
+09/11/2024,Argentina,14,Louis Lynagh,y,80
+09/11/2024,Argentina,12,Tommaso Menoncello,y,80
+09/11/2024,Argentina,15,Ange Capuozzo,y,7
+09/11/2024,Argentina,5,Federico Ruzza,y,45
+09/11/2024,Argentina,23,Marco Zanon,n,11
+09/11/2024,Argentina,8,Lorenzo Cannone,y,80
+09/11/2024,Argentina,18,Simone Ferrari,n,35
+09/11/2024,Argentina,7,Michele Lamaro,y,80
+09/11/2024,Argentina,4,Niccolo Cannone,y,80
+09/11/2024,Argentina,1,Mirco Spagnolo,y,50
+09/11/2024,Argentina,22,Tommaso Allan,n,0
+09/11/2024,Argentina,17,Danilo Fischetti,n,30
+09/11/2024,Argentina,2,Gianmarco Lucchesi,y,50
+09/11/2024,Argentina,20,Manuel Zuliani,n,21
+09/11/2024,Argentina,16,Giacomo Nicotera,n,30
+17/11/2024,Georgia,19,Riccardo Favretto,n,20
+17/11/2024,Georgia,8,Ross Vintcent,y,80
+17/11/2024,Georgia,14,Jacopo Trulla,y,77
+17/11/2024,Georgia,22,Leonardo Marin,n,0
+17/11/2024,Georgia,3,Simone Ferrari,y,53
+17/11/2024,Georgia,21,Alessandro Fusco,n,20
+17/11/2024,Georgia,7,Michele Lamaro,y,2
+17/11/2024,Georgia,4,Niccolo Cannone,y,60
+17/11/2024,Georgia,17,Mirco Spagnolo,n,27
+17/11/2024,Georgia,1,Danilo Fischetti,y,53
+17/11/2024,Georgia,15,Matt Gallagher,y,80
+17/11/2024,Georgia,16,Gianmarco Lucchesi,n,27
+17/11/2024,Georgia,20,Manuel Zuliani,n,78
+17/11/2024,Georgia,2,Giacomo Nicotera,y,53
+17/11/2024,Georgia,10,Paolo Garbisi,y,80
+17/11/2024,Georgia,13,Juan Ignacio Brex,y,80
+17/11/2024,Georgia,23,Giulio Bertaccini,n,0
+17/11/2024,Georgia,5,Dino Lamb,y,80
+17/11/2024,Georgia,9,Alessandro Garbisi,y,60
+17/11/2024,Georgia,18,Pietro Ceccarelli,n,27
+17/11/2024,Georgia,6,Sebastian Negri,y,80
+17/11/2024,Georgia,11,Montanna Ioane,y,80
+17/11/2024,Georgia,12,Tommaso Menoncello,y,72
+23/11/2024,New Zealand,15,Ange Capuozzo,y,67
+23/11/2024,New Zealand,8,Ross Vintcent,y,80
+23/11/2024,New Zealand,14,Jacopo Trulla,y,71
+23/11/2024,New Zealand,22,Leonardo Marin,n,3
+23/11/2024,New Zealand,4,Federico Ruzza,y,51
+23/11/2024,New Zealand,23,Marco Zanon,n,9
+23/11/2024,New Zealand,18,Simone Ferrari,n,36
+23/11/2024,New Zealand,19,Niccolo Cannone,n,29
+23/11/2024,New Zealand,17,Mirco Spagnolo,n,18
+23/11/2024,New Zealand,1,Danilo Fischetti,y,62
+23/11/2024,New Zealand,2,Gianmarco Lucchesi,y,51
+23/11/2024,New Zealand,7,Manuel Zuliani,y,69
+23/11/2024,New Zealand,16,Giacomo Nicotera,n,29
+23/11/2024,New Zealand,10,Paolo Garbisi,y,77
+23/11/2024,New Zealand,13,Juan Ignacio Brex,y,80
+23/11/2024,New Zealand,20,Alessandro Izekor,n,11
+23/11/2024,New Zealand,5,Dino Lamb,y,71
+23/11/2024,New Zealand,21,Alessandro Garbisi,n,26
+23/11/2024,New Zealand,6,Sebastian Negri,y,80
+23/11/2024,New Zealand,11,Montanna Ioane,y,80
+23/11/2024,New Zealand,9,Martin Page-Relo,y,54
+23/11/2024,New Zealand,3,Marco Riccioni,y,44
+23/11/2024,New Zealand,12,Tommaso Menoncello,y,80
+01/02/2025,Scotland,14,Ange Capuozzo,y,80
+01/02/2025,Scotland,21,Ross Vintcent,n,26
+01/02/2025,Scotland,5,Federico Ruzza,y,43
+01/02/2025,Scotland,8,Lorenzo Cannone,y,54
+01/02/2025,Scotland,3,Simone Ferrari,y,51
+01/02/2025,Scotland,7,Michele Lamaro,y,62
+01/02/2025,Scotland,19,Niccolo Cannone,n,0
+01/02/2025,Scotland,15,Tommaso Allan,y,80
+01/02/2025,Scotland,1,Danilo Fischetti,y,67
+01/02/2025,Scotland,16,Gianmarco Lucchesi,n,29
+01/02/2025,Scotland,17,Luca Rizzoli,n,13
+01/02/2025,Scotland,20,Manuel Zuliani,n,18
+01/02/2025,Scotland,2,Giacomo Nicotera,y,51
+01/02/2025,Scotland,10,Paolo Garbisi,y,80
+01/02/2025,Scotland,13,Juan Ignacio Brex,y,80
+01/02/2025,Scotland,4,Dino Lamb,y,54
+01/02/2025,Scotland,23,Simone Gesi,n,13
+01/02/2025,Scotland,22,Alessandro Garbisi,n,18
+01/02/2025,Scotland,6,Sebastian Negri,y,80
+01/02/2025,Scotland,11,Montanna Ioane,y,67
+01/02/2025,Scotland,9,Martin Page-Relo,y,62
+01/02/2025,Scotland,18,Marco Riccioni,n,29
+01/02/2025,Scotland,12,Tommaso Menoncello,y,80
+08/02/2025,Wales,14,Ange Capuozzo,y,80
+08/02/2025,Wales,21,Ross Vintcent,n,19
+08/02/2025,Wales,23,Jacopo Trulla,n,6
+08/02/2025,Wales,5,Federico Ruzza,y,61
+08/02/2025,Wales,8,Lorenzo Cannone,y,80
+08/02/2025,Wales,3,Simone Ferrari,y,52
+08/02/2025,Wales,7,Michele Lamaro,y,66
+08/02/2025,Wales,4,Niccolo Cannone,y,80
+08/02/2025,Wales,15,Tommaso Allan,y,74
+08/02/2025,Wales,1,Danilo Fischetti,y,66
+08/02/2025,Wales,16,Gianmarco Lucchesi,n,28
+08/02/2025,Wales,17,Luca Rizzoli,n,14
+08/02/2025,Wales,20,Manuel Zuliani,n,14
+08/02/2025,Wales,2,Giacomo Nicotera,y,52
+08/02/2025,Wales,10,Paolo Garbisi,y,70
+08/02/2025,Wales,13,Juan Ignacio Brex,y,80
+08/02/2025,Wales,19,Dino Lamb,n,19
+08/02/2025,Wales,22,Alessandro Garbisi,n,11
+08/02/2025,Wales,6,Sebastian Negri,y,61
+08/02/2025,Wales,11,Montanna Ioane,y,80
+08/02/2025,Wales,9,Martin Page-Relo,y,69
+08/02/2025,Wales,18,Marco Riccioni,n,28
+08/02/2025,Wales,12,Tommaso Menoncello,y,80
+23/02/2025,France,14,Ange Capuozzo,y,80
+23/02/2025,France,19,Riccardo Favretto,n,7
+23/02/2025,France,21,Ross Vintcent,n,26
+23/02/2025,France,23,Jacopo Trulla,n,26
+23/02/2025,France,5,Federico Ruzza,y,80
+23/02/2025,France,8,Lorenzo Cannone,y,54
+23/02/2025,France,3,Simone Ferrari,y,46
+23/02/2025,France,7,Michele Lamaro,y,62
+23/02/2025,France,4,Niccolo Cannone,y,73
+23/02/2025,France,17,Mirco Spagnolo,n,63
+23/02/2025,France,15,Tommaso Allan,y,54
+23/02/2025,France,1,Danilo Fischetti,y,17
+23/02/2025,France,2,Gianmarco Lucchesi,y,46
+23/02/2025,France,18,Giosue Zilocchi,n,34
+23/02/2025,France,20,Manuel Zuliani,n,0
+23/02/2025,France,16,Giacomo Nicotera,n,34
+23/02/2025,France,10,Paolo Garbisi,y,80
+23/02/2025,France,13,Juan Ignacio Brex,y,80
+23/02/2025,France,11,Simone Gesi,y,80
+23/02/2025,France,22,Alessandro Garbisi,n,22
+23/02/2025,France,6,Sebastian Negri,y,48
+23/02/2025,France,9,Martin Page-Relo,y,58
+23/02/2025,France,12,Tommaso Menoncello,y,80
+09/03/2025,England,15,Ange Capuozzo,y,70
+09/03/2025,England,19,Riccardo Favretto,n,11
+09/03/2025,England,8,Ross Vintcent,y,50
+09/03/2025,England,5,Federico Ruzza,y,80
+09/03/2025,England,21,Lorenzo Cannone,n,30
+09/03/2025,England,18,Simone Ferrari,n,33
+09/03/2025,England,7,Michele Lamaro,y,50
+09/03/2025,England,4,Niccolo Cannone,y,69
+09/03/2025,England,17,Mirco Spagnolo,n,20
+09/03/2025,England,23,Tommaso Allan,n,10
+09/03/2025,England,9,Stephen Varney,y,56
+09/03/2025,England,1,Danilo Fischetti,y,60
+09/03/2025,England,11,Matt Gallagher,y,77
+09/03/2025,England,16,Gianmarco Lucchesi,n,30
+09/03/2025,England,20,Manuel Zuliani,n,30
+09/03/2025,England,2,Giacomo Nicotera,y,50
+09/03/2025,England,10,Paolo Garbisi,y,80
+09/03/2025,England,13,Juan Ignacio Brex,y,80
+09/03/2025,England,6,Sebastian Negri,y,80
+09/03/2025,England,14,Montanna Ioane,y,80
+09/03/2025,England,22,Martin Page-Relo,n,24
+09/03/2025,England,3,Marco Riccioni,y,47
+09/03/2025,England,12,Tommaso Menoncello,y,80
+15/03/2025,Ireland,14,Ange Capuozzo,y,80
+15/03/2025,Ireland,21,Ross Vintcent,n,39
+15/03/2025,Ireland,23,Leonardo Marin,n,5
+15/03/2025,Ireland,5,Federico Ruzza,y,80
+15/03/2025,Ireland,8,Lorenzo Cannone,y,29
+15/03/2025,Ireland,3,Simone Ferrari,y,56
+15/03/2025,Ireland,20,Michele Lamaro,n,51
+15/03/2025,Ireland,19,Niccolo Cannone,n,62
+15/03/2025,Ireland,17,Mirco Spagnolo,n,24
+15/03/2025,Ireland,15,Tommaso Allan,y,75
+15/03/2025,Ireland,22,Stephen Varney,n,35
+15/03/2025,Ireland,1,Danilo Fischetti,y,56
+15/03/2025,Ireland,2,Gianmarco Lucchesi,y,80
+15/03/2025,Ireland,18,Giosue Zilocchi,n,24
+15/03/2025,Ireland,7,Manuel Zuliani,y,80
+15/03/2025,Ireland,16,Giacomo Nicotera,n,12
+15/03/2025,Ireland,10,Paolo Garbisi,y,80
+15/03/2025,Ireland,13,Juan Ignacio Brex,y,80
+15/03/2025,Ireland,4,Dino Lamb,y,18
+15/03/2025,Ireland,6,Sebastian Negri,y,29
+15/03/2025,Ireland,11,Montanna Ioane,y,80
+15/03/2025,Ireland,9,Martin Page-Relo,y,45
+15/03/2025,Ireland,12,Tommaso Menoncello,y,80
+27/06/2025,Namibia,5,Riccardo Favretto,y,53
+27/06/2025,Namibia,8,Ross Vintcent,y,80
+27/06/2025,Namibia,15,Jacopo Trulla,y,80
+27/06/2025,Namibia,12,Leonardo Marin,y,53
+27/06/2025,Namibia,20,Lorenzo Cannone,n,21
+27/06/2025,Namibia,9,Alessandro Fusco,y,53
+27/06/2025,Namibia,4,Niccolo Cannone,y,80
+27/06/2025,Namibia,17,Mirco Spagnolo,n,27
+27/06/2025,Namibia,10,Giacomo Da Re,y,80
+27/06/2025,Namibia,21,Stephen Varney,n,27
+27/06/2025,Namibia,1,Danilo Fischetti,y,53
+27/06/2025,Namibia,16,Tommaso Di Bartolomeo,n,27
+27/06/2025,Namibia,23,Mirko Belloni,n,10
+27/06/2025,Namibia,7,Manuel Zuliani,y,59
+27/06/2025,Namibia,2,Giacomo Nicotera,y,53
+27/06/2025,Namibia,14,Paolo Odogwu,y,70
+27/06/2025,Namibia,22,Giulio Bertaccini,n,27
+27/06/2025,Namibia,11,Simone Gesi,y,80
+27/06/2025,Namibia,18,Muhamed Hasa,n,76
+27/06/2025,Namibia,6,Sebastian Negri,y,80
+27/06/2025,Namibia,19,Andrea Zambonin,n,27
+27/06/2025,Namibia,3,Marco Riccioni,y,4
+27/06/2025,Namibia,13,Tommaso Menoncello,y,80
+05/07/2025,South Africa,16,Pablo Dimcheff,n,18
+05/07/2025,South Africa,20,Ross Vintcent,n,32
+05/07/2025,South Africa,15,Jacopo Trulla,y,80
+05/07/2025,South Africa,12,Marco Zanon,y,74
+05/07/2025,South Africa,8,Lorenzo Cannone,y,48
+05/07/2025,South Africa,3,Simone Ferrari,y,45
+05/07/2025,South Africa,9,Alessandro Fusco,y,54
+05/07/2025,South Africa,4,Niccolo Cannone,y,80
+05/07/2025,South Africa,17,Mirco Spagnolo,n,26
+05/07/2025,South Africa,10,Giacomo Da Re,y,80
+05/07/2025,South Africa,1,Danilo Fischetti,y,54
+05/07/2025,South Africa,2,Tommaso Di Bartolomeo,y,62
+05/07/2025,South Africa,7,Manuel Zuliani,y,58
+05/07/2025,South Africa,6,Alessandro Izekor,y,80
+05/07/2025,South Africa,23,Giulio Bertaccini,n,6
+05/07/2025,South Africa,11,Simone Gesi,y,80
+05/07/2025,South Africa,22,Alessandro Garbisi,n,26
+05/07/2025,South Africa,18,Muhamed Hasa,n,26
+05/07/2025,South Africa,5,Andrea Zambonin,y,62
+05/07/2025,South Africa,19,Matteo Canali,n,18
+05/07/2025,South Africa,21,David Odiase,n,22
+05/07/2025,South Africa,14,Louis Lynagh,y,80
+05/07/2025,South Africa,13,Tommaso Menoncello,y,80
+12/07/2025,South Africa,16,Pablo Dimcheff,n,28
+12/07/2025,South Africa,8,Ross Vintcent,y,80
+12/07/2025,South Africa,11,Jacopo Trulla,y,17
+12/07/2025,South Africa,12,Marco Zanon,y,80
+12/07/2025,South Africa,3,Simone Ferrari,y,52
+12/07/2025,South Africa,4,Niccolo Cannone,y,80
+12/07/2025,South Africa,17,Mirco Spagnolo,n,17
+12/07/2025,South Africa,10,Giacomo Da Re,y,80
+12/07/2025,South Africa,22,Stephen Varney,n,13
+12/07/2025,South Africa,1,Danilo Fischetti,y,63
+12/07/2025,South Africa,2,Tommaso Di Bartolomeo,y,52
+12/07/2025,South Africa,15,Mirko Belloni,y,80
+12/07/2025,South Africa,7,Manuel Zuliani,y,70
+12/07/2025,South Africa,20,Alessandro Izekor,n,20
+12/07/2025,South Africa,23,Giulio Bertaccini,n,63
+12/07/2025,South Africa,9,Alessandro Garbisi,y,67
+12/07/2025,South Africa,18,Muhamed Hasa,n,28
+12/07/2025,South Africa,6,Sebastian Negri,y,60
+12/07/2025,South Africa,5,Andrea Zambonin,y,63
+12/07/2025,South Africa,19,Matteo Canali,n,17
+12/07/2025,South Africa,21,David Odiase,n,10
+12/07/2025,South Africa,14,Louis Lynagh,y,80
+12/07/2025,South Africa,13,Tommaso Menoncello,y,80
+08/11/2025,Australia,15,Ange Capuozzo,y,80
+08/11/2025,Australia,6,Ross Vintcent,y,70
+08/11/2025,Australia,23,Leonardo Marin,n,0
+08/11/2025,Australia,19,Federico Ruzza,n,10
+08/11/2025,Australia,8,Lorenzo Cannone,y,80
+08/11/2025,Australia,3,Simone Ferrari,y,50
+08/11/2025,Australia,4,Niccolo Cannone,y,80
+08/11/2025,Australia,17,Mirco Spagnolo,n,17
+08/11/2025,Australia,22,Tommaso Allan,n,0
+08/11/2025,Australia,9,Stephen Varney,y,68
+08/11/2025,Australia,1,Danilo Fischetti,y,63
+08/11/2025,Australia,16,Tommaso Di Bartolomeo,n,13
+08/11/2025,Australia,7,Manuel Zuliani,y,68
+08/11/2025,Australia,2,Giacomo Nicotera,y,68
+08/11/2025,Australia,10,Paolo Garbisi,y,80
+08/11/2025,Australia,13,Juan Ignacio Brex,y,80
+08/11/2025,Australia,20,Alessandro Izekor,n,13
+08/11/2025,Australia,11,Montanna Ioane,y,80
+08/11/2025,Australia,21,Martin Page-Relo,n,13
+08/11/2025,Australia,5,Andrea Zambonin,y,80
+08/11/2025,Australia,18,Marco Riccioni,n,30
+08/11/2025,Australia,14,Louis Lynagh,y,80
+08/11/2025,Australia,12,Tommaso Menoncello,y,80
+15/11/2025,South Africa,15,Ange Capuozzo,y,80
+15/11/2025,South Africa,20,Riccardo Favretto,n,27
+15/11/2025,South Africa,6,Ross Vintcent,y,53
+15/11/2025,South Africa,19,Federico Ruzza,n,30
+15/11/2025,South Africa,8,Lorenzo Cannone,y,80
+15/11/2025,South Africa,18,Simone Ferrari,n,0
+15/11/2025,South Africa,4,Niccolo Cannone,y,73
+15/11/2025,South Africa,17,Mirco Spagnolo,n,12
+15/11/2025,South Africa,23,Tommaso Allan,n,15
+15/11/2025,South Africa,9,Stephen Varney,y,65
+15/11/2025,South Africa,1,Danilo Fischetti,y,68
+15/11/2025,South Africa,16,Tommaso Di Bartolomeo,n,24
+15/11/2025,South Africa,7,Manuel Zuliani,y,80
+15/11/2025,South Africa,2,Giacomo Nicotera,y,56
+15/11/2025,South Africa,10,Paolo Garbisi,y,80
+15/11/2025,South Africa,13,Juan Ignacio Brex,y,80
+15/11/2025,South Africa,11,Montanna Ioane,y,65
+15/11/2025,South Africa,22,Martin Page-Relo,n,15
+15/11/2025,South Africa,5,Andrea Zambonin,y,50
+15/11/2025,South Africa,3,Marco Riccioni,y,48
+15/11/2025,South Africa,21,David Odiase,n,7
+15/11/2025,South Africa,14,Louis Lynagh,y,80
+15/11/2025,South Africa,12,Tommaso Menoncello,y,80
+22/11/2025,Chile,15,Ange Capuozzo,y,80
+22/11/2025,Chile,16,Pablo Dimcheff,n,27
+22/11/2025,Chile,12,Leonardo Marin,y,80
+22/11/2025,Chile,5,Federico Ruzza,y,80
+22/11/2025,Chile,8,Lorenzo Cannone,y,80
+22/11/2025,Chile,3,Simone Ferrari,y,63
+22/11/2025,Chile,7,Michele Lamaro,y,54
+22/11/2025,Chile,4,Niccolo Cannone,y,73
+22/11/2025,Chile,23,Edoardo Todaro,n,8
+22/11/2025,Chile,10,Giacomo Da Re,y,71
+22/11/2025,Chile,17,Danilo Fischetti,n,33
+22/11/2025,Chile,18,Giosue Zilocchi,n,17
+22/11/2025,Chile,19,Enoch Opoku Gyamfi,n,7
+22/11/2025,Chile,2,Tommaso Di Bartolomeo,y,42
+22/11/2025,Chile,14,Mirko Belloni,y,80
+22/11/2025,Chile,20,Manuel Zuliani,n,17
+22/11/2025,Chile,22,Juan Ignacio Brex,n,17
+22/11/2025,Chile,6,Alessandro Izekor,y,56
+22/11/2025,Chile,9,Alessandro Garbisi,y,48
+22/11/2025,Chile,1,Muhamed Hasa,y,47
+22/11/2025,Chile,11,Montanna Ioane,y,72
+22/11/2025,Chile,21,Martin Page-Relo,n,32
+22/11/2025,Chile,13,Tommaso Menoncello,y,63
+07/02/2026,Scotland,20,Riccardo Favretto,n,26
+07/02/2026,Scotland,15,Leonardo Marin,y,73
+07/02/2026,Scotland,19,Federico Ruzza,n,12
+07/02/2026,Scotland,23,Lorenzo Pani,n,7
+07/02/2026,Scotland,8,Lorenzo Cannone,y,80
+07/02/2026,Scotland,3,Simone Ferrari,y,59
+07/02/2026,Scotland,9,Alessandro Fusco,y,61
+07/02/2026,Scotland,6,Michele Lamaro,y,68
+07/02/2026,Scotland,4,Niccolo Cannone,y,80
+07/02/2026,Scotland,17,Mirco Spagnolo,n,22
+07/02/2026,Scotland,22,Giacomo Da Re,n,0
+07/02/2026,Scotland,1,Danilo Fischetti,y,59
+07/02/2026,Scotland,16,Tommaso Di Bartolomeo,n,22
+07/02/2026,Scotland,7,Manuel Zuliani,y,67
+07/02/2026,Scotland,2,Giacomo Nicotera,y,59
+07/02/2026,Scotland,10,Paolo Garbisi,y,80
+07/02/2026,Scotland,13,Juan Ignacio Brex,y,80
+07/02/2026,Scotland,21,Alessandro Garbisi,n,19
+07/02/2026,Scotland,18,Muhamed Hasa,n,22
+07/02/2026,Scotland,11,Montanna Ioane,y,80
+07/02/2026,Scotland,5,Andrea Zambonin,y,69
+07/02/2026,Scotland,14,Louis Lynagh,y,80
+07/02/2026,Scotland,12,Tommaso Menoncello,y,80
+14/02/2026,Ireland,20,Riccardo Favretto,n,14
+14/02/2026,Ireland,12,Leonardo Marin,y,66
+14/02/2026,Ireland,19,Federico Ruzza,n,20
+14/02/2026,Ireland,15,Lorenzo Pani,y,80
+14/02/2026,Ireland,8,Lorenzo Cannone,y,66
+14/02/2026,Ireland,3,Simone Ferrari,y,59
+14/02/2026,Ireland,9,Alessandro Fusco,y,62
+14/02/2026,Ireland,6,Michele Lamaro,y,80
+14/02/2026,Ireland,4,Niccolo Cannone,y,66
+14/02/2026,Ireland,17,Mirco Spagnolo,n,21
+14/02/2026,Ireland,1,Danilo Fischetti,y,59
+14/02/2026,Ireland,16,Tommaso Di Bartolomeo,n,21
+14/02/2026,Ireland,7,Manuel Zuliani,y,80
+14/02/2026,Ireland,2,Giacomo Nicotera,y,59
+14/02/2026,Ireland,23,Paolo Odogwu,n,14
+14/02/2026,Ireland,10,Paolo Garbisi,y,80
+14/02/2026,Ireland,22,Alessandro Garbisi,n,18
+14/02/2026,Ireland,18,Muhamed Hasa,n,21
+14/02/2026,Ireland,11,Montanna Ioane,y,80
+14/02/2026,Ireland,5,Andrea Zambonin,y,60
+14/02/2026,Ireland,21,David Odiase,n,14
+14/02/2026,Ireland,14,Louis Lynagh,y,80
+14/02/2026,Ireland,13,Tommaso Menoncello,y,80
+22/02/2026,France,15,Ange Capuozzo,y,72
+22/02/2026,France,16,Pablo Dimcheff,n,26
+22/02/2026,France,20,Riccardo Favretto,n,26
+22/02/2026,France,12,Leonardo Marin,y,80
+22/02/2026,France,19,Federico Ruzza,n,26
+22/02/2026,France,8,Lorenzo Cannone,y,80
+22/02/2026,France,3,Simone Ferrari,y,54
+22/02/2026,France,9,Alessandro Fusco,y,59
+22/02/2026,France,6,Michele Lamaro,y,80
+22/02/2026,France,4,Niccolo Cannone,y,54
+22/02/2026,France,17,Mirco Spagnolo,n,26
+22/02/2026,France,1,Danilo Fischetti,y,54
+22/02/2026,France,18,Giosue Zilocchi,n,26
+22/02/2026,France,7,Manuel Zuliani,y,80
+22/02/2026,France,2,Giacomo Nicotera,y,54
+22/02/2026,France,23,Paolo Odogwu,n,12
+22/02/2026,France,10,Paolo Garbisi,y,80
+22/02/2026,France,22,Alessandro Garbisi,n,21
+22/02/2026,France,11,Montanna Ioane,y,68
+22/02/2026,France,5,Andrea Zambonin,y,54
+22/02/2026,France,21,David Odiase,n,8
+22/02/2026,France,14,Louis Lynagh,y,80
+22/02/2026,France,13,Tommaso Menoncello,y,80
+07/03/2026,England,20,Riccardo Favretto,n,7
+07/03/2026,England,22,Leonardo Marin,n,29
+07/03/2026,England,19,Federico Ruzza,n,30
+07/03/2026,England,15,Lorenzo Pani,y,73
+07/03/2026,England,8,Lorenzo Cannone,y,80
+07/03/2026,England,3,Simone Ferrari,y,51
+07/03/2026,England,21,Alessandro Fusco,n,29
+07/03/2026,England,6,Michele Lamaro,y,80
+07/03/2026,England,4,Niccolo Cannone,y,80
+07/03/2026,England,17,Mirco Spagnolo,n,22
+07/03/2026,England,23,Tommaso Allan,n,7
+07/03/2026,England,1,Danilo Fischetti,y,58
+07/03/2026,England,16,Tommaso Di Bartolomeo,n,17
+07/03/2026,England,7,Manuel Zuliani,y,73
+07/03/2026,England,2,Giacomo Nicotera,y,63
+07/03/2026,England,10,Paolo Garbisi,y,80
+07/03/2026,England,13,Juan Ignacio Brex,y,51
+07/03/2026,England,9,Alessandro Garbisi,y,51
+07/03/2026,England,18,Muhamed Hasa,n,29
+07/03/2026,England,11,Montanna Ioane,y,80
+07/03/2026,England,5,Andrea Zambonin,y,50
+07/03/2026,England,14,Louis Lynagh,y,80
+07/03/2026,England,12,Tommaso Menoncello,y,80
+14/03/2026,Wales,19,Riccardo Favretto,n,10
+14/03/2026,Wales,22,Leonardo Marin,n,10
+14/03/2026,Wales,5,Federico Ruzza,y,80
+14/03/2026,Wales,15,Lorenzo Pani,y,63
+14/03/2026,Wales,8,Lorenzo Cannone,y,63
+14/03/2026,Wales,9,Alessandro Fusco,y,53
+14/03/2026,Wales,6,Michele Lamaro,y,80
+14/03/2026,Wales,4,Niccolo Cannone,y,70
+14/03/2026,Wales,17,Mirco Spagnolo,n,35
+14/03/2026,Wales,23,Tommaso Allan,n,17
+14/03/2026,Wales,21,Stephen Varney,n,27
+14/03/2026,Wales,1,Danilo Fischetti,y,45
+14/03/2026,Wales,18,Giosue Zilocchi,n,35
+14/03/2026,Wales,16,Tommaso Di Bartolomeo,n,15
+14/03/2026,Wales,7,Manuel Zuliani,y,80
+14/03/2026,Wales,2,Giacomo Nicotera,y,65
+14/03/2026,Wales,10,Paolo Garbisi,y,80
+14/03/2026,Wales,13,Juan Ignacio Brex,y,70
+14/03/2026,Wales,3,Muhamed Hasa,y,45
+14/03/2026,Wales,11,Montanna Ioane,y,80
+14/03/2026,Wales,20,David Odiase,n,17
+14/03/2026,Wales,14,Louis Lynagh,y,80
+14/03/2026,Wales,12,Tommaso Menoncello,y,80
+04/07/2026,Japan,19,Riccardo Favretto,n,13
+04/07/2026,Japan,20,Ross Vintcent,n,32
+04/07/2026,Japan,14,Malik Faissal,y,80
+04/07/2026,Japan,22,Leonardo Marin,n,20
+04/07/2026,Japan,15,Lorenzo Pani,y,12
+04/07/2026,Japan,8,Lorenzo Cannone,y,80
+04/07/2026,Japan,21,Alessandro Fusco,n,20
+04/07/2026,Japan,7,Michele Lamaro,y,80
+04/07/2026,Japan,4,Niccolo Cannone,y,67
+04/07/2026,Japan,17,Mirco Spagnolo,n,20
+04/07/2026,Japan,23,Tommaso Allan,n,68
+04/07/2026,Japan,6,Alessandro Ortombina,y,48
+04/07/2026,Japan,9,Stephen Varney,y,60
+04/07/2026,Japan,1,Danilo Fischetti,y,60
+04/07/2026,Japan,16,Gianmarco Lucchesi,n,32
+04/07/2026,Japan,2,Tommaso Di Bartolomeo,y,48
+04/07/2026,Japan,10,Paolo Garbisi,y,80
+04/07/2026,Japan,13,Juan Ignacio Brex,y,60
+04/07/2026,Japan,18,Muhamed Hasa,n,20
+04/07/2026,Japan,11,Montanna Ioane,y,80
+04/07/2026,Japan,5,Andrea Zambonin,y,80
+04/07/2026,Japan,3,Marco Riccioni,y,60
+04/07/2026,Japan,12,Tommaso Menoncello,y,80
+11/07/2026,New Zealand,21,Riccardo Favretto,n,37
+11/07/2026,New Zealand,6,Ross Vintcent,y,71
+11/07/2026,New Zealand,14,Malik Faissal,y,40
+11/07/2026,New Zealand,23,Leonardo Marin,n,40
+11/07/2026,New Zealand,20,Federico Ruzza,n,17
+11/07/2026,New Zealand,8,Lorenzo Cannone,y,43
+11/07/2026,New Zealand,19,Giulio Marini,n,31
+11/07/2026,New Zealand,7,Michele Lamaro,y,58
+11/07/2026,New Zealand,4,Niccolo Cannone,y,80
+11/07/2026,New Zealand,17,Mirco Spagnolo,n,25
+11/07/2026,New Zealand,15,Tommaso Allan,y,58
+11/07/2026,New Zealand,9,Stephen Varney,y,80
+11/07/2026,New Zealand,1,Danilo Fischetti,y,55
+11/07/2026,New Zealand,16,Gianmarco Lucchesi,n,25
+11/07/2026,New Zealand,2,Tommaso Di Bartolomeo,y,55
+11/07/2026,New Zealand,10,Paolo Garbisi,y,80
+11/07/2026,New Zealand,13,Juan Ignacio Brex,y,80
+11/07/2026,New Zealand,22,Alessandro Garbisi,n,22
+11/07/2026,New Zealand,18,Muhamed Hasa,n,17
+11/07/2026,New Zealand,5,Andrea Zambonin,y,63
+11/07/2026,New Zealand,3,Marco Riccioni,y,63
+11/07/2026,New Zealand,11,Louis Lynagh,y,80
+11/07/2026,New Zealand,12,Tommaso Menoncello,y,80
+18/07/2026,Australia,16,Pablo Dimcheff,n,27
+18/07/2026,Australia,6,Riccardo Favretto,y,80
+18/07/2026,Australia,8,Ross Vintcent,y,80
+18/07/2026,Australia,23,Leonardo Marin,n,16
+18/07/2026,Australia,5,Federico Ruzza,y,58
+18/07/2026,Australia,15,Lorenzo Pani,y,64
+18/07/2026,Australia,21,Alessandro Fusco,n,19
+18/07/2026,Australia,4,Giulio Marini,y,80
+18/07/2026,Australia,18,Ion Neculai,n,25
+18/07/2026,Australia,7,Michele Lamaro,y,68
+18/07/2026,Australia,20,Alessandro Ortombina,n,12
+18/07/2026,Australia,22,Giacomo Da Re,n,27
+18/07/2026,Australia,17,Danilo Fischetti,n,34
+18/07/2026,Australia,2,Gianmarco Lucchesi,y,53
+18/07/2026,Australia,12,Paolo Odogwu,y,80
+18/07/2026,Australia,10,Paolo Garbisi,y,53
+18/07/2026,Australia,13,Juan Ignacio Brex,y,80
+18/07/2026,Australia,9,Alessandro Garbisi,y,61
+18/07/2026,Australia,1,Muhamed Hasa,y,46
+18/07/2026,Australia,11,Montanna Ioane,y,80
+18/07/2026,Australia,19,Andrea Zambonin,n,22
+18/07/2026,Australia,3,Marco Riccioni,y,55
+18/07/2026,Australia,14,Louis Lynagh,y,80

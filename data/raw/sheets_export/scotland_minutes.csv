@@ -1,0 +1,2048 @@
+date,opposition,shirt,player,started,minutes
+02/02/2019,Italy,18,Simon Berghan,n,30
+02/02/2019,Italy,7,Jamie Ritchie,y,80
+02/02/2019,Italy,6,Sam Skinner,y,14
+02/02/2019,Italy,5,Grant Gilchrist,y,80
+02/02/2019,Italy,2,Stuart McInally,y,66
+02/02/2019,Italy,14,Tommy Seymour,y,80
+02/02/2019,Italy,13,Huw Jones,y,58
+02/02/2019,Italy,9,Greig Laidlaw,y,58
+02/02/2019,Italy,10,Finn Russell,y,76
+02/02/2019,Italy,11,Blair Kinghorn,y,80
+02/02/2019,Italy,12,Sam Johnson,y,80
+02/02/2019,Italy,20,Josh Strauss,n,66
+02/02/2019,Italy,19,Gary Graham,n,8
+02/02/2019,Italy,21,Ali Price,n,22
+02/02/2019,Italy,22,Adam Hastings,n,4
+02/02/2019,Italy,8,Ryan Wilson,y,72
+02/02/2019,Italy,4,Ben Toolis,y,80
+02/02/2019,Italy,15,Stuart Hogg,y,80
+02/02/2019,Italy,3,WP Nel,y,50
+02/02/2019,Italy,16,Jake Kerr,n,14
+02/02/2019,Italy,1,Allan Dell,y,58
+02/02/2019,Italy,23,Chris Harris,n,22
+02/02/2019,Italy,17,Jamie Bhatti,n,22
+09/02/2019,Ireland,3,Simon Berghan,y,69
+09/02/2019,Ireland,7,Jamie Ritchie,y,75
+09/02/2019,Ireland,22,Pete Horne,n,16
+09/02/2019,Ireland,18,D'arcy Rae,n,11
+09/02/2019,Ireland,16,Fraser Brown,n,16
+09/02/2019,Ireland,4,Grant Gilchrist,y,80
+09/02/2019,Ireland,11,Sean Maitland,y,80
+09/02/2019,Ireland,2,Stuart McInally,y,64
+09/02/2019,Ireland,14,Tommy Seymour,y,80
+09/02/2019,Ireland,13,Huw Jones,y,80
+09/02/2019,Ireland,9,Greig Laidlaw,y,68
+09/02/2019,Ireland,10,Finn Russell,y,80
+09/02/2019,Ireland,23,Blair Kinghorn,n,64
+09/02/2019,Ireland,12,Sam Johnson,y,64
+09/02/2019,Ireland,20,Rob Harley,n,45
+09/02/2019,Ireland,8,Josh Strauss,y,80
+09/02/2019,Ireland,21,Ali Price,n,12
+09/02/2019,Ireland,6,Ryan Wilson,y,40
+09/02/2019,Ireland,19,Ben Toolis,n,0
+09/02/2019,Ireland,15,Stuart Hogg,y,16
+09/02/2019,Ireland,1,Allan Dell,y,69
+09/02/2019,Ireland,5,Jonny Gray,y,80
+09/02/2019,Ireland,17,Jamie Bhatti,n,11
+23/02/2019,France,3,Simon Berghan,y,65
+23/02/2019,France,7,Jamie Ritchie,y,80
+23/02/2019,France,10,Pete Horne,y,77
+23/02/2019,France,13,Nick Grigg,y,80
+23/02/2019,France,16,Fraser Brown,n,13
+23/02/2019,France,4,Grant Gilchrist,y,80
+23/02/2019,France,11,Sean Maitland,y,67
+23/02/2019,France,2,Stuart McInally,y,67
+23/02/2019,France,14,Tommy Seymour,y,80
+23/02/2019,France,9,Greig Laidlaw,y,66
+23/02/2019,France,6,Magnus Bradbury,y,80
+23/02/2019,France,15,Blair Kinghorn,y,80
+23/02/2019,France,12,Sam Johnson,y,47
+23/02/2019,France,18,Zander Fagerson,n,15
+23/02/2019,France,8,Josh Strauss,y,67
+23/02/2019,France,20,Gary Graham,n,13
+23/02/2019,France,21,Ali Price,n,14
+23/02/2019,France,22,Adam Hastings,n,36
+23/02/2019,France,19,Ben Toolis,n,25
+23/02/2019,France,17,Alex Allan,n,13
+23/02/2019,France,23,Darcy Graham,n,13
+23/02/2019,France,1,Allan Dell,y,67
+23/02/2019,France,5,Jonny Gray,y,55
+09/03/2019,Wales,18,Simon Berghan,n,15
+09/03/2019,Wales,7,Jamie Ritchie,y,67
+09/03/2019,Wales,12,Pete Horne,y,80
+09/03/2019,Wales,17,Gordon Reid,n,0
+09/03/2019,Wales,13,Nick Grigg,y,80
+09/03/2019,Wales,16,Fraser Brown,n,17
+09/03/2019,Wales,4,Grant Gilchrist,y,80
+09/03/2019,Wales,2,Stuart McInally,y,70
+09/03/2019,Wales,20,Hamish Watson,n,21
+09/03/2019,Wales,14,Tommy Seymour,y,20
+09/03/2019,Wales,21,Greig Laidlaw,n,15
+09/03/2019,Wales,6,Magnus Bradbury,y,80
+09/03/2019,Wales,10,Finn Russell,y,80
+09/03/2019,Wales,15,Blair Kinghorn,y,31
+09/03/2019,Wales,8,Josh Strauss,y,65
+09/03/2019,Wales,9,Ali Price,y,80
+09/03/2019,Wales,22,Adam Hastings,n,49
+09/03/2019,Wales,19,Ben Toolis,n,15
+09/03/2019,Wales,23,Byron McGuigan,n,60
+09/03/2019,Wales,11,Darcy Graham,y,65
+09/03/2019,Wales,3,WP Nel,y,65
+09/03/2019,Wales,1,Allan Dell,y,80
+09/03/2019,Wales,5,Jonny Gray,y,65
+16/03/2019,England,18,Simon Berghan,n,19
+16/03/2019,England,6,Sam Skinner,y,56
+16/03/2019,England,17,Gordon Reid,n,35
+16/03/2019,England,13,Nick Grigg,y,56
+16/03/2019,England,16,Fraser Brown,n,24
+16/03/2019,England,5,Grant Gilchrist,y,56
+16/03/2019,England,15,Sean Maitland,y,67
+16/03/2019,England,2,Stuart McInally,y,56
+16/03/2019,England,7,Hamish Watson,y,80
+16/03/2019,England,21,Greig Laidlaw,n,24
+16/03/2019,England,8,Magnus Bradbury,y,80
+16/03/2019,England,10,Finn Russell,y,80
+16/03/2019,England,12,Sam Johnson,y,80
+16/03/2019,England,20,Josh Strauss,n,24
+16/03/2019,England,9,Ali Price,y,56
+16/03/2019,England,22,Adam Hastings,n,13
+16/03/2019,England,4,Ben Toolis,y,80
+16/03/2019,England,11,Byron McGuigan,y,80
+16/03/2019,England,14,Darcy Graham,y,80
+16/03/2019,England,3,WP Nel,y,61
+16/03/2019,England,1,Allan Dell,y,45
+16/03/2019,England,19,Jonny Gray,n,24
+16/03/2019,England,23,Chris Harris,n,24
+17/08/2019,France,3,Simon Berghan,y,52
+17/08/2019,France,12,Duncan Taylor,y,48
+17/08/2019,France,6,John Barclay,y,52
+17/08/2019,France,7,Jamie Ritchie,y,80
+17/08/2019,France,16,George Turner,n,13
+17/08/2019,France,22,Rory Hutchinson,n,32
+17/08/2019,France,17,Gordon Reid,n,28
+17/08/2019,France,5,Grant Gilchrist,y,80
+17/08/2019,France,2,Stuart McInally,y,67
+17/08/2019,France,19,Scott Cummings,n,24
+17/08/2019,France,13,Huw Jones,y,80
+17/08/2019,France,23,Blair Kinghorn,n,24
+17/08/2019,France,20,Matt Fagerson,n,28
+17/08/2019,France,18,Zander Fagerson,n,40
+17/08/2019,France,8,Josh Strauss,y,80
+17/08/2019,France,21,George Horne,n,24
+17/08/2019,France,9,Ali Price,y,56
+17/08/2019,France,10,Adam Hastings,y,80
+17/08/2019,France,4,Ben Toolis,y,56
+17/08/2019,France,15,Stuart Hogg,y,56
+17/08/2019,France,11,Byron McGuigan,y,80
+17/08/2019,France,14,Darcy Graham,y,80
+17/08/2019,France,1,Jamie Bhatti,y,40
+24/08/2019,France,18,Simon Berghan,n,21
+24/08/2019,France,20,John Barclay,n,37
+24/08/2019,France,5,Sam Skinner,y,63
+24/08/2019,France,12,Pete Horne,y,69
+24/08/2019,France,2,George Turner,y,80
+24/08/2019,France,22,Rory Hutchinson,n,11
+24/08/2019,France,1,Gordon Reid,y,48
+24/08/2019,France,19,Grant Gilchrist,n,21
+24/08/2019,France,11,Sean Maitland,y,80
+24/08/2019,France,7,Hamish Watson,y,80
+24/08/2019,France,4,Scott Cummings,y,59
+24/08/2019,France,14,Tommy Seymour,y,16
+24/08/2019,France,9,Greig Laidlaw,y,73
+24/08/2019,France,10,Finn Russell,y,80
+24/08/2019,France,23,Blair Kinghorn,n,64
+24/08/2019,France,21,George Horne,n,7
+24/08/2019,France,6,Ryan Wilson,y,80
+24/08/2019,France,15,Stuart Hogg,y,80
+24/08/2019,France,3,WP Nel,y,59
+24/08/2019,France,17,Allan Dell,n,32
+24/08/2019,France,16,Grant Stewart,n,17
+24/08/2019,France,8,Blade Thomson,y,43
+24/08/2019,France,13,Chris Harris,y,80
+31/08/2019,Georgia,6,John Barclay,y,69
+31/08/2019,Georgia,13,Rory Hutchinson,y,80
+31/08/2019,Georgia,5,Grant Gilchrist,y,80
+31/08/2019,Georgia,11,Sean Maitland,y,80
+31/08/2019,Georgia,2,Stuart McInally,y,65
+31/08/2019,Georgia,7,Hamish Watson,y,80
+31/08/2019,Georgia,19,Scott Cummings,n,11
+31/08/2019,Georgia,23,Huw Jones,n,32
+31/08/2019,Georgia,9,Greig Laidlaw,y,59
+31/08/2019,Georgia,10,Finn Russell,y,65
+31/08/2019,Georgia,15,Blair Kinghorn,y,80
+31/08/2019,Georgia,8,Matt Fagerson,y,59
+31/08/2019,Georgia,12,Sam Johnson,y,48
+31/08/2019,Georgia,18,Zander Fagerson,n,21
+31/08/2019,Georgia,20,Josh Strauss,n,21
+31/08/2019,Georgia,21,Ali Price,n,21
+31/08/2019,Georgia,22,Adam Hastings,n,15
+31/08/2019,Georgia,4,Ben Toolis,y,80
+31/08/2019,Georgia,14,Darcy Graham,y,80
+31/08/2019,Georgia,3,WP Nel,y,59
+31/08/2019,Georgia,1,Allan Dell,y,59
+31/08/2019,Georgia,16,Grant Stewart,n,15
+31/08/2019,Georgia,17,Jamie Bhatti,n,21
+06/09/2019,Georgia,18,Simon Berghan,n,31
+06/09/2019,Georgia,13,Duncan Taylor,y,80
+06/09/2019,Georgia,7,Jamie Ritchie,y,45
+06/09/2019,Georgia,22,Pete Horne,n,15
+06/09/2019,Georgia,2,George Turner,y,80
+06/09/2019,Georgia,1,Gordon Reid,y,54
+06/09/2019,Georgia,4,Scott Cummings,y,80
+06/09/2019,Georgia,14,Tommy Seymour,y,80
+06/09/2019,Georgia,20,Magnus Bradbury,n,35
+06/09/2019,Georgia,15,Blair Kinghorn,y,28
+06/09/2019,Georgia,12,Sam Johnson,y,65
+06/09/2019,Georgia,3,Zander Fagerson,y,59
+06/09/2019,Georgia,21,George Horne,n,28
+06/09/2019,Georgia,9,Ali Price,y,52
+06/09/2019,Georgia,10,Adam Hastings,y,80
+06/09/2019,Georgia,6,Ryan Wilson,y,80
+06/09/2019,Georgia,19,Ben Toolis,n,26
+06/09/2019,Georgia,11,Darcy Graham,y,80
+06/09/2019,Georgia,17,Allan Dell,n,26
+06/09/2019,Georgia,16,Grant Stewart,n,14
+06/09/2019,Georgia,5,Jonny Gray,y,40
+06/09/2019,Georgia,8,Blade Thomson,y,70
+06/09/2019,Georgia,23,Chris Harris,n,52
+22/09/2019,Ireland,18,Simon Berghan,n,0
+22/09/2019,Ireland,13,Duncan Taylor,y,80
+22/09/2019,Ireland,6,John Barclay,y,80
+22/09/2019,Ireland,17,Gordon Reid,n,0
+22/09/2019,Ireland,16,Fraser Brown,n,42
+22/09/2019,Ireland,4,Grant Gilchrist,y,80
+22/09/2019,Ireland,11,Sean Maitland,y,80
+22/09/2019,Ireland,2,Stuart McInally,y,80
+22/09/2019,Ireland,7,Hamish Watson,y,38
+22/09/2019,Ireland,19,Scott Cummings,n,0
+22/09/2019,Ireland,14,Tommy Seymour,y,80
+22/09/2019,Ireland,9,Greig Laidlaw,y,80
+22/09/2019,Ireland,10,Finn Russell,y,80
+22/09/2019,Ireland,12,Sam Johnson,y,80
+22/09/2019,Ireland,21,Ali Price,n,0
+22/09/2019,Ireland,8,Ryan Wilson,y,80
+22/09/2019,Ireland,15,Stuart Hogg,y,80
+22/09/2019,Ireland,23,Darcy Graham,n,0
+22/09/2019,Ireland,3,WP Nel,y,80
+22/09/2019,Ireland,1,Allan Dell,y,80
+22/09/2019,Ireland,5,Jonny Gray,y,80
+22/09/2019,Ireland,20,Blade Thomson,n,0
+22/09/2019,Ireland,22,Chris Harris,n,0
+30/09/2019,Samoa,23,Duncan Taylor,n,0
+30/09/2019,Samoa,7,Jamie Ritchie,y,80
+30/09/2019,Samoa,17,Gordon Reid,n,0
+30/09/2019,Samoa,16,Fraser Brown,n,0
+30/09/2019,Samoa,4,Grant Gilchrist,y,80
+30/09/2019,Samoa,11,Sean Maitland,y,80
+30/09/2019,Samoa,2,Stuart McInally,y,80
+30/09/2019,Samoa,19,Scott Cummings,n,0
+30/09/2019,Samoa,9,Greig Laidlaw,y,80
+30/09/2019,Samoa,6,Magnus Bradbury,y,80
+30/09/2019,Samoa,10,Finn Russell,y,80
+30/09/2019,Samoa,12,Sam Johnson,y,80
+30/09/2019,Samoa,18,Zander Fagerson,n,0
+30/09/2019,Samoa,21,George Horne,n,0
+30/09/2019,Samoa,22,Adam Hastings,n,0
+30/09/2019,Samoa,20,Ryan Wilson,n,0
+30/09/2019,Samoa,15,Stuart Hogg,y,80
+30/09/2019,Samoa,14,Darcy Graham,y,80
+30/09/2019,Samoa,3,WP Nel,y,80
+30/09/2019,Samoa,1,Allan Dell,y,80
+30/09/2019,Samoa,5,Jonny Gray,y,80
+30/09/2019,Samoa,8,Blade Thomson,y,80
+30/09/2019,Samoa,13,Chris Harris,y,80
+09/10/2019,Russia,17,Simon Berghan,n,0
+09/10/2019,Russia,13,Duncan Taylor,y,80
+09/10/2019,Russia,6,John Barclay,y,80
+09/10/2019,Russia,21,Jamie Ritchie,n,0
+09/10/2019,Russia,12,Pete Horne,y,80
+09/10/2019,Russia,2,George Turner,y,80
+09/10/2019,Russia,1,Gordon Reid,y,80
+09/10/2019,Russia,7,Fraser Brown,y,80
+09/10/2019,Russia,19,Grant Gilchrist,n,0
+09/10/2019,Russia,16,Stuart McInally,n,0
+09/10/2019,Russia,4,Scott Cummings,y,80
+09/10/2019,Russia,14,Tommy Seymour,y,80
+09/10/2019,Russia,20,Magnus Bradbury,n,0
+09/10/2019,Russia,15,Blair Kinghorn,y,80
+09/10/2019,Russia,3,Zander Fagerson,y,80
+09/10/2019,Russia,9,George Horne,y,80
+09/10/2019,Russia,10,Adam Hastings,y,80
+09/10/2019,Russia,22,Henry Pyrgos,n,0
+09/10/2019,Russia,8,Ryan Wilson,y,80
+09/10/2019,Russia,5,Ben Toolis,y,80
+09/10/2019,Russia,11,Darcy Graham,y,80
+09/10/2019,Russia,18,WP Nel,n,0
+09/10/2019,Russia,23,Chris Harris,n,0
+13/10/2019,Japan,7,Jamie Ritchie,y,80
+13/10/2019,Japan,22,Pete Horne,n,0
+13/10/2019,Japan,17,Gordon Reid,n,0
+13/10/2019,Japan,2,Fraser Brown,y,80
+13/10/2019,Japan,4,Grant Gilchrist,y,80
+13/10/2019,Japan,16,Stuart McInally,n,0
+13/10/2019,Japan,19,Scott Cummings,n,0
+13/10/2019,Japan,14,Tommy Seymour,y,80
+13/10/2019,Japan,9,Greig Laidlaw,y,80
+13/10/2019,Japan,6,Magnus Bradbury,y,80
+13/10/2019,Japan,10,Finn Russell,y,80
+13/10/2019,Japan,23,Blair Kinghorn,n,0
+13/10/2019,Japan,12,Sam Johnson,y,80
+13/10/2019,Japan,18,Zander Fagerson,n,0
+13/10/2019,Japan,21,George Horne,n,0
+13/10/2019,Japan,20,Ryan Wilson,n,0
+13/10/2019,Japan,15,Stuart Hogg,y,80
+13/10/2019,Japan,11,Darcy Graham,y,80
+13/10/2019,Japan,3,WP Nel,y,80
+13/10/2019,Japan,1,Allan Dell,y,80
+13/10/2019,Japan,5,Jonny Gray,y,80
+13/10/2019,Japan,8,Blade Thomson,y,80
+13/10/2019,Japan,13,Chris Harris,y,80
+01/02/2020,Ireland,20,Cornell Du Preez,n,7
+01/02/2020,Ireland,6,Jamie Ritchie,y,80
+01/02/2020,Ireland,8,Nick Haining,y,73
+01/02/2020,Ireland,22,Rory Hutchinson,n,6
+01/02/2020,Ireland,1,Rory Sutherland,y,65
+01/02/2020,Ireland,2,Fraser Brown,y,53
+01/02/2020,Ireland,14,Sean Maitland,y,80
+01/02/2020,Ireland,16,Stuart McInally,n,27
+01/02/2020,Ireland,7,Hamish Watson,y,80
+01/02/2020,Ireland,4,Scott Cummings,y,80
+01/02/2020,Ireland,13,Huw Jones,y,66
+01/02/2020,Ireland,11,Blair Kinghorn,y,80
+01/02/2020,Ireland,12,Sam Johnson,y,74
+01/02/2020,Ireland,3,Zander Fagerson,y,73
+01/02/2020,Ireland,21,George Horne,n,15
+01/02/2020,Ireland,9,Ali Price,y,65
+01/02/2020,Ireland,10,Adam Hastings,y,80
+01/02/2020,Ireland,19,Ben Toolis,n,15
+01/02/2020,Ireland,15,Stuart Hogg,y,80
+01/02/2020,Ireland,18,WP Nel,n,7
+01/02/2020,Ireland,17,Allan Dell,n,15
+01/02/2020,Ireland,5,Jonny Gray,y,65
+01/02/2020,Ireland,23,Chris Harris,n,14
+08/02/2020,England,18,Simon Berghan,n,19
+08/02/2020,England,6,Jamie Ritchie,y,80
+08/02/2020,England,20,Nick Haining,n,5
+08/02/2020,England,22,Rory Hutchinson,n,0
+08/02/2020,England,1,Rory Sutherland,y,60
+08/02/2020,England,2,Fraser Brown,y,52
+08/02/2020,England,14,Sean Maitland,y,80
+08/02/2020,England,16,Stuart McInally,n,28
+08/02/2020,England,7,Hamish Watson,y,80
+08/02/2020,England,4,Scott Cummings,y,56
+08/02/2020,England,13,Huw Jones,y,56
+08/02/2020,England,8,Magnus Bradbury,y,75
+08/02/2020,England,11,Blair Kinghorn,y,80
+08/02/2020,England,12,Sam Johnson,y,80
+08/02/2020,England,3,Zander Fagerson,y,61
+08/02/2020,England,21,George Horne,n,0
+08/02/2020,England,9,Ali Price,y,80
+08/02/2020,England,10,Adam Hastings,y,80
+08/02/2020,England,19,Ben Toolis,n,24
+08/02/2020,England,15,Stuart Hogg,y,80
+08/02/2020,England,17,Allan Dell,n,20
+08/02/2020,England,5,Jonny Gray,y,80
+08/02/2020,England,23,Chris Harris,n,24
+22/02/2020,Italy,6,Jamie Ritchie,y,80
+22/02/2020,Italy,22,Rory Hutchinson,n,20
+22/02/2020,Italy,1,Rory Sutherland,y,55
+22/02/2020,Italy,16,Fraser Brown,n,20
+22/02/2020,Italy,19,Grant Gilchrist,n,12
+22/02/2020,Italy,14,Sean Maitland,y,68
+22/02/2020,Italy,2,Stuart McInally,y,60
+22/02/2020,Italy,7,Hamish Watson,y,80
+22/02/2020,Italy,5,Scott Cummings,y,68
+22/02/2020,Italy,8,Magnus Bradbury,y,55
+22/02/2020,Italy,11,Blair Kinghorn,y,80
+22/02/2020,Italy,20,Matt Fagerson,n,25
+22/02/2020,Italy,12,Sam Johnson,y,80
+22/02/2020,Italy,3,Zander Fagerson,y,60
+22/02/2020,Italy,21,George Horne,n,25
+22/02/2020,Italy,9,Ali Price,y,55
+22/02/2020,Italy,10,Adam Hastings,y,80
+22/02/2020,Italy,4,Ben Toolis,y,80
+22/02/2020,Italy,15,Stuart Hogg,y,80
+22/02/2020,Italy,23,Byron McGuigan,n,12
+22/02/2020,Italy,18,WP Nel,n,20
+22/02/2020,Italy,17,Allan Dell,n,25
+22/02/2020,Italy,13,Chris Harris,y,60
+08/03/2020,France,6,Jamie Ritchie,y,80
+08/03/2020,France,8,Nick Haining,y,59
+08/03/2020,France,19,Sam Skinner,n,9
+08/03/2020,France,1,Rory Sutherland,y,59
+08/03/2020,France,2,Fraser Brown,y,59
+08/03/2020,France,23,Kyle Steyn,n,14
+08/03/2020,France,5,Grant Gilchrist,y,80
+08/03/2020,France,14,Sean Maitland,y,66
+08/03/2020,France,16,Stuart McInally,n,21
+08/03/2020,France,7,Hamish Watson,y,80
+08/03/2020,France,4,Scott Cummings,y,71
+08/03/2020,France,20,Magnus Bradbury,n,21
+08/03/2020,France,11,Blair Kinghorn,y,80
+08/03/2020,France,12,Sam Johnson,y,79
+08/03/2020,France,3,Zander Fagerson,y,66
+08/03/2020,France,21,George Horne,n,21
+08/03/2020,France,9,Ali Price,y,59
+08/03/2020,France,10,Adam Hastings,y,80
+08/03/2020,France,15,Stuart Hogg,y,80
+08/03/2020,France,18,WP Nel,n,14
+08/03/2020,France,22,Duncan Weir,n,1
+08/03/2020,France,17,Allan Dell,n,21
+08/03/2020,France,13,Chris Harris,y,80
+23/10/2020,Georgia,18,Simon Berghan,n,26
+23/10/2020,Georgia,21,Cornell Du Preez,n,42
+23/10/2020,Georgia,6,Jamie Ritchie,y,80
+23/10/2020,Georgia,20,Nick Haining,n,15
+23/10/2020,Georgia,1,Rory Sutherland,y,54
+23/10/2020,Georgia,2,Fraser Brown,y,54
+23/10/2020,Georgia,16,Stuart McInally,n,26
+23/10/2020,Georgia,7,Hamish Watson,y,65
+23/10/2020,Georgia,5,Scott Cummings,y,72
+23/10/2020,Georgia,17,Oli Kebble,n,26
+23/10/2020,Georgia,23,Finn Russell,n,25
+23/10/2020,Georgia,15,Blair Kinghorn,y,80
+23/10/2020,Georgia,12,James Lang,y,55
+23/10/2020,Georgia,8,Matt Fagerson,y,38
+23/10/2020,Georgia,3,Zander Fagerson,y,54
+23/10/2020,Georgia,19,Rob Harley,n,8
+23/10/2020,Georgia,22,George Horne,n,15
+23/10/2020,Georgia,9,Ali Price,y,65
+23/10/2020,Georgia,10,Adam Hastings,y,80
+23/10/2020,Georgia,4,Ben Toolis,y,80
+23/10/2020,Georgia,14,Darcy Graham,y,80
+23/10/2020,Georgia,11,Duhan van der Merwe,y,80
+23/10/2020,Georgia,13,Chris Harris,y,80
+31/10/2020,Wales,18,Simon Berghan,n,27
+31/10/2020,Wales,20,Cornell Du Preez,n,26
+31/10/2020,Wales,6,Jamie Ritchie,y,80
+31/10/2020,Wales,1,Rory Sutherland,y,53
+31/10/2020,Wales,21,Scott Steele,n,11
+31/10/2020,Wales,2,Fraser Brown,y,53
+31/10/2020,Wales,16,Stuart McInally,n,27
+31/10/2020,Wales,7,Hamish Watson,y,80
+31/10/2020,Wales,4,Scott Cummings,y,80
+31/10/2020,Wales,17,Oli Kebble,n,27
+31/10/2020,Wales,10,Finn Russell,y,33
+31/10/2020,Wales,11,Blair Kinghorn,y,80
+31/10/2020,Wales,12,James Lang,y,80
+31/10/2020,Wales,3,Zander Fagerson,y,53
+31/10/2020,Wales,9,Ali Price,y,80
+31/10/2020,Wales,22,Adam Hastings,n,36
+31/10/2020,Wales,19,Ben Toolis,n,0
+31/10/2020,Wales,15,Stuart Hogg,y,80
+31/10/2020,Wales,14,Darcy Graham,y,66
+31/10/2020,Wales,5,Jonny Gray,y,80
+31/10/2020,Wales,23,Duhan van der Merwe,n,14
+31/10/2020,Wales,8,Blade Thomson,y,54
+31/10/2020,Wales,13,Chris Harris,y,80
+14/11/2020,Italy,6,Jamie Ritchie,y,13
+14/11/2020,Italy,20,Nick Haining,n,49
+14/11/2020,Italy,19,Sam Skinner,n,18
+14/11/2020,Italy,16,George Turner,n,19
+14/11/2020,Italy,1,Rory Sutherland,y,16
+14/11/2020,Italy,2,Stuart McInally,y,61
+14/11/2020,Italy,7,Hamish Watson,y,80
+14/11/2020,Italy,4,Scott Cummings,y,80
+14/11/2020,Italy,17,Oli Kebble,n,64
+14/11/2020,Italy,23,Blair Kinghorn,n,14
+14/11/2020,Italy,22,James Lang,n,14
+14/11/2020,Italy,12,Sam Johnson,y,66
+14/11/2020,Italy,3,Zander Fagerson,y,66
+14/11/2020,Italy,9,Ali Price,y,71
+14/11/2020,Italy,21,Sam Hidalgo-Clyne,n,9
+14/11/2020,Italy,15,Stuart Hogg,y,80
+14/11/2020,Italy,14,Darcy Graham,y,66
+14/11/2020,Italy,18,WP Nel,n,14
+14/11/2020,Italy,10,Duncan Weir,y,80
+14/11/2020,Italy,5,Jonny Gray,y,80
+14/11/2020,Italy,11,Duhan van der Merwe,y,80
+14/11/2020,Italy,8,Blade Thomson,y,80
+14/11/2020,Italy,13,Chris Harris,y,80
+22/11/2020,France,3,Simon Berghan,y,44
+22/11/2020,France,22,Duncan Taylor,n,7
+22/11/2020,France,6,Jamie Ritchie,y,80
+22/11/2020,France,19,Sam Skinner,n,12
+22/11/2020,France,16,George Turner,n,12
+22/11/2020,France,2,Fraser Brown,y,68
+22/11/2020,France,23,Sean Maitland,n,19
+22/11/2020,France,7,Hamish Watson,y,61
+22/11/2020,France,4,Scott Cummings,y,80
+22/11/2020,France,1,Oli Kebble,y,68
+22/11/2020,France,14,Blair Kinghorn,y,61
+22/11/2020,France,8,Matt Fagerson,y,80
+22/11/2020,France,12,Sam Johnson,y,73
+22/11/2020,France,18,Zander Fagerson,n,36
+22/11/2020,France,9,Ali Price,y,80
+22/11/2020,France,21,Sam Hidalgo-Clyne,n,0
+22/11/2020,France,15,Stuart Hogg,y,80
+22/11/2020,France,10,Duncan Weir,y,80
+22/11/2020,France,5,Jonny Gray,y,68
+22/11/2020,France,11,Duhan van der Merwe,y,80
+22/11/2020,France,20,Blade Thomson,n,19
+22/11/2020,France,13,Chris Harris,y,80
+22/11/2020,France,17,Jamie Bhatti,n,12
+05/12/2020,Ireland,20,Blair Cowan,n,15
+05/12/2020,Ireland,12,Duncan Taylor,y,57
+05/12/2020,Ireland,7,Jamie Ritchie,y,65
+05/12/2020,Ireland,19,Sam Skinner,n,16
+05/12/2020,Ireland,16,George Turner,n,13
+05/12/2020,Ireland,1,Rory Sutherland,y,64
+05/12/2020,Ireland,2,Fraser Brown,y,67
+05/12/2020,Ireland,23,Sean Maitland,n,23
+05/12/2020,Ireland,4,Scott Cummings,y,64
+05/12/2020,Ireland,22,Huw Jones,n,23
+05/12/2020,Ireland,17,Oli Kebble,n,16
+05/12/2020,Ireland,8,Matt Fagerson,y,80
+05/12/2020,Ireland,3,Zander Fagerson,y,68
+05/12/2020,Ireland,9,Ali Price,y,75
+05/12/2020,Ireland,21,Sam Hidalgo-Clyne,n,5
+05/12/2020,Ireland,15,Stuart Hogg,y,80
+05/12/2020,Ireland,14,Darcy Graham,y,57
+05/12/2020,Ireland,18,WP Nel,n,12
+05/12/2020,Ireland,5,Jonny Gray,y,80
+05/12/2020,Ireland,11,Duhan van der Merwe,y,80
+05/12/2020,Ireland,6,Blade Thomson,y,80
+05/12/2020,Ireland,13,Chris Harris,y,80
+05/12/2020,Ireland,10,Jaco van der Walt,y,80
+06/02/2021,England,16,Dave Cherry,n,13
+06/02/2021,England,6,Jamie Ritchie,y,66
+06/02/2021,England,2,George Turner,y,67
+06/02/2021,England,1,Rory Sutherland,y,64
+06/02/2021,England,21,Scott Steele,n,11
+06/02/2021,England,12,Cam Redpath,y,80
+06/02/2021,England,14,Sean Maitland,y,69
+06/02/2021,England,7,Hamish Watson,y,80
+06/02/2021,England,4,Scott Cummings,y,80
+06/02/2021,England,23,Huw Jones,n,11
+06/02/2021,England,17,Oli Kebble,n,16
+06/02/2021,England,10,Finn Russell,y,80
+06/02/2021,England,8,Matt Fagerson,y,64
+06/02/2021,England,19,Richie Gray,n,14
+06/02/2021,England,3,Zander Fagerson,y,64
+06/02/2021,England,20,Gary Graham,n,16
+06/02/2021,England,9,Ali Price,y,69
+06/02/2021,England,15,Stuart Hogg,y,80
+06/02/2021,England,18,WP Nel,n,16
+06/02/2021,England,5,Jonny Gray,y,80
+06/02/2021,England,11,Duhan van der Merwe,y,80
+06/02/2021,England,13,Chris Harris,y,80
+06/02/2021,England,22,Jaco van der Walt,n,0
+13/02/2021,Wales,16,Dave Cherry,n,12
+13/02/2021,Wales,2,George Turner,y,68
+13/02/2021,Wales,1,Rory Sutherland,y,68
+13/02/2021,Wales,21,Scott Steele,n,0
+13/02/2021,Wales,7,Hamish Watson,y,80
+13/02/2021,Wales,4,Scott Cummings,y,80
+13/02/2021,Wales,23,Huw Jones,n,8
+13/02/2021,Wales,17,Oli Kebble,n,12
+13/02/2021,Wales,10,Finn Russell,y,80
+13/02/2021,Wales,12,James Lang,y,72
+13/02/2021,Wales,8,Matt Fagerson,y,80
+13/02/2021,Wales,19,Richie Gray,n,23
+13/02/2021,Wales,3,Zander Fagerson,y,80
+13/02/2021,Wales,20,Gary Graham,n,44
+13/02/2021,Wales,9,Ali Price,y,80
+13/02/2021,Wales,15,Stuart Hogg,y,80
+13/02/2021,Wales,14,Darcy Graham,y,57
+13/02/2021,Wales,18,WP Nel,n,23
+13/02/2021,Wales,5,Jonny Gray,y,80
+13/02/2021,Wales,11,Duhan van der Merwe,y,80
+13/02/2021,Wales,6,Blade Thomson,y,12
+13/02/2021,Wales,13,Chris Harris,y,80
+13/02/2021,Wales,22,Jaco van der Walt,n,0
+14/03/2021,Ireland,18,Simon Berghan,n,25
+14/03/2021,Ireland,16,Dave Cherry,n,16
+14/03/2021,Ireland,6,Jamie Ritchie,y,63
+14/03/2021,Ireland,20,Nick Haining,n,17
+14/03/2021,Ireland,2,George Turner,y,64
+14/03/2021,Ireland,1,Rory Sutherland,y,66
+14/03/2021,Ireland,21,Scott Steele,n,14
+14/03/2021,Ireland,19,Grant Gilchrist,n,25
+14/03/2021,Ireland,14,Sean Maitland,y,80
+14/03/2021,Ireland,7,Hamish Watson,y,80
+14/03/2021,Ireland,4,Scott Cummings,y,66
+14/03/2021,Ireland,22,Huw Jones,n,25
+14/03/2021,Ireland,10,Finn Russell,y,63
+14/03/2021,Ireland,8,Matt Fagerson,y,80
+14/03/2021,Ireland,12,Sam Johnson,y,80
+14/03/2021,Ireland,9,Ali Price,y,80
+14/03/2021,Ireland,15,Stuart Hogg,y,80
+14/03/2021,Ireland,23,Darcy Graham,n,17
+14/03/2021,Ireland,3,WP Nel,y,55
+14/03/2021,Ireland,5,Jonny Gray,y,55
+14/03/2021,Ireland,11,Duhan van der Merwe,y,80
+14/03/2021,Ireland,13,Chris Harris,y,55
+14/03/2021,Ireland,17,Jamie Bhatti,n,14
+20/03/2021,Italy,8,Matt Fagerson,y,80
+20/03/2021,Italy,12,Sam Johnson,y,66
+20/03/2021,Italy,3,Zander Fagerson,y,49
+20/03/2021,Italy,21,Ali Price,n,24
+20/03/2021,Italy,10,Stuart Hogg,y,80
+20/03/2021,Italy,14,Darcy Graham,y,80
+20/03/2021,Italy,11,Duhan van der Merwe,y,80
+20/03/2021,Italy,23,Chris Harris,n,14
+20/03/2021,Italy,22,Jaco van der Walt,n,25
+20/03/2021,Italy,17,Jamie Bhatti,n,31
+20/03/2021,Italy,18,Simon Berghan,n,31
+20/03/2021,Italy,2,Dave Cherry,y,49
+20/03/2021,Italy,6,Jamie Ritchie,y,80
+20/03/2021,Italy,20,Nick Haining,n,14
+20/03/2021,Italy,4,Sam Skinner,y,80
+20/03/2021,Italy,16,George Turner,n,31
+20/03/2021,Italy,19,Alex Craig,n,18
+20/03/2021,Italy,1,Rory Sutherland,y,49
+20/03/2021,Italy,9,Scott Steele,y,56
+20/03/2021,Italy,5,Grant Gilchrist,y,62
+20/03/2021,Italy,15,Sean Maitland,y,55
+20/03/2021,Italy,7,Hamish Watson,y,66
+20/03/2021,Italy,13,Huw Jones,y,80
+26/03/2021,France,18,Simon Berghan,n,7
+26/03/2021,France,16,Dave Cherry,n,21
+26/03/2021,France,6,Jamie Ritchie,y,80
+26/03/2021,France,8,Nick Haining,y,67
+26/03/2021,France,4,Sam Skinner,y,75
+26/03/2021,France,2,George Turner,y,59
+26/03/2021,France,19,Alex Craig,n,5
+26/03/2021,France,1,Rory Sutherland,y,49
+26/03/2021,France,21,Scott Steele,n,0
+26/03/2021,France,5,Grant Gilchrist,y,80
+26/03/2021,France,7,Hamish Watson,y,80
+26/03/2021,France,23,Huw Jones,n,13
+26/03/2021,France,17,Oli Kebble,n,31
+26/03/2021,France,10,Finn Russell,y,80
+26/03/2021,France,12,Sam Johnson,y,72
+26/03/2021,France,3,Zander Fagerson,y,73
+26/03/2021,France,9,Ali Price,y,80
+26/03/2021,France,22,Adam Hastings,n,8
+26/03/2021,France,20,Ryan Wilson,n,13
+26/03/2021,France,15,Stuart Hogg,y,80
+26/03/2021,France,14,Darcy Graham,y,67
+26/03/2021,France,11,Duhan van der Merwe,y,80
+26/03/2021,France,13,Chris Harris,y,80
+30/10/2021,Tonga,6,Jamie Ritchie,y,80
+30/10/2021,Tonga,21,Nick Haining,n,28
+30/10/2021,Tonga,2,George Turner,y,52
+30/10/2021,Tonga,22,Jamie Dobie,n,22
+30/10/2021,Tonga,14,Kyle Steyn,y,80
+30/10/2021,Tonga,19,Marshall Sykes,n,17
+30/10/2021,Tonga,16,Stuart McInally,n,28
+30/10/2021,Tonga,7,Hamish Watson,y,41
+30/10/2021,Tonga,4,Jamie Hodgson,y,80
+30/10/2021,Tonga,23,Ross Thompson,n,17
+30/10/2021,Tonga,1,Pierre Schoeman,y,51
+30/10/2021,Tonga,18,Oli Kebble,n,28
+30/10/2021,Tonga,10,Blair Kinghorn,y,80
+30/10/2021,Tonga,8,Matt Fagerson,y,52
+30/10/2021,Tonga,12,Sam Johnson,y,80
+30/10/2021,Tonga,3,Zander Fagerson,y,52
+30/10/2021,Tonga,5,Rob Harley,y,80
+30/10/2021,Tonga,11,Rufus McLean,y,63
+30/10/2021,Tonga,9,Ali Price,y,58
+30/10/2021,Tonga,20,Luke Crosbie,n,39
+30/10/2021,Tonga,13,Sione Tuipulotu,y,80
+30/10/2021,Tonga,15,Darcy Graham,y,63
+30/10/2021,Tonga,17,Jamie Bhatti,n,29
+07/11/2021,Australia,20,Josh Bayliss,n,9
+07/11/2021,Australia,6,Jamie Ritchie,y,80
+07/11/2021,Australia,4,Sam Skinner,y,62
+07/11/2021,Australia,2,George Turner,y,11
+07/11/2021,Australia,23,Kyle Steyn,n,20
+07/11/2021,Australia,5,Grant Gilchrist,y,80
+07/11/2021,Australia,16,Ewan Ashman,n,69
+07/11/2021,Australia,7,Hamish Watson,y,71
+07/11/2021,Australia,19,Jamie Hodgson,n,18
+07/11/2021,Australia,1,Pierre Schoeman,y,65
+07/11/2021,Australia,18,Oli Kebble,n,15
+07/11/2021,Australia,10,Finn Russell,y,80
+07/11/2021,Australia,8,Matt Fagerson,y,80
+07/11/2021,Australia,12,Sam Johnson,y,73
+07/11/2021,Australia,3,Zander Fagerson,y,65
+07/11/2021,Australia,21,George Horne,n,9
+07/11/2021,Australia,9,Ali Price,y,71
+07/11/2021,Australia,22,Adam Hastings,n,7
+07/11/2021,Australia,15,Stuart Hogg,y,80
+07/11/2021,Australia,14,Darcy Graham,y,60
+07/11/2021,Australia,11,Duhan van der Merwe,y,80
+07/11/2021,Australia,13,Chris Harris,y,80
+07/11/2021,Australia,17,Jamie Bhatti,n,15
+13/11/2021,South Africa,7,Jamie Ritchie,y,80
+13/11/2021,South Africa,6,Nick Haining,y,52
+13/11/2021,South Africa,4,Sam Skinner,y,72
+13/11/2021,South Africa,5,Grant Gilchrist,y,80
+13/11/2021,South Africa,16,Ewan Ashman,n,18
+13/11/2021,South Africa,2,Stuart McInally,y,62
+13/11/2021,South Africa,20,Hamish Watson,n,28
+13/11/2021,South Africa,19,Jamie Hodgson,n,8
+13/11/2021,South Africa,1,Pierre Schoeman,y,62
+13/11/2021,South Africa,18,Oli Kebble,n,11
+13/11/2021,South Africa,10,Finn Russell,y,80
+13/11/2021,South Africa,23,Blair Kinghorn,n,28
+13/11/2021,South Africa,8,Matt Fagerson,y,80
+13/11/2021,South Africa,3,Zander Fagerson,y,69
+13/11/2021,South Africa,14,Rufus McLean,y,52
+13/11/2021,South Africa,21,George Horne,n,8
+13/11/2021,South Africa,9,Ali Price,y,72
+13/11/2021,South Africa,22,Adam Hastings,n,8
+13/11/2021,South Africa,15,Stuart Hogg,y,80
+13/11/2021,South Africa,12,Matt Scott,y,72
+13/11/2021,South Africa,11,Duhan van der Merwe,y,80
+13/11/2021,South Africa,13,Chris Harris,y,80
+13/11/2021,South Africa,17,Jamie Bhatti,n,18
+20/11/2021,Japan,18,Javan Sebastian,n,16
+20/11/2021,Japan,8,Josh Bayliss,y,80
+20/11/2021,Japan,6,Jamie Ritchie,y,63
+20/11/2021,Japan,19,Sam Skinner,n,9
+20/11/2021,Japan,2,George Turner,y,54
+20/11/2021,Japan,5,Grant Gilchrist,y,80
+20/11/2021,Japan,16,Stuart McInally,n,26
+20/11/2021,Japan,7,Hamish Watson,y,67
+20/11/2021,Japan,4,Scott Cummings,y,71
+20/11/2021,Japan,17,Pierre Schoeman,n,28
+20/11/2021,Japan,10,Finn Russell,y,80
+20/11/2021,Japan,23,Blair Kinghorn,n,16
+20/11/2021,Japan,21,Matt Fagerson,n,17
+20/11/2021,Japan,12,Sam Johnson,y,80
+20/11/2021,Japan,3,Zander Fagerson,y,64
+20/11/2021,Japan,22,George Horne,n,17
+20/11/2021,Japan,9,Ali Price,y,63
+20/11/2021,Japan,20,Dylan Richardson,n,9
+20/11/2021,Japan,15,Stuart Hogg,y,80
+20/11/2021,Japan,14,Darcy Graham,y,64
+20/11/2021,Japan,11,Duhan van der Merwe,y,80
+20/11/2021,Japan,13,Chris Harris,y,80
+20/11/2021,Japan,1,Jamie Bhatti,y,57
+05/02/2022,England,21,Ben White,n,55
+05/02/2022,England,6,Jamie Ritchie,y,60
+05/02/2022,England,19,Sam Skinner,n,17
+05/02/2022,England,2,George Turner,y,51
+05/02/2022,England,1,Rory Sutherland,y,51
+05/02/2022,England,5,Grant Gilchrist,y,80
+05/02/2022,England,16,Stuart McInally,n,29
+05/02/2022,England,7,Hamish Watson,y,80
+05/02/2022,England,17,Pierre Schoeman,n,29
+05/02/2022,England,20,Magnus Bradbury,n,20
+05/02/2022,England,10,Finn Russell,y,80
+05/02/2022,England,22,Blair Kinghorn,n,0
+05/02/2022,England,8,Matt Fagerson,y,80
+05/02/2022,England,12,Sam Johnson,y,59
+05/02/2022,England,3,Zander Fagerson,y,51
+05/02/2022,England,9,Ali Price,y,25
+05/02/2022,England,23,Sione Tuipulotu,n,21
+05/02/2022,England,15,Stuart Hogg,y,80
+05/02/2022,England,14,Darcy Graham,y,80
+05/02/2022,England,18,WP Nel,n,29
+05/02/2022,England,4,Jonny Gray,y,63
+05/02/2022,England,11,Duhan van der Merwe,y,80
+05/02/2022,England,13,Chris Harris,y,80
+12/02/2022,Wales,21,Ben White,n,17
+12/02/2022,Wales,6,Sam Skinner,y,80
+12/02/2022,Wales,16,George Turner,n,35
+12/02/2022,Wales,17,Rory Sutherland,n,18
+12/02/2022,Wales,5,Grant Gilchrist,y,80
+12/02/2022,Wales,23,Cam Redpath,n,0
+12/02/2022,Wales,2,Stuart McInally,y,45
+12/02/2022,Wales,7,Hamish Watson,y,80
+12/02/2022,Wales,1,Pierre Schoeman,y,62
+12/02/2022,Wales,20,Rory Darge,n,17
+12/02/2022,Wales,19,Magnus Bradbury,n,49
+12/02/2022,Wales,10,Finn Russell,y,80
+12/02/2022,Wales,22,Blair Kinghorn,n,4
+12/02/2022,Wales,8,Matt Fagerson,y,31
+12/02/2022,Wales,18,Zander Fagerson,n,35
+12/02/2022,Wales,9,Ali Price,y,63
+12/02/2022,Wales,12,Sione Tuipulotu,y,76
+12/02/2022,Wales,15,Stuart Hogg,y,80
+12/02/2022,Wales,14,Darcy Graham,y,80
+12/02/2022,Wales,3,WP Nel,y,45
+12/02/2022,Wales,4,Jonny Gray,y,63
+12/02/2022,Wales,11,Duhan van der Merwe,y,80
+12/02/2022,Wales,13,Chris Harris,y,80
+26/02/2022,France,21,Ben White,n,22
+26/02/2022,France,7,Nick Haining,y,44
+26/02/2022,France,4,Sam Skinner,y,80
+26/02/2022,France,16,George Turner,n,24
+26/02/2022,France,23,Mark Bennett,n,0
+26/02/2022,France,5,Grant Gilchrist,y,62
+26/02/2022,France,2,Stuart McInally,y,56
+26/02/2022,France,19,Jamie Hodgson,n,18
+26/02/2022,France,1,Pierre Schoeman,y,64
+26/02/2022,France,6,Rory Darge,y,80
+26/02/2022,France,8,Magnus Bradbury,y,80
+26/02/2022,France,17,Oli Kebble,n,16
+26/02/2022,France,10,Finn Russell,y,62
+26/02/2022,France,22,Blair Kinghorn,n,18
+26/02/2022,France,3,Zander Fagerson,y,56
+26/02/2022,France,9,Ali Price,y,58
+26/02/2022,France,12,Sione Tuipulotu,y,80
+26/02/2022,France,15,Stuart Hogg,y,80
+26/02/2022,France,14,Darcy Graham,y,80
+26/02/2022,France,18,WP Nel,n,24
+26/02/2022,France,11,Duhan van der Merwe,y,80
+26/02/2022,France,13,Chris Harris,y,80
+26/02/2022,France,20,Andy Onyeama Christie,n,36
+12/03/2022,Italy,21,Ben Vellacott,n,4
+12/03/2022,Italy,4,Sam Skinner,y,76
+12/03/2022,Italy,2,George Turner,y,59
+12/03/2022,Italy,11,Kyle Steyn,y,80
+12/03/2022,Italy,5,Grant Gilchrist,y,80
+12/03/2022,Italy,16,Stuart McInally,n,21
+12/03/2022,Italy,7,Hamish Watson,y,80
+12/03/2022,Italy,19,Jamie Hodgson,n,4
+12/03/2022,Italy,1,Pierre Schoeman,y,59
+12/03/2022,Italy,6,Rory Darge,y,80
+12/03/2022,Italy,20,Magnus Bradbury,n,17
+12/03/2022,Italy,10,Finn Russell,y,76
+12/03/2022,Italy,8,Matt Fagerson,y,63
+12/03/2022,Italy,12,Sam Johnson,y,76
+12/03/2022,Italy,3,Zander Fagerson,y,59
+12/03/2022,Italy,9,Ali Price,y,76
+12/03/2022,Italy,22,Adam Hastings,n,4
+12/03/2022,Italy,23,Sione Tuipulotu,n,4
+12/03/2022,Italy,15,Stuart Hogg,y,80
+12/03/2022,Italy,14,Darcy Graham,y,80
+12/03/2022,Italy,18,WP Nel,n,21
+12/03/2022,Italy,17,Allan Dell,n,21
+12/03/2022,Italy,13,Chris Harris,y,80
+19/03/2022,Ireland,21,Ben White,n,19
+19/03/2022,Ireland,20,Josh Bayliss,n,18
+19/03/2022,Ireland,19,Sam Skinner,n,29
+19/03/2022,Ireland,2,George Turner,y,51
+19/03/2022,Ireland,23,Mark Bennett,n,19
+19/03/2022,Ireland,16,Fraser Brown,n,29
+19/03/2022,Ireland,11,Kyle Steyn,y,80
+19/03/2022,Ireland,5,Grant Gilchrist,y,51
+19/03/2022,Ireland,7,Hamish Watson,y,80
+19/03/2022,Ireland,1,Pierre Schoeman,y,74
+19/03/2022,Ireland,6,Rory Darge,y,80
+19/03/2022,Ireland,22,Finn Russell,n,13
+19/03/2022,Ireland,10,Blair Kinghorn,y,80
+19/03/2022,Ireland,8,Matt Fagerson,y,62
+19/03/2022,Ireland,12,Sam Johnson,y,61
+19/03/2022,Ireland,3,Zander Fagerson,y,55
+19/03/2022,Ireland,9,Ali Price,y,61
+19/03/2022,Ireland,15,Stuart Hogg,y,80
+19/03/2022,Ireland,14,Darcy Graham,y,80
+19/03/2022,Ireland,18,WP Nel,n,25
+19/03/2022,Ireland,17,Allan Dell,n,6
+19/03/2022,Ireland,4,Jonny Gray,y,80
+19/03/2022,Ireland,13,Chris Harris,y,67
+02/07/2022,Argentina,21,Ben White,n,13
+02/07/2022,Argentina,18,Javan Sebastian,n,20
+02/07/2022,Argentina,19,Sam Skinner,n,13
+02/07/2022,Argentina,2,George Turner,y,60
+02/07/2022,Argentina,13,Mark Bennett,y,80
+02/07/2022,Argentina,15,Rory Hutchinson,y,80
+02/07/2022,Argentina,17,Rory Sutherland,n,20
+02/07/2022,Argentina,4,Grant Gilchrist,y,80
+02/07/2022,Argentina,16,Ewan Ashman,n,20
+02/07/2022,Argentina,22,Ross Thompson,n,0
+02/07/2022,Argentina,1,Pierre Schoeman,y,60
+02/07/2022,Argentina,20,Rory Darge,n,27
+02/07/2022,Argentina,6,Magnus Bradbury,y,80
+02/07/2022,Argentina,10,Blair Kinghorn,y,80
+02/07/2022,Argentina,8,Matt Fagerson,y,80
+02/07/2022,Argentina,12,Sam Johnson,y,71
+02/07/2022,Argentina,3,Zander Fagerson,y,60
+02/07/2022,Argentina,9,Ali Price,y,67
+02/07/2022,Argentina,7,Luke Crosbie,y,53
+02/07/2022,Argentina,23,Sione Tuipulotu,n,9
+02/07/2022,Argentina,14,Darcy Graham,y,80
+02/07/2022,Argentina,5,Jonny Gray,y,67
+02/07/2022,Argentina,11,Duhan van der Merwe,y,80
+09/07/2022,Argentina,9,Ben White,y,55
+09/07/2022,Argentina,18,Javan Sebastian,n,12
+09/07/2022,Argentina,2,Dave Cherry,y,55
+09/07/2022,Argentina,4,Sam Skinner,y,80
+09/07/2022,Argentina,16,George Turner,n,25
+09/07/2022,Argentina,13,Mark Bennett,y,80
+09/07/2022,Argentina,15,Rory Hutchinson,y,38
+09/07/2022,Argentina,5,Grant Gilchrist,y,68
+09/07/2022,Argentina,7,Hamish Watson,y,73
+09/07/2022,Argentina,19,Scott Cummings,n,12
+09/07/2022,Argentina,22,Ross Thompson,n,30
+09/07/2022,Argentina,1,Pierre Schoeman,y,68
+09/07/2022,Argentina,6,Rory Darge,y,80
+09/07/2022,Argentina,10,Blair Kinghorn,y,80
+09/07/2022,Argentina,8,Matt Fagerson,y,80
+09/07/2022,Argentina,12,Sam Johnson,y,80
+09/07/2022,Argentina,3,Zander Fagerson,y,68
+09/07/2022,Argentina,21,Ali Price,n,25
+09/07/2022,Argentina,14,Darcy Graham,y,80
+09/07/2022,Argentina,23,Kyle Rowe,n,12
+09/07/2022,Argentina,11,Duhan van der Merwe,y,80
+09/07/2022,Argentina,20,Andy Onyeama Christie,n,7
+09/07/2022,Argentina,17,Jamie Bhatti,n,12
+16/07/2022,Argentina,18,Javan Sebastian,n,0
+16/07/2022,Argentina,16,Dave Cherry,n,27
+16/07/2022,Argentina,13,Mark Bennett,y,80
+16/07/2022,Argentina,1,Rory Sutherland,y,53
+16/07/2022,Argentina,2,Ewan Ashman,y,53
+16/07/2022,Argentina,19,Glen Young,n,11
+16/07/2022,Argentina,7,Hamish Watson,y,73
+16/07/2022,Argentina,4,Scott Cummings,y,69
+16/07/2022,Argentina,22,Ross Thompson,n,7
+16/07/2022,Argentina,17,Pierre Schoeman,n,27
+16/07/2022,Argentina,6,Rory Darge,y,80
+16/07/2022,Argentina,10,Blair Kinghorn,y,80
+16/07/2022,Argentina,8,Matt Fagerson,y,80
+16/07/2022,Argentina,23,Sam Johnson,n,0
+16/07/2022,Argentina,3,Zander Fagerson,y,80
+16/07/2022,Argentina,14,Rufus McLean,y,80
+16/07/2022,Argentina,21,George Horne,n,0
+16/07/2022,Argentina,9,Ali Price,y,80
+16/07/2022,Argentina,12,Sione Tuipulotu,y,80
+16/07/2022,Argentina,15,Ollie Smith,y,73
+16/07/2022,Argentina,5,Jonny Gray,y,80
+16/07/2022,Argentina,11,Duhan van der Merwe,y,80
+16/07/2022,Argentina,20,Andy Onyeama Christie,n,7
+29/10/2022,Australia,2,Dave Cherry,y,60
+29/10/2022,Australia,6,Jamie Ritchie,y,80
+29/10/2022,Australia,4,Sam Skinner,y,25
+29/10/2022,Australia,23,Damien Hoyland,n,5
+29/10/2022,Australia,16,George Turner,n,20
+29/10/2022,Australia,13,Mark Bennett,y,80
+29/10/2022,Australia,5,Grant Gilchrist,y,80
+29/10/2022,Australia,19,Glen Young,n,55
+29/10/2022,Australia,7,Hamish Watson,y,80
+29/10/2022,Australia,22,Ross Thompson,n,0
+29/10/2022,Australia,1,Pierre Schoeman,y,60
+29/10/2022,Australia,10,Blair Kinghorn,y,80
+29/10/2022,Australia,8,Matt Fagerson,y,61
+29/10/2022,Australia,3,Zander Fagerson,y,60
+29/10/2022,Australia,20,Jack Dempsey,n,19
+29/10/2022,Australia,21,George Horne,n,12
+29/10/2022,Australia,9,Ali Price,y,68
+29/10/2022,Australia,12,Sione Tuipulotu,y,80
+29/10/2022,Australia,14,Darcy Graham,y,75
+29/10/2022,Australia,15,Ollie Smith,y,80
+29/10/2022,Australia,18,WP Nel,n,20
+29/10/2022,Australia,11,Duhan van der Merwe,y,80
+29/10/2022,Australia,17,Jamie Bhatti,n,20
+05/11/2022,Fiji,21,Ben White,n,29
+05/11/2022,Fiji,6,Jamie Ritchie,y,80
+05/11/2022,Fiji,2,George Turner,y,31
+05/11/2022,Fiji,17,Rory Sutherland,n,29
+05/11/2022,Fiji,5,Grant Gilchrist,y,61
+05/11/2022,Fiji,12,Cam Redpath,y,80
+05/11/2022,Fiji,16,Ewan Ashman,n,49
+05/11/2022,Fiji,7,Hamish Watson,y,52
+05/11/2022,Fiji,1,Pierre Schoeman,y,51
+05/11/2022,Fiji,22,Blair Kinghorn,n,37
+05/11/2022,Fiji,8,Matt Fagerson,y,80
+05/11/2022,Fiji,4,Richie Gray,y,80
+05/11/2022,Fiji,3,Zander Fagerson,y,69
+05/11/2022,Fiji,20,Jack Dempsey,n,28
+05/11/2022,Fiji,9,Ali Price,y,51
+05/11/2022,Fiji,10,Adam Hastings,y,43
+05/11/2022,Fiji,18,Murphy Walker,n,11
+05/11/2022,Fiji,23,Sione Tuipulotu,n,11
+05/11/2022,Fiji,15,Stuart Hogg,y,80
+05/11/2022,Fiji,14,Darcy Graham,y,80
+05/11/2022,Fiji,19,Jonny Gray,n,19
+05/11/2022,Fiji,11,Duhan van der Merwe,y,80
+05/11/2022,Fiji,13,Chris Harris,y,69
+13/11/2022,New Zealand,21,Ben White,n,15
+13/11/2022,New Zealand,6,Jamie Ritchie,y,80
+13/11/2022,New Zealand,23,Mark Bennett,n,15
+13/11/2022,New Zealand,17,Rory Sutherland,n,8
+13/11/2022,New Zealand,2,Fraser Brown,y,69
+13/11/2022,New Zealand,5,Grant Gilchrist,y,65
+13/11/2022,New Zealand,16,Ewan Ashman,n,11
+13/11/2022,New Zealand,7,Hamish Watson,y,80
+13/11/2022,New Zealand,1,Pierre Schoeman,y,72
+13/11/2022,New Zealand,10,Finn Russell,y,80
+13/11/2022,New Zealand,22,Blair Kinghorn,n,3
+13/11/2022,New Zealand,8,Matt Fagerson,y,80
+13/11/2022,New Zealand,4,Richie Gray,y,80
+13/11/2022,New Zealand,3,Zander Fagerson,y,59
+13/11/2022,New Zealand,20,Jack Dempsey,n,0
+13/11/2022,New Zealand,9,Ali Price,y,65
+13/11/2022,New Zealand,12,Sione Tuipulotu,y,77
+13/11/2022,New Zealand,15,Stuart Hogg,y,80
+13/11/2022,New Zealand,14,Darcy Graham,y,80
+13/11/2022,New Zealand,18,WP Nel,n,21
+13/11/2022,New Zealand,19,Jonny Gray,n,15
+13/11/2022,New Zealand,11,Duhan van der Merwe,y,80
+13/11/2022,New Zealand,13,Chris Harris,y,65
+19/11/2022,Argentina,21,Ben White,n,25
+19/11/2022,Argentina,7,Jamie Ritchie,y,80
+19/11/2022,Argentina,16,George Turner,n,20
+19/11/2022,Argentina,2,Fraser Brown,y,60
+19/11/2022,Argentina,5,Grant Gilchrist,y,75
+19/11/2022,Argentina,23,Cam Redpath,n,19
+19/11/2022,Argentina,19,Glen Young,n,5
+19/11/2022,Argentina,1,Pierre Schoeman,y,66
+19/11/2022,Argentina,10,Finn Russell,y,80
+19/11/2022,Argentina,22,Blair Kinghorn,n,9
+19/11/2022,Argentina,6,Matt Fagerson,y,80
+19/11/2022,Argentina,3,Zander Fagerson,y,66
+19/11/2022,Argentina,8,Jack Dempsey,y,58
+19/11/2022,Argentina,9,Ali Price,y,55
+19/11/2022,Argentina,18,Murphy Walker,n,14
+19/11/2022,Argentina,12,Sione Tuipulotu,y,80
+19/11/2022,Argentina,15,Stuart Hogg,y,80
+19/11/2022,Argentina,14,Darcy Graham,y,80
+19/11/2022,Argentina,4,Jonny Gray,y,80
+19/11/2022,Argentina,11,Duhan van der Merwe,y,71
+19/11/2022,Argentina,13,Chris Harris,y,61
+19/11/2022,Argentina,20,Andy Onyeama Christie,n,22
+19/11/2022,Argentina,17,Jamie Bhatti,n,14
+04/02/2023,England,18,Simon Berghan,n,21
+04/02/2023,England,9,Ben White,y,71
+04/02/2023,England,6,Jamie Ritchie,y,80
+04/02/2023,England,2,George Turner,y,59
+04/02/2023,England,16,Fraser Brown,n,21
+04/02/2023,England,14,Kyle Steyn,y,80
+04/02/2023,England,5,Grant Gilchrist,y,66
+04/02/2023,England,13,Huw Jones,y,67
+04/02/2023,England,1,Pierre Schoeman,y,66
+04/02/2023,England,10,Finn Russell,y,80
+04/02/2023,England,22,Blair Kinghorn,n,24
+04/02/2023,England,8,Matt Fagerson,y,80
+04/02/2023,England,4,Richie Gray,y,80
+04/02/2023,England,20,Jack Dempsey,n,21
+04/02/2023,England,21,George Horne,n,9
+04/02/2023,England,7,Luke Crosbie,y,59
+04/02/2023,England,12,Sione Tuipulotu,y,80
+04/02/2023,England,15,Stuart Hogg,y,56
+04/02/2023,England,3,WP Nel,y,59
+04/02/2023,England,19,Jonny Gray,n,14
+04/02/2023,England,11,Duhan van der Merwe,y,80
+04/02/2023,England,23,Chris Harris,n,13
+04/02/2023,England,17,Jamie Bhatti,n,14
+11/02/2023,Wales,9,Ben White,y,59
+11/02/2023,Wales,6,Jamie Ritchie,y,80
+11/02/2023,Wales,2,George Turner,y,59
+11/02/2023,Wales,16,Fraser Brown,n,21
+11/02/2023,Wales,14,Kyle Steyn,y,80
+11/02/2023,Wales,5,Grant Gilchrist,y,65
+11/02/2023,Wales,13,Huw Jones,y,80
+11/02/2023,Wales,1,Pierre Schoeman,y,65
+11/02/2023,Wales,10,Finn Russell,y,80
+11/02/2023,Wales,22,Blair Kinghorn,n,0
+11/02/2023,Wales,8,Matt Fagerson,y,80
+11/02/2023,Wales,4,Richie Gray,y,80
+11/02/2023,Wales,3,Zander Fagerson,y,65
+11/02/2023,Wales,20,Jack Dempsey,n,35
+11/02/2023,Wales,21,George Horne,n,21
+11/02/2023,Wales,7,Luke Crosbie,y,45
+11/02/2023,Wales,12,Sione Tuipulotu,y,73
+11/02/2023,Wales,15,Stuart Hogg,y,80
+11/02/2023,Wales,18,WP Nel,n,15
+11/02/2023,Wales,19,Jonny Gray,n,15
+11/02/2023,Wales,11,Duhan van der Merwe,y,80
+11/02/2023,Wales,23,Chris Harris,n,7
+11/02/2023,Wales,17,Jamie Bhatti,n,15
+26/02/2023,France,9,Ben White,y,58
+26/02/2023,France,6,Jamie Ritchie,y,80
+26/02/2023,France,20,Sam Skinner,n,8
+26/02/2023,France,2,George Turner,y,64
+26/02/2023,France,16,Fraser Brown,n,16
+26/02/2023,France,14,Kyle Steyn,y,70
+26/02/2023,France,5,Grant Gilchrist,y,80
+26/02/2023,France,7,Hamish Watson,y,11
+26/02/2023,France,13,Huw Jones,y,80
+26/02/2023,France,1,Pierre Schoeman,y,64
+26/02/2023,France,10,Finn Russell,y,80
+26/02/2023,France,23,Blair Kinghorn,n,10
+26/02/2023,France,8,Matt Fagerson,y,57
+26/02/2023,France,4,Richie Gray,y,72
+26/02/2023,France,3,Zander Fagerson,y,64
+26/02/2023,France,21,Jack Dempsey,n,23
+26/02/2023,France,22,Ali Price,n,22
+26/02/2023,France,12,Sione Tuipulotu,y,80
+26/02/2023,France,15,Stuart Hogg,y,80
+26/02/2023,France,18,WP Nel,n,16
+26/02/2023,France,19,Jonny Gray,n,69
+26/02/2023,France,11,Duhan van der Merwe,y,80
+26/02/2023,France,17,Jamie Bhatti,n,16
+12/03/2023,Ireland,18,Simon Berghan,n,26
+12/03/2023,Ireland,9,Ben White,y,58
+12/03/2023,Ireland,7,Jamie Ritchie,y,80
+12/03/2023,Ireland,2,George Turner,y,58
+12/03/2023,Ireland,16,Fraser Brown,n,22
+12/03/2023,Ireland,14,Kyle Steyn,y,80
+12/03/2023,Ireland,20,Hamish Watson,n,13
+12/03/2023,Ireland,19,Scott Cummings,n,73
+12/03/2023,Ireland,13,Huw Jones,y,80
+12/03/2023,Ireland,1,Pierre Schoeman,y,53
+12/03/2023,Ireland,10,Finn Russell,y,80
+12/03/2023,Ireland,22,Blair Kinghorn,n,15
+12/03/2023,Ireland,6,Matt Fagerson,y,67
+12/03/2023,Ireland,4,Richie Gray,y,7
+12/03/2023,Ireland,3,Zander Fagerson,y,54
+12/03/2023,Ireland,8,Jack Dempsey,y,80
+12/03/2023,Ireland,21,Ali Price,n,22
+12/03/2023,Ireland,12,Sione Tuipulotu,y,80
+12/03/2023,Ireland,15,Stuart Hogg,y,65
+12/03/2023,Ireland,5,Jonny Gray,y,80
+12/03/2023,Ireland,11,Duhan van der Merwe,y,80
+12/03/2023,Ireland,23,Chris Harris,n,0
+12/03/2023,Ireland,17,Jamie Bhatti,n,27
+18/03/2023,Italy,9,Ben White,y,60
+18/03/2023,Italy,22,Ben Healy,n,12
+18/03/2023,Italy,6,Jamie Ritchie,y,80
+18/03/2023,Italy,4,Sam Skinner,y,80
+18/03/2023,Italy,2,George Turner,y,50
+18/03/2023,Italy,17,Rory Sutherland,n,20
+18/03/2023,Italy,14,Kyle Steyn,y,80
+18/03/2023,Italy,23,Cam Redpath,n,12
+18/03/2023,Italy,16,Ewan Ashman,n,30
+18/03/2023,Italy,7,Hamish Watson,y,50
+18/03/2023,Italy,19,Scott Cummings,n,20
+18/03/2023,Italy,13,Huw Jones,y,80
+18/03/2023,Italy,1,Pierre Schoeman,y,60
+18/03/2023,Italy,10,Blair Kinghorn,y,80
+18/03/2023,Italy,20,Matt Fagerson,n,30
+18/03/2023,Italy,3,Zander Fagerson,y,70
+18/03/2023,Italy,8,Jack Dempsey,y,80
+18/03/2023,Italy,21,Ali Price,n,20
+18/03/2023,Italy,12,Sione Tuipulotu,y,68
+18/03/2023,Italy,15,Ollie Smith,y,68
+18/03/2023,Italy,18,WP Nel,n,10
+18/03/2023,Italy,5,Jonny Gray,y,60
+18/03/2023,Italy,11,Duhan van der Merwe,y,80
+29/07/2023,Italy,18,Javan Sebastian,n,33
+29/07/2023,Italy,10,Ben Healy,y,80
+29/07/2023,Italy,20,Josh Bayliss,n,10
+29/07/2023,Italy,4,Sam Skinner,y,80
+29/07/2023,Italy,2,George Turner,y,46
+29/07/2023,Italy,21,Jamie Dobie,n,23
+29/07/2023,Italy,1,Rory Sutherland,y,40
+29/07/2023,Italy,11,Kyle Steyn,y,80
+29/07/2023,Italy,23,Cam Redpath,n,23
+29/07/2023,Italy,16,Stuart McInally,n,34
+29/07/2023,Italy,5,Scott Cummings,y,64
+29/07/2023,Italy,7,Rory Darge,y,80
+29/07/2023,Italy,22,Blair Kinghorn,n,8
+29/07/2023,Italy,8,Matt Fagerson,y,80
+29/07/2023,Italy,19,Cameron Henderson,n,16
+29/07/2023,Italy,9,Ali Price,y,57
+29/07/2023,Italy,6,Luke Crosbie,y,70
+29/07/2023,Italy,12,Stafford McDowall,y,80
+29/07/2023,Italy,3,Murphy Walker,y,47
+29/07/2023,Italy,14,Darcy Graham,y,72
+29/07/2023,Italy,15,Ollie Smith,y,80
+29/07/2023,Italy,13,Chris Harris,y,57
+29/07/2023,Italy,17,Jamie Bhatti,n,40
+05/08/2023,France,9,Ben White,y,31
+05/08/2023,France,16,Dave Cherry,n,15
+05/08/2023,France,5,Grant Gilchrist,y,79
+05/08/2023,France,22,Cam Redpath,n,1
+05/08/2023,France,2,Ewan Ashman,y,65
+05/08/2023,France,7,Hamish Watson,y,80
+05/08/2023,France,19,Scott Cummings,n,1
+05/08/2023,France,13,Huw Jones,y,80
+05/08/2023,France,1,Pierre Schoeman,y,65
+05/08/2023,France,20,Rory Darge,n,2
+05/08/2023,France,10,Finn Russell,y,80
+05/08/2023,France,15,Blair Kinghorn,y,80
+05/08/2023,France,6,Matt Fagerson,y,80
+05/08/2023,France,4,Richie Gray,y,80
+05/08/2023,France,3,Zander Fagerson,y,80
+05/08/2023,France,8,Jack Dempsey,y,78
+05/08/2023,France,21,George Horne,n,49
+05/08/2023,France,12,Sione Tuipulotu,y,79
+05/08/2023,France,14,Darcy Graham,y,80
+05/08/2023,France,23,Ollie Smith,n,0
+05/08/2023,France,18,WP Nel,n,0
+05/08/2023,France,11,Duhan van der Merwe,y,80
+05/08/2023,France,17,Jamie Bhatti,n,15
+12/08/2023,France,18,Javan Sebastian,n,25
+12/08/2023,France,21,Josh Bayliss,n,6
+12/08/2023,France,6,Jamie Ritchie,y,80
+12/08/2023,France,20,Sam Skinner,n,25
+12/08/2023,France,2,George Turner,y,55
+12/08/2023,France,17,Rory Sutherland,n,25
+12/08/2023,France,14,Kyle Steyn,y,80
+12/08/2023,France,5,Grant Gilchrist,y,55
+12/08/2023,France,16,Stuart McInally,n,25
+12/08/2023,France,19,Scott Cummings,n,16
+12/08/2023,France,13,Huw Jones,y,80
+12/08/2023,France,1,Pierre Schoeman,y,55
+12/08/2023,France,7,Rory Darge,y,80
+12/08/2023,France,10,Finn Russell,y,80
+12/08/2023,France,15,Blair Kinghorn,y,80
+12/08/2023,France,4,Richie Gray,y,64
+12/08/2023,France,8,Jack Dempsey,y,74
+12/08/2023,France,22,George Horne,n,25
+12/08/2023,France,9,Ali Price,y,55
+12/08/2023,France,12,Sione Tuipulotu,y,80
+12/08/2023,France,23,Ollie Smith,n,17
+12/08/2023,France,3,WP Nel,y,55
+12/08/2023,France,11,Duhan van der Merwe,y,63
+26/08/2023,Georgia,9,Ben White,y,80
+26/08/2023,Georgia,18,Javan Sebastian,n,0
+26/08/2023,Georgia,22,Ben Healy,n,0
+26/08/2023,Georgia,2,Dave Cherry,y,80
+26/08/2023,Georgia,6,Jamie Ritchie,y,80
+26/08/2023,Georgia,4,Sam Skinner,y,80
+26/08/2023,Georgia,17,Rory Sutherland,n,0
+26/08/2023,Georgia,14,Kyle Steyn,y,80
+26/08/2023,Georgia,5,Grant Gilchrist,y,80
+26/08/2023,Georgia,16,Ewan Ashman,n,0
+26/08/2023,Georgia,19,Scott Cummings,n,0
+26/08/2023,Georgia,13,Huw Jones,y,80
+26/08/2023,Georgia,7,Rory Darge,y,80
+26/08/2023,Georgia,10,Finn Russell,y,80
+26/08/2023,Georgia,20,Matt Fagerson,n,0
+26/08/2023,Georgia,8,Jack Dempsey,y,80
+26/08/2023,Georgia,21,George Horne,n,0
+26/08/2023,Georgia,12,Sione Tuipulotu,y,80
+26/08/2023,Georgia,15,Ollie Smith,y,80
+26/08/2023,Georgia,3,WP Nel,y,80
+26/08/2023,Georgia,11,Duhan van der Merwe,y,80
+26/08/2023,Georgia,23,Chris Harris,n,0
+26/08/2023,Georgia,1,Jamie Bhatti,y,80
+10/09/2023,South Africa,9,Ben White,y,67
+10/09/2023,South Africa,16,Dave Cherry,n,24
+10/09/2023,South Africa,6,Jamie Ritchie,y,80
+10/09/2023,South Africa,2,George Turner,y,56
+10/09/2023,South Africa,5,Grant Gilchrist,y,56
+10/09/2023,South Africa,22,Cam Redpath,n,13
+10/09/2023,South Africa,19,Scott Cummings,n,24
+10/09/2023,South Africa,13,Huw Jones,y,80
+10/09/2023,South Africa,1,Pierre Schoeman,y,56
+10/09/2023,South Africa,7,Rory Darge,y,64
+10/09/2023,South Africa,10,Finn Russell,y,80
+10/09/2023,South Africa,15,Blair Kinghorn,y,80
+10/09/2023,South Africa,20,Matt Fagerson,n,16
+10/09/2023,South Africa,4,Richie Gray,y,80
+10/09/2023,South Africa,3,Zander Fagerson,y,56
+10/09/2023,South Africa,8,Jack Dempsey,y,80
+10/09/2023,South Africa,21,Ali Price,n,13
+10/09/2023,South Africa,12,Sione Tuipulotu,y,67
+10/09/2023,South Africa,14,Darcy Graham,y,64
+10/09/2023,South Africa,23,Ollie Smith,n,16
+10/09/2023,South Africa,18,WP Nel,n,24
+10/09/2023,South Africa,11,Duhan van der Merwe,y,80
+10/09/2023,South Africa,17,Jamie Bhatti,n,24
+24/09/2023,Tonga,9,Ben White,y,48
+24/09/2023,Tonga,6,Jamie Ritchie,y,33
+24/09/2023,Tonga,19,Sam Skinner,n,15
+24/09/2023,Tonga,2,George Turner,y,58
+24/09/2023,Tonga,1,Rory Sutherland,y,48
+24/09/2023,Tonga,14,Kyle Steyn,y,48
+24/09/2023,Tonga,16,Ewan Ashman,n,22
+24/09/2023,Tonga,5,Scott Cummings,y,80
+24/09/2023,Tonga,22,Huw Jones,n,32
+24/09/2023,Tonga,17,Pierre Schoeman,n,32
+24/09/2023,Tonga,7,Rory Darge,y,80
+24/09/2023,Tonga,10,Finn Russell,y,80
+24/09/2023,Tonga,15,Blair Kinghorn,y,80
+24/09/2023,Tonga,20,Matt Fagerson,n,0
+24/09/2023,Tonga,4,Richie Gray,y,65
+24/09/2023,Tonga,3,Zander Fagerson,y,58
+24/09/2023,Tonga,8,Jack Dempsey,y,80
+24/09/2023,Tonga,21,George Horne,n,32
+24/09/2023,Tonga,12,Sione Tuipulotu,y,80
+24/09/2023,Tonga,23,Darcy Graham,n,32
+24/09/2023,Tonga,18,WP Nel,n,22
+24/09/2023,Tonga,11,Duhan van der Merwe,y,80
+24/09/2023,Tonga,13,Chris Harris,y,48
+30/09/2023,Romania,3,Javan Sebastian,y,59
+30/09/2023,Romania,10,Ben Healy,y,80
+30/09/2023,Romania,4,Sam Skinner,y,80
+30/09/2023,Romania,17,Rory Sutherland,n,21
+30/09/2023,Romania,11,Kyle Steyn,y,80
+30/09/2023,Romania,5,Grant Gilchrist,y,59
+30/09/2023,Romania,12,Cam Redpath,y,80
+30/09/2023,Romania,2,Ewan Ashman,y,59
+30/09/2023,Romania,7,Hamish Watson,y,65
+30/09/2023,Romania,19,Scott Cummings,n,21
+30/09/2023,Romania,23,Huw Jones,n,15
+30/09/2023,Romania,20,Rory Darge,n,15
+30/09/2023,Romania,16,Johnny Matthews,n,21
+30/09/2023,Romania,22,Blair Kinghorn,n,21
+30/09/2023,Romania,8,Matt Fagerson,y,80
+30/09/2023,Romania,21,George Horne,n,26
+30/09/2023,Romania,9,Ali Price,y,54
+30/09/2023,Romania,6,Luke Crosbie,y,80
+30/09/2023,Romania,14,Darcy Graham,y,80
+30/09/2023,Romania,15,Ollie Smith,y,59
+30/09/2023,Romania,18,WP Nel,n,21
+30/09/2023,Romania,13,Chris Harris,y,65
+30/09/2023,Romania,1,Jamie Bhatti,y,59
+07/10/2023,Ireland,6,Jamie Ritchie,y,20
+07/10/2023,Ireland,2,George Turner,y,59
+07/10/2023,Ireland,17,Rory Sutherland,n,27
+07/10/2023,Ireland,5,Grant Gilchrist,y,45
+07/10/2023,Ireland,16,Ewan Ashman,n,21
+07/10/2023,Ireland,19,Scott Cummings,n,35
+07/10/2023,Ireland,13,Huw Jones,y,80
+07/10/2023,Ireland,1,Pierre Schoeman,y,53
+07/10/2023,Ireland,7,Rory Darge,y,64
+07/10/2023,Ireland,10,Finn Russell,y,80
+07/10/2023,Ireland,15,Blair Kinghorn,y,8
+07/10/2023,Ireland,20,Matt Fagerson,n,60
+07/10/2023,Ireland,4,Richie Gray,y,80
+07/10/2023,Ireland,3,Zander Fagerson,y,59
+07/10/2023,Ireland,8,Jack Dempsey,y,80
+07/10/2023,Ireland,22,George Horne,n,30
+07/10/2023,Ireland,9,Ali Price,y,80
+07/10/2023,Ireland,21,Luke Crosbie,n,16
+07/10/2023,Ireland,12,Sione Tuipulotu,y,80
+07/10/2023,Ireland,14,Darcy Graham,y,50
+07/10/2023,Ireland,23,Ollie Smith,n,0
+07/10/2023,Ireland,18,WP Nel,n,21
+07/10/2023,Ireland,11,Duhan van der Merwe,y,80
+03/02/2024,Wales,9,Ben White,y,69
+03/02/2024,Wales,22,Ben Healy,n,0
+03/02/2024,Wales,18,Elliot Millar Mills,n,11
+03/02/2024,Wales,7,Jamie Ritchie,y,61
+03/02/2024,Wales,19,Sam Skinner,n,50
+03/02/2024,Wales,2,George Turner,y,69
+03/02/2024,Wales,14,Kyle Steyn,y,80
+03/02/2024,Wales,23,Cam Redpath,n,9
+03/02/2024,Wales,16,Ewan Ashman,n,11
+03/02/2024,Wales,5,Scott Cummings,y,80
+03/02/2024,Wales,13,Huw Jones,y,80
+03/02/2024,Wales,1,Pierre Schoeman,y,61
+03/02/2024,Wales,10,Finn Russell,y,80
+03/02/2024,Wales,8,Matt Fagerson,y,80
+03/02/2024,Wales,4,Richie Gray,y,30
+03/02/2024,Wales,3,Zander Fagerson,y,69
+03/02/2024,Wales,20,Jack Dempsey,n,19
+03/02/2024,Wales,21,George Horne,n,11
+03/02/2024,Wales,6,Luke Crosbie,y,71
+03/02/2024,Wales,15,Kyle Rowe,y,80
+03/02/2024,Wales,12,Sione Tuipulotu,y,80
+03/02/2024,Wales,11,Duhan van der Merwe,y,80
+03/02/2024,Wales,17,Alec Hepburn,n,19
+10/02/2024,France,9,Ben White,y,80
+10/02/2024,France,22,Ben Healy,n,0
+10/02/2024,France,18,Elliot Millar Mills,n,0
+10/02/2024,France,19,Sam Skinner,n,6
+10/02/2024,France,2,George Turner,y,28
+10/02/2024,France,4,Grant Gilchrist,y,74
+10/02/2024,France,23,Cam Redpath,n,3
+10/02/2024,France,16,Ewan Ashman,n,52
+10/02/2024,France,5,Scott Cummings,y,80
+10/02/2024,France,13,Huw Jones,y,77
+10/02/2024,France,1,Pierre Schoeman,y,72
+10/02/2024,France,7,Rory Darge,y,80
+10/02/2024,France,14,Harry Paterson,y,80
+10/02/2024,France,10,Finn Russell,y,80
+10/02/2024,France,6,Matt Fagerson,y,40
+10/02/2024,France,3,Zander Fagerson,y,80
+10/02/2024,France,8,Jack Dempsey,y,80
+10/02/2024,France,21,George Horne,n,0
+10/02/2024,France,12,Sione Tuipulotu,y,80
+10/02/2024,France,15,Kyle Rowe,y,80
+10/02/2024,France,11,Duhan van der Merwe,y,80
+10/02/2024,France,17,Alec Hepburn,n,8
+10/02/2024,France,20,Andy Onyeama Christie,n,40
+24/02/2024,England,9,Ben White,y,63
+24/02/2024,England,22,Ben Healy,n,0
+24/02/2024,England,18,Elliot Millar Mills,n,63
+24/02/2024,England,6,Jamie Ritchie,y,52
+24/02/2024,England,19,Sam Skinner,n,13
+24/02/2024,England,2,George Turner,y,52
+24/02/2024,England,14,Kyle Steyn,y,80
+24/02/2024,England,4,Grant Gilchrist,y,67
+24/02/2024,England,23,Cam Redpath,n,40
+24/02/2024,England,16,Ewan Ashman,n,28
+24/02/2024,England,5,Scott Cummings,y,80
+24/02/2024,England,13,Huw Jones,y,80
+24/02/2024,England,1,Pierre Schoeman,y,61
+24/02/2024,England,7,Rory Darge,y,80
+24/02/2024,England,10,Finn Russell,y,80
+24/02/2024,England,15,Blair Kinghorn,y,80
+24/02/2024,England,3,Zander Fagerson,y,61
+24/02/2024,England,8,Jack Dempsey,y,80
+24/02/2024,England,21,George Horne,n,17
+24/02/2024,England,12,Sione Tuipulotu,y,40
+24/02/2024,England,11,Duhan van der Merwe,y,80
+24/02/2024,England,17,Alec Hepburn,n,19
+24/02/2024,England,20,Andy Onyeama Christie,n,28
+09/03/2024,Italy,18,Elliot Millar Mills,n,0
+09/03/2024,Italy,20,Jamie Ritchie,n,0
+09/03/2024,Italy,19,Sam Skinner,n,0
+09/03/2024,Italy,2,George Turner,y,80
+09/03/2024,Italy,14,Kyle Steyn,y,80
+09/03/2024,Italy,4,Grant Gilchrist,y,80
+09/03/2024,Italy,12,Cam Redpath,y,80
+09/03/2024,Italy,16,Ewan Ashman,n,0
+09/03/2024,Italy,5,Scott Cummings,y,80
+09/03/2024,Italy,13,Huw Jones,y,80
+09/03/2024,Italy,1,Pierre Schoeman,y,80
+09/03/2024,Italy,7,Rory Darge,y,80
+09/03/2024,Italy,10,Finn Russell,y,80
+09/03/2024,Italy,15,Blair Kinghorn,y,80
+09/03/2024,Italy,21,Matt Fagerson,n,0
+09/03/2024,Italy,3,Zander Fagerson,y,80
+09/03/2024,Italy,8,Jack Dempsey,y,80
+09/03/2024,Italy,9,George Horne,y,80
+09/03/2024,Italy,22,Ali Price,n,0
+09/03/2024,Italy,23,Kyle Rowe,n,0
+09/03/2024,Italy,11,Duhan van der Merwe,y,80
+09/03/2024,Italy,17,Alec Hepburn,n,0
+09/03/2024,Italy,6,Andy Onyeama Christie,y,80
+16/03/2024,Ireland,9,Ben White,y,80
+16/03/2024,Ireland,18,Javan Sebastian,n,0
+16/03/2024,Ireland,19,Sam Skinner,n,0
+16/03/2024,Ireland,2,George Turner,y,80
+16/03/2024,Ireland,17,Rory Sutherland,n,0
+16/03/2024,Ireland,14,Kyle Steyn,y,80
+16/03/2024,Ireland,4,Grant Gilchrist,y,80
+16/03/2024,Ireland,22,Cam Redpath,n,0
+16/03/2024,Ireland,16,Ewan Ashman,n,0
+16/03/2024,Ireland,5,Scott Cummings,y,80
+16/03/2024,Ireland,13,Huw Jones,y,80
+16/03/2024,Ireland,1,Pierre Schoeman,y,80
+16/03/2024,Ireland,7,Rory Darge,y,80
+16/03/2024,Ireland,10,Finn Russell,y,80
+16/03/2024,Ireland,15,Blair Kinghorn,y,80
+16/03/2024,Ireland,20,Matt Fagerson,n,0
+16/03/2024,Ireland,3,Zander Fagerson,y,80
+16/03/2024,Ireland,8,Jack Dempsey,y,80
+16/03/2024,Ireland,21,George Horne,n,0
+16/03/2024,Ireland,12,Stafford McDowall,y,80
+16/03/2024,Ireland,23,Kyle Rowe,n,0
+16/03/2024,Ireland,11,Duhan van der Merwe,y,80
+16/03/2024,Ireland,6,Andy Onyeama Christie,y,80
+06/07/2024,Canada,21,Ben Healy,n,0
+06/07/2024,Canada,9,Gus Warr,y,80
+06/07/2024,Canada,16,Robbie Smith,n,0
+06/07/2024,Canada,3,Elliot Millar Mills,y,80
+06/07/2024,Canada,13,Matthew Currie,y,80
+06/07/2024,Canada,8,Josh Bayliss,y,80
+06/07/2024,Canada,14,Jamie Dobie,y,80
+06/07/2024,Canada,1,Rory Sutherland,y,80
+06/07/2024,Canada,22,Kyle Steyn,n,0
+06/07/2024,Canada,5,Glen Young,y,80
+06/07/2024,Canada,17,Nathan McBeth,n,0
+06/07/2024,Canada,23,Ross McCann,n,0
+06/07/2024,Canada,10,Ross Thompson,y,80
+06/07/2024,Canada,15,Harry Paterson,y,80
+06/07/2024,Canada,4,Max Williamson,y,80
+06/07/2024,Canada,20,Matt Fagerson,n,0
+06/07/2024,Canada,7,Luke Crosbie,y,80
+06/07/2024,Canada,12,Stafford McDowall,y,80
+06/07/2024,Canada,2,Dylan Richardson,y,80
+06/07/2024,Canada,19,Ewan Johnson,n,0
+06/07/2024,Canada,18,Will Hurd,n,0
+06/07/2024,Canada,6,Gregor Brown,y,80
+06/07/2024,Canada,11,Arron Reed,y,80
+12/07/2024,USA,16,Robbie Smith,n,0
+12/07/2024,USA,18,Elliot Millar Mills,n,0
+12/07/2024,USA,23,Matthew Currie,n,0
+12/07/2024,USA,6,Jamie Ritchie,y,80
+12/07/2024,USA,4,Alex Craig,y,80
+12/07/2024,USA,21,Jamie Dobie,n,0
+12/07/2024,USA,17,Rory Sutherland,n,0
+12/07/2024,USA,14,Kyle Steyn,y,80
+12/07/2024,USA,2,Ewan Ashman,y,80
+12/07/2024,USA,5,Scott Cummings,y,80
+12/07/2024,USA,22,Ross Thompson,n,0
+12/07/2024,USA,13,Huw Jones,y,80
+12/07/2024,USA,1,Pierre Schoeman,y,80
+12/07/2024,USA,7,Rory Darge,y,80
+12/07/2024,USA,19,Max Williamson,n,0
+12/07/2024,USA,8,Matt Fagerson,y,80
+12/07/2024,USA,9,George Horne,y,80
+12/07/2024,USA,20,Luke Crosbie,n,0
+12/07/2024,USA,10,Adam Hastings,y,80
+12/07/2024,USA,3,Murphy Walker,y,80
+12/07/2024,USA,12,Sione Tuipulotu,y,80
+12/07/2024,USA,15,Kyle Rowe,y,80
+12/07/2024,USA,11,Duhan van der Merwe,y,80
+20/07/2024,Chile,18,Javan Sebastian,n,30
+20/07/2024,Chile,10,Ben Healy,y,50
+20/07/2024,Chile,9,Gus Warr,y,50
+20/07/2024,Chile,23,Matthew Currie,n,30
+20/07/2024,Chile,8,Josh Bayliss,y,80
+20/07/2024,Chile,7,Jamie Ritchie,y,72
+20/07/2024,Chile,4,Alex Craig,y,46
+20/07/2024,Chile,14,Jamie Dobie,y,80
+20/07/2024,Chile,16,Patrick Harrison,n,34
+20/07/2024,Chile,13,Kyle Steyn,y,80
+20/07/2024,Chile,1,Nathan McBeth,y,50
+20/07/2024,Chile,17,Pierre Schoeman,n,30
+20/07/2024,Chile,20,Rory Darge,n,8
+20/07/2024,Chile,19,Max Williamson,n,20
+20/07/2024,Chile,22,Stafford McDowall,n,21
+20/07/2024,Chile,21,Adam Hastings,n,30
+20/07/2024,Chile,2,Dylan Richardson,y,80
+20/07/2024,Chile,12,Sione Tuipulotu,y,59
+20/07/2024,Chile,5,Ewan Johnson,y,80
+20/07/2024,Chile,3,Will Hurd,y,50
+20/07/2024,Chile,6,Gregor Brown,y,60
+20/07/2024,Chile,15,Kyle Rowe,y,80
+20/07/2024,Chile,11,Arron Reed,y,80
+27/07/2024,Uruguay,3,Javan Sebastian,y,53
+27/07/2024,Uruguay,10,Ben Healy,y,53
+27/07/2024,Uruguay,20,Jamie Ritchie,n,18
+27/07/2024,Uruguay,21,Jamie Dobie,n,18
+27/07/2024,Uruguay,1,Rory Sutherland,y,53
+27/07/2024,Uruguay,16,Patrick Harrison,n,24
+27/07/2024,Uruguay,23,Kyle Steyn,n,27
+27/07/2024,Uruguay,2,Ewan Ashman,y,56
+27/07/2024,Uruguay,13,Huw Jones,y,80
+27/07/2024,Uruguay,17,Pierre Schoeman,n,27
+27/07/2024,Uruguay,7,Rory Darge,y,80
+27/07/2024,Uruguay,15,Harry Paterson,y,80
+27/07/2024,Uruguay,4,Max Williamson,y,80
+27/07/2024,Uruguay,8,Matt Fagerson,y,80
+27/07/2024,Uruguay,9,George Horne,y,62
+27/07/2024,Uruguay,6,Luke Crosbie,y,62
+27/07/2024,Uruguay,12,Stafford McDowall,y,80
+27/07/2024,Uruguay,22,Adam Hastings,n,27
+27/07/2024,Uruguay,18,Murphy Walker,n,27
+27/07/2024,Uruguay,19,Ewan Johnson,n,12
+27/07/2024,Uruguay,5,Gregor Brown,y,68
+27/07/2024,Uruguay,14,Kyle Rowe,y,53
+27/07/2024,Uruguay,11,Duhan van der Merwe,y,80
+02/11/2024,Fiji,22,Tom Jordan,n,39
+02/11/2024,Fiji,18,D'arcy Rae,n,20
+02/11/2024,Fiji,21,Jamie Dobie,n,31
+02/11/2024,Fiji,17,Rory Sutherland,n,31
+02/11/2024,Fiji,4,Grant Gilchrist,y,80
+02/11/2024,Fiji,2,Ewan Ashman,y,49
+02/11/2024,Fiji,5,Scott Cummings,y,60
+02/11/2024,Fiji,13,Huw Jones,y,80
+02/11/2024,Fiji,1,Pierre Schoeman,y,49
+02/11/2024,Fiji,7,Rory Darge,y,80
+02/11/2024,Fiji,19,Max Williamson,n,20
+02/11/2024,Fiji,6,Matt Fagerson,y,80
+02/11/2024,Fiji,3,Zander Fagerson,y,60
+02/11/2024,Fiji,8,Jack Dempsey,y,68
+02/11/2024,Fiji,9,Ali Price,y,49
+02/11/2024,Fiji,23,Stafford McDowall,n,0
+02/11/2024,Fiji,10,Adam Hastings,y,80
+02/11/2024,Fiji,16,Dylan Richardson,n,31
+02/11/2024,Fiji,12,Sione Tuipulotu,y,80
+02/11/2024,Fiji,14,Darcy Graham,y,65
+02/11/2024,Fiji,20,Gregor Brown,n,12
+02/11/2024,Fiji,15,Kyle Rowe,y,41
+02/11/2024,Fiji,11,Duhan van der Merwe,y,80
+10/11/2024,South Africa,19,Max Williamson,n,0
+10/11/2024,South Africa,10,Finn Russell,y,80
+10/11/2024,South Africa,14,Blair Kinghorn,y,80
+10/11/2024,South Africa,6,Matt Fagerson,y,80
+10/11/2024,South Africa,3,Zander Fagerson,y,65
+10/11/2024,South Africa,8,Jack Dempsey,y,63
+10/11/2024,South Africa,23,Stafford McDowall,n,8
+10/11/2024,South Africa,16,Dylan Richardson,n,19
+10/11/2024,South Africa,12,Sione Tuipulotu,y,80
+10/11/2024,South Africa,11,Duhan van der Merwe,y,80
+10/11/2024,South Africa,9,Ben White,y,69
+10/11/2024,South Africa,18,Elliot Millar Mills,n,15
+10/11/2024,South Africa,20,Josh Bayliss,n,17
+10/11/2024,South Africa,21,Jamie Ritchie,n,19
+10/11/2024,South Africa,15,Tom Jordan,y,72
+10/11/2024,South Africa,22,Jamie Dobie,n,11
+10/11/2024,South Africa,17,Rory Sutherland,n,19
+10/11/2024,South Africa,4,Grant Gilchrist,y,80
+10/11/2024,South Africa,2,Ewan Ashman,y,61
+10/11/2024,South Africa,5,Scott Cummings,y,32
+10/11/2024,South Africa,13,Huw Jones,y,80
+10/11/2024,South Africa,1,Pierre Schoeman,y,61
+10/11/2024,South Africa,7,Rory Darge,y,61
+16/11/2024,Portugal,18,Elliot Millar Mills,n,30
+16/11/2024,Portugal,22,Matthew Currie,n,22
+16/11/2024,Portugal,8,Josh Bayliss,y,80
+16/11/2024,Portugal,15,Tom Jordan,y,80
+16/11/2024,Portugal,4,Alex Craig,y,50
+16/11/2024,Portugal,13,Rory Hutchinson,y,58
+16/11/2024,Portugal,21,Jamie Dobie,n,22
+16/11/2024,Portugal,17,Rory Sutherland,n,30
+16/11/2024,Portugal,2,Patrick Harrison,y,65
+16/11/2024,Portugal,5,Alex Samuel,y,68
+16/11/2024,Portugal,7,Ben Muncaster,y,65
+16/11/2024,Portugal,20,Freddy Douglas,n,15
+16/11/2024,Portugal,16,Johnny Matthews,n,15
+16/11/2024,Portugal,9,George Horne,y,58
+16/11/2024,Portugal,6,Luke Crosbie,y,80
+16/11/2024,Portugal,12,Stafford McDowall,y,80
+16/11/2024,Portugal,10,Adam Hastings,y,65
+16/11/2024,Portugal,19,Ewan Johnson,n,30
+16/11/2024,Portugal,14,Darcy Graham,y,80
+16/11/2024,Portugal,3,Will Hurd,y,50
+16/11/2024,Portugal,23,Kyle Rowe,n,15
+16/11/2024,Portugal,11,Arron Reed,y,80
+16/11/2024,Portugal,1,Jamie Bhatti,y,50
+24/11/2024,Australia,9,Ben White,y,63
+24/11/2024,Australia,20,Josh Bayliss,n,17
+24/11/2024,Australia,6,Jamie Ritchie,y,80
+24/11/2024,Australia,22,Tom Jordan,n,0
+24/11/2024,Australia,19,Alex Craig,n,8
+24/11/2024,Australia,17,Rory Sutherland,n,19
+24/11/2024,Australia,4,Grant Gilchrist,y,72
+24/11/2024,Australia,2,Ewan Ashman,y,60
+24/11/2024,Australia,5,Scott Cummings,y,80
+24/11/2024,Australia,13,Huw Jones,y,80
+24/11/2024,Australia,1,Pierre Schoeman,y,61
+24/11/2024,Australia,7,Rory Darge,y,63
+24/11/2024,Australia,10,Finn Russell,y,80
+24/11/2024,Australia,15,Blair Kinghorn,y,80
+24/11/2024,Australia,8,Matt Fagerson,y,80
+24/11/2024,Australia,3,Zander Fagerson,y,72
+24/11/2024,Australia,21,George Horne,n,17
+24/11/2024,Australia,16,Dylan Richardson,n,20
+24/11/2024,Australia,12,Sione Tuipulotu,y,80
+24/11/2024,Australia,14,Darcy Graham,y,80
+24/11/2024,Australia,18,Will Hurd,n,8
+24/11/2024,Australia,23,Kyle Rowe,n,0
+24/11/2024,Australia,11,Duhan van der Merwe,y,80
+01/02/2025,Italy,9,Ben White,y,57
+01/02/2025,Italy,2,Dave Cherry,y,51
+01/02/2025,Italy,6,Jamie Ritchie,y,51
+01/02/2025,Italy,22,Tom Jordan,n,23
+01/02/2025,Italy,17,Rory Sutherland,n,29
+01/02/2025,Italy,5,Grant Gilchrist,y,80
+01/02/2025,Italy,16,Ewan Ashman,n,29
+01/02/2025,Italy,13,Huw Jones,y,80
+01/02/2025,Italy,1,Pierre Schoeman,y,51
+01/02/2025,Italy,7,Rory Darge,y,80
+01/02/2025,Italy,10,Finn Russell,y,80
+01/02/2025,Italy,15,Blair Kinghorn,y,80
+01/02/2025,Italy,8,Matt Fagerson,y,80
+01/02/2025,Italy,3,Zander Fagerson,y,68
+01/02/2025,Italy,20,Jack Dempsey,n,29
+01/02/2025,Italy,21,George Horne,n,23
+01/02/2025,Italy,12,Stafford McDowall,y,57
+01/02/2025,Italy,14,Darcy Graham,y,72
+01/02/2025,Italy,18,Will Hurd,n,12
+01/02/2025,Italy,19,Gregor Brown,n,23
+01/02/2025,Italy,23,Kyle Rowe,n,8
+01/02/2025,Italy,4,Jonny Gray,y,57
+01/02/2025,Italy,11,Duhan van der Merwe,y,80
+09/02/2025,Ireland,9,Ben White,y,80
+09/02/2025,Ireland,2,Dave Cherry,y,47
+09/02/2025,Ireland,21,Jamie Ritchie,n,20
+09/02/2025,Ireland,19,Sam Skinner,n,12
+09/02/2025,Ireland,12,Tom Jordan,y,80
+09/02/2025,Ireland,22,Jamie Dobie,n,59
+09/02/2025,Ireland,1,Rory Sutherland,y,47
+09/02/2025,Ireland,5,Grant Gilchrist,y,68
+09/02/2025,Ireland,16,Ewan Ashman,n,33
+09/02/2025,Ireland,13,Huw Jones,y,80
+09/02/2025,Ireland,17,Pierre Schoeman,n,33
+09/02/2025,Ireland,7,Rory Darge,y,80
+09/02/2025,Ireland,10,Finn Russell,y,21
+09/02/2025,Ireland,15,Blair Kinghorn,y,80
+09/02/2025,Ireland,6,Matt Fagerson,y,80
+09/02/2025,Ireland,3,Zander Fagerson,y,68
+09/02/2025,Ireland,8,Jack Dempsey,y,60
+09/02/2025,Ireland,23,Stafford McDowall,n,0
+09/02/2025,Ireland,14,Darcy Graham,y,21
+09/02/2025,Ireland,18,Will Hurd,n,12
+09/02/2025,Ireland,20,Gregor Brown,n,33
+09/02/2025,Ireland,4,Jonny Gray,y,47
+09/02/2025,Ireland,11,Duhan van der Merwe,y,80
+22/02/2025,England,9,Ben White,y,64
+22/02/2025,England,2,Dave Cherry,y,54
+22/02/2025,England,6,Jamie Ritchie,y,80
+22/02/2025,England,19,Sam Skinner,n,19
+22/02/2025,England,12,Tom Jordan,y,80
+22/02/2025,England,22,Jamie Dobie,n,16
+22/02/2025,England,5,Grant Gilchrist,y,71
+22/02/2025,England,16,Ewan Ashman,n,26
+22/02/2025,England,13,Huw Jones,y,64
+22/02/2025,England,1,Pierre Schoeman,y,71
+22/02/2025,England,7,Rory Darge,y,80
+22/02/2025,England,10,Finn Russell,y,80
+22/02/2025,England,15,Blair Kinghorn,y,80
+22/02/2025,England,21,Matt Fagerson,n,26
+22/02/2025,England,3,Zander Fagerson,y,77
+22/02/2025,England,8,Jack Dempsey,y,54
+22/02/2025,England,23,Stafford McDowall,n,16
+22/02/2025,England,18,Will Hurd,n,3
+22/02/2025,England,20,Gregor Brown,n,9
+22/02/2025,England,14,Kyle Rowe,y,80
+22/02/2025,England,4,Jonny Gray,y,61
+22/02/2025,England,11,Duhan van der Merwe,y,80
+22/02/2025,England,17,Jamie Bhatti,n,9
+08/03/2025,Wales,3,Zander Fagerson,y,61
+08/03/2025,Wales,8,Jack Dempsey,y,80
+08/03/2025,Wales,21,George Horne,n,25
+08/03/2025,Wales,22,Stafford McDowall,n,19
+08/03/2025,Wales,14,Darcy Graham,y,66
+08/03/2025,Wales,18,Will Hurd,n,19
+08/03/2025,Wales,19,Gregor Brown,n,14
+08/03/2025,Wales,23,Kyle Rowe,n,14
+08/03/2025,Wales,4,Jonny Gray,y,66
+08/03/2025,Wales,11,Duhan van der Merwe,y,80
+08/03/2025,Wales,9,Ben White,y,55
+08/03/2025,Wales,2,Dave Cherry,y,55
+08/03/2025,Wales,6,Jamie Ritchie,y,80
+08/03/2025,Wales,12,Tom Jordan,y,80
+08/03/2025,Wales,17,Rory Sutherland,n,19
+08/03/2025,Wales,5,Grant Gilchrist,y,80
+08/03/2025,Wales,16,Ewan Ashman,n,25
+08/03/2025,Wales,13,Huw Jones,y,80
+08/03/2025,Wales,1,Pierre Schoeman,y,61
+08/03/2025,Wales,7,Rory Darge,y,36
+08/03/2025,Wales,10,Finn Russell,y,61
+08/03/2025,Wales,15,Blair Kinghorn,y,80
+08/03/2025,Wales,20,Matt Fagerson,n,44
+15/03/2025,France,9,Ben White,y,66
+15/03/2025,France,2,Dave Cherry,y,58
+15/03/2025,France,6,Jamie Ritchie,y,80
+15/03/2025,France,12,Tom Jordan,y,80
+15/03/2025,France,22,Jamie Dobie,n,14
+15/03/2025,France,17,Rory Sutherland,n,14
+15/03/2025,France,5,Grant Gilchrist,y,72
+15/03/2025,France,20,Marshall Sykes,n,22
+15/03/2025,France,21,Ben Muncaster,n,14
+15/03/2025,France,16,Ewan Ashman,n,22
+15/03/2025,France,13,Huw Jones,y,66
+15/03/2025,France,1,Pierre Schoeman,y,66
+15/03/2025,France,7,Rory Darge,y,66
+15/03/2025,France,10,Finn Russell,y,80
+15/03/2025,France,15,Blair Kinghorn,y,80
+15/03/2025,France,8,Matt Fagerson,y,80
+15/03/2025,France,3,Zander Fagerson,y,80
+15/03/2025,France,23,Stafford McDowall,n,0
+15/03/2025,France,19,Ewan Johnson,n,8
+15/03/2025,France,14,Darcy Graham,y,80
+15/03/2025,France,18,Will Hurd,n,0
+15/03/2025,France,4,Gregor Brown,y,58
+15/03/2025,France,11,Duhan van der Merwe,y,80
+05/07/2025,Maori All Blacks,6,Josh Bayliss,y,80
+05/07/2025,Maori All Blacks,16,George Turner,n,30
+05/07/2025,Maori All Blacks,13,Rory Hutchinson,y,80
+05/07/2025,Maori All Blacks,23,Jamie Dobie,n,21
+05/07/2025,Maori All Blacks,21,Alexander Masibaka,n,52
+05/07/2025,Maori All Blacks,2,Patrick Harrison,y,50
+05/07/2025,Maori All Blacks,3,Finlay Richardson,y,50
+05/07/2025,Maori All Blacks,4,Marshall Sykes,y,50
+05/07/2025,Maori All Blacks,8,Ben Muncaster,y,28
+05/07/2025,Maori All Blacks,1,Nathan McBeth,y,50
+05/07/2025,Maori All Blacks,14,Harry Paterson,y,80
+05/07/2025,Maori All Blacks,19,Max Williamson,n,30
+05/07/2025,Maori All Blacks,5,Cameron Henderson,y,80
+05/07/2025,Maori All Blacks,9,George Horne,y,59
+05/07/2025,Maori All Blacks,12,Stafford McDowall,y,80
+05/07/2025,Maori All Blacks,10,Adam Hastings,y,59
+05/07/2025,Maori All Blacks,22,Fergus Burke,n,21
+05/07/2025,Maori All Blacks,15,Ollie Smith,y,80
+05/07/2025,Maori All Blacks,18,Will Hurd,n,30
+05/07/2025,Maori All Blacks,20,Gregor Brown,n,8
+05/07/2025,Maori All Blacks,11,Arron Reed,y,80
+05/07/2025,Maori All Blacks,17,Alec Hepburn,n,30
+05/07/2025,Maori All Blacks,7,Andy Onyeama Christie,y,72
+12/07/2025,Fiji,3,Elliot Millar Mills,y,57
+12/07/2025,Fiji,20,Josh Bayliss,n,58
+12/07/2025,Fiji,6,Jamie Ritchie,y,18
+12/07/2025,Fiji,16,George Turner,n,23
+12/07/2025,Fiji,12,Tom Jordan,y,80
+12/07/2025,Fiji,9,Jamie Dobie,y,57
+12/07/2025,Fiji,1,Rory Sutherland,y,56
+12/07/2025,Fiji,11,Kyle Steyn,y,80
+12/07/2025,Fiji,5,Grant Gilchrist,y,80
+12/07/2025,Fiji,4,Marshall Sykes,y,55
+12/07/2025,Fiji,13,Cam Redpath,y,55
+12/07/2025,Fiji,2,Ewan Ashman,y,57
+12/07/2025,Fiji,7,Rory Darge,y,80
+12/07/2025,Fiji,19,Max Williamson,n,25
+12/07/2025,Fiji,8,Matt Fagerson,y,71
+12/07/2025,Fiji,21,George Horne,n,23
+12/07/2025,Fiji,22,Adam Hastings,n,9
+12/07/2025,Fiji,10,Fergus Burke,y,80
+12/07/2025,Fiji,14,Darcy Graham,y,80
+12/07/2025,Fiji,23,Ollie Smith,n,25
+12/07/2025,Fiji,18,Will Hurd,n,23
+12/07/2025,Fiji,15,Kyle Rowe,y,80
+12/07/2025,Fiji,17,Alec Hepburn,n,24
+18/07/2025,Samoa,3,Elliot Millar Mills,y,55
+18/07/2025,Samoa,16,George Turner,n,40
+18/07/2025,Samoa,13,Rory Hutchinson,y,80
+18/07/2025,Samoa,9,Jamie Dobie,y,78
+18/07/2025,Samoa,1,Rory Sutherland,y,40
+18/07/2025,Samoa,14,Kyle Steyn,y,40
+18/07/2025,Samoa,18,Finlay Richardson,n,25
+18/07/2025,Samoa,5,Grant Gilchrist,y,80
+18/07/2025,Samoa,20,Marshall Sykes,n,2
+18/07/2025,Samoa,21,Ben Muncaster,n,25
+18/07/2025,Samoa,2,Ewan Ashman,y,40
+18/07/2025,Samoa,17,Nathan McBeth,n,40
+18/07/2025,Samoa,7,Rory Darge,y,55
+18/07/2025,Samoa,8,Matt Fagerson,y,80
+18/07/2025,Samoa,19,Cameron Henderson,n,25
+18/07/2025,Samoa,22,George Horne,n,40
+18/07/2025,Samoa,12,Stafford McDowall,y,80
+18/07/2025,Samoa,23,Adam Hastings,n,0
+18/07/2025,Samoa,10,Fergus Burke,y,61
+18/07/2025,Samoa,4,Gregor Brown,y,55
+18/07/2025,Samoa,15,Kyle Rowe,y,80
+18/07/2025,Samoa,11,Arron Reed,y,80
+18/07/2025,Samoa,6,Andy Onyeama Christie,y,80
+01/11/2025,USA,3,D'arcy Rae,y,40
+01/11/2025,USA,9,Jamie Dobie,y,80
+01/11/2025,USA,1,Rory Sutherland,y,40
+01/11/2025,USA,2,Patrick Harrison,y,62
+01/11/2025,USA,19,Alex Samuel,n,40
+01/11/2025,USA,5,Marshall Sykes,y,50
+01/11/2025,USA,17,Nathan McBeth,n,40
+01/11/2025,USA,4,Scott Cummings,y,40
+01/11/2025,USA,23,Ross Thompson,n,0
+01/11/2025,USA,21,Magnus Bradbury,n,40
+01/11/2025,USA,6,Liam McConnell,y,80
+01/11/2025,USA,20,Max Williamson,n,30
+01/11/2025,USA,8,Jack Dempsey,y,40
+01/11/2025,USA,22,George Horne,n,30
+01/11/2025,USA,12,Stafford McDowall,y,80
+01/11/2025,USA,10,Adam Hastings,y,40
+01/11/2025,USA,18,Murphy Walker,n,40
+01/11/2025,USA,7,Dylan Richardson,y,80
+01/11/2025,USA,14,Darcy Graham,y,50
+01/11/2025,USA,13,Ollie Smith,y,80
+01/11/2025,USA,15,Kyle Rowe,y,80
+01/11/2025,USA,16,Harri Morris,n,18
+01/11/2025,USA,11,Duhan van der Merwe,y,80
+08/11/2025,New Zealand,9,Ben White,y,54
+08/11/2025,New Zealand,18,Elliot Millar Mills,n,26
+08/11/2025,New Zealand,21,Josh Bayliss,n,15
+08/11/2025,New Zealand,16,George Turner,n,26
+08/11/2025,New Zealand,23,Tom Jordan,n,5
+08/11/2025,New Zealand,3,D'arcy Rae,y,54
+08/11/2025,New Zealand,13,Rory Hutchinson,y,80
+08/11/2025,New Zealand,22,Jamie Dobie,n,26
+08/11/2025,New Zealand,17,Rory Sutherland,n,15
+08/11/2025,New Zealand,11,Kyle Steyn,y,80
+08/11/2025,New Zealand,5,Grant Gilchrist,y,64
+08/11/2025,New Zealand,19,Marshall Sykes,n,16
+08/11/2025,New Zealand,2,Ewan Ashman,y,54
+08/11/2025,New Zealand,4,Scott Cummings,y,80
+08/11/2025,New Zealand,1,Pierre Schoeman,y,54
+08/11/2025,New Zealand,20,Rory Darge,n,19
+08/11/2025,New Zealand,10,Finn Russell,y,75
+08/11/2025,New Zealand,15,Blair Kinghorn,y,80
+08/11/2025,New Zealand,7,Matt Fagerson,y,61
+08/11/2025,New Zealand,8,Jack Dempsey,y,65
+08/11/2025,New Zealand,12,Sione Tuipulotu,y,80
+08/11/2025,New Zealand,14,Darcy Graham,y,80
+08/11/2025,New Zealand,6,Gregor Brown,y,80
+16/11/2025,Argentina,18,Elliot Millar Mills,n,48
+16/11/2025,Argentina,19,Josh Bayliss,n,9
+16/11/2025,Argentina,16,George Turner,n,9
+16/11/2025,Argentina,22,Tom Jordan,n,0
+16/11/2025,Argentina,3,D'arcy Rae,y,32
+16/11/2025,Argentina,13,Rory Hutchinson,y,64
+16/11/2025,Argentina,21,Jamie Dobie,n,0
+16/11/2025,Argentina,11,Kyle Steyn,y,80
+16/11/2025,Argentina,5,Grant Gilchrist,y,71
+16/11/2025,Argentina,2,Ewan Ashman,y,71
+16/11/2025,Argentina,17,Nathan McBeth,n,0
+16/11/2025,Argentina,4,Scott Cummings,y,80
+16/11/2025,Argentina,1,Pierre Schoeman,y,80
+16/11/2025,Argentina,7,Rory Darge,y,80
+16/11/2025,Argentina,10,Finn Russell,y,80
+16/11/2025,Argentina,15,Blair Kinghorn,y,80
+16/11/2025,Argentina,20,Matt Fagerson,n,0
+16/11/2025,Argentina,8,Jack Dempsey,y,80
+16/11/2025,Argentina,21,George Horne,n,0
+16/11/2025,Argentina,12,Sione Tuipulotu,y,80
+16/11/2025,Argentina,14,Darcy Graham,y,80
+16/11/2025,Argentina,6,Gregor Brown,y,7
+16/11/2025,Argentina,23,Duhan van der Merwe,n,16
+23/11/2025,Tonga,9,Ben White,y,55
+23/11/2025,Tonga,20,Josh Bayliss,n,20
+23/11/2025,Tonga,7,Jamie Ritchie,y,80
+23/11/2025,Tonga,2,George Turner,y,47
+23/11/2025,Tonga,15,Tom Jordan,y,80
+23/11/2025,Tonga,1,Rory Sutherland,y,47
+23/11/2025,Tonga,4,Alex Samuel,y,80
+23/11/2025,Tonga,23,Kyle Steyn,n,14
+23/11/2025,Tonga,19,Marshall Sykes,n,25
+23/11/2025,Tonga,16,Ewan Ashman,n,33
+23/11/2025,Tonga,17,Nathan McBeth,n,33
+23/11/2025,Tonga,8,Magnus Bradbury,y,80
+23/11/2025,Tonga,5,Max Williamson,y,55
+23/11/2025,Tonga,3,Zander Fagerson,y,47
+23/11/2025,Tonga,21,George Horne,n,25
+23/11/2025,Tonga,22,Stafford McDowall,n,25
+23/11/2025,Tonga,10,Fergus Burke,y,66
+23/11/2025,Tonga,12,Sione Tuipulotu,y,55
+23/11/2025,Tonga,13,Ollie Smith,y,80
+23/11/2025,Tonga,18,Will Hurd,n,33
+23/11/2025,Tonga,14,Kyle Rowe,y,80
+23/11/2025,Tonga,11,Duhan van der Merwe,y,80
+23/11/2025,Tonga,6,Andy Onyeama Christie,y,60
+07/02/2026,Italy,9,Ben White,y,64
+07/02/2026,Italy,18,Elliot Millar Mills,n,16
+07/02/2026,Italy,16,George Turner,n,31
+07/02/2026,Italy,15,Tom Jordan,y,80
+07/02/2026,Italy,11,Jamie Dobie,y,49
+07/02/2026,Italy,14,Kyle Steyn,y,80
+07/02/2026,Italy,5,Grant Gilchrist,y,49
+07/02/2026,Italy,2,Ewan Ashman,y,53
+07/02/2026,Italy,17,Nathan McBeth,n,23
+07/02/2026,Italy,4,Scott Cummings,y,80
+07/02/2026,Italy,13,Huw Jones,y,80
+07/02/2026,Italy,1,Pierre Schoeman,y,57
+07/02/2026,Italy,7,Rory Darge,y,76
+07/02/2026,Italy,19,Max Williamson,n,16
+07/02/2026,Italy,10,Finn Russell,y,80
+07/02/2026,Italy,6,Matt Fagerson,y,64
+07/02/2026,Italy,3,Zander Fagerson,y,64
+07/02/2026,Italy,8,Jack Dempsey,y,80
+07/02/2026,Italy,21,George Horne,n,16
+07/02/2026,Italy,22,Adam Hastings,n,0
+07/02/2026,Italy,12,Sione Tuipulotu,y,80
+07/02/2026,Italy,23,Darcy Graham,n,31
+07/02/2026,Italy,20,Gregor Brown,n,31
+14/02/2026,England,9,Ben White,y,57
+14/02/2026,England,18,Elliot Millar Mills,n,30
+14/02/2026,England,16,Dave Cherry,n,30
+14/02/2026,England,6,Jamie Ritchie,y,40
+14/02/2026,England,2,George Turner,y,50
+14/02/2026,England,15,Tom Jordan,y,68
+14/02/2026,England,11,Jamie Dobie,y,75
+14/02/2026,England,14,Kyle Steyn,y,80
+14/02/2026,England,1,Nathan McBeth,y,49
+14/02/2026,England,5,Scott Cummings,y,80
+14/02/2026,England,13,Huw Jones,y,80
+14/02/2026,England,17,Pierre Schoeman,n,31
+14/02/2026,England,7,Rory Darge,y,80
+14/02/2026,England,19,Max Williamson,n,23
+14/02/2026,England,10,Finn Russell,y,80
+14/02/2026,England,20,Matt Fagerson,n,40
+14/02/2026,England,3,Zander Fagerson,y,50
+14/02/2026,England,8,Jack Dempsey,y,57
+14/02/2026,England,21,George Horne,n,23
+14/02/2026,England,22,Adam Hastings,n,5
+14/02/2026,England,12,Sione Tuipulotu,y,80
+14/02/2026,England,23,Darcy Graham,n,12
+14/02/2026,England,4,Gregor Brown,y,80
+21/02/2026,Wales,9,Ben White,y,55
+21/02/2026,Wales,18,Elliot Millar Mills,n,25
+21/02/2026,Wales,2,Dave Cherry,y,55
+21/02/2026,Wales,20,Josh Bayliss,n,46
+21/02/2026,Wales,16,George Turner,n,25
+21/02/2026,Wales,22,Tom Jordan,n,13
+21/02/2026,Wales,14,Kyle Steyn,y,80
+21/02/2026,Wales,19,Grant Gilchrist,n,13
+21/02/2026,Wales,1,Nathan McBeth,y,34
+21/02/2026,Wales,5,Scott Cummings,y,67
+21/02/2026,Wales,13,Huw Jones,y,67
+21/02/2026,Wales,17,Pierre Schoeman,n,46
+21/02/2026,Wales,7,Rory Darge,y,80
+21/02/2026,Wales,4,Max Williamson,y,34
+21/02/2026,Wales,10,Finn Russell,y,80
+21/02/2026,Wales,15,Blair Kinghorn,y,80
+21/02/2026,Wales,8,Matt Fagerson,y,80
+21/02/2026,Wales,3,Zander Fagerson,y,55
+21/02/2026,Wales,21,George Horne,n,25
+21/02/2026,Wales,12,Sione Tuipulotu,y,80
+21/02/2026,Wales,23,Darcy Graham,n,25
+21/02/2026,Wales,6,Gregor Brown,y,80
+21/02/2026,Wales,11,Duhan van der Merwe,y,55
+07/03/2026,France,9,Ben White,y,64
+07/03/2026,France,21,Josh Bayliss,n,28
+07/03/2026,France,2,George Turner,y,52
+07/03/2026,France,23,Tom Jordan,n,24
+07/03/2026,France,3,D'arcy Rae,y,39
+07/03/2026,France,17,Rory Sutherland,n,16
+07/03/2026,France,11,Kyle Steyn,y,67
+07/03/2026,France,19,Grant Gilchrist,n,47
+07/03/2026,France,16,Ewan Ashman,n,28
+07/03/2026,France,20,Freddy Douglas,n,13
+07/03/2026,France,5,Scott Cummings,y,52
+07/03/2026,France,13,Huw Jones,y,56
+07/03/2026,France,1,Pierre Schoeman,y,64
+07/03/2026,France,7,Rory Darge,y,80
+07/03/2026,France,10,Finn Russell,y,80
+07/03/2026,France,15,Blair Kinghorn,y,80
+07/03/2026,France,6,Matt Fagerson,y,80
+07/03/2026,France,18,Zander Fagerson,n,41
+07/03/2026,France,8,Jack Dempsey,y,80
+07/03/2026,France,22,George Horne,n,16
+07/03/2026,France,12,Sione Tuipulotu,y,80
+07/03/2026,France,14,Darcy Graham,y,80
+07/03/2026,France,4,Gregor Brown,y,33
+14/03/2026,Ireland,9,Ben White,y,62
+14/03/2026,Ireland,2,George Turner,y,18
+14/03/2026,Ireland,23,Tom Jordan,n,11
+14/03/2026,Ireland,19,Alex Craig,n,18
+14/03/2026,Ireland,18,D'arcy Rae,n,11
+14/03/2026,Ireland,17,Rory Sutherland,n,11
+14/03/2026,Ireland,11,Kyle Steyn,y,80
+14/03/2026,Ireland,5,Grant Gilchrist,y,80
+14/03/2026,Ireland,16,Ewan Ashman,n,62
+14/03/2026,Ireland,13,Huw Jones,y,80
+14/03/2026,Ireland,1,Pierre Schoeman,y,69
+14/03/2026,Ireland,7,Rory Darge,y,80
+14/03/2026,Ireland,20,Magnus Bradbury,n,18
+14/03/2026,Ireland,4,Max Williamson,y,62
+14/03/2026,Ireland,10,Finn Russell,y,80
+14/03/2026,Ireland,15,Blair Kinghorn,y,80
+14/03/2026,Ireland,6,Matt Fagerson,y,80
+14/03/2026,Ireland,3,Zander Fagerson,y,69
+14/03/2026,Ireland,8,Jack Dempsey,y,62
+14/03/2026,Ireland,21,George Horne,n,18
+14/03/2026,Ireland,12,Sione Tuipulotu,y,80
+14/03/2026,Ireland,14,Darcy Graham,y,62
+14/03/2026,Ireland,22,Kyle Rowe,n,7
+04/07/2026,Argentina,9,Ben White,y,60
+04/07/2026,Argentina,16,Gregor Hiddleston,n,20
+04/07/2026,Argentina,3,Elliot Millar Mills,y,13
+04/07/2026,Argentina,10,Tom Jordan,y,52
+04/07/2026,Argentina,13,Rory Hutchinson,y,80
+04/07/2026,Argentina,11,Jamie Dobie,y,80
+04/07/2026,Argentina,17,Rory Sutherland,n,20
+04/07/2026,Argentina,19,Alex Samuel,n,20
+04/07/2026,Argentina,14,Kyle Steyn,y,60
+04/07/2026,Argentina,2,Ewan Ashman,y,60
+04/07/2026,Argentina,5,Scott Cummings,y,80
+04/07/2026,Argentina,1,Pierre Schoeman,y,60
+04/07/2026,Argentina,7,Rory Darge,y,80
+04/07/2026,Argentina,6,Matt Fagerson,y,80
+04/07/2026,Argentina,18,Zander Fagerson,n,67
+04/07/2026,Argentina,8,Jack Dempsey,y,60
+04/07/2026,Argentina,21,George Horne,n,20
+04/07/2026,Argentina,22,Fergus Burke,n,28
+04/07/2026,Argentina,12,Sione Tuipulotu,y,80
+04/07/2026,Argentina,23,Darcy Graham,n,20
+04/07/2026,Argentina,20,Gregor Brown,n,32
+04/07/2026,Argentina,15,Kyle Rowe,y,80
+04/07/2026,Argentina,4,Jonny Gray,y,48
+11/07/2026,South Africa,9,Ben White,y,80
+11/07/2026,South Africa,16,Gregor Hiddleston,n,22
+11/07/2026,South Africa,20,Josh Bayliss,n,40
+11/07/2026,South Africa,22,Tom Jordan,n,12
+11/07/2026,South Africa,13,Rory Hutchinson,y,64
+11/07/2026,South Africa,11,Jamie Dobie,y,68
+11/07/2026,South Africa,17,Rory Sutherland,n,12
+11/07/2026,South Africa,14,Kyle Steyn,y,80
+11/07/2026,South Africa,2,Ewan Ashman,y,58
+11/07/2026,South Africa,5,Scott Cummings,y,80
+11/07/2026,South Africa,1,Pierre Schoeman,y,68
+11/07/2026,South Africa,7,Rory Darge,y,40
+11/07/2026,South Africa,21,Magnus Bradbury,n,22
+11/07/2026,South Africa,19,Max Williamson,n,16
+11/07/2026,South Africa,10,Finn Russell,y,80
+11/07/2026,South Africa,6,Matt Fagerson,y,58
+11/07/2026,South Africa,3,Zander Fagerson,y,58
+11/07/2026,South Africa,8,Jack Dempsey,y,80
+11/07/2026,South Africa,23,Stafford McDowall,n,16
+11/07/2026,South Africa,12,Sione Tuipulotu,y,80
+11/07/2026,South Africa,18,Will Hurd,n,22
+11/07/2026,South Africa,4,Gregor Brown,y,64
+11/07/2026,South Africa,15,Kyle Rowe,y,80
+18/07/2026,Fiji,2,Gregor Hiddleston,y,66
+18/07/2026,Fiji,6,Josh Bayliss,y,80
+18/07/2026,Fiji,16,Seb Stephen,n,14
+18/07/2026,Fiji,15,Tom Jordan,y,80
+18/07/2026,Fiji,3,D'arcy Rae,y,48
+18/07/2026,Fiji,22,Jamie Dobie,n,22
+18/07/2026,Fiji,1,Rory Sutherland,y,48
+18/07/2026,Fiji,7,Freddy Douglas,y,80
+18/07/2026,Fiji,19,Scott Cummings,n,30
+18/07/2026,Fiji,17,Pierre Schoeman,n,32
+18/07/2026,Fiji,21,Magnus Bradbury,n,32
+18/07/2026,Fiji,20,Liam McConnell,n,23
+18/07/2026,Fiji,5,Max Williamson,y,48
+18/07/2026,Fiji,18,Zander Fagerson,n,32
+18/07/2026,Fiji,9,George Horne,y,58
+18/07/2026,Fiji,12,Stafford McDowall,y,80
+18/07/2026,Fiji,10,Fergus Burke,y,80
+18/07/2026,Fiji,23,Sione Tuipulotu,n,26
+18/07/2026,Fiji,14,Darcy Graham,y,54
+18/07/2026,Fiji,13,Ollie Smith,y,80
+18/07/2026,Fiji,8,Gregor Brown,y,57
+18/07/2026,Fiji,4,Jonny Gray,y,50
+18/07/2026,Fiji,11,Duhan van der Merwe,y,80

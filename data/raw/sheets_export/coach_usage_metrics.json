@@ -1,0 +1,87 @@
+{
+  "farrell": {
+    "label": "Farrell (IRE)",
+    "team": "ireland",
+    "date_range": [
+      "01/02/2020",
+      "18/07/2026"
+    ],
+    "matches": 67,
+    "unique_players_used": 91,
+    "one_cap_wonders": 17,
+    "avg_starting_xv_changes_per_match": 5.62,
+    "core15_share_of_starts_pct": 60.3,
+    "avg_bench_minutes_per_match": 148.6,
+    "avg_pct_bench_unused": 11.7,
+    "avg_starter_minutes": 69.9,
+    "matches_with_minutes_data": 66
+  },
+  "borthwick": {
+    "label": "Borthwick (ENG)",
+    "team": "england",
+    "date_range": [
+      "04/02/2023",
+      "18/07/2026"
+    ],
+    "matches": 49,
+    "unique_players_used": 88,
+    "one_cap_wonders": 11,
+    "avg_starting_xv_changes_per_match": 5.0,
+    "core15_share_of_starts_pct": 53.3,
+    "avg_bench_minutes_per_match": 142.6,
+    "avg_pct_bench_unused": 15.5,
+    "avg_starter_minutes": 70.0,
+    "matches_with_minutes_data": 45
+  },
+  "galthie": {
+    "label": "Galthié (FRA)",
+    "team": "france",
+    "date_range": [
+      "02/02/2020",
+      "18/07/2026"
+    ],
+    "matches": 74,
+    "unique_players_used": 148,
+    "one_cap_wonders": 30,
+    "avg_starting_xv_changes_per_match": 5.78,
+    "core15_share_of_starts_pct": 49.0,
+    "avg_bench_minutes_per_match": 168.4,
+    "avg_pct_bench_unused": 10.1,
+    "avg_starter_minutes": 68.6,
+    "matches_with_minutes_data": 73
+  },
+  "erasmus2": {
+    "label": "Erasmus II (RSA)",
+    "team": "south_africa",
+    "date_range": [
+      "22/06/2024",
+      "18/07/2026"
+    ],
+    "matches": 30,
+    "unique_players_used": 68,
+    "one_cap_wonders": 10,
+    "avg_starting_xv_changes_per_match": 8.07,
+    "core15_share_of_starts_pct": 55.8,
+    "avg_bench_minutes_per_match": 208.6,
+    "avg_pct_bench_unused": 8.7,
+    "avg_starter_minutes": 65.3,
+    "matches_with_minutes_data": 30
+  },
+  "townsend": {
+    "label": "Townsend (SCO)",
+    "team": "scotland",
+    "date_range": [
+      "02/02/2019",
+      "18/07/2026"
+    ],
+    "matches": 89,
+    "unique_players_used": 116,
+    "one_cap_wonders": 11,
+    "avg_starting_xv_changes_per_match": 6.56,
+    "core15_share_of_starts_pct": 49.5,
+    "avg_bench_minutes_per_match": 145.9,
+    "avg_pct_bench_unused": 16.2,
+    "avg_starter_minutes": 70.0,
+    "matches_with_minutes_data": 89
+  }
+}
