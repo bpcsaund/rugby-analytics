@@ -1,4 +1,1131 @@
 date,opposition,shirt,player,started,minutes
+06/02/2015,Wales,13,Jonathan Joseph,y,80
+06/02/2015,Wales,11,Jonny May,y,80
+06/02/2015,Wales,9,Ben Youngs,y,69
+06/02/2015,Wales,17,Mako Vunipola,n,25
+06/02/2015,Wales,8,Billy Vunipola,y,80
+06/02/2015,Wales,7,Chris Robshaw,y,80
+06/02/2015,Wales,10,George Ford,y,80
+06/02/2015,Wales,3,Dan Cole,y,62
+06/02/2015,Wales,20,Tom Croft,n,0
+06/02/2015,Wales,2,Dylan Hartley,y,55
+06/02/2015,Wales,19,Nick Easter,n,8
+06/02/2015,Wales,12,Luther Burrell,y,76
+06/02/2015,Wales,14,Anthony Watson,y,80
+06/02/2015,Wales,18,Kieran Brookes,n,18
+06/02/2015,Wales,16,Tom Youngs,n,25
+06/02/2015,Wales,21,Richard Wigglesworth,n,11
+06/02/2015,Wales,1,Joe Marler,y,55
+06/02/2015,Wales,6,James Haskell,y,80
+06/02/2015,Wales,22,Danny Cipriani,n,0
+06/02/2015,Wales,15,Mike Brown,y,80
+06/02/2015,Wales,23,Billy Twelvetrees,n,4
+06/02/2015,Wales,4,David Attwood,y,80
+06/02/2015,Wales,5,George Kruis,y,72
+14/02/2015,Italy,13,Jonathan Joseph,y,80
+14/02/2015,Italy,11,Jonny May,y,80
+14/02/2015,Italy,9,Ben Youngs,y,67
+14/02/2015,Italy,17,Mako Vunipola,n,17
+14/02/2015,Italy,8,Billy Vunipola,y,80
+14/02/2015,Italy,7,Chris Robshaw,y,80
+14/02/2015,Italy,10,George Ford,y,63
+14/02/2015,Italy,3,Dan Cole,y,59
+14/02/2015,Italy,20,Tom Croft,n,17
+14/02/2015,Italy,2,Dylan Hartley,y,59
+14/02/2015,Italy,19,Nick Easter,n,29
+14/02/2015,Italy,12,Luther Burrell,y,80
+14/02/2015,Italy,14,Anthony Watson,y,80
+14/02/2015,Italy,18,Kieran Brookes,n,21
+14/02/2015,Italy,16,Tom Youngs,n,21
+14/02/2015,Italy,21,Richard Wigglesworth,n,13
+14/02/2015,Italy,1,Joe Marler,y,63
+14/02/2015,Italy,6,James Haskell,y,63
+14/02/2015,Italy,22,Danny Cipriani,n,17
+14/02/2015,Italy,15,Mike Brown,y,13
+14/02/2015,Italy,23,Billy Twelvetrees,n,67
+14/02/2015,Italy,4,David Attwood,y,51
+14/02/2015,Italy,5,George Kruis,y,80
+01/03/2015,Ireland,13,Jonathan Joseph,y,68
+01/03/2015,Ireland,9,Ben Youngs,y,68
+01/03/2015,Ireland,17,Mako Vunipola,n,14
+01/03/2015,Ireland,8,Billy Vunipola,y,80
+01/03/2015,Ireland,7,Chris Robshaw,y,80
+01/03/2015,Ireland,10,George Ford,y,80
+01/03/2015,Ireland,3,Dan Cole,y,80
+01/03/2015,Ireland,11,Jack Nowell,y,80
+01/03/2015,Ireland,20,Tom Croft,n,18
+01/03/2015,Ireland,2,Dylan Hartley,y,54
+01/03/2015,Ireland,19,Nick Easter,n,12
+01/03/2015,Ireland,12,Luther Burrell,y,80
+01/03/2015,Ireland,14,Anthony Watson,y,80
+01/03/2015,Ireland,16,Tom Youngs,n,26
+01/03/2015,Ireland,21,Richard Wigglesworth,n,12
+01/03/2015,Ireland,1,Joe Marler,y,66
+01/03/2015,Ireland,18,Henry Thomas,n,0
+01/03/2015,Ireland,6,James Haskell,y,62
+01/03/2015,Ireland,22,Danny Cipriani,n,0
+01/03/2015,Ireland,23,Billy Twelvetrees,n,12
+01/03/2015,Ireland,4,David Attwood,y,68
+01/03/2015,Ireland,15,Alex Goode,y,80
+01/03/2015,Ireland,5,George Kruis,y,80
+14/03/2015,Scotland,13,Jonathan Joseph,y,80
+14/03/2015,Scotland,9,Ben Youngs,y,67
+14/03/2015,Scotland,17,Mako Vunipola,n,21
+14/03/2015,Scotland,8,Billy Vunipola,y,80
+14/03/2015,Scotland,7,Chris Robshaw,y,80
+14/03/2015,Scotland,10,George Ford,y,80
+14/03/2015,Scotland,3,Dan Cole,y,67
+14/03/2015,Scotland,11,Jack Nowell,y,80
+14/03/2015,Scotland,5,Courtney Lawes,y,80
+14/03/2015,Scotland,20,Tom Wood,n,13
+14/03/2015,Scotland,2,Dylan Hartley,y,51
+14/03/2015,Scotland,12,Luther Burrell,y,80
+14/03/2015,Scotland,19,Geoff Parling,n,29
+14/03/2015,Scotland,14,Anthony Watson,y,80
+14/03/2015,Scotland,18,Kieran Brookes,n,13
+14/03/2015,Scotland,16,Tom Youngs,n,29
+14/03/2015,Scotland,21,Richard Wigglesworth,n,13
+14/03/2015,Scotland,1,Joe Marler,y,59
+14/03/2015,Scotland,6,James Haskell,y,67
+14/03/2015,Scotland,22,Danny Cipriani,n,3
+14/03/2015,Scotland,15,Mike Brown,y,77
+14/03/2015,Scotland,23,Billy Twelvetrees,n,0
+14/03/2015,Scotland,4,David Attwood,y,51
+21/03/2015,France,4,Geoff Parling,y,68
+21/03/2015,France,14,Anthony Watson,y,63
+21/03/2015,France,18,Kieran Brookes,n,17
+21/03/2015,France,16,Tom Youngs,n,27
+21/03/2015,France,21,Richard Wigglesworth,n,8
+21/03/2015,France,1,Joe Marler,y,63
+21/03/2015,France,6,James Haskell,y,68
+21/03/2015,France,22,Danny Cipriani,n,17
+21/03/2015,France,15,Mike Brown,y,80
+21/03/2015,France,23,Billy Twelvetrees,n,8
+21/03/2015,France,13,Jonathan Joseph,y,80
+21/03/2015,France,9,Ben Youngs,y,72
+21/03/2015,France,17,Mako Vunipola,n,17
+21/03/2015,France,8,Billy Vunipola,y,80
+21/03/2015,France,7,Chris Robshaw,y,80
+21/03/2015,France,10,George Ford,y,80
+21/03/2015,France,3,Dan Cole,y,63
+21/03/2015,France,11,Jack Nowell,y,80
+21/03/2015,France,5,Courtney Lawes,y,80
+21/03/2015,France,20,Tom Wood,n,12
+21/03/2015,France,2,Dylan Hartley,y,53
+21/03/2015,France,19,Nick Easter,n,12
+21/03/2015,France,12,Luther Burrell,y,72
+15/08/2015,France,12,Sam Burgess,y,80
+15/08/2015,France,11,Jonny May,y,80
+15/08/2015,France,10,Owen Farrell,y,80
+15/08/2015,France,1,Mako Vunipola,y,62
+15/08/2015,France,6,Tom Wood,y,80
+15/08/2015,France,7,Calum Clark,y,80
+15/08/2015,France,21,Danny Care,n,30
+15/08/2015,France,5,Geoff Parling,y,56
+15/08/2015,France,14,Anthony Watson,y,80
+15/08/2015,France,13,Henry Slade,y,66
+15/08/2015,France,3,Kieran Brookes,y,56
+15/08/2015,France,2,Rob Webber,y,56
+15/08/2015,France,18,David Wilson,n,24
+15/08/2015,France,9,Richard Wigglesworth,y,50
+15/08/2015,France,20,James Haskell,n,40
+15/08/2015,France,17,Alex Corbisiero,n,18
+15/08/2015,France,22,Danny Cipriani,n,30
+15/08/2015,France,23,Billy Twelvetrees,n,14
+15/08/2015,France,19,David Attwood,n,24
+15/08/2015,France,15,Alex Goode,y,50
+15/08/2015,France,16,Luke Cowan-Dickie,n,24
+15/08/2015,France,8,Ben Morgan,y,40
+15/08/2015,France,4,George Kruis,y,80
+22/08/2015,France,13,Jonathan Joseph,y,80
+22/08/2015,France,11,Jonny May,y,64
+22/08/2015,France,9,Ben Youngs,y,49
+22/08/2015,France,17,Mako Vunipola,n,14
+22/08/2015,France,8,Billy Vunipola,y,80
+22/08/2015,France,7,Chris Robshaw,y,80
+22/08/2015,France,10,George Ford,y,80
+22/08/2015,France,3,Dan Cole,y,66
+22/08/2015,France,4,Joe Launchbury,y,54
+22/08/2015,France,14,Jack Nowell,y,80
+22/08/2015,France,5,Courtney Lawes,y,80
+22/08/2015,France,21,Danny Care,n,31
+22/08/2015,France,20,Nick Easter,n,26
+22/08/2015,France,12,Luther Burrell,y,64
+22/08/2015,France,2,Tom Youngs,y,49
+22/08/2015,France,18,David Wilson,n,14
+22/08/2015,France,16,Jamie George,n,31
+22/08/2015,France,1,Joe Marler,y,66
+22/08/2015,France,6,James Haskell,y,54
+22/08/2015,France,22,Danny Cipriani,n,16
+22/08/2015,France,15,Mike Brown,y,80
+22/08/2015,France,23,Billy Twelvetrees,n,16
+22/08/2015,France,19,David Attwood,n,26
+05/09/2015,Ireland,13,Jonathan Joseph,y,80
+05/09/2015,Ireland,23,Sam Burgess,n,21
+05/09/2015,Ireland,11,Jonny May,y,80
+05/09/2015,Ireland,22,Owen Farrell,n,21
+05/09/2015,Ireland,9,Ben Youngs,y,59
+05/09/2015,Ireland,17,Mako Vunipola,n,24
+05/09/2015,Ireland,20,Billy Vunipola,n,24
+05/09/2015,Ireland,7,Chris Robshaw,y,80
+05/09/2015,Ireland,10,George Ford,y,59
+05/09/2015,Ireland,3,Dan Cole,y,62
+05/09/2015,Ireland,12,Brad Barritt,y,59
+05/09/2015,Ireland,19,Joe Launchbury,n,41
+05/09/2015,Ireland,5,Courtney Lawes,y,80
+05/09/2015,Ireland,6,Tom Wood,y,80
+05/09/2015,Ireland,4,Geoff Parling,y,39
+05/09/2015,Ireland,14,Anthony Watson,y,80
+05/09/2015,Ireland,18,Kieran Brookes,n,18
+05/09/2015,Ireland,2,Tom Youngs,y,59
+05/09/2015,Ireland,21,Richard Wigglesworth,n,21
+05/09/2015,Ireland,16,Jamie George,n,21
+05/09/2015,Ireland,1,Joe Marler,y,56
+05/09/2015,Ireland,15,Mike Brown,y,80
+05/09/2015,Ireland,8,Ben Morgan,y,56
+18/09/2015,Fiji,13,Jonathan Joseph,y,80
+18/09/2015,Fiji,23,Sam Burgess,n,18
+18/09/2015,Fiji,11,Jonny May,y,80
+18/09/2015,Fiji,22,Owen Farrell,n,19
+18/09/2015,Fiji,9,Ben Youngs,y,51
+18/09/2015,Fiji,17,Mako Vunipola,n,29
+18/09/2015,Fiji,20,Billy Vunipola,n,29
+18/09/2015,Fiji,7,Chris Robshaw,y,80
+18/09/2015,Fiji,10,George Ford,y,61
+18/09/2015,Fiji,3,Dan Cole,y,68
+18/09/2015,Fiji,12,Brad Barritt,y,62
+18/09/2015,Fiji,19,Joe Launchbury,n,29
+18/09/2015,Fiji,5,Courtney Lawes,y,80
+18/09/2015,Fiji,6,Tom Wood,y,80
+18/09/2015,Fiji,4,Geoff Parling,y,51
+18/09/2015,Fiji,14,Anthony Watson,y,80
+18/09/2015,Fiji,18,Kieran Brookes,n,12
+18/09/2015,Fiji,2,Tom Youngs,y,74
+18/09/2015,Fiji,16,Rob Webber,n,6
+18/09/2015,Fiji,21,Richard Wigglesworth,n,29
+18/09/2015,Fiji,1,Joe Marler,y,51
+18/09/2015,Fiji,15,Mike Brown,y,80
+18/09/2015,Fiji,8,Ben Morgan,y,51
+26/09/2015,Wales,12,Sam Burgess,y,69
+26/09/2015,Wales,11,Jonny May,y,80
+26/09/2015,Wales,10,Owen Farrell,y,80
+26/09/2015,Wales,9,Ben Youngs,y,49
+26/09/2015,Wales,17,Mako Vunipola,n,20
+26/09/2015,Wales,8,Billy Vunipola,y,62
+26/09/2015,Wales,7,Chris Robshaw,y,80
+26/09/2015,Wales,22,George Ford,n,11
+26/09/2015,Wales,3,Dan Cole,y,71
+26/09/2015,Wales,13,Brad Barritt,y,80
+26/09/2015,Wales,19,Joe Launchbury,n,40
+26/09/2015,Wales,5,Courtney Lawes,y,40
+26/09/2015,Wales,6,Tom Wood,y,80
+26/09/2015,Wales,4,Geoff Parling,y,80
+26/09/2015,Wales,14,Anthony Watson,y,80
+26/09/2015,Wales,18,Kieran Brookes,n,9
+26/09/2015,Wales,2,Tom Youngs,y,66
+26/09/2015,Wales,16,Rob Webber,n,14
+26/09/2015,Wales,21,Richard Wigglesworth,n,31
+26/09/2015,Wales,1,Joe Marler,y,60
+26/09/2015,Wales,20,James Haskell,n,18
+26/09/2015,Wales,15,Mike Brown,y,80
+26/09/2015,Wales,23,Alex Goode,n,0
+03/10/2015,Australia,13,Jonathan Joseph,y,80
+03/10/2015,Australia,23,Sam Burgess,n,15
+03/10/2015,Australia,11,Jonny May,y,40
+03/10/2015,Australia,10,Owen Farrell,y,80
+03/10/2015,Australia,9,Ben Youngs,y,49
+03/10/2015,Australia,17,Mako Vunipola,n,31
+03/10/2015,Australia,7,Chris Robshaw,y,80
+03/10/2015,Australia,22,George Ford,n,40
+03/10/2015,Australia,3,Dan Cole,y,54
+03/10/2015,Australia,12,Brad Barritt,y,65
+03/10/2015,Australia,4,Joe Launchbury,y,68
+03/10/2015,Australia,6,Tom Wood,y,80
+03/10/2015,Australia,20,Nick Easter,n,22
+03/10/2015,Australia,5,Geoff Parling,y,80
+03/10/2015,Australia,14,Anthony Watson,y,80
+03/10/2015,Australia,18,Kieran Brookes,n,26
+03/10/2015,Australia,2,Tom Youngs,y,60
+03/10/2015,Australia,16,Rob Webber,n,20
+03/10/2015,Australia,21,Richard Wigglesworth,n,31
+03/10/2015,Australia,1,Joe Marler,y,49
+03/10/2015,Australia,15,Mike Brown,y,80
+03/10/2015,Australia,8,Ben Morgan,y,58
+03/10/2015,Australia,19,George Kruis,n,12
+10/10/2015,Uruguay,22,Jonathan Joseph,n,21
+10/10/2015,Uruguay,12,Owen Farrell,y,59
+10/10/2015,Uruguay,1,Mako Vunipola,y,71
+10/10/2015,Uruguay,7,Chris Robshaw,y,80
+10/10/2015,Uruguay,10,George Ford,y,80
+10/10/2015,Uruguay,3,Dan Cole,y,43
+10/10/2015,Uruguay,4,Joe Launchbury,y,80
+10/10/2015,Uruguay,11,Jack Nowell,y,80
+10/10/2015,Uruguay,20,Tom Wood,n,19
+10/10/2015,Uruguay,9,Danny Care,y,71
+10/10/2015,Uruguay,8,Nick Easter,y,80
+10/10/2015,Uruguay,5,Geoff Parling,y,55
+10/10/2015,Uruguay,14,Anthony Watson,y,66
+10/10/2015,Uruguay,13,Henry Slade,y,80
+10/10/2015,Uruguay,2,Tom Youngs,y,30
+10/10/2015,Uruguay,18,David Wilson,n,37
+10/10/2015,Uruguay,21,Richard Wigglesworth,n,9
+10/10/2015,Uruguay,16,Jamie George,n,50
+10/10/2015,Uruguay,17,Joe Marler,n,9
+10/10/2015,Uruguay,6,James Haskell,y,61
+10/10/2015,Uruguay,23,Mike Brown,n,14
+10/10/2015,Uruguay,15,Alex Goode,y,80
+10/10/2015,Uruguay,19,George Kruis,n,25
+06/02/2016,Scotland,13,Jonathan Joseph,y,80
+06/02/2016,Scotland,12,Owen Farrell,y,80
+06/02/2016,Scotland,21,Ben Youngs,n,25
+06/02/2016,Scotland,17,Mako Vunipola,n,31
+06/02/2016,Scotland,8,Billy Vunipola,y,80
+06/02/2016,Scotland,6,Chris Robshaw,y,69
+06/02/2016,Scotland,10,George Ford,y,80
+06/02/2016,Scotland,3,Dan Cole,y,80
+06/02/2016,Scotland,4,Joe Launchbury,y,47
+06/02/2016,Scotland,11,Jack Nowell,y,80
+06/02/2016,Scotland,19,Courtney Lawes,n,33
+06/02/2016,Scotland,23,Ollie Devoto,n,0
+06/02/2016,Scotland,18,Paul Hill,n,0
+06/02/2016,Scotland,2,Dylan Hartley,y,76
+06/02/2016,Scotland,9,Danny Care,y,55
+06/02/2016,Scotland,14,Anthony Watson,y,80
+06/02/2016,Scotland,16,Jamie George,n,4
+06/02/2016,Scotland,1,Joe Marler,y,49
+06/02/2016,Scotland,7,James Haskell,y,80
+06/02/2016,Scotland,20,Jack Clifford,n,11
+06/02/2016,Scotland,15,Mike Brown,y,80
+06/02/2016,Scotland,22,Alex Goode,n,0
+06/02/2016,Scotland,5,George Kruis,y,80
+14/02/2016,Italy,13,Jonathan Joseph,y,80
+14/02/2016,Italy,12,Owen Farrell,y,75
+14/02/2016,Italy,9,Ben Youngs,y,50
+14/02/2016,Italy,1,Mako Vunipola,y,48
+14/02/2016,Italy,8,Billy Vunipola,y,80
+14/02/2016,Italy,6,Chris Robshaw,y,63
+14/02/2016,Italy,10,George Ford,y,80
+14/02/2016,Italy,3,Dan Cole,y,69
+14/02/2016,Italy,19,Joe Launchbury,n,32
+14/02/2016,Italy,11,Jack Nowell,y,80
+14/02/2016,Italy,4,Courtney Lawes,y,48
+14/02/2016,Italy,20,Maro Itoje,n,25
+14/02/2016,Italy,18,Paul Hill,n,11
+14/02/2016,Italy,2,Dylan Hartley,y,70
+14/02/2016,Italy,22,Danny Care,n,30
+14/02/2016,Italy,14,Anthony Watson,y,80
+14/02/2016,Italy,16,Jamie George,n,10
+14/02/2016,Italy,17,Joe Marler,n,32
+14/02/2016,Italy,7,James Haskell,y,55
+14/02/2016,Italy,21,Jack Clifford,n,17
+14/02/2016,Italy,15,Mike Brown,y,69
+14/02/2016,Italy,23,Alex Goode,n,16
+14/02/2016,Italy,5,George Kruis,y,80
+27/02/2016,Ireland,13,Jonathan Joseph,y,80
+27/02/2016,Ireland,12,Owen Farrell,y,65
+27/02/2016,Ireland,9,Ben Youngs,y,59
+27/02/2016,Ireland,17,Mako Vunipola,n,21
+27/02/2016,Ireland,8,Billy Vunipola,y,80
+27/02/2016,Ireland,6,Chris Robshaw,y,71
+27/02/2016,Ireland,10,George Ford,y,80
+27/02/2016,Ireland,3,Dan Cole,y,80
+27/02/2016,Ireland,11,Jack Nowell,y,80
+27/02/2016,Ireland,19,Courtney Lawes,n,3
+27/02/2016,Ireland,4,Maro Itoje,y,80
+27/02/2016,Ireland,18,Paul Hill,n,0
+27/02/2016,Ireland,2,Dylan Hartley,y,71
+27/02/2016,Ireland,21,Danny Care,n,21
+27/02/2016,Ireland,14,Anthony Watson,y,80
+27/02/2016,Ireland,16,Jamie George,n,9
+27/02/2016,Ireland,1,Joe Marler,y,59
+27/02/2016,Ireland,7,James Haskell,y,77
+27/02/2016,Ireland,20,Jack Clifford,n,9
+27/02/2016,Ireland,15,Mike Brown,y,80
+27/02/2016,Ireland,22,Elliot Daly,n,15
+27/02/2016,Ireland,23,Alex Goode,n,0
+27/02/2016,Ireland,5,George Kruis,y,80
+12/03/2016,Wales,13,Jonathan Joseph,y,75
+12/03/2016,Wales,12,Owen Farrell,y,80
+12/03/2016,Wales,9,Ben Youngs,y,64
+12/03/2016,Wales,17,Mako Vunipola,n,23
+12/03/2016,Wales,8,Billy Vunipola,y,80
+12/03/2016,Wales,6,Chris Robshaw,y,72
+12/03/2016,Wales,10,George Ford,y,64
+12/03/2016,Wales,3,Dan Cole,y,80
+12/03/2016,Wales,19,Joe Launchbury,n,2
+12/03/2016,Wales,11,Jack Nowell,y,80
+12/03/2016,Wales,4,Maro Itoje,y,80
+12/03/2016,Wales,22,Manu Tuilagi,n,16
+12/03/2016,Wales,2,Dylan Hartley,y,72
+12/03/2016,Wales,21,Danny Care,n,16
+12/03/2016,Wales,14,Anthony Watson,y,80
+12/03/2016,Wales,18,Kieran Brookes,n,8
+12/03/2016,Wales,1,Joe Marler,y,57
+12/03/2016,Wales,7,James Haskell,y,68
+12/03/2016,Wales,20,Jack Clifford,n,12
+12/03/2016,Wales,15,Mike Brown,y,80
+12/03/2016,Wales,23,Elliot Daly,n,5
+12/03/2016,Wales,16,Luke Cowan-Dickie,n,8
+12/03/2016,Wales,5,George Kruis,y,78
+19/03/2016,France,13,Jonathan Joseph,y,80
+19/03/2016,France,12,Owen Farrell,y,80
+19/03/2016,France,21,Ben Youngs,n,36
+19/03/2016,France,1,Mako Vunipola,y,40
+19/03/2016,France,8,Billy Vunipola,y,80
+19/03/2016,France,6,Chris Robshaw,y,76
+19/03/2016,France,10,George Ford,y,80
+19/03/2016,France,3,Dan Cole,y,80
+19/03/2016,France,19,Joe Launchbury,n,0
+19/03/2016,France,11,Jack Nowell,y,80
+19/03/2016,France,4,Maro Itoje,y,80
+19/03/2016,France,22,Manu Tuilagi,n,0
+19/03/2016,France,2,Dylan Hartley,y,68
+19/03/2016,France,9,Danny Care,y,44
+19/03/2016,France,14,Anthony Watson,y,80
+19/03/2016,France,18,Kieran Brookes,n,0
+19/03/2016,France,17,Joe Marler,n,40
+19/03/2016,France,7,James Haskell,y,80
+19/03/2016,France,20,Jack Clifford,n,4
+19/03/2016,France,15,Mike Brown,y,80
+19/03/2016,France,23,Elliot Daly,n,0
+19/03/2016,France,16,Luke Cowan-Dickie,n,12
+19/03/2016,France,5,George Kruis,y,80
+29/05/2016,Wales,13,Jonathan Joseph,y,67
+29/05/2016,Wales,9,Ben Youngs,y,57
+29/05/2016,Wales,10,George Ford,y,75
+29/05/2016,Wales,3,Dan Cole,y,69
+29/05/2016,Wales,4,Joe Launchbury,y,80
+29/05/2016,Wales,20,Matt Kvesic,n,17
+29/05/2016,Wales,5,Courtney Lawes,y,63
+29/05/2016,Wales,22,Ollie Devoto,n,5
+29/05/2016,Wales,18,Paul Hill,n,11
+29/05/2016,Wales,17,Ellis Genge,n,13
+29/05/2016,Wales,2,Dylan Hartley,y,76
+29/05/2016,Wales,21,Danny Care,n,23
+29/05/2016,Wales,12,Luther Burrell,y,80
+29/05/2016,Wales,6,Teimana Harrison,y,80
+29/05/2016,Wales,14,Anthony Watson,y,80
+29/05/2016,Wales,16,Tommy Taylor,n,4
+29/05/2016,Wales,1,Matt Mullan,y,67
+29/05/2016,Wales,7,James Haskell,y,63
+29/05/2016,Wales,8,Jack Clifford,y,80
+29/05/2016,Wales,15,Mike Brown,y,80
+29/05/2016,Wales,19,David Attwood,n,17
+29/05/2016,Wales,23,Elliot Daly,n,13
+29/05/2016,Wales,11,Marland Yarde,y,80
+11/06/2016,Australia,13,Jonathan Joseph,y,80
+11/06/2016,Australia,10,Owen Farrell,y,80
+11/06/2016,Australia,9,Ben Youngs,y,70
+11/06/2016,Australia,1,Mako Vunipola,y,66
+11/06/2016,Australia,8,Billy Vunipola,y,72
+11/06/2016,Australia,6,Chris Robshaw,y,80
+11/06/2016,Australia,22,George Ford,n,51
+11/06/2016,Australia,3,Dan Cole,y,66
+11/06/2016,Australia,19,Joe Launchbury,n,8
+11/06/2016,Australia,23,Jack Nowell,n,10
+11/06/2016,Australia,20,Courtney Lawes,n,20
+11/06/2016,Australia,4,Maro Itoje,y,80
+11/06/2016,Australia,18,Paul Hill,n,14
+11/06/2016,Australia,2,Dylan Hartley,y,72
+11/06/2016,Australia,21,Danny Care,n,10
+11/06/2016,Australia,12,Luther Burrell,y,29
+11/06/2016,Australia,14,Anthony Watson,y,70
+11/06/2016,Australia,17,Matt Mullan,n,14
+11/06/2016,Australia,7,James Haskell,y,80
+11/06/2016,Australia,15,Mike Brown,y,80
+11/06/2016,Australia,11,Marland Yarde,y,80
+11/06/2016,Australia,16,Luke Cowan-Dickie,n,8
+11/06/2016,Australia,5,George Kruis,y,60
+18/06/2016,Australia,13,Jonathan Joseph,y,80
+18/06/2016,Australia,12,Owen Farrell,y,80
+18/06/2016,Australia,9,Ben Youngs,y,66
+18/06/2016,Australia,1,Mako Vunipola,y,66
+18/06/2016,Australia,8,Billy Vunipola,y,80
+18/06/2016,Australia,6,Chris Robshaw,y,71
+18/06/2016,Australia,10,George Ford,y,80
+18/06/2016,Australia,3,Dan Cole,y,66
+18/06/2016,Australia,19,Joe Launchbury,n,9
+18/06/2016,Australia,11,Jack Nowell,y,80
+18/06/2016,Australia,20,Courtney Lawes,n,24
+18/06/2016,Australia,4,Maro Itoje,y,80
+18/06/2016,Australia,18,Paul Hill,n,14
+18/06/2016,Australia,2,Dylan Hartley,y,71
+18/06/2016,Australia,22,Danny Care,n,14
+18/06/2016,Australia,14,Anthony Watson,y,77
+18/06/2016,Australia,17,Matt Mullan,n,14
+18/06/2016,Australia,16,Jamie George,n,9
+18/06/2016,Australia,7,James Haskell,y,71
+18/06/2016,Australia,21,Jack Clifford,n,9
+18/06/2016,Australia,15,Mike Brown,y,80
+18/06/2016,Australia,23,Elliot Daly,n,3
+18/06/2016,Australia,5,George Kruis,y,56
+25/06/2016,Australia,13,Jonathan Joseph,y,80
+25/06/2016,Australia,12,Owen Farrell,y,80
+25/06/2016,Australia,9,Ben Youngs,y,54
+25/06/2016,Australia,1,Mako Vunipola,y,80
+25/06/2016,Australia,8,Billy Vunipola,y,76
+25/06/2016,Australia,6,Chris Robshaw,y,54
+25/06/2016,Australia,10,George Ford,y,80
+25/06/2016,Australia,3,Dan Cole,y,69
+25/06/2016,Australia,19,Joe Launchbury,n,18
+25/06/2016,Australia,11,Jack Nowell,y,80
+25/06/2016,Australia,20,Courtney Lawes,n,31
+25/06/2016,Australia,4,Maro Itoje,y,80
+25/06/2016,Australia,18,Paul Hill,n,11
+25/06/2016,Australia,2,Dylan Hartley,y,64
+25/06/2016,Australia,22,Danny Care,n,26
+25/06/2016,Australia,7,Teimana Harrison,y,49
+25/06/2016,Australia,14,Anthony Watson,y,80
+25/06/2016,Australia,17,Matt Mullan,n,0
+25/06/2016,Australia,16,Jamie George,n,16
+25/06/2016,Australia,21,Jack Clifford,n,26
+25/06/2016,Australia,15,Mike Brown,y,80
+25/06/2016,Australia,23,Elliot Daly,n,4
+25/06/2016,Australia,5,George Kruis,y,62
+12/11/2016,South Africa,23,Jonathan Joseph,n,17
+12/11/2016,South Africa,11,Jonny May,y,63
+12/11/2016,South Africa,12,Owen Farrell,y,80
+12/11/2016,South Africa,9,Ben Youngs,y,68
+12/11/2016,South Africa,1,Mako Vunipola,y,63
+12/11/2016,South Africa,8,Billy Vunipola,y,71
+12/11/2016,South Africa,6,Chris Robshaw,y,80
+12/11/2016,South Africa,10,George Ford,y,71
+12/11/2016,South Africa,3,Dan Cole,y,72
+12/11/2016,South Africa,20,Nathan Hughes,n,26
+12/11/2016,South Africa,4,Joe Launchbury,y,80
+12/11/2016,South Africa,5,Courtney Lawes,y,80
+12/11/2016,South Africa,7,Tom Wood,y,54
+12/11/2016,South Africa,2,Dylan Hartley,y,56
+12/11/2016,South Africa,21,Danny Care,n,12
+12/11/2016,South Africa,22,Ben Te'o,n,9
+12/11/2016,South Africa,16,Jamie George,n,24
+12/11/2016,South Africa,18,Kyle Sinckler,n,8
+12/11/2016,South Africa,17,Joe Marler,n,17
+12/11/2016,South Africa,15,Mike Brown,y,80
+12/11/2016,South Africa,19,David Attwood,n,9
+12/11/2016,South Africa,13,Elliot Daly,y,80
+12/11/2016,South Africa,14,Marland Yarde,y,80
+19/11/2016,Fiji,13,Jonathan Joseph,y,66
+19/11/2016,Fiji,12,Owen Farrell,y,52
+19/11/2016,Fiji,9,Ben Youngs,y,53
+19/11/2016,Fiji,1,Mako Vunipola,y,52
+19/11/2016,Fiji,8,Billy Vunipola,y,80
+19/11/2016,Fiji,6,Chris Robshaw,y,80
+19/11/2016,Fiji,10,George Ford,y,80
+19/11/2016,Fiji,3,Dan Cole,y,58
+19/11/2016,Fiji,20,Nathan Hughes,n,32
+19/11/2016,Fiji,4,Joe Launchbury,y,80
+19/11/2016,Fiji,5,Courtney Lawes,y,66
+19/11/2016,Fiji,14,Semesa Rokoduguni,y,80
+19/11/2016,Fiji,2,Dylan Hartley,y,52
+19/11/2016,Fiji,21,Danny Care,n,27
+19/11/2016,Fiji,7,Teimana Harrison,y,48
+19/11/2016,Fiji,19,Charlie Ewels,n,14
+19/11/2016,Fiji,23,Henry Slade,n,14
+19/11/2016,Fiji,22,Ben Te'o,n,28
+19/11/2016,Fiji,16,Jamie George,n,28
+19/11/2016,Fiji,18,Kyle Sinckler,n,22
+19/11/2016,Fiji,17,Joe Marler,n,28
+19/11/2016,Fiji,11,Elliot Daly,y,80
+19/11/2016,Fiji,15,Alex Goode,y,80
+26/11/2016,Argentina,13,Jonathan Joseph,y,80
+26/11/2016,Argentina,14,Jonny May,y,80
+26/11/2016,Argentina,12,Owen Farrell,y,80
+26/11/2016,Argentina,9,Ben Youngs,y,70
+26/11/2016,Argentina,1,Mako Vunipola,y,60
+26/11/2016,Argentina,8,Billy Vunipola,y,39
+26/11/2016,Argentina,6,Chris Robshaw,y,80
+26/11/2016,Argentina,10,George Ford,y,80
+26/11/2016,Argentina,3,Dan Cole,y,74
+26/11/2016,Argentina,4,Courtney Lawes,y,80
+26/11/2016,Argentina,7,Tom Wood,y,77
+26/11/2016,Argentina,2,Dylan Hartley,y,60
+26/11/2016,Argentina,21,Danny Care,n,10
+26/11/2016,Argentina,20,Teimana Harrison,n,41
+26/11/2016,Argentina,19,Charlie Ewels,n,1
+26/11/2016,Argentina,23,Henry Slade,n,5
+26/11/2016,Argentina,22,Ben Te'o,n,0
+26/11/2016,Argentina,16,Jamie George,n,20
+26/11/2016,Argentina,18,Kyle Sinckler,n,9
+26/11/2016,Argentina,17,Joe Marler,n,20
+26/11/2016,Argentina,15,Mike Brown,y,75
+26/11/2016,Argentina,11,Elliot Daly,y,80
+26/11/2016,Argentina,5,George Kruis,y,79
+03/12/2016,Australia,13,Jonathan Joseph,y,80
+03/12/2016,Australia,11,Jonny May,y,80
+03/12/2016,Australia,12,Owen Farrell,y,68
+03/12/2016,Australia,9,Ben Youngs,y,63
+03/12/2016,Australia,1,Mako Vunipola,y,59
+03/12/2016,Australia,6,Chris Robshaw,y,69
+03/12/2016,Australia,10,George Ford,y,80
+03/12/2016,Australia,3,Dan Cole,y,68
+03/12/2016,Australia,8,Nathan Hughes,y,80
+03/12/2016,Australia,4,Courtney Lawes,y,80
+03/12/2016,Australia,7,Tom Wood,y,80
+03/12/2016,Australia,2,Dylan Hartley,y,59
+03/12/2016,Australia,21,Danny Care,n,17
+03/12/2016,Australia,20,Teimana Harrison,n,11
+03/12/2016,Australia,19,Charlie Ewels,n,7
+03/12/2016,Australia,23,Henry Slade,n,0
+03/12/2016,Australia,22,Ben Te'o,n,12
+03/12/2016,Australia,16,Jamie George,n,21
+03/12/2016,Australia,18,Kyle Sinckler,n,12
+03/12/2016,Australia,17,Joe Marler,n,21
+03/12/2016,Australia,15,Mike Brown,y,80
+03/12/2016,Australia,14,Marland Yarde,y,80
+03/12/2016,Australia,5,George Kruis,y,73
+04/02/2017,France,13,Jonathan Joseph,y,69
+04/02/2017,France,14,Jonny May,y,80
+04/02/2017,France,12,Owen Farrell,y,80
+04/02/2017,France,9,Ben Youngs,y,66
+04/02/2017,France,10,George Ford,y,69
+04/02/2017,France,3,Dan Cole,y,80
+04/02/2017,France,8,Nathan Hughes,y,80
+04/02/2017,France,4,Joe Launchbury,y,63
+04/02/2017,France,23,Jack Nowell,n,11
+04/02/2017,France,5,Courtney Lawes,y,80
+04/02/2017,France,7,Tom Wood,y,80
+04/02/2017,France,6,Maro Itoje,y,80
+04/02/2017,France,2,Dylan Hartley,y,55
+04/02/2017,France,21,Danny Care,n,14
+04/02/2017,France,19,Teimana Harrison,n,0
+04/02/2017,France,22,Ben Te'o,n,11
+04/02/2017,France,17,Matt Mullan,n,14
+04/02/2017,France,16,Jamie George,n,25
+04/02/2017,France,18,Kyle Sinckler,n,0
+04/02/2017,France,1,Joe Marler,y,66
+04/02/2017,France,20,James Haskell,n,17
+04/02/2017,France,15,Mike Brown,y,80
+04/02/2017,France,11,Elliot Daly,y,80
+11/02/2017,Wales,13,Jonathan Joseph,y,65
+11/02/2017,Wales,23,Jonny May,n,9
+11/02/2017,Wales,12,Owen Farrell,y,80
+11/02/2017,Wales,9,Ben Youngs,y,65
+11/02/2017,Wales,10,George Ford,y,80
+11/02/2017,Wales,3,Dan Cole,y,71
+11/02/2017,Wales,8,Nathan Hughes,y,78
+11/02/2017,Wales,4,Joe Launchbury,y,80
+11/02/2017,Wales,14,Jack Nowell,y,71
+11/02/2017,Wales,5,Courtney Lawes,y,80
+11/02/2017,Wales,19,Tom Wood,n,2
+11/02/2017,Wales,6,Maro Itoje,y,80
+11/02/2017,Wales,2,Dylan Hartley,y,47
+11/02/2017,Wales,21,Danny Care,n,15
+11/02/2017,Wales,22,Ben Te'o,n,15
+11/02/2017,Wales,17,Matt Mullan,n,9
+11/02/2017,Wales,16,Jamie George,n,33
+11/02/2017,Wales,18,Kyle Sinckler,n,9
+11/02/2017,Wales,1,Joe Marler,y,71
+11/02/2017,Wales,20,James Haskell,n,31
+11/02/2017,Wales,7,Jack Clifford,y,49
+11/02/2017,Wales,15,Mike Brown,y,80
+11/02/2017,Wales,11,Elliot Daly,y,80
+26/02/2017,Italy,14,Jonny May,y,56
+26/02/2017,Italy,12,Owen Farrell,y,80
+26/02/2017,Italy,21,Ben Youngs,n,28
+26/02/2017,Italy,17,Mako Vunipola,n,24
+26/02/2017,Italy,10,George Ford,y,80
+26/02/2017,Italy,3,Dan Cole,y,72
+26/02/2017,Italy,8,Nathan Hughes,y,72
+26/02/2017,Italy,4,Joe Launchbury,y,80
+26/02/2017,Italy,23,Jack Nowell,n,24
+26/02/2017,Italy,5,Courtney Lawes,y,80
+26/02/2017,Italy,19,Tom Wood,n,8
+26/02/2017,Italy,6,Maro Itoje,y,80
+26/02/2017,Italy,2,Dylan Hartley,y,56
+26/02/2017,Italy,9,Danny Care,y,52
+26/02/2017,Italy,22,Henry Slade,n,4
+26/02/2017,Italy,13,Ben Te'o,y,76
+26/02/2017,Italy,16,Jamie George,n,24
+26/02/2017,Italy,18,Kyle Sinckler,n,8
+26/02/2017,Italy,1,Joe Marler,y,56
+26/02/2017,Italy,7,James Haskell,y,72
+26/02/2017,Italy,20,Jack Clifford,n,8
+26/02/2017,Italy,15,Mike Brown,y,80
+26/02/2017,Italy,11,Elliot Daly,y,80
+11/03/2017,Scotland,13,Jonathan Joseph,y,59
+11/03/2017,Scotland,12,Owen Farrell,y,80
+11/03/2017,Scotland,9,Ben Youngs,y,61
+11/03/2017,Scotland,17,Mako Vunipola,n,21
+11/03/2017,Scotland,20,Billy Vunipola,n,28
+11/03/2017,Scotland,10,George Ford,y,80
+11/03/2017,Scotland,3,Dan Cole,y,61
+11/03/2017,Scotland,8,Nathan Hughes,y,52
+11/03/2017,Scotland,4,Joe Launchbury,y,80
+11/03/2017,Scotland,14,Jack Nowell,y,80
+11/03/2017,Scotland,5,Courtney Lawes,y,67
+11/03/2017,Scotland,19,Tom Wood,n,13
+11/03/2017,Scotland,6,Maro Itoje,y,80
+11/03/2017,Scotland,2,Dylan Hartley,y,52
+11/03/2017,Scotland,21,Danny Care,n,19
+11/03/2017,Scotland,23,Anthony Watson,n,64
+11/03/2017,Scotland,22,Ben Te'o,n,21
+11/03/2017,Scotland,16,Jamie George,n,28
+11/03/2017,Scotland,18,Kyle Sinckler,n,19
+11/03/2017,Scotland,1,Joe Marler,y,59
+11/03/2017,Scotland,7,James Haskell,y,80
+11/03/2017,Scotland,15,Mike Brown,y,80
+11/03/2017,Scotland,11,Elliot Daly,y,16
+18/03/2017,Ireland,13,Jonathan Joseph,y,68
+18/03/2017,Ireland,12,Owen Farrell,y,80
+18/03/2017,Ireland,9,Ben Youngs,y,64
+18/03/2017,Ireland,17,Mako Vunipola,n,40
+18/03/2017,Ireland,8,Billy Vunipola,y,64
+18/03/2017,Ireland,10,George Ford,y,74
+18/03/2017,Ireland,3,Dan Cole,y,78
+18/03/2017,Ireland,20,Nathan Hughes,n,16
+18/03/2017,Ireland,4,Joe Launchbury,y,80
+18/03/2017,Ireland,23,Jack Nowell,n,12
+18/03/2017,Ireland,5,Courtney Lawes,y,80
+18/03/2017,Ireland,19,Tom Wood,n,20
+18/03/2017,Ireland,6,Maro Itoje,y,80
+18/03/2017,Ireland,2,Dylan Hartley,y,56
+18/03/2017,Ireland,21,Danny Care,n,16
+18/03/2017,Ireland,14,Anthony Watson,y,80
+18/03/2017,Ireland,22,Ben Te'o,n,6
+18/03/2017,Ireland,16,Jamie George,n,24
+18/03/2017,Ireland,18,Kyle Sinckler,n,2
+18/03/2017,Ireland,1,Joe Marler,y,40
+18/03/2017,Ireland,7,James Haskell,y,60
+18/03/2017,Ireland,15,Mike Brown,y,80
+18/03/2017,Ireland,11,Elliot Daly,y,80
+28/05/2017,Barbarians,11,Jonny May,y,80
+28/05/2017,Barbarians,2,Jack Singleton,y,61
+28/05/2017,Barbarians,12,Alex Lozowski,y,15
+28/05/2017,Barbarians,6,Chris Robshaw,y,80
+28/05/2017,Barbarians,14,Nathan Earle,y,72
+28/05/2017,Barbarians,10,George Ford,y,80
+28/05/2017,Barbarians,20,Tom Curry,n,45
+28/05/2017,Barbarians,8,Josh Beaumont,y,48
+28/05/2017,Barbarians,16,George McGuigan,n,19
+28/05/2017,Barbarians,7,Sam Underhill,y,35
+28/05/2017,Barbarians,18,Jamal Ford-Robinson,n,16
+28/05/2017,Barbarians,21,Mark Wilson,n,32
+28/05/2017,Barbarians,19,Will Spencer,n,11
+28/05/2017,Barbarians,1,Ellis Genge,y,69
+28/05/2017,Barbarians,9,Danny Care,y,80
+28/05/2017,Barbarians,4,Charlie Ewels,y,80
+28/05/2017,Barbarians,13,Sam James,y,80
+28/05/2017,Barbarians,23,Mike Haley,n,65
+28/05/2017,Barbarians,17,Ross Harrison,n,11
+28/05/2017,Barbarians,22,Richard Wigglesworth,n,47
+28/05/2017,Barbarians,5,Nick Isiekwe,y,69
+28/05/2017,Barbarians,15,Mike Brown,y,33
+28/05/2017,Barbarians,3,Will Collier,y,64
+10/06/2017,Argentina,11,Jonny May,y,80
+10/06/2017,Argentina,16,Jack Singleton,n,0
+10/06/2017,Argentina,3,Harry Williams,y,62
+10/06/2017,Argentina,12,Alex Lozowski,y,55
+10/06/2017,Argentina,10,George Ford,y,80
+10/06/2017,Argentina,7,Tom Curry,y,71
+10/06/2017,Argentina,8,Nathan Hughes,y,80
+10/06/2017,Argentina,4,Joe Launchbury,y,80
+10/06/2017,Argentina,22,Piers Francis,n,25
+10/06/2017,Argentina,6,Mark Wilson,y,80
+10/06/2017,Argentina,1,Ellis Genge,y,55
+10/06/2017,Argentina,2,Dylan Hartley,y,80
+10/06/2017,Argentina,9,Danny Care,y,78
+10/06/2017,Argentina,5,Charlie Ewels,y,78
+10/06/2017,Argentina,13,Henry Slade,y,80
+10/06/2017,Argentina,23,Denny Solomona,n,29
+10/06/2017,Argentina,20,Don Armand,n,9
+10/06/2017,Argentina,17,Matt Mullan,n,25
+10/06/2017,Argentina,19,Nick Isiekwe,n,2
+10/06/2017,Argentina,15,Mike Brown,y,80
+10/06/2017,Argentina,18,Will Collier,n,18
+10/06/2017,Argentina,14,Marland Yarde,y,51
+10/06/2017,Argentina,21,Jack Maunder,n,2
+17/06/2017,Argentina,11,Jonny May,y,80
+17/06/2017,Argentina,16,Jack Singleton,n,0
+17/06/2017,Argentina,3,Harry Williams,y,60
+17/06/2017,Argentina,22,Alex Lozowski,n,14
+17/06/2017,Argentina,6,Chris Robshaw,y,80
+17/06/2017,Argentina,10,George Ford,y,80
+17/06/2017,Argentina,8,Nathan Hughes,y,80
+17/06/2017,Argentina,4,Joe Launchbury,y,80
+17/06/2017,Argentina,7,Sam Underhill,y,60
+17/06/2017,Argentina,12,Piers Francis,y,66
+17/06/2017,Argentina,20,Mark Wilson,n,20
+17/06/2017,Argentina,1,Ellis Genge,y,53
+17/06/2017,Argentina,2,Dylan Hartley,y,80
+17/06/2017,Argentina,9,Danny Care,y,80
+17/06/2017,Argentina,5,Charlie Ewels,y,80
+17/06/2017,Argentina,13,Henry Slade,y,80
+17/06/2017,Argentina,23,Denny Solomona,n,14
+17/06/2017,Argentina,17,Matt Mullan,n,27
+17/06/2017,Argentina,19,Nick Isiekwe,n,0
+17/06/2017,Argentina,15,Mike Brown,y,80
+17/06/2017,Argentina,18,Will Collier,n,20
+17/06/2017,Argentina,14,Marland Yarde,y,66
+17/06/2017,Argentina,21,Jack Maunder,n,0
+11/11/2017,Argentina,13,Jonathan Joseph,y,62
+11/11/2017,Argentina,9,Ben Youngs,y,62
+11/11/2017,Argentina,18,Harry Williams,n,12
+11/11/2017,Argentina,1,Mako Vunipola,y,68
+11/11/2017,Argentina,22,Alex Lozowski,n,18
+11/11/2017,Argentina,6,Chris Robshaw,y,80
+11/11/2017,Argentina,10,George Ford,y,80
+11/11/2017,Argentina,20,Sam Simmonds,n,9
+11/11/2017,Argentina,3,Dan Cole,y,68
+11/11/2017,Argentina,8,Nathan Hughes,y,71
+11/11/2017,Argentina,19,Joe Launchbury,n,23
+11/11/2017,Argentina,7,Sam Underhill,y,80
+11/11/2017,Argentina,4,Courtney Lawes,y,80
+11/11/2017,Argentina,17,Ellis Genge,n,12
+11/11/2017,Argentina,23,Semesa Rokoduguni,n,57
+11/11/2017,Argentina,2,Dylan Hartley,y,59
+11/11/2017,Argentina,21,Danny Care,n,18
+11/11/2017,Argentina,14,Anthony Watson,y,80
+11/11/2017,Argentina,12,Henry Slade,y,80
+11/11/2017,Argentina,16,Jamie George,n,21
+11/11/2017,Argentina,15,Mike Brown,y,23
+11/11/2017,Argentina,11,Elliot Daly,y,80
+11/11/2017,Argentina,5,George Kruis,y,57
+18/11/2017,Australia,13,Jonathan Joseph,y,80
+18/11/2017,Australia,14,Jonny May,y,80
+18/11/2017,Australia,12,Owen Farrell,y,80
+18/11/2017,Australia,9,Ben Youngs,y,70
+18/11/2017,Australia,18,Harry Williams,n,13
+18/11/2017,Australia,1,Mako Vunipola,y,64
+18/11/2017,Australia,6,Chris Robshaw,y,80
+18/11/2017,Australia,10,George Ford,y,70
+18/11/2017,Australia,20,Sam Simmonds,n,17
+18/11/2017,Australia,3,Dan Cole,y,67
+18/11/2017,Australia,8,Nathan Hughes,y,63
+18/11/2017,Australia,4,Joe Launchbury,y,80
+18/11/2017,Australia,7,Sam Underhill,y,17
+18/11/2017,Australia,5,Courtney Lawes,y,80
+18/11/2017,Australia,19,Maro Itoje,n,63
+18/11/2017,Australia,23,Semesa Rokoduguni,n,0
+18/11/2017,Australia,2,Dylan Hartley,y,57
+18/11/2017,Australia,21,Danny Care,n,10
+18/11/2017,Australia,15,Anthony Watson,y,80
+18/11/2017,Australia,22,Henry Slade,n,10
+18/11/2017,Australia,16,Jamie George,n,23
+18/11/2017,Australia,17,Joe Marler,n,16
+18/11/2017,Australia,11,Elliot Daly,y,80
+25/11/2017,Samoa,14,Jonny May,y,47
+25/11/2017,Samoa,21,Ben Youngs,n,23
+25/11/2017,Samoa,18,Harry Williams,n,23
+25/11/2017,Samoa,12,Alex Lozowski,y,57
+25/11/2017,Samoa,7,Chris Robshaw,y,80
+25/11/2017,Samoa,10,George Ford,y,80
+25/11/2017,Samoa,8,Sam Simmonds,y,80
+25/11/2017,Samoa,3,Dan Cole,y,57
+25/11/2017,Samoa,4,Joe Launchbury,y,31
+25/11/2017,Samoa,20,Courtney Lawes,n,49
+25/11/2017,Samoa,6,Maro Itoje,y,80
+25/11/2017,Samoa,22,Piers Francis,n,23
+25/11/2017,Samoa,1,Ellis Genge,y,46
+25/11/2017,Samoa,23,Semesa Rokoduguni,n,33
+25/11/2017,Samoa,16,Dylan Hartley,n,16
+25/11/2017,Samoa,9,Danny Care,y,57
+25/11/2017,Samoa,5,Charlie Ewels,y,64
+25/11/2017,Samoa,13,Henry Slade,y,80
+25/11/2017,Samoa,2,Jamie George,y,64
+25/11/2017,Samoa,19,Nick Isiekwe,n,16
+25/11/2017,Samoa,17,Joe Marler,n,34
+25/11/2017,Samoa,15,Mike Brown,y,80
+25/11/2017,Samoa,11,Elliot Daly,y,80
+04/02/2018,Italy,22,Jonathan Joseph,n,22
+04/02/2018,Italy,11,Jonny May,y,80
+04/02/2018,Italy,12,Owen Farrell,y,80
+04/02/2018,Italy,9,Ben Youngs,y,10
+04/02/2018,Italy,18,Harry Williams,n,26
+04/02/2018,Italy,1,Mako Vunipola,y,72
+04/02/2018,Italy,7,Chris Robshaw,y,66
+04/02/2018,Italy,10,George Ford,y,80
+04/02/2018,Italy,8,Sam Simmonds,y,80
+04/02/2018,Italy,3,Dan Cole,y,54
+04/02/2018,Italy,4,Joe Launchbury,y,80
+04/02/2018,Italy,20,Sam Underhill,n,14
+04/02/2018,Italy,23,Jack Nowell,n,20
+04/02/2018,Italy,6,Courtney Lawes,y,58
+04/02/2018,Italy,5,Maro Itoje,y,80
+04/02/2018,Italy,2,Dylan Hartley,y,54
+04/02/2018,Italy,21,Danny Care,n,70
+04/02/2018,Italy,14,Anthony Watson,y,80
+04/02/2018,Italy,13,Ben Te'o,y,58
+04/02/2018,Italy,16,Jamie George,n,26
+04/02/2018,Italy,15,Mike Brown,y,60
+04/02/2018,Italy,17,Alec Hepburn,n,8
+04/02/2018,Italy,19,George Kruis,n,22
+10/02/2018,Wales,13,Jonathan Joseph,y,80
+10/02/2018,Wales,11,Jonny May,y,80
+10/02/2018,Wales,12,Owen Farrell,y,80
+10/02/2018,Wales,18,Harry Williams,n,15
+10/02/2018,Wales,1,Mako Vunipola,y,77
+10/02/2018,Wales,7,Chris Robshaw,y,80
+10/02/2018,Wales,10,George Ford,y,68
+10/02/2018,Wales,8,Sam Simmonds,y,40
+10/02/2018,Wales,3,Dan Cole,y,65
+10/02/2018,Wales,4,Joe Launchbury,y,68
+10/02/2018,Wales,20,Sam Underhill,n,40
+10/02/2018,Wales,23,Jack Nowell,n,35
+10/02/2018,Wales,6,Courtney Lawes,y,80
+10/02/2018,Wales,5,Maro Itoje,y,80
+10/02/2018,Wales,2,Dylan Hartley,y,42
+10/02/2018,Wales,9,Danny Care,y,65
+10/02/2018,Wales,14,Anthony Watson,y,45
+10/02/2018,Wales,22,Ben Te'o,n,12
+10/02/2018,Wales,21,Richard Wigglesworth,n,15
+10/02/2018,Wales,16,Jamie George,n,38
+10/02/2018,Wales,15,Mike Brown,y,80
+10/02/2018,Wales,17,Alec Hepburn,n,3
+10/02/2018,Wales,19,George Kruis,n,12
+24/02/2018,Scotland,13,Jonathan Joseph,y,80
+24/02/2018,Scotland,11,Jonny May,y,80
+24/02/2018,Scotland,12,Owen Farrell,y,80
+24/02/2018,Scotland,18,Harry Williams,n,15
+24/02/2018,Scotland,1,Mako Vunipola,y,69
+24/02/2018,Scotland,7,Chris Robshaw,y,80
+24/02/2018,Scotland,10,George Ford,y,65
+24/02/2018,Scotland,3,Dan Cole,y,65
+24/02/2018,Scotland,8,Nathan Hughes,y,55
+24/02/2018,Scotland,4,Joe Launchbury,y,72
+24/02/2018,Scotland,20,Sam Underhill,n,25
+24/02/2018,Scotland,23,Jack Nowell,n,24
+24/02/2018,Scotland,6,Courtney Lawes,y,80
+24/02/2018,Scotland,5,Maro Itoje,y,80
+24/02/2018,Scotland,2,Dylan Hartley,y,56
+24/02/2018,Scotland,9,Danny Care,y,72
+24/02/2018,Scotland,14,Anthony Watson,y,80
+24/02/2018,Scotland,22,Ben Te'o,n,15
+24/02/2018,Scotland,21,Richard Wigglesworth,n,8
+24/02/2018,Scotland,16,Jamie George,n,24
+24/02/2018,Scotland,17,Joe Marler,n,11
+24/02/2018,Scotland,15,Mike Brown,y,56
+24/02/2018,Scotland,19,George Kruis,n,8
+10/03/2018,France,22,Jonathan Joseph,n,20
+10/03/2018,France,14,Jonny May,y,80
+10/03/2018,France,12,Owen Farrell,y,80
+10/03/2018,France,1,Mako Vunipola,y,64
+10/03/2018,France,7,Chris Robshaw,y,80
+10/03/2018,France,10,George Ford,y,60
+10/03/2018,France,20,Sam Simmonds,n,56
+10/03/2018,France,3,Dan Cole,y,58
+10/03/2018,France,8,Nathan Hughes,y,24
+10/03/2018,France,4,Joe Launchbury,y,52
+10/03/2018,France,6,Courtney Lawes,y,80
+10/03/2018,France,5,Maro Itoje,y,80
+10/03/2018,France,9,Danny Care,y,68
+10/03/2018,France,15,Anthony Watson,y,68
+10/03/2018,France,13,Ben Te'o,y,80
+10/03/2018,France,21,Richard Wigglesworth,n,12
+10/03/2018,France,2,Jamie George,y,63
+10/03/2018,France,18,Kyle Sinckler,n,22
+10/03/2018,France,17,Joe Marler,n,16
+10/03/2018,France,19,James Haskell,n,28
+10/03/2018,France,23,Mike Brown,n,12
+10/03/2018,France,11,Elliot Daly,y,80
+10/03/2018,France,16,Luke Cowan-Dickie,n,17
+17/03/2018,Ireland,13,Jonathan Joseph,y,55
+17/03/2018,Ireland,14,Jonny May,y,80
+17/03/2018,Ireland,10,Owen Farrell,y,80
+17/03/2018,Ireland,1,Mako Vunipola,y,53
+17/03/2018,Ireland,6,Chris Robshaw,y,80
+17/03/2018,Ireland,22,George Ford,n,25
+17/03/2018,Ireland,8,Sam Simmonds,y,66
+17/03/2018,Ireland,18,Dan Cole,n,27
+17/03/2018,Ireland,19,Joe Launchbury,n,10
+17/03/2018,Ireland,4,Maro Itoje,y,80
+17/03/2018,Ireland,2,Dylan Hartley,y,57
+17/03/2018,Ireland,21,Danny Care,n,19
+17/03/2018,Ireland,15,Anthony Watson,y,33
+17/03/2018,Ireland,12,Ben Te'o,y,80
+17/03/2018,Ireland,20,Don Armand,n,14
+17/03/2018,Ireland,9,Richard Wigglesworth,y,61
+17/03/2018,Ireland,16,Jamie George,n,23
+17/03/2018,Ireland,3,Kyle Sinckler,y,53
+17/03/2018,Ireland,17,Joe Marler,n,27
+17/03/2018,Ireland,7,James Haskell,y,80
+17/03/2018,Ireland,23,Mike Brown,n,47
+17/03/2018,Ireland,11,Elliot Daly,y,80
+17/03/2018,Ireland,5,George Kruis,y,70
+27/05/2018,Barbarians,14,Jonny May,y,80
+27/05/2018,Barbarians,9,Ben Youngs,y,62
+27/05/2018,Barbarians,2,Jack Singleton,y,71
+27/05/2018,Barbarians,6,Chris Robshaw,y,80
+27/05/2018,Barbarians,10,George Ford,y,80
+27/05/2018,Barbarians,13,Henry Trinder,y,27
+27/05/2018,Barbarians,7,Tom Curry,y,80
+27/05/2018,Barbarians,18,Nick Schonert,n,18
+27/05/2018,Barbarians,5,Joe Launchbury,y,80
+27/05/2018,Barbarians,19,Josh Beaumont,n,20
+27/05/2018,Barbarians,16,George McGuigan,n,9
+27/05/2018,Barbarians,21,Dan Robson,n,18
+27/05/2018,Barbarians,12,Piers Francis,y,80
+27/05/2018,Barbarians,20,Mark Wilson,n,33
+27/05/2018,Barbarians,4,Elliott Stooke,y,60
+27/05/2018,Barbarians,17,Ellis Genge,n,33
+27/05/2018,Barbarians,8,Zach Mercer,y,47
+27/05/2018,Barbarians,23,Denny Solomona,n,30
+27/05/2018,Barbarians,3,Kyle Sinckler,y,62
+27/05/2018,Barbarians,1,Joe Marler,y,47
+27/05/2018,Barbarians,22,Danny Cipriani,n,53
+27/05/2018,Barbarians,11,Mike Brown,y,50
+27/05/2018,Barbarians,15,Elliot Daly,y,80
+09/06/2018,South Africa,14,Jonny May,y,80
+09/06/2018,South Africa,12,Owen Farrell,y,80
+09/06/2018,South Africa,9,Ben Youngs,y,76
+09/06/2018,South Africa,18,Harry Williams,n,22
+09/06/2018,South Africa,1,Mako Vunipola,y,76
+09/06/2018,South Africa,8,Billy Vunipola,y,80
+09/06/2018,South Africa,6,Chris Robshaw,y,80
+09/06/2018,South Africa,10,George Ford,y,76
+09/06/2018,South Africa,7,Tom Curry,y,67
+09/06/2018,South Africa,20,Nathan Hughes,n,13
+09/06/2018,South Africa,4,Maro Itoje,y,80
+09/06/2018,South Africa,22,Piers Francis,n,4
+09/06/2018,South Africa,21,Ben Spencer,n,4
+09/06/2018,South Africa,19,Brad Shields,n,44
+09/06/2018,South Africa,13,Henry Slade,y,80
+09/06/2018,South Africa,23,Denny Solomona,n,4
+09/06/2018,South Africa,2,Jamie George,y,64
+09/06/2018,South Africa,5,Nick Isiekwe,y,36
+09/06/2018,South Africa,3,Kyle Sinckler,y,58
+09/06/2018,South Africa,17,Joe Marler,n,4
+09/06/2018,South Africa,11,Mike Brown,y,76
+09/06/2018,South Africa,15,Elliot Daly,y,80
+09/06/2018,South Africa,16,Luke Cowan-Dickie,n,16
+16/06/2018,South Africa,14,Jonny May,y,80
+16/06/2018,South Africa,12,Owen Farrell,y,80
+16/06/2018,South Africa,9,Ben Youngs,y,73
+16/06/2018,South Africa,18,Harry Williams,n,27
+16/06/2018,South Africa,1,Mako Vunipola,y,58
+16/06/2018,South Africa,8,Billy Vunipola,y,40
+16/06/2018,South Africa,10,George Ford,y,66
+16/06/2018,South Africa,7,Tom Curry,y,80
+16/06/2018,South Africa,20,Nathan Hughes,n,40
+16/06/2018,South Africa,4,Joe Launchbury,y,80
+16/06/2018,South Africa,5,Maro Itoje,y,80
+16/06/2018,South Africa,21,Ben Spencer,n,7
+16/06/2018,South Africa,19,Mark Wilson,n,14
+16/06/2018,South Africa,6,Brad Shields,y,66
+16/06/2018,South Africa,13,Henry Slade,y,80
+16/06/2018,South Africa,23,Denny Solomona,n,14
+16/06/2018,South Africa,2,Jamie George,y,61
+16/06/2018,South Africa,3,Kyle Sinckler,y,53
+16/06/2018,South Africa,17,Joe Marler,n,22
+16/06/2018,South Africa,22,Danny Cipriani,n,14
+16/06/2018,South Africa,11,Mike Brown,y,66
+16/06/2018,South Africa,15,Elliot Daly,y,80
+16/06/2018,South Africa,16,Luke Cowan-Dickie,n,19
+23/06/2018,South Africa,14,Jonny May,y,80
+23/06/2018,South Africa,12,Owen Farrell,y,78
+23/06/2018,South Africa,9,Ben Youngs,y,80
+23/06/2018,South Africa,18,Harry Williams,n,32
+23/06/2018,South Africa,6,Chris Robshaw,y,80
+23/06/2018,South Africa,21,Sam Simmonds,n,0
+23/06/2018,South Africa,7,Tom Curry,y,80
+23/06/2018,South Africa,8,Nathan Hughes,y,55
+23/06/2018,South Africa,4,Joe Launchbury,y,80
+23/06/2018,South Africa,19,Jonny Hill,n,0
+23/06/2018,South Africa,5,Maro Itoje,y,80
+23/06/2018,South Africa,22,Ben Spencer,n,0
+23/06/2018,South Africa,20,Mark Wilson,n,25
+23/06/2018,South Africa,13,Henry Slade,y,80
+23/06/2018,South Africa,23,Denny Solomona,n,2
+23/06/2018,South Africa,2,Jamie George,y,80
+23/06/2018,South Africa,3,Kyle Sinckler,y,48
+23/06/2018,South Africa,1,Joe Marler,y,80
+23/06/2018,South Africa,10,Danny Cipriani,y,80
+23/06/2018,South Africa,11,Mike Brown,y,80
+23/06/2018,South Africa,15,Elliot Daly,y,80
+23/06/2018,South Africa,17,Alec Hepburn,n,0
+23/06/2018,South Africa,16,Luke Cowan-Dickie,n,0
+03/11/2018,South Africa,11,Jonny May,y,80
+03/11/2018,South Africa,10,Owen Farrell,y,80
+03/11/2018,South Africa,9,Ben Youngs,y,65
+03/11/2018,South Africa,18,Harry Williams,n,15
+03/11/2018,South Africa,22,George Ford,n,7
+03/11/2018,South Africa,7,Tom Curry,y,44
+03/11/2018,South Africa,17,Ben Moon,n,40
+03/11/2018,South Africa,14,Jack Nowell,y,65
+03/11/2018,South Africa,4,Maro Itoje,y,80
+03/11/2018,South Africa,8,Mark Wilson,y,80
+03/11/2018,South Africa,2,Dylan Hartley,y,57
+03/11/2018,South Africa,21,Danny Care,n,15
+03/11/2018,South Africa,20,Zach Mercer,n,36
+03/11/2018,South Africa,19,Charlie Ewels,n,3
+03/11/2018,South Africa,6,Brad Shields,y,77
+03/11/2018,South Africa,13,Henry Slade,y,80
+03/11/2018,South Africa,12,Ben Te'o,y,73
+03/11/2018,South Africa,16,Jamie George,n,23
+03/11/2018,South Africa,3,Kyle Sinckler,y,65
+03/11/2018,South Africa,23,Chris Ashton,n,15
+03/11/2018,South Africa,15,Elliot Daly,y,80
+03/11/2018,South Africa,1,Alec Hepburn,y,40
+03/11/2018,South Africa,5,George Kruis,y,80
+10/11/2018,New Zealand,11,Jonny May,y,80
+10/11/2018,New Zealand,10,Owen Farrell,y,80
+10/11/2018,New Zealand,9,Ben Youngs,y,63
+10/11/2018,New Zealand,18,Harry Williams,n,22
+10/11/2018,New Zealand,22,George Ford,n,8
+10/11/2018,New Zealand,7,Sam Underhill,y,80
+10/11/2018,New Zealand,1,Ben Moon,y,58
+10/11/2018,New Zealand,23,Jack Nowell,n,12
+10/11/2018,New Zealand,20,Courtney Lawes,n,29
+10/11/2018,New Zealand,4,Maro Itoje,y,80
+10/11/2018,New Zealand,8,Mark Wilson,y,80
+10/11/2018,New Zealand,2,Dylan Hartley,y,40
+10/11/2018,New Zealand,21,Danny Care,n,17
+10/11/2018,New Zealand,19,Charlie Ewels,n,14
+10/11/2018,New Zealand,6,Brad Shields,y,51
+10/11/2018,New Zealand,13,Henry Slade,y,80
+10/11/2018,New Zealand,12,Ben Te'o,y,72
+10/11/2018,New Zealand,16,Jamie George,n,40
+10/11/2018,New Zealand,3,Kyle Sinckler,y,58
+10/11/2018,New Zealand,14,Chris Ashton,y,68
+10/11/2018,New Zealand,15,Elliot Daly,y,80
+10/11/2018,New Zealand,17,Alec Hepburn,n,22
+10/11/2018,New Zealand,5,George Kruis,y,66
+17/11/2018,Japan,22,Owen Farrell,n,40
+17/11/2018,Japan,3,Harry Williams,y,51
+17/11/2018,Japan,12,Alex Lozowski,y,40
+17/11/2018,Japan,10,George Ford,y,80
+17/11/2018,Japan,20,Sam Underhill,n,31
+17/11/2018,Japan,17,Ben Moon,n,31
+17/11/2018,Japan,13,Jack Nowell,y,80
+17/11/2018,Japan,6,Courtney Lawes,y,80
+17/11/2018,Japan,5,Maro Itoje,y,80
+17/11/2018,Japan,7,Mark Wilson,y,80
+17/11/2018,Japan,19,Ted Hill,n,5
+17/11/2018,Japan,16,Dylan Hartley,n,7
+17/11/2018,Japan,9,Danny Care,y,60
+17/11/2018,Japan,8,Zach Mercer,y,49
+17/11/2018,Japan,4,Charlie Ewels,y,75
+17/11/2018,Japan,23,Henry Slade,n,47
+17/11/2018,Japan,14,Joe Cokanasiga,y,80
+17/11/2018,Japan,21,Richard Wigglesworth,n,20
+17/11/2018,Japan,2,Jamie George,y,73
+17/11/2018,Japan,18,Kyle Sinckler,n,29
+17/11/2018,Japan,11,Chris Ashton,y,33
+17/11/2018,Japan,15,Elliot Daly,y,80
+17/11/2018,Japan,1,Alec Hepburn,y,49
+24/11/2018,Australia,11,Jonny May,y,80
+24/11/2018,Australia,10,Owen Farrell,y,80
+24/11/2018,Australia,9,Ben Youngs,y,57
+24/11/2018,Australia,18,Harry Williams,n,15
+24/11/2018,Australia,22,George Ford,n,5
+24/11/2018,Australia,20,Nathan Hughes,n,5
+24/11/2018,Australia,7,Sam Underhill,y,75
+24/11/2018,Australia,1,Ben Moon,y,69
+24/11/2018,Australia,5,Courtney Lawes,y,77
+24/11/2018,Australia,4,Maro Itoje,y,80
+24/11/2018,Australia,8,Mark Wilson,y,80
+24/11/2018,Australia,23,Manu Tuilagi,n,11
+24/11/2018,Australia,16,Dylan Hartley,n,8
+24/11/2018,Australia,19,Charlie Ewels,n,3
+24/11/2018,Australia,6,Brad Shields,y,80
+24/11/2018,Australia,13,Henry Slade,y,69
+24/11/2018,Australia,12,Ben Te'o,y,75
+24/11/2018,Australia,14,Joe Cokanasiga,y,80
+24/11/2018,Australia,21,Richard Wigglesworth,n,23
+24/11/2018,Australia,2,Jamie George,y,72
+24/11/2018,Australia,3,Kyle Sinckler,y,65
+24/11/2018,Australia,15,Elliot Daly,y,80
+24/11/2018,Australia,17,Alec Hepburn,n,11
 02/02/2019,Ireland,11,Jonny May,y,80
 02/02/2019,Ireland,10,Owen Farrell,y,80
 02/02/2019,Ireland,9,Ben Youngs,y,80

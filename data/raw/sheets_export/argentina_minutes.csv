@@ -1,4 +1,1131 @@
 date,opposition,shirt,player,started,minutes
+16/05/2015,Uruguay,2,Matias Cortese,y,0
+16/05/2015,Uruguay,8,Facundo Isa,y,80
+16/05/2015,Uruguay,5,Geronimo Albertario,y,0
+16/05/2015,Uruguay,14,Matias Orlando,y,80
+16/05/2015,Uruguay,1,Bruno Postiglioni,y,0
+16/05/2015,Uruguay,19,Lisandro Ahualli De Chazal,n,80
+16/05/2015,Uruguay,9,Martín Landajo,y,0
+16/05/2015,Uruguay,20,Tomas Lezana,n,80
+16/05/2015,Uruguay,11,Manuel Montero,y,0
+16/05/2015,Uruguay,6,Pablo Matera,y,0
+16/05/2015,Uruguay,18,Santiago Garcia Botta,n,80
+16/05/2015,Uruguay,13,Jeronimo de la Fuente,y,80
+16/05/2015,Uruguay,10,Santiago Gonzalez Iglesias,y,80
+16/05/2015,Uruguay,12,Gabriel Ascarate,y,80
+16/05/2015,Uruguay,22,Juan Leon Novillo,n,80
+16/05/2015,Uruguay,4,Guido Petti Pagadizabal,y,80
+16/05/2015,Uruguay,3,Matias Diaz,y,0
+16/05/2015,Uruguay,16,Julian Montoya,n,80
+16/05/2015,Uruguay,15,Santiago Cordero,y,0
+16/05/2015,Uruguay,7,Javier Ortega Desio,y,80
+16/05/2015,Uruguay,17,Lucas Noguera,n,80
+16/05/2015,Uruguay,23,Joaquin Paz,n,80
+16/05/2015,Uruguay,21,Gregorio Del Prete,n,80
+17/07/2015,New Zealand,8,Facundo Isa,y,80
+17/07/2015,New Zealand,13,Marcelo Bosch,y,80
+17/07/2015,New Zealand,1,Marcos Ayerza,y,63
+17/07/2015,New Zealand,3,Ramiro Herrera,y,55
+17/07/2015,New Zealand,7,Juan Martín Fernandez Lobbe,y,80
+17/07/2015,New Zealand,9,Tomas Cubelli,y,56
+17/07/2015,New Zealand,21,Martín Landajo,n,24
+17/07/2015,New Zealand,18,Nahuel Tetaz Chaparro,n,25
+17/07/2015,New Zealand,10,Nicolas Sanchez,y,80
+17/07/2015,New Zealand,15,Joaquin Tuculet,y,56
+17/07/2015,New Zealand,12,Jeronimo de la Fuente,y,69
+17/07/2015,New Zealand,5,Manuel Carizza,y,80
+17/07/2015,New Zealand,22,Santiago Gonzalez Iglesias,n,11
+17/07/2015,New Zealand,23,Lucas Gonzalez Amorosino,n,24
+17/07/2015,New Zealand,6,Juan Manuel Leguizamon,y,50
+17/07/2015,New Zealand,4,Guido Petti Pagadizabal,y,63
+17/07/2015,New Zealand,16,Julian Montoya,n,17
+17/07/2015,New Zealand,11,Santiago Cordero,y,80
+17/07/2015,New Zealand,20,Javier Ortega Desio,n,30
+17/07/2015,New Zealand,17,Lucas Noguera,n,17
+17/07/2015,New Zealand,19,Benjamin Macome,n,17
+17/07/2015,New Zealand,14,Horacio Agulla,y,80
+17/07/2015,New Zealand,2,Agustín Creevy,y,63
+25/07/2015,Australia,4,Manuel Carizza,y,80
+25/07/2015,Australia,22,Santiago Gonzalez Iglesias,n,13
+25/07/2015,Australia,14,Gonzalo Camacho,y,56
+25/07/2015,Australia,23,Lucas Gonzalez Amorosino,n,24
+25/07/2015,Australia,18,Matias Diaz,n,13
+25/07/2015,Australia,19,Matias Alemanno,n,13
+25/07/2015,Australia,15,Santiago Cordero,y,80
+25/07/2015,Australia,6,Javier Ortega Desio,y,80
+25/07/2015,Australia,12,Juan Pablo Socino,y,80
+25/07/2015,Australia,2,Agustín Creevy,y,73
+25/07/2015,Australia,8,Facundo Isa,y,64
+25/07/2015,Australia,1,Marcos Ayerza,y,67
+25/07/2015,Australia,3,Ramiro Herrera,y,54
+25/07/2015,Australia,7,Juan Martín Fernandez Lobbe,y,80
+25/07/2015,Australia,21,Tomas Cubelli,n,18
+25/07/2015,Australia,11,Juan Imhoff,y,80
+25/07/2015,Australia,13,Matias Moroni,y,80
+25/07/2015,Australia,9,Martín Landajo,y,62
+25/07/2015,Australia,17,Nahuel Tetaz Chaparro,n,26
+25/07/2015,Australia,10,Nicolas Sanchez,y,67
+25/07/2015,Australia,16,Santiago Iglesias Valdez,n,7
+25/07/2015,Australia,5,Tomas Lavanini,y,67
+25/07/2015,Australia,20,Leonardo Senatore,n,16
+08/08/2015,South Africa,13,Marcelo Bosch,y,80
+08/08/2015,South Africa,1,Marcos Ayerza,y,53
+08/08/2015,South Africa,9,Tomas Cubelli,y,66
+08/08/2015,South Africa,11,Juan Imhoff,y,80
+08/08/2015,South Africa,21,Martín Landajo,n,14
+08/08/2015,South Africa,3,Nahuel Tetaz Chaparro,y,71
+08/08/2015,South Africa,20,Tomas Lezana,n,14
+08/08/2015,South Africa,15,Joaquin Tuculet,y,80
+08/08/2015,South Africa,6,Pablo Matera,y,80
+08/08/2015,South Africa,10,Juan Martín Hernández,y,63
+08/08/2015,South Africa,12,Jeronimo de la Fuente,y,56
+08/08/2015,South Africa,5,Tomas Lavanini,y,80
+08/08/2015,South Africa,8,Leonardo Senatore,y,80
+08/08/2015,South Africa,22,Santiago Gonzalez Iglesias,n,24
+08/08/2015,South Africa,23,Lucas Gonzalez Amorosino,n,17
+08/08/2015,South Africa,7,Juan Manuel Leguizamon,y,66
+08/08/2015,South Africa,4,Guido Petti Pagadizabal,y,57
+08/08/2015,South Africa,18,Matias Diaz,n,9
+08/08/2015,South Africa,19,Matias Alemanno,n,23
+08/08/2015,South Africa,16,Julian Montoya,n,12
+08/08/2015,South Africa,17,Lucas Noguera,n,27
+08/08/2015,South Africa,14,Horacio Agulla,y,80
+08/08/2015,South Africa,2,Agustín Creevy,y,68
+15/08/2015,South Africa,7,Juan Martín Fernandez Lobbe,y,80
+15/08/2015,South Africa,21,Tomas Cubelli,n,21
+15/08/2015,South Africa,11,Juan Imhoff,y,80
+15/08/2015,South Africa,13,Matias Moroni,y,75
+15/08/2015,South Africa,9,Martín Landajo,y,59
+15/08/2015,South Africa,3,Nahuel Tetaz Chaparro,y,53
+15/08/2015,South Africa,10,Nicolas Sanchez,y,80
+15/08/2015,South Africa,6,Tomas Lezana,y,80
+15/08/2015,South Africa,15,Joaquin Tuculet,y,59
+15/08/2015,South Africa,20,Pablo Matera,n,28
+15/08/2015,South Africa,17,Santiago Garcia Botta,n,6
+15/08/2015,South Africa,5,Tomas Lavanini,y,80
+15/08/2015,South Africa,22,Santiago Gonzalez Iglesias,n,5
+15/08/2015,South Africa,23,Lucas Gonzalez Amorosino,n,21
+15/08/2015,South Africa,8,Juan Manuel Leguizamon,y,52
+15/08/2015,South Africa,18,Juan Pablo Orlandi,n,27
+15/08/2015,South Africa,19,Matias Alemanno,n,28
+15/08/2015,South Africa,16,Julian Montoya,n,40
+15/08/2015,South Africa,14,Santiago Cordero,y,80
+15/08/2015,South Africa,1,Lucas Noguera,y,74
+15/08/2015,South Africa,4,Benjamin Macome,y,52
+15/08/2015,South Africa,12,Juan Pablo Socino,y,80
+15/08/2015,South Africa,2,Agustín Creevy,y,40
+20/09/2015,New Zealand,13,Marcelo Bosch,y,80
+20/09/2015,New Zealand,1,Marcos Ayerza,y,80
+20/09/2015,New Zealand,18,Ramiro Herrera,n,26
+20/09/2015,New Zealand,7,Juan Martín Fernandez Lobbe,y,80
+20/09/2015,New Zealand,9,Tomas Cubelli,y,61
+20/09/2015,New Zealand,11,Juan Imhoff,y,80
+20/09/2015,New Zealand,19,Mariano Galarza,n,58
+20/09/2015,New Zealand,21,Martín Landajo,n,19
+20/09/2015,New Zealand,3,Nahuel Tetaz Chaparro,y,54
+20/09/2015,New Zealand,10,Nicolas Sanchez,y,68
+20/09/2015,New Zealand,15,Joaquin Tuculet,y,69
+20/09/2015,New Zealand,6,Pablo Matera,y,58
+20/09/2015,New Zealand,12,Juan Martín Hernández,y,80
+20/09/2015,New Zealand,22,Jeronimo de la Fuente,n,12
+20/09/2015,New Zealand,5,Tomas Lavanini,y,80
+20/09/2015,New Zealand,8,Leonardo Senatore,y,64
+20/09/2015,New Zealand,23,Lucas Gonzalez Amorosino,n,11
+20/09/2015,New Zealand,20,Juan Manuel Leguizamon,n,22
+20/09/2015,New Zealand,4,Guido Petti Pagadizabal,y,22
+20/09/2015,New Zealand,16,Julian Montoya,n,16
+20/09/2015,New Zealand,14,Santiago Cordero,y,80
+20/09/2015,New Zealand,17,Lucas Noguera,n,11
+20/09/2015,New Zealand,2,Agustín Creevy,y,69
+25/09/2015,Georgia,8,Facundo Isa,y,80
+25/09/2015,Georgia,13,Marcelo Bosch,y,80
+25/09/2015,Georgia,1,Marcos Ayerza,y,68
+25/09/2015,Georgia,18,Ramiro Herrera,n,22
+25/09/2015,Georgia,7,Juan Martín Fernandez Lobbe,y,65
+25/09/2015,Georgia,9,Tomas Cubelli,y,58
+25/09/2015,Georgia,11,Juan Imhoff,y,80
+25/09/2015,Georgia,21,Martín Landajo,n,22
+25/09/2015,Georgia,3,Nahuel Tetaz Chaparro,y,58
+25/09/2015,Georgia,10,Nicolas Sanchez,y,65
+25/09/2015,Georgia,15,Joaquin Tuculet,y,80
+25/09/2015,Georgia,20,Pablo Matera,n,22
+25/09/2015,Georgia,12,Juan Martín Hernández,y,36
+25/09/2015,Georgia,22,Jeronimo de la Fuente,n,44
+25/09/2015,Georgia,5,Tomas Lavanini,y,80
+25/09/2015,Georgia,23,Lucas Gonzalez Amorosino,n,15
+25/09/2015,Georgia,6,Juan Manuel Leguizamon,y,58
+25/09/2015,Georgia,4,Matias Alemanno,y,80
+25/09/2015,Georgia,16,Julian Montoya,n,17
+25/09/2015,Georgia,14,Santiago Cordero,y,80
+25/09/2015,Georgia,19,Javier Ortega Desio,n,15
+25/09/2015,Georgia,17,Lucas Noguera,n,12
+25/09/2015,Georgia,2,Agustín Creevy,y,63
+04/10/2015,Tonga,20,Facundo Isa,n,29
+04/10/2015,Tonga,1,Marcos Ayerza,y,65
+04/10/2015,Tonga,3,Ramiro Herrera,y,65
+04/10/2015,Tonga,7,Juan Martín Fernandez Lobbe,y,80
+04/10/2015,Tonga,21,Tomas Cubelli,n,15
+04/10/2015,Tonga,11,Juan Imhoff,y,58
+04/10/2015,Tonga,13,Matias Moroni,y,70
+04/10/2015,Tonga,9,Martín Landajo,y,65
+04/10/2015,Tonga,10,Nicolas Sanchez,y,80
+04/10/2015,Tonga,15,Joaquin Tuculet,y,80
+04/10/2015,Tonga,6,Pablo Matera,y,80
+04/10/2015,Tonga,12,Jeronimo de la Fuente,y,80
+04/10/2015,Tonga,5,Tomas Lavanini,y,80
+04/10/2015,Tonga,8,Leonardo Senatore,y,51
+04/10/2015,Tonga,22,Santiago Gonzalez Iglesias,n,10
+04/10/2015,Tonga,4,Guido Petti Pagadizabal,y,65
+04/10/2015,Tonga,18,Juan Pablo Orlandi,n,15
+04/10/2015,Tonga,19,Matias Alemanno,n,15
+04/10/2015,Tonga,16,Julian Montoya,n,15
+04/10/2015,Tonga,14,Santiago Cordero,y,80
+04/10/2015,Tonga,17,Lucas Noguera,n,15
+04/10/2015,Tonga,23,Horacio Agulla,n,22
+04/10/2015,Tonga,2,Agustín Creevy,y,65
+11/10/2015,Namibia,8,Facundo Isa,y,80
+11/10/2015,Namibia,22,Marcelo Bosch,n,29
+11/10/2015,Namibia,17,Marcos Ayerza,n,0
+11/10/2015,Namibia,18,Ramiro Herrera,n,27
+11/10/2015,Namibia,20,Juan Martín Fernandez Lobbe,n,20
+11/10/2015,Namibia,21,Tomas Cubelli,n,27
+11/10/2015,Namibia,23,Juan Imhoff,n,15
+11/10/2015,Namibia,14,Matias Moroni,y,80
+11/10/2015,Namibia,9,Martín Landajo,y,53
+11/10/2015,Namibia,6,Pablo Matera,y,50
+11/10/2015,Namibia,10,Juan Martín Hernández,y,51
+11/10/2015,Namibia,19,Leonardo Senatore,n,30
+11/10/2015,Namibia,13,Santiago Gonzalez Iglesias,y,65
+11/10/2015,Namibia,15,Lucas Gonzalez Amorosino,y,80
+11/10/2015,Namibia,4,Guido Petti Pagadizabal,y,80
+11/10/2015,Namibia,3,Juan Pablo Orlandi,y,53
+11/10/2015,Namibia,5,Matias Alemanno,y,60
+11/10/2015,Namibia,2,Julian Montoya,y,70
+11/10/2015,Namibia,7,Javier Ortega Desio,y,80
+11/10/2015,Namibia,1,Lucas Noguera,y,80
+11/10/2015,Namibia,11,Horacio Agulla,y,80
+11/10/2015,Namibia,12,Juan Pablo Socino,y,80
+11/10/2015,Namibia,16,Agustín Creevy,n,10
+18/10/2015,Ireland,20,Facundo Isa,n,30
+18/10/2015,Ireland,1,Marcos Ayerza,y,67
+18/10/2015,Ireland,3,Ramiro Herrera,y,72
+18/10/2015,Ireland,7,Juan Martín Fernandez Lobbe,y,80
+18/10/2015,Ireland,21,Tomas Cubelli,n,28
+18/10/2015,Ireland,11,Juan Imhoff,y,80
+18/10/2015,Ireland,13,Matias Moroni,y,68
+18/10/2015,Ireland,9,Martín Landajo,y,52
+18/10/2015,Ireland,10,Nicolas Sanchez,y,80
+18/10/2015,Ireland,15,Joaquin Tuculet,y,80
+18/10/2015,Ireland,6,Pablo Matera,y,80
+18/10/2015,Ireland,12,Juan Martín Hernández,y,80
+18/10/2015,Ireland,22,Jeronimo de la Fuente,n,12
+18/10/2015,Ireland,5,Tomas Lavanini,y,80
+18/10/2015,Ireland,8,Leonardo Senatore,y,46
+18/10/2015,Ireland,23,Lucas Gonzalez Amorosino,n,0
+18/10/2015,Ireland,4,Guido Petti Pagadizabal,y,60
+18/10/2015,Ireland,18,Juan Pablo Orlandi,n,13
+18/10/2015,Ireland,19,Matias Alemanno,n,20
+18/10/2015,Ireland,16,Julian Montoya,n,25
+18/10/2015,Ireland,14,Santiago Cordero,y,80
+18/10/2015,Ireland,17,Lucas Noguera,n,13
+18/10/2015,Ireland,2,Agustín Creevy,y,55
+25/10/2015,Australia,18,Juan Figallo,n,19
+25/10/2015,Australia,20,Facundo Isa,n,32
+25/10/2015,Australia,13,Marcelo Bosch,y,80
+25/10/2015,Australia,1,Marcos Ayerza,y,61
+25/10/2015,Australia,3,Ramiro Herrera,y,61
+25/10/2015,Australia,7,Juan Martín Fernandez Lobbe,y,80
+25/10/2015,Australia,21,Tomas Cubelli,n,24
+25/10/2015,Australia,11,Juan Imhoff,y,17
+25/10/2015,Australia,9,Martín Landajo,y,56
+25/10/2015,Australia,10,Nicolas Sanchez,y,80
+25/10/2015,Australia,15,Joaquin Tuculet,y,80
+25/10/2015,Australia,6,Pablo Matera,y,80
+25/10/2015,Australia,12,Juan Martín Hernández,y,44
+25/10/2015,Australia,22,Jeronimo de la Fuente,n,36
+25/10/2015,Australia,5,Tomas Lavanini,y,80
+25/10/2015,Australia,8,Leonardo Senatore,y,48
+25/10/2015,Australia,23,Lucas Gonzalez Amorosino,n,63
+25/10/2015,Australia,4,Guido Petti Pagadizabal,y,58
+25/10/2015,Australia,19,Matias Alemanno,n,22
+25/10/2015,Australia,16,Julian Montoya,n,50
+25/10/2015,Australia,14,Santiago Cordero,y,80
+25/10/2015,Australia,17,Lucas Noguera,n,19
+25/10/2015,Australia,2,Agustín Creevy,y,30
+30/10/2015,South Africa,1,Juan Figallo,y,60
+30/10/2015,South Africa,20,Facundo Isa,n,28
+30/10/2015,South Africa,3,Ramiro Herrera,y,55
+30/10/2015,South Africa,7,Juan Martín Fernandez Lobbe,y,52
+30/10/2015,South Africa,9,Tomas Cubelli,y,52
+30/10/2015,South Africa,13,Matias Moroni,y,80
+30/10/2015,South Africa,21,Martín Landajo,n,28
+30/10/2015,South Africa,10,Nicolas Sanchez,y,80
+30/10/2015,South Africa,18,Santiago Garcia Botta,n,3
+30/10/2015,South Africa,12,Jeronimo de la Fuente,y,70
+30/10/2015,South Africa,5,Tomas Lavanini,y,80
+30/10/2015,South Africa,22,Santiago Gonzalez Iglesias,n,10
+30/10/2015,South Africa,15,Lucas Gonzalez Amorosino,y,80
+30/10/2015,South Africa,8,Juan Manuel Leguizamon,y,80
+30/10/2015,South Africa,19,Guido Petti Pagadizabal,n,33
+30/10/2015,South Africa,17,Juan Pablo Orlandi,n,25
+30/10/2015,South Africa,4,Matias Alemanno,y,47
+30/10/2015,South Africa,2,Julian Montoya,y,77
+30/10/2015,South Africa,14,Santiago Cordero,y,80
+30/10/2015,South Africa,6,Javier Ortega Desio,y,80
+30/10/2015,South Africa,16,Lucas Noguera,n,20
+30/10/2015,South Africa,11,Horacio Agulla,y,58
+30/10/2015,South Africa,23,Juan Pablo Socino,n,22
+11/06/2016,Italy,8,Facundo Isa,y,80
+11/06/2016,Italy,18,Enrique Pieretto Heiland,n,3
+11/06/2016,Italy,21,Tomas Cubelli,n,18
+11/06/2016,Italy,13,Matias Moroni,y,62
+11/06/2016,Italy,9,Martín Landajo,y,62
+11/06/2016,Italy,3,Nahuel Tetaz Chaparro,y,77
+11/06/2016,Italy,10,Nicolas Sanchez,y,80
+11/06/2016,Italy,7,Tomas Lezana,y,66
+11/06/2016,Italy,11,Manuel Montero,y,80
+11/06/2016,Italy,15,Joaquin Tuculet,y,80
+11/06/2016,Italy,6,Pablo Matera,y,80
+11/06/2016,Italy,12,Juan Martín Hernández,y,80
+11/06/2016,Italy,1,Santiago Garcia Botta,y,80
+11/06/2016,Italy,22,Jeronimo de la Fuente,n,18
+11/06/2016,Italy,20,Juan Manuel Leguizamon,n,14
+11/06/2016,Italy,23,Ramiro Moyano,n,7
+11/06/2016,Italy,4,Guido Petti Pagadizabal,y,80
+11/06/2016,Italy,5,Matias Alemanno,y,59
+11/06/2016,Italy,16,Julian Montoya,n,13
+11/06/2016,Italy,14,Santiago Cordero,y,73
+11/06/2016,Italy,19,Javier Ortega Desio,n,21
+11/06/2016,Italy,17,Felipe Arregui,n,0
+11/06/2016,Italy,2,Agustín Creevy,y,67
+19/06/2016,France,8,Facundo Isa,y,80
+19/06/2016,France,18,Enrique Pieretto Heiland,n,0
+19/06/2016,France,3,Ramiro Herrera,y,80
+19/06/2016,France,21,Tomas Cubelli,n,18
+19/06/2016,France,13,Matias Moroni,y,80
+19/06/2016,France,9,Martín Landajo,y,62
+19/06/2016,France,1,Nahuel Tetaz Chaparro,y,80
+19/06/2016,France,10,Nicolas Sanchez,y,80
+19/06/2016,France,7,Tomas Lezana,y,60
+19/06/2016,France,11,Manuel Montero,y,80
+19/06/2016,France,15,Joaquin Tuculet,y,76
+19/06/2016,France,6,Pablo Matera,y,80
+19/06/2016,France,12,Juan Martín Hernández,y,22
+19/06/2016,France,17,Santiago Garcia Botta,n,0
+19/06/2016,France,22,Santiago Gonzalez Iglesias,n,58
+19/06/2016,France,20,Juan Manuel Leguizamon,n,20
+19/06/2016,France,23,Ramiro Moyano,n,4
+19/06/2016,France,4,Guido Petti Pagadizabal,y,80
+19/06/2016,France,16,Julian Montoya,n,14
+19/06/2016,France,14,Santiago Cordero,y,80
+19/06/2016,France,5,Javier Ortega Desio,y,80
+19/06/2016,France,2,Agustín Creevy,y,66
+19/06/2016,France,19,Ignacio Larrague,n,0
+25/06/2016,France,8,Facundo Isa,y,55
+25/06/2016,France,18,Enrique Pieretto Heiland,n,8
+25/06/2016,France,3,Ramiro Herrera,y,72
+25/06/2016,France,22,Matias Orlando,n,12
+25/06/2016,France,9,Tomas Cubelli,y,59
+25/06/2016,France,13,Matias Moroni,y,68
+25/06/2016,France,21,Martín Landajo,n,21
+25/06/2016,France,1,Nahuel Tetaz Chaparro,y,64
+25/06/2016,France,10,Nicolas Sanchez,y,80
+25/06/2016,France,19,Tomas Lezana,n,28
+25/06/2016,France,11,Manuel Montero,y,80
+25/06/2016,France,15,Joaquin Tuculet,y,80
+25/06/2016,France,6,Pablo Matera,y,52
+25/06/2016,France,17,Santiago Garcia Botta,n,16
+25/06/2016,France,12,Jeronimo de la Fuente,y,80
+25/06/2016,France,5,Tomas Lavanini,y,80
+25/06/2016,France,23,Lucas Gonzalez Amorosino,n,16
+25/06/2016,France,20,Juan Manuel Leguizamon,n,25
+25/06/2016,France,4,Guido Petti Pagadizabal,y,80
+25/06/2016,France,16,Julian Montoya,n,21
+25/06/2016,France,14,Santiago Cordero,y,64
+25/06/2016,France,7,Javier Ortega Desio,y,80
+25/06/2016,France,2,Agustín Creevy,y,59
+20/08/2016,South Africa,8,Facundo Isa,y,80
+20/08/2016,South Africa,18,Enrique Pieretto Heiland,n,0
+20/08/2016,South Africa,3,Ramiro Herrera,y,80
+20/08/2016,South Africa,13,Matias Orlando,y,76
+20/08/2016,South Africa,21,Tomas Cubelli,n,24
+20/08/2016,South Africa,9,Martín Landajo,y,56
+20/08/2016,South Africa,1,Nahuel Tetaz Chaparro,y,80
+20/08/2016,South Africa,10,Nicolas Sanchez,y,80
+20/08/2016,South Africa,11,Manuel Montero,y,80
+20/08/2016,South Africa,15,Joaquin Tuculet,y,80
+20/08/2016,South Africa,6,Pablo Matera,y,80
+20/08/2016,South Africa,12,Juan Martín Hernández,y,80
+20/08/2016,South Africa,5,Tomas Lavanini,y,80
+20/08/2016,South Africa,22,Santiago Gonzalez Iglesias,n,4
+20/08/2016,South Africa,7,Juan Manuel Leguizamon,y,64
+20/08/2016,South Africa,23,Ramiro Moyano,n,0
+20/08/2016,South Africa,19,Guido Petti Pagadizabal,n,24
+20/08/2016,South Africa,4,Matias Alemanno,y,56
+20/08/2016,South Africa,16,Julian Montoya,n,17
+20/08/2016,South Africa,14,Santiago Cordero,y,80
+20/08/2016,South Africa,20,Javier Ortega Desio,n,16
+20/08/2016,South Africa,17,Felipe Arregui,n,0
+20/08/2016,South Africa,2,Agustín Creevy,y,63
+27/08/2016,South Africa,22,Santiago Gonzalez Iglesias,n,34
+27/08/2016,South Africa,23,Lucas Gonzalez Amorosino,n,40
+27/08/2016,South Africa,7,Juan Manuel Leguizamon,y,67
+27/08/2016,South Africa,19,Guido Petti Pagadizabal,n,34
+27/08/2016,South Africa,4,Matias Alemanno,y,80
+27/08/2016,South Africa,16,Julian Montoya,n,19
+27/08/2016,South Africa,14,Santiago Cordero,y,80
+27/08/2016,South Africa,20,Javier Ortega Desio,n,13
+27/08/2016,South Africa,17,Felipe Arregui,n,15
+27/08/2016,South Africa,2,Agustín Creevy,y,61
+27/08/2016,South Africa,8,Facundo Isa,y,80
+27/08/2016,South Africa,18,Enrique Pieretto Heiland,n,13
+27/08/2016,South Africa,3,Ramiro Herrera,y,80
+27/08/2016,South Africa,13,Matias Orlando,y,61
+27/08/2016,South Africa,21,Tomas Cubelli,n,19
+27/08/2016,South Africa,9,Martín Landajo,y,80
+27/08/2016,South Africa,1,Nahuel Tetaz Chaparro,y,65
+27/08/2016,South Africa,10,Nicolas Sanchez,y,46
+27/08/2016,South Africa,11,Manuel Montero,y,40
+27/08/2016,South Africa,15,Joaquin Tuculet,y,80
+27/08/2016,South Africa,6,Pablo Matera,y,80
+27/08/2016,South Africa,12,Juan Martín Hernández,y,67
+27/08/2016,South Africa,5,Tomas Lavanini,y,46
+10/09/2016,New Zealand,19,Marcos Kremer,n,13
+10/09/2016,New Zealand,8,Facundo Isa,y,80
+10/09/2016,New Zealand,18,Enrique Pieretto Heiland,n,14
+10/09/2016,New Zealand,3,Ramiro Herrera,y,66
+10/09/2016,New Zealand,13,Matias Orlando,y,80
+10/09/2016,New Zealand,21,Tomas Cubelli,n,19
+10/09/2016,New Zealand,14,Matias Moroni,y,80
+10/09/2016,New Zealand,9,Martín Landajo,y,61
+10/09/2016,New Zealand,1,Nahuel Tetaz Chaparro,y,63
+10/09/2016,New Zealand,10,Nicolas Sanchez,y,67
+10/09/2016,New Zealand,15,Joaquin Tuculet,y,80
+10/09/2016,New Zealand,6,Pablo Matera,y,67
+10/09/2016,New Zealand,12,Juan Martín Hernández,y,37
+10/09/2016,New Zealand,20,Leonardo Senatore,n,39
+10/09/2016,New Zealand,22,Santiago Gonzalez Iglesias,n,43
+10/09/2016,New Zealand,23,Ramiro Moyano,n,13
+10/09/2016,New Zealand,4,Guido Petti Pagadizabal,y,41
+10/09/2016,New Zealand,5,Matias Alemanno,y,80
+10/09/2016,New Zealand,16,Julian Montoya,n,17
+10/09/2016,New Zealand,11,Santiago Cordero,y,80
+10/09/2016,New Zealand,7,Javier Ortega Desio,y,80
+10/09/2016,New Zealand,17,Lucas Noguera,n,17
+10/09/2016,New Zealand,2,Agustín Creevy,y,63
+17/09/2016,Australia,19,Marcos Kremer,n,14
+17/09/2016,Australia,8,Facundo Isa,y,72
+17/09/2016,Australia,18,Enrique Pieretto Heiland,n,15
+17/09/2016,Australia,3,Ramiro Herrera,y,65
+17/09/2016,Australia,23,Matias Orlando,n,19
+17/09/2016,Australia,9,Tomas Cubelli,y,61
+17/09/2016,Australia,13,Matias Moroni,y,80
+17/09/2016,Australia,21,Martín Landajo,n,19
+17/09/2016,Australia,1,Nahuel Tetaz Chaparro,y,61
+17/09/2016,Australia,10,Nicolas Sanchez,y,74
+17/09/2016,Australia,15,Joaquin Tuculet,y,80
+17/09/2016,Australia,6,Pablo Matera,y,66
+17/09/2016,Australia,20,Leonardo Senatore,n,36
+17/09/2016,Australia,12,Santiago Gonzalez Iglesias,y,77
+17/09/2016,Australia,22,Gabriel Ascarate,n,10
+17/09/2016,Australia,11,Lucas Gonzalez Amorosino,y,61
+17/09/2016,Australia,7,Juan Manuel Leguizamon,y,44
+17/09/2016,Australia,5,Matias Alemanno,y,80
+17/09/2016,Australia,16,Julian Montoya,n,34
+17/09/2016,Australia,14,Santiago Cordero,y,80
+17/09/2016,Australia,4,Javier Ortega Desio,y,80
+17/09/2016,Australia,17,Lucas Noguera,n,19
+17/09/2016,Australia,2,Agustín Creevy,y,46
+01/10/2016,New Zealand,8,Facundo Isa,y,80
+01/10/2016,New Zealand,18,Enrique Pieretto Heiland,n,16
+01/10/2016,New Zealand,3,Ramiro Herrera,y,64
+01/10/2016,New Zealand,23,Matias Orlando,n,2
+01/10/2016,New Zealand,21,Tomas Cubelli,n,23
+01/10/2016,New Zealand,13,Matias Moroni,y,78
+01/10/2016,New Zealand,9,Martín Landajo,y,57
+01/10/2016,New Zealand,1,Nahuel Tetaz Chaparro,y,53
+01/10/2016,New Zealand,10,Nicolas Sanchez,y,69
+01/10/2016,New Zealand,15,Joaquin Tuculet,y,80
+01/10/2016,New Zealand,6,Pablo Matera,y,66
+01/10/2016,New Zealand,22,Jeronimo de la Fuente,n,11
+01/10/2016,New Zealand,20,Leonardo Senatore,n,22
+01/10/2016,New Zealand,12,Santiago Gonzalez Iglesias,y,80
+01/10/2016,New Zealand,19,Juan Manuel Leguizamon,n,14
+01/10/2016,New Zealand,11,Ramiro Moyano,y,80
+01/10/2016,New Zealand,4,Guido Petti Pagadizabal,y,80
+01/10/2016,New Zealand,5,Matias Alemanno,y,58
+01/10/2016,New Zealand,16,Julian Montoya,n,31
+01/10/2016,New Zealand,14,Santiago Cordero,y,80
+01/10/2016,New Zealand,7,Javier Ortega Desio,y,80
+01/10/2016,New Zealand,17,Lucas Noguera,n,27
+01/10/2016,New Zealand,2,Agustín Creevy,y,49
+08/10/2016,Australia,19,Marcos Kremer,n,5
+08/10/2016,Australia,18,Enrique Pieretto Heiland,n,12
+08/10/2016,Australia,3,Ramiro Herrera,y,68
+08/10/2016,Australia,13,Matias Orlando,y,80
+08/10/2016,Australia,20,Tomas Cubelli,n,22
+08/10/2016,Australia,14,Matias Moroni,y,80
+08/10/2016,Australia,9,Martín Landajo,y,80
+08/10/2016,Australia,15,Joaquin Tuculet,y,80
+08/10/2016,Australia,6,Pablo Matera,y,80
+08/10/2016,Australia,17,Santiago Garcia Botta,n,12
+08/10/2016,Australia,12,Jeronimo de la Fuente,y,80
+08/10/2016,Australia,8,Leonardo Senatore,y,51
+08/10/2016,Australia,10,Santiago Gonzalez Iglesias,y,80
+08/10/2016,Australia,22,Gabriel Ascarate,n,0
+08/10/2016,Australia,23,Lucas Gonzalez Amorosino,n,0
+08/10/2016,Australia,21,Juan Manuel Leguizamon,n,29
+08/10/2016,Australia,11,Ramiro Moyano,y,58
+08/10/2016,Australia,4,Guido Petti Pagadizabal,y,75
+08/10/2016,Australia,5,Matias Alemanno,y,80
+08/10/2016,Australia,16,Julian Montoya,n,14
+08/10/2016,Australia,7,Javier Ortega Desio,y,80
+08/10/2016,Australia,1,Lucas Noguera,y,68
+08/10/2016,Australia,2,Agustín Creevy,y,66
+05/11/2016,Japan,8,Facundo Isa,y,50
+05/11/2016,Japan,18,Enrique Pieretto Heiland,n,27
+05/11/2016,Japan,3,Ramiro Herrera,y,53
+05/11/2016,Japan,13,Matias Orlando,y,80
+05/11/2016,Japan,21,Tomas Cubelli,n,27
+05/11/2016,Japan,14,Matias Moroni,y,80
+05/11/2016,Japan,9,Martín Landajo,y,53
+05/11/2016,Japan,10,Nicolas Sanchez,y,80
+05/11/2016,Japan,6,Tomas Lezana,y,80
+05/11/2016,Japan,15,Joaquin Tuculet,y,51
+05/11/2016,Japan,17,Santiago Garcia Botta,n,14
+05/11/2016,Japan,12,Jeronimo de la Fuente,y,63
+05/11/2016,Japan,19,Leonardo Senatore,n,30
+05/11/2016,Japan,22,Santiago Gonzalez Iglesias,n,17
+05/11/2016,Japan,20,Juan Manuel Leguizamon,n,23
+05/11/2016,Japan,23,Ramiro Moyano,n,29
+05/11/2016,Japan,4,Guido Petti Pagadizabal,y,57
+05/11/2016,Japan,5,Matias Alemanno,y,80
+05/11/2016,Japan,16,Julian Montoya,n,28
+05/11/2016,Japan,11,Santiago Cordero,y,80
+05/11/2016,Japan,7,Javier Ortega Desio,y,80
+05/11/2016,Japan,1,Lucas Noguera,y,66
+05/11/2016,Japan,2,Agustín Creevy,y,52
+12/11/2016,Wales,8,Facundo Isa,y,80
+12/11/2016,Wales,18,Enrique Pieretto Heiland,n,9
+12/11/2016,Wales,3,Ramiro Herrera,y,71
+12/11/2016,Wales,13,Matias Orlando,y,80
+12/11/2016,Wales,21,Tomas Cubelli,n,17
+12/11/2016,Wales,14,Matias Moroni,y,80
+12/11/2016,Wales,9,Martín Landajo,y,63
+12/11/2016,Wales,10,Nicolas Sanchez,y,80
+12/11/2016,Wales,20,Tomas Lezana,n,21
+12/11/2016,Wales,15,Joaquin Tuculet,y,80
+12/11/2016,Wales,6,Pablo Matera,y,64
+12/11/2016,Wales,12,Juan Martín Hernández,y,75
+12/11/2016,Wales,17,Santiago Garcia Botta,n,30
+12/11/2016,Wales,23,Jeronimo de la Fuente,n,0
+12/11/2016,Wales,19,Leonardo Senatore,n,16
+12/11/2016,Wales,22,Santiago Gonzalez Iglesias,n,5
+12/11/2016,Wales,4,Guido Petti Pagadizabal,y,59
+12/11/2016,Wales,5,Matias Alemanno,y,80
+12/11/2016,Wales,16,Julian Montoya,n,14
+12/11/2016,Wales,11,Santiago Cordero,y,80
+12/11/2016,Wales,7,Javier Ortega Desio,y,80
+12/11/2016,Wales,1,Lucas Noguera,y,50
+12/11/2016,Wales,2,Agustín Creevy,y,66
+19/11/2016,Scotland,8,Facundo Isa,y,56
+19/11/2016,Scotland,18,Enrique Pieretto Heiland,n,9
+19/11/2016,Scotland,3,Ramiro Herrera,y,71
+19/11/2016,Scotland,13,Matias Orlando,y,71
+19/11/2016,Scotland,21,Tomas Cubelli,n,21
+19/11/2016,Scotland,14,Matias Moroni,y,74
+19/11/2016,Scotland,9,Martín Landajo,y,59
+19/11/2016,Scotland,10,Nicolas Sanchez,y,80
+19/11/2016,Scotland,15,Joaquin Tuculet,y,80
+19/11/2016,Scotland,6,Pablo Matera,y,80
+19/11/2016,Scotland,12,Juan Martín Hernández,y,80
+19/11/2016,Scotland,17,Santiago Garcia Botta,n,9
+19/11/2016,Scotland,22,Jeronimo de la Fuente,n,6
+19/11/2016,Scotland,19,Leonardo Senatore,n,24
+19/11/2016,Scotland,20,Juan Manuel Leguizamon,n,9
+19/11/2016,Scotland,4,Guido Petti Pagadizabal,y,71
+19/11/2016,Scotland,5,Matias Alemanno,y,80
+19/11/2016,Scotland,16,Julian Montoya,n,9
+19/11/2016,Scotland,23,Juan Pablo Estelles,n,9
+19/11/2016,Scotland,11,Santiago Cordero,y,80
+19/11/2016,Scotland,7,Javier Ortega Desio,y,80
+19/11/2016,Scotland,1,Lucas Noguera,y,71
+19/11/2016,Scotland,2,Agustín Creevy,y,71
+26/11/2016,England,19,Facundo Isa,n,75
+26/11/2016,England,18,Enrique Pieretto Heiland,n,18
+26/11/2016,England,3,Ramiro Herrera,y,62
+26/11/2016,England,14,Matias Orlando,y,80
+26/11/2016,England,9,Tomas Cubelli,y,68
+26/11/2016,England,13,Matias Moroni,y,80
+26/11/2016,England,21,Martín Landajo,n,12
+26/11/2016,England,20,Tomas Lezana,n,16
+26/11/2016,England,6,Pablo Matera,y,80
+26/11/2016,England,10,Juan Martín Hernández,y,67
+26/11/2016,England,17,Santiago Garcia Botta,n,16
+26/11/2016,England,22,Jeronimo de la Fuente,n,76
+26/11/2016,England,8,Leonardo Senatore,y,5
+26/11/2016,England,12,Santiago Gonzalez Iglesias,y,17
+26/11/2016,England,23,Gabriel Ascarate,n,4
+26/11/2016,England,4,Guido Petti Pagadizabal,y,80
+26/11/2016,England,5,Matias Alemanno,y,64
+26/11/2016,England,16,Julian Montoya,n,18
+26/11/2016,England,11,Juan Pablo Estelles,y,76
+26/11/2016,England,15,Santiago Cordero,y,80
+26/11/2016,England,7,Javier Ortega Desio,y,80
+26/11/2016,England,1,Lucas Noguera,y,64
+26/11/2016,England,2,Agustín Creevy,y,62
+10/06/2017,England,3,Enrique Pieretto Heiland,y,55
+10/06/2017,England,13,Matias Orlando,y,80
+10/06/2017,England,14,Matias Moroni,y,80
+10/06/2017,England,9,Martín Landajo,y,69
+10/06/2017,England,18,Nahuel Tetaz Chaparro,n,25
+10/06/2017,England,10,Nicolas Sanchez,y,62
+10/06/2017,England,11,Emiliano Boffelli,y,62
+10/06/2017,England,15,Joaquin Tuculet,y,80
+10/06/2017,England,6,Pablo Matera,y,80
+10/06/2017,England,22,Juan Martín Hernández,n,18
+10/06/2017,England,17,Santiago Garcia Botta,n,10
+10/06/2017,England,12,Jeronimo de la Fuente,y,80
+10/06/2017,England,5,Tomas Lavanini,y,49
+10/06/2017,England,20,Leonardo Senatore,n,22
+10/06/2017,England,21,Gonzalo Bertranou,n,11
+10/06/2017,England,8,Juan Manuel Leguizamon,y,58
+10/06/2017,England,23,Ramiro Moyano,n,18
+10/06/2017,England,19,Guido Petti Pagadizabal,n,31
+10/06/2017,England,4,Matias Alemanno,y,80
+10/06/2017,England,16,Julian Montoya,n,31
+10/06/2017,England,7,Javier Ortega Desio,y,80
+10/06/2017,England,1,Lucas Noguera,y,70
+10/06/2017,England,2,Agustín Creevy,y,49
+17/06/2017,England,3,Enrique Pieretto Heiland,y,50
+17/06/2017,England,18,Ramiro Herrera,n,30
+17/06/2017,England,13,Matias Orlando,y,80
+17/06/2017,England,23,Matias Moroni,n,6
+17/06/2017,England,9,Martín Landajo,y,74
+17/06/2017,England,17,Nahuel Tetaz Chaparro,n,33
+17/06/2017,England,10,Nicolas Sanchez,y,60
+17/06/2017,England,20,Tomas Lezana,n,25
+17/06/2017,England,11,Emiliano Boffelli,y,74
+17/06/2017,England,15,Joaquin Tuculet,y,80
+17/06/2017,England,6,Pablo Matera,y,55
+17/06/2017,England,22,Juan Martín Hernández,n,20
+17/06/2017,England,12,Jeronimo de la Fuente,y,80
+17/06/2017,England,5,Tomas Lavanini,y,80
+17/06/2017,England,21,Gonzalo Bertranou,n,6
+17/06/2017,England,8,Juan Manuel Leguizamon,y,80
+17/06/2017,England,14,Ramiro Moyano,y,80
+17/06/2017,England,19,Guido Petti Pagadizabal,n,33
+17/06/2017,England,4,Matias Alemanno,y,47
+17/06/2017,England,16,Julian Montoya,n,20
+17/06/2017,England,7,Javier Ortega Desio,y,80
+17/06/2017,England,1,Lucas Noguera,y,47
+17/06/2017,England,2,Agustín Creevy,y,60
+24/06/2017,Georgia,3,Enrique Pieretto Heiland,y,51
+24/06/2017,Georgia,18,Ramiro Herrera,n,29
+24/06/2017,Georgia,13,Matias Orlando,y,67
+24/06/2017,Georgia,14,Matias Moroni,y,80
+24/06/2017,Georgia,9,Martín Landajo,y,60
+24/06/2017,Georgia,1,Nahuel Tetaz Chaparro,y,52
+24/06/2017,Georgia,10,Nicolas Sanchez,y,60
+24/06/2017,Georgia,6,Tomas Lezana,y,17
+24/06/2017,Georgia,15,Joaquin Tuculet,y,80
+24/06/2017,Georgia,19,Pablo Matera,n,63
+24/06/2017,Georgia,12,Jeronimo de la Fuente,y,80
+24/06/2017,Georgia,8,Leonardo Senatore,y,51
+24/06/2017,Georgia,22,Santiago Gonzalez Iglesias,n,20
+24/06/2017,Georgia,21,Gonzalo Bertranou,n,20
+24/06/2017,Georgia,11,Ramiro Moyano,y,67
+24/06/2017,Georgia,4,Guido Petti Pagadizabal,y,80
+24/06/2017,Georgia,5,Matias Alemanno,y,80
+24/06/2017,Georgia,16,Julian Montoya,n,40
+24/06/2017,Georgia,17,Lucas Noguera,n,28
+24/06/2017,Georgia,20,Benjamin Macome,n,29
+24/06/2017,Georgia,7,Rodrigo Baez,y,80
+24/06/2017,Georgia,2,Agustín Creevy,y,40
+24/06/2017,Georgia,23,German Schulz,n,26
+19/08/2017,South Africa,19,Marcos Kremer,n,10
+19/08/2017,South Africa,3,Enrique Pieretto Heiland,y,54
+19/08/2017,South Africa,18,Ramiro Herrera,n,26
+19/08/2017,South Africa,13,Matias Orlando,y,56
+19/08/2017,South Africa,21,Tomas Cubelli,n,23
+19/08/2017,South Africa,23,Matias Moroni,n,24
+19/08/2017,South Africa,9,Martín Landajo,y,57
+19/08/2017,South Africa,1,Nahuel Tetaz Chaparro,y,67
+19/08/2017,South Africa,10,Nicolas Sanchez,y,54
+19/08/2017,South Africa,7,Tomas Lezana,y,80
+19/08/2017,South Africa,11,Emiliano Boffelli,y,80
+19/08/2017,South Africa,15,Joaquin Tuculet,y,80
+19/08/2017,South Africa,6,Pablo Matera,y,80
+19/08/2017,South Africa,22,Juan Martín Hernández,n,26
+19/08/2017,South Africa,12,Jeronimo de la Fuente,y,80
+19/08/2017,South Africa,5,Tomas Lavanini,y,70
+19/08/2017,South Africa,8,Leonardo Senatore,y,14
+19/08/2017,South Africa,14,Ramiro Moyano,y,80
+19/08/2017,South Africa,4,Guido Petti Pagadizabal,y,80
+19/08/2017,South Africa,16,Julian Montoya,n,19
+19/08/2017,South Africa,20,Javier Ortega Desio,n,66
+19/08/2017,South Africa,17,Lucas Noguera,n,13
+19/08/2017,South Africa,2,Agustín Creevy,y,61
+26/08/2017,South Africa,19,Marcos Kremer,n,22
+26/08/2017,South Africa,18,Enrique Pieretto Heiland,n,30
+26/08/2017,South Africa,3,Ramiro Herrera,y,50
+26/08/2017,South Africa,13,Matias Orlando,y,80
+26/08/2017,South Africa,9,Tomas Cubelli,y,57
+26/08/2017,South Africa,23,Matias Moroni,n,23
+26/08/2017,South Africa,21,Martín Landajo,n,23
+26/08/2017,South Africa,22,Nicolas Sanchez,n,23
+26/08/2017,South Africa,7,Tomas Lezana,y,50
+26/08/2017,South Africa,11,Emiliano Boffelli,y,80
+26/08/2017,South Africa,15,Joaquin Tuculet,y,80
+26/08/2017,South Africa,6,Pablo Matera,y,58
+26/08/2017,South Africa,10,Juan Martín Hernández,y,57
+26/08/2017,South Africa,17,Santiago Garcia Botta,n,0
+26/08/2017,South Africa,12,Jeronimo de la Fuente,y,80
+26/08/2017,South Africa,5,Tomas Lavanini,y,80
+26/08/2017,South Africa,8,Juan Manuel Leguizamon,y,80
+26/08/2017,South Africa,14,Ramiro Moyano,y,57
+26/08/2017,South Africa,4,Matias Alemanno,y,80
+26/08/2017,South Africa,16,Julian Montoya,n,23
+26/08/2017,South Africa,20,Javier Ortega Desio,n,30
+26/08/2017,South Africa,1,Lucas Noguera,y,80
+26/08/2017,South Africa,2,Agustín Creevy,y,57
+09/09/2017,New Zealand,19,Marcos Kremer,n,19
+09/09/2017,New Zealand,18,Enrique Pieretto Heiland,n,15
+09/09/2017,New Zealand,23,Matias Orlando,n,41
+09/09/2017,New Zealand,9,Tomas Cubelli,y,65
+09/09/2017,New Zealand,13,Matias Moroni,y,39
+09/09/2017,New Zealand,21,Martín Landajo,n,15
+09/09/2017,New Zealand,3,Nahuel Tetaz Chaparro,y,65
+09/09/2017,New Zealand,10,Nicolas Sanchez,y,80
+09/09/2017,New Zealand,20,Tomas Lezana,n,19
+09/09/2017,New Zealand,11,Emiliano Boffelli,y,80
+09/09/2017,New Zealand,15,Joaquin Tuculet,y,80
+09/09/2017,New Zealand,6,Pablo Matera,y,80
+09/09/2017,New Zealand,17,Santiago Garcia Botta,n,10
+09/09/2017,New Zealand,12,Jeronimo de la Fuente,y,70
+09/09/2017,New Zealand,22,Santiago Gonzalez Iglesias,n,10
+09/09/2017,New Zealand,4,Guido Petti Pagadizabal,y,80
+09/09/2017,New Zealand,5,Matias Alemanno,y,61
+09/09/2017,New Zealand,16,Julian Montoya,n,15
+09/09/2017,New Zealand,14,Santiago Cordero,y,80
+09/09/2017,New Zealand,7,Javier Ortega Desio,y,80
+09/09/2017,New Zealand,1,Lucas Noguera,y,70
+09/09/2017,New Zealand,8,Benjamin Macome,y,61
+09/09/2017,New Zealand,2,Agustín Creevy,y,65
+16/09/2017,Australia,19,Marcos Kremer,n,11
+16/09/2017,Australia,18,Enrique Pieretto Heiland,n,14
+16/09/2017,Australia,13,Matias Orlando,y,80
+16/09/2017,Australia,21,Tomas Cubelli,n,18
+16/09/2017,Australia,14,Matias Moroni,y,80
+16/09/2017,Australia,9,Martín Landajo,y,62
+16/09/2017,Australia,3,Nahuel Tetaz Chaparro,y,75
+16/09/2017,Australia,10,Nicolas Sanchez,y,80
+16/09/2017,Australia,8,Tomas Lezana,y,80
+16/09/2017,Australia,23,Manuel Montero,n,40
+16/09/2017,Australia,15,Emiliano Boffelli,y,80
+16/09/2017,Australia,6,Pablo Matera,y,66
+16/09/2017,Australia,17,Santiago Garcia Botta,n,7
+16/09/2017,Australia,12,Jeronimo de la Fuente,y,73
+16/09/2017,Australia,22,Santiago Gonzalez Iglesias,n,7
+16/09/2017,Australia,20,Juan Manuel Leguizamon,n,14
+16/09/2017,Australia,11,Ramiro Moyano,y,40
+16/09/2017,Australia,4,Guido Petti Pagadizabal,y,69
+16/09/2017,Australia,5,Matias Alemanno,y,80
+16/09/2017,Australia,16,Julian Montoya,n,18
+16/09/2017,Australia,7,Javier Ortega Desio,y,71
+16/09/2017,Australia,1,Lucas Noguera,y,73
+16/09/2017,Australia,2,Agustín Creevy,y,62
+30/09/2017,New Zealand,19,Marcos Kremer,n,29
+30/09/2017,New Zealand,18,Ramiro Herrera,n,37
+30/09/2017,New Zealand,13,Matias Orlando,y,58
+30/09/2017,New Zealand,9,Tomas Cubelli,y,34
+30/09/2017,New Zealand,14,Matias Moroni,y,80
+30/09/2017,New Zealand,21,Martín Landajo,n,46
+30/09/2017,New Zealand,3,Nahuel Tetaz Chaparro,y,51
+30/09/2017,New Zealand,10,Nicolas Sanchez,y,54
+30/09/2017,New Zealand,7,Tomas Lezana,y,72
+30/09/2017,New Zealand,11,Emiliano Boffelli,y,80
+30/09/2017,New Zealand,15,Joaquin Tuculet,y,80
+30/09/2017,New Zealand,6,Pablo Matera,y,51
+30/09/2017,New Zealand,22,Juan Martín Hernández,n,26
+30/09/2017,New Zealand,17,Santiago Garcia Botta,n,26
+30/09/2017,New Zealand,12,Jeronimo de la Fuente,y,80
+30/09/2017,New Zealand,5,Tomas Lavanini,y,51
+30/09/2017,New Zealand,8,Juan Manuel Leguizamon,y,80
+30/09/2017,New Zealand,4,Guido Petti Pagadizabal,y,80
+30/09/2017,New Zealand,16,Julian Montoya,n,21
+30/09/2017,New Zealand,23,Santiago Cordero,n,22
+30/09/2017,New Zealand,20,Javier Ortega Desio,n,29
+30/09/2017,New Zealand,1,Lucas Noguera,y,54
+30/09/2017,New Zealand,2,Agustín Creevy,y,59
+07/10/2017,Australia,4,Marcos Kremer,y,80
+07/10/2017,Australia,18,Enrique Pieretto Heiland,n,40
+07/10/2017,Australia,13,Matias Orlando,y,80
+07/10/2017,Australia,14,Matias Moroni,y,80
+07/10/2017,Australia,9,Martín Landajo,y,79
+07/10/2017,Australia,3,Nahuel Tetaz Chaparro,y,40
+07/10/2017,Australia,10,Nicolas Sanchez,y,65
+07/10/2017,Australia,8,Tomas Lezana,y,59
+07/10/2017,Australia,11,Emiliano Boffelli,y,80
+07/10/2017,Australia,15,Joaquin Tuculet,y,60
+07/10/2017,Australia,6,Pablo Matera,y,80
+07/10/2017,Australia,22,Juan Martín Hernández,n,15
+07/10/2017,Australia,17,Santiago Garcia Botta,n,15
+07/10/2017,Australia,20,Leonardo Senatore,n,27
+07/10/2017,Australia,12,Santiago Gonzalez Iglesias,y,80
+07/10/2017,Australia,21,Gonzalo Bertranou,n,1
+07/10/2017,Australia,5,Matias Alemanno,y,80
+07/10/2017,Australia,16,Julian Montoya,n,12
+07/10/2017,Australia,23,Santiago Cordero,n,20
+07/10/2017,Australia,7,Javier Ortega Desio,y,53
+07/10/2017,Australia,1,Lucas Noguera,y,65
+07/10/2017,Australia,19,Benjamin Macome,n,21
+07/10/2017,Australia,2,Agustín Creevy,y,68
+11/11/2017,England,7,Marcos Kremer,y,80
+11/11/2017,England,18,Enrique Pieretto Heiland,n,21
+11/11/2017,England,13,Matias Moroni,y,80
+11/11/2017,England,9,Martín Landajo,y,68
+11/11/2017,England,3,Nahuel Tetaz Chaparro,y,59
+11/11/2017,England,22,Nicolas Sanchez,n,16
+11/11/2017,England,8,Tomas Lezana,y,57
+11/11/2017,England,11,Emiliano Boffelli,y,80
+11/11/2017,England,15,Joaquin Tuculet,y,80
+11/11/2017,England,6,Pablo Matera,y,80
+11/11/2017,England,10,Juan Martín Hernández,y,64
+11/11/2017,England,1,Santiago Garcia Botta,y,59
+11/11/2017,England,5,Tomas Lavanini,y,68
+11/11/2017,England,23,Sebastian Cancelliere,n,25
+11/11/2017,England,20,Leonardo Senatore,n,12
+11/11/2017,England,12,Santiago Gonzalez Iglesias,y,80
+11/11/2017,England,21,Gonzalo Bertranou,n,12
+11/11/2017,England,14,Ramiro Moyano,y,55
+11/11/2017,England,4,Matias Alemanno,y,80
+11/11/2017,England,16,Julian Montoya,n,12
+11/11/2017,England,17,Lucas Noguera,n,21
+11/11/2017,England,19,Benjamin Macome,n,23
+11/11/2017,England,2,Agustín Creevy,y,68
+18/11/2017,Italy,7,Marcos Kremer,y,80
+18/11/2017,Italy,18,Enrique Pieretto Heiland,n,17
+18/11/2017,Italy,13,Matias Orlando,y,58
+18/11/2017,Italy,23,Matias Moroni,n,22
+18/11/2017,Italy,9,Martín Landajo,y,60
+18/11/2017,Italy,3,Nahuel Tetaz Chaparro,y,63
+18/11/2017,Italy,10,Nicolas Sanchez,y,70
+18/11/2017,Italy,11,Emiliano Boffelli,y,80
+18/11/2017,Italy,15,Joaquin Tuculet,y,80
+18/11/2017,Italy,6,Pablo Matera,y,80
+18/11/2017,Italy,22,Juan Martín Hernández,n,10
+18/11/2017,Italy,1,Santiago Garcia Botta,y,44
+18/11/2017,Italy,5,Tomas Lavanini,y,80
+18/11/2017,Italy,14,Sebastian Cancelliere,y,80
+18/11/2017,Italy,12,Santiago Gonzalez Iglesias,y,80
+18/11/2017,Italy,21,Gonzalo Bertranou,n,20
+18/11/2017,Italy,8,Juan Manuel Leguizamon,y,58
+18/11/2017,Italy,19,Guido Petti Pagadizabal,n,28
+18/11/2017,Italy,4,Matias Alemanno,y,52
+18/11/2017,Italy,16,Julian Montoya,n,20
+18/11/2017,Italy,17,Lucas Noguera,n,36
+18/11/2017,Italy,20,Benjamin Macome,n,22
+18/11/2017,Italy,2,Agustín Creevy,y,60
+25/11/2017,Ireland,7,Marcos Kremer,y,80
+25/11/2017,Ireland,18,Enrique Pieretto Heiland,n,16
+25/11/2017,Ireland,13,Matias Moroni,y,80
+25/11/2017,Ireland,9,Martín Landajo,y,56
+25/11/2017,Ireland,3,Nahuel Tetaz Chaparro,y,64
+25/11/2017,Ireland,10,Nicolas Sanchez,y,80
+25/11/2017,Ireland,8,Tomas Lezana,y,80
+25/11/2017,Ireland,11,Emiliano Boffelli,y,67
+25/11/2017,Ireland,15,Joaquin Tuculet,y,80
+25/11/2017,Ireland,6,Pablo Matera,y,80
+25/11/2017,Ireland,1,Santiago Garcia Botta,y,64
+25/11/2017,Ireland,22,Jeronimo de la Fuente,n,24
+25/11/2017,Ireland,5,Tomas Lavanini,y,64
+25/11/2017,Ireland,23,Sebastian Cancelliere,n,13
+25/11/2017,Ireland,12,Santiago Gonzalez Iglesias,y,56
+25/11/2017,Ireland,21,Gonzalo Bertranou,n,24
+25/11/2017,Ireland,20,Juan Manuel Leguizamon,n,16
+25/11/2017,Ireland,14,Ramiro Moyano,y,80
+25/11/2017,Ireland,19,Guido Petti Pagadizabal,n,24
+25/11/2017,Ireland,4,Matias Alemanno,y,56
+25/11/2017,Ireland,16,Julian Montoya,n,20
+25/11/2017,Ireland,17,Lucas Noguera,n,16
+25/11/2017,Ireland,2,Agustín Creevy,y,60
+09/06/2018,Wales,7,Marcos Kremer,y,80
+09/06/2018,Wales,17,Javier Manuel Diaz,n,23
+09/06/2018,Wales,13,Matias Orlando,y,80
+09/06/2018,Wales,21,Martín Landajo,n,32
+09/06/2018,Wales,3,Nahuel Tetaz Chaparro,y,66
+09/06/2018,Wales,10,Nicolas Sanchez,y,40
+09/06/2018,Wales,20,Tomas Lezana,n,33
+09/06/2018,Wales,15,Emiliano Boffelli,y,80
+09/06/2018,Wales,6,Pablo Matera,y,47
+09/06/2018,Wales,1,Santiago Garcia Botta,y,57
+09/06/2018,Wales,12,Jeronimo de la Fuente,y,80
+09/06/2018,Wales,5,Tomas Lavanini,y,68
+09/06/2018,Wales,23,Sebastian Cancelliere,n,26
+09/06/2018,Wales,22,Santiago Gonzalez Iglesias,n,40
+09/06/2018,Wales,14,Bautista Delguy,y,54
+09/06/2018,Wales,9,Gonzalo Bertranou,y,48
+09/06/2018,Wales,11,Ramiro Moyano,y,80
+09/06/2018,Wales,4,Guido Petti Pagadizabal,y,80
+09/06/2018,Wales,19,Matias Alemanno,n,12
+09/06/2018,Wales,16,Julian Montoya,n,15
+09/06/2018,Wales,8,Javier Ortega Desio,y,80
+09/06/2018,Wales,2,Agustín Creevy,y,65
+09/06/2018,Wales,18,Santiago Medrano,n,14
+16/06/2018,Wales,7,Marcos Kremer,y,80
+16/06/2018,Wales,17,Javier Manuel Diaz,n,28
+16/06/2018,Wales,13,Matias Orlando,y,80
+16/06/2018,Wales,9,Martín Landajo,y,52
+16/06/2018,Wales,3,Nahuel Tetaz Chaparro,y,57
+16/06/2018,Wales,10,Nicolas Sanchez,y,80
+16/06/2018,Wales,20,Tomas Lezana,n,31
+16/06/2018,Wales,15,Emiliano Boffelli,y,80
+16/06/2018,Wales,6,Pablo Matera,y,49
+16/06/2018,Wales,1,Santiago Garcia Botta,y,52
+16/06/2018,Wales,12,Jeronimo de la Fuente,y,68
+16/06/2018,Wales,5,Tomas Lavanini,y,49
+16/06/2018,Wales,23,Sebastian Cancelliere,n,24
+16/06/2018,Wales,22,Santiago Gonzalez Iglesias,n,12
+16/06/2018,Wales,14,Bautista Delguy,y,80
+16/06/2018,Wales,21,Gonzalo Bertranou,n,28
+16/06/2018,Wales,11,Ramiro Moyano,y,56
+16/06/2018,Wales,4,Guido Petti Pagadizabal,y,80
+16/06/2018,Wales,19,Matias Alemanno,n,31
+16/06/2018,Wales,16,Julian Montoya,n,31
+16/06/2018,Wales,8,Javier Ortega Desio,y,80
+16/06/2018,Wales,2,Agustín Creevy,y,49
+16/06/2018,Wales,18,Santiago Medrano,n,23
+23/06/2018,Scotland,19,Marcos Kremer,n,34
+23/06/2018,Scotland,1,Javier Manuel Diaz,y,49
+23/06/2018,Scotland,13,Matias Orlando,y,67
+23/06/2018,Scotland,9,Martín Landajo,y,56
+23/06/2018,Scotland,3,Nahuel Tetaz Chaparro,y,64
+23/06/2018,Scotland,10,Nicolas Sanchez,y,80
+23/06/2018,Scotland,7,Tomas Lezana,y,80
+23/06/2018,Scotland,15,Emiliano Boffelli,y,80
+23/06/2018,Scotland,6,Pablo Matera,y,46
+23/06/2018,Scotland,17,Santiago Garcia Botta,n,31
+23/06/2018,Scotland,20,Tomas Lavanini,n,24
+23/06/2018,Scotland,11,Sebastian Cancelliere,y,80
+23/06/2018,Scotland,8,Leonardo Senatore,y,80
+23/06/2018,Scotland,22,Santiago Gonzalez Iglesias,n,24
+23/06/2018,Scotland,14,Bautista Delguy,y,80
+23/06/2018,Scotland,21,Gonzalo Bertranou,n,24
+23/06/2018,Scotland,12,Bautista Ezcurra,y,56
+23/06/2018,Scotland,4,Guido Petti Pagadizabal,y,80
+23/06/2018,Scotland,5,Matias Alemanno,y,56
+23/06/2018,Scotland,16,Julian Montoya,n,32
+23/06/2018,Scotland,23,Juan Cruz Mallia,n,13
+23/06/2018,Scotland,2,Agustín Creevy,y,48
+23/06/2018,Scotland,18,Santiago Medrano,n,16
+18/08/2018,South Africa,3,Juan Figallo,y,63
+18/08/2018,South Africa,7,Marcos Kremer,y,80
+18/08/2018,South Africa,13,Matias Moroni,y,80
+18/08/2018,South Africa,21,Martín Landajo,n,17
+18/08/2018,South Africa,1,Nahuel Tetaz Chaparro,y,51
+18/08/2018,South Africa,10,Nicolas Sanchez,y,80
+18/08/2018,South Africa,20,Tomas Lezana,n,29
+18/08/2018,South Africa,15,Emiliano Boffelli,y,80
+18/08/2018,South Africa,6,Pablo Matera,y,51
+18/08/2018,South Africa,17,Santiago Garcia Botta,n,29
+18/08/2018,South Africa,19,Tomas Lavanini,n,26
+18/08/2018,South Africa,22,Santiago Gonzalez Iglesias,n,0
+18/08/2018,South Africa,14,Bautista Delguy,y,80
+18/08/2018,South Africa,9,Gonzalo Bertranou,y,63
+18/08/2018,South Africa,16,Diego Fortuny,n,8
+18/08/2018,South Africa,12,Bautista Ezcurra,y,80
+18/08/2018,South Africa,11,Ramiro Moyano,y,80
+18/08/2018,South Africa,4,Guido Petti Pagadizabal,y,80
+18/08/2018,South Africa,5,Matias Alemanno,y,54
+18/08/2018,South Africa,23,Juan Cruz Mallia,n,0
+18/08/2018,South Africa,8,Javier Ortega Desio,y,80
+18/08/2018,South Africa,2,Agustín Creevy,y,72
+18/08/2018,South Africa,18,Santiago Medrano,n,17
+25/08/2018,South Africa,3,Juan Figallo,y,69
+25/08/2018,South Africa,7,Marcos Kremer,y,80
+25/08/2018,South Africa,21,Tomas Cubelli,n,11
+25/08/2018,South Africa,13,Matias Moroni,y,80
+25/08/2018,South Africa,1,Nahuel Tetaz Chaparro,y,64
+25/08/2018,South Africa,10,Nicolas Sanchez,y,80
+25/08/2018,South Africa,20,Tomas Lezana,n,21
+25/08/2018,South Africa,15,Emiliano Boffelli,y,80
+25/08/2018,South Africa,6,Pablo Matera,y,59
+25/08/2018,South Africa,17,Santiago Garcia Botta,n,16
+25/08/2018,South Africa,22,Jeronimo de la Fuente,n,22
+25/08/2018,South Africa,5,Tomas Lavanini,y,72
+25/08/2018,South Africa,14,Bautista Delguy,y,80
+25/08/2018,South Africa,9,Gonzalo Bertranou,y,69
+25/08/2018,South Africa,12,Bautista Ezcurra,y,80
+25/08/2018,South Africa,11,Ramiro Moyano,y,58
+25/08/2018,South Africa,4,Guido Petti Pagadizabal,y,80
+25/08/2018,South Africa,19,Matias Alemanno,n,8
+25/08/2018,South Africa,23,Juan Cruz Mallia,n,0
+25/08/2018,South Africa,8,Javier Ortega Desio,y,80
+25/08/2018,South Africa,16,Facundo Bosch,n,4
+25/08/2018,South Africa,2,Agustín Creevy,y,76
+25/08/2018,South Africa,18,Santiago Medrano,n,11
+08/09/2018,New Zealand,7,Marcos Kremer,y,80
+08/09/2018,New Zealand,17,Juan Pablo Zeiss,n,21
+08/09/2018,New Zealand,21,Tomas Cubelli,n,17
+08/09/2018,New Zealand,18,Gaston Cortes,n,29
+08/09/2018,New Zealand,13,Matias Moroni,y,65
+08/09/2018,New Zealand,9,Martín Landajo,y,63
+08/09/2018,New Zealand,3,Nahuel Tetaz Chaparro,y,51
+08/09/2018,New Zealand,10,Nicolas Sanchez,y,80
+08/09/2018,New Zealand,6,Tomas Lezana,y,63
+08/09/2018,New Zealand,15,Emiliano Boffelli,y,80
+08/09/2018,New Zealand,20,Pablo Matera,n,17
+08/09/2018,New Zealand,1,Santiago Garcia Botta,y,59
+08/09/2018,New Zealand,12,Jeronimo de la Fuente,y,80
+08/09/2018,New Zealand,5,Tomas Lavanini,y,80
+08/09/2018,New Zealand,14,Bautista Delguy,y,80
+08/09/2018,New Zealand,22,Bautista Ezcurra,n,0
+08/09/2018,New Zealand,11,Ramiro Moyano,y,80
+08/09/2018,New Zealand,4,Guido Petti Pagadizabal,y,59
+08/09/2018,New Zealand,19,Matias Alemanno,n,21
+08/09/2018,New Zealand,16,Julian Montoya,n,29
+08/09/2018,New Zealand,23,Juan Cruz Mallia,n,15
+08/09/2018,New Zealand,8,Javier Ortega Desio,y,80
+08/09/2018,New Zealand,2,Agustín Creevy,y,51
+15/09/2018,Australia,7,Marcos Kremer,y,66
+15/09/2018,Australia,18,Juan Pablo Zeiss,n,14
+15/09/2018,Australia,13,Matias Moroni,y,80
+15/09/2018,Australia,21,Martín Landajo,n,0
+15/09/2018,Australia,1,Nahuel Tetaz Chaparro,y,66
+15/09/2018,Australia,10,Nicolas Sanchez,y,80
+15/09/2018,Australia,15,Emiliano Boffelli,y,80
+15/09/2018,Australia,6,Pablo Matera,y,80
+15/09/2018,Australia,17,Santiago Garcia Botta,n,14
+15/09/2018,Australia,12,Jeronimo de la Fuente,y,75
+15/09/2018,Australia,5,Tomas Lavanini,y,72
+15/09/2018,Australia,14,Bautista Delguy,y,80
+15/09/2018,Australia,9,Gonzalo Bertranou,y,80
+15/09/2018,Australia,22,Bautista Ezcurra,n,47
+15/09/2018,Australia,20,Juan Manuel Leguizamon,n,14
+15/09/2018,Australia,11,Ramiro Moyano,y,33
+15/09/2018,Australia,4,Guido Petti Pagadizabal,y,70
+15/09/2018,Australia,19,Matias Alemanno,n,18
+15/09/2018,Australia,16,Julian Montoya,n,14
+15/09/2018,Australia,23,Juan Cruz Mallia,n,5
+15/09/2018,Australia,8,Javier Ortega Desio,y,80
+15/09/2018,Australia,2,Agustín Creevy,y,66
+15/09/2018,Australia,3,Santiago Medrano,y,66
+29/09/2018,New Zealand,7,Marcos Kremer,y,71
+29/09/2018,New Zealand,3,Ramiro Herrera,y,56
+29/09/2018,New Zealand,22,Matias Orlando,n,17
+29/09/2018,New Zealand,17,Juan Pablo Zeiss,n,22
+29/09/2018,New Zealand,21,Tomas Cubelli,n,29
+29/09/2018,New Zealand,11,Matias Moroni,y,80
+29/09/2018,New Zealand,1,Nahuel Tetaz Chaparro,y,58
+29/09/2018,New Zealand,10,Nicolas Sanchez,y,80
+29/09/2018,New Zealand,15,Emiliano Boffelli,y,71
+29/09/2018,New Zealand,6,Pablo Matera,y,80
+29/09/2018,New Zealand,13,Jeronimo de la Fuente,y,80
+29/09/2018,New Zealand,5,Tomas Lavanini,y,80
+29/09/2018,New Zealand,23,Sebastian Cancelliere,n,46
+29/09/2018,New Zealand,14,Bautista Delguy,y,34
+29/09/2018,New Zealand,9,Gonzalo Bertranou,y,51
+29/09/2018,New Zealand,12,Bautista Ezcurra,y,72
+29/09/2018,New Zealand,20,Juan Manuel Leguizamon,n,9
+29/09/2018,New Zealand,4,Guido Petti Pagadizabal,y,57
+29/09/2018,New Zealand,19,Matias Alemanno,n,23
+29/09/2018,New Zealand,16,Julian Montoya,n,29
+29/09/2018,New Zealand,8,Javier Ortega Desio,y,80
+29/09/2018,New Zealand,2,Agustín Creevy,y,51
+29/09/2018,New Zealand,18,Santiago Medrano,n,24
+06/10/2018,Australia,7,Marcos Kremer,y,80
+06/10/2018,Australia,3,Ramiro Herrera,y,52
+06/10/2018,Australia,13,Matias Orlando,y,80
+06/10/2018,Australia,21,Tomas Cubelli,n,21
+06/10/2018,Australia,14,Matias Moroni,y,67
+06/10/2018,Australia,1,Nahuel Tetaz Chaparro,y,67
+06/10/2018,Australia,10,Nicolas Sanchez,y,29
+06/10/2018,Australia,15,Emiliano Boffelli,y,80
+06/10/2018,Australia,6,Pablo Matera,y,80
+06/10/2018,Australia,17,Santiago Garcia Botta,n,13
+06/10/2018,Australia,12,Jeronimo de la Fuente,y,80
+06/10/2018,Australia,5,Tomas Lavanini,y,71
+06/10/2018,Australia,23,Sebastian Cancelliere,n,13
+06/10/2018,Australia,22,Santiago Gonzalez Iglesias,n,51
+06/10/2018,Australia,9,Gonzalo Bertranou,y,59
+06/10/2018,Australia,20,Juan Manuel Leguizamon,n,13
+06/10/2018,Australia,11,Ramiro Moyano,y,80
+06/10/2018,Australia,4,Guido Petti Pagadizabal,y,80
+06/10/2018,Australia,19,Matias Alemanno,n,9
+06/10/2018,Australia,16,Julian Montoya,n,28
+06/10/2018,Australia,8,Javier Ortega Desio,y,67
+06/10/2018,Australia,2,Agustín Creevy,y,52
+06/10/2018,Australia,18,Santiago Medrano,n,28
+10/11/2018,Ireland,13,Matias Orlando,y,59
+10/11/2018,Ireland,17,Juan Pablo Zeiss,n,21
+10/11/2018,Ireland,9,Tomas Cubelli,y,64
+10/11/2018,Ireland,23,Matias Moroni,n,21
+10/11/2018,Ireland,10,Nicolas Sanchez,y,72
+10/11/2018,Ireland,20,Tomas Lezana,n,16
+10/11/2018,Ireland,15,Emiliano Boffelli,y,80
+10/11/2018,Ireland,6,Pablo Matera,y,70
+10/11/2018,Ireland,1,Santiago Garcia Botta,y,59
+10/11/2018,Ireland,12,Jeronimo de la Fuente,y,80
+10/11/2018,Ireland,5,Tomas Lavanini,y,80
+10/11/2018,Ireland,14,Bautista Delguy,y,80
+10/11/2018,Ireland,21,Gonzalo Bertranou,n,16
+10/11/2018,Ireland,18,Lucio Sordoni,n,8
+10/11/2018,Ireland,11,Ramiro Moyano,y,80
+10/11/2018,Ireland,7,Guido Petti Pagadizabal,y,64
+10/11/2018,Ireland,22,Joaquin Diaz Bonilla,n,8
+10/11/2018,Ireland,4,Matias Alemanno,y,80
+10/11/2018,Ireland,16,Julian Montoya,n,16
+10/11/2018,Ireland,8,Javier Ortega Desio,y,80
+10/11/2018,Ireland,19,Rodrigo Bruni,n,10
+10/11/2018,Ireland,2,Agustín Creevy,y,64
+10/11/2018,Ireland,3,Santiago Medrano,y,72
+17/11/2018,France,13,Matias Orlando,y,80
+17/11/2018,France,17,Juan Pablo Zeiss,n,26
+17/11/2018,France,22,Tomas Cubelli,n,4
+17/11/2018,France,19,Mariano Galarza,n,20
+17/11/2018,France,23,Matias Moroni,n,16
+17/11/2018,France,10,Nicolas Sanchez,y,80
+17/11/2018,France,21,Tomas Lezana,n,20
+17/11/2018,France,15,Emiliano Boffelli,y,80
+17/11/2018,France,6,Pablo Matera,y,80
+17/11/2018,France,1,Santiago Garcia Botta,y,54
+17/11/2018,France,12,Jeronimo de la Fuente,y,80
+17/11/2018,France,5,Tomas Lavanini,y,60
+17/11/2018,France,14,Bautista Delguy,y,80
+17/11/2018,France,9,Gonzalo Bertranou,y,76
+17/11/2018,France,18,Lucio Sordoni,n,8
+17/11/2018,France,11,Ramiro Moyano,y,64
+17/11/2018,France,7,Guido Petti Pagadizabal,y,60
+17/11/2018,France,4,Matias Alemanno,y,80
+17/11/2018,France,16,Julian Montoya,n,20
+17/11/2018,France,8,Javier Ortega Desio,y,68
+17/11/2018,France,20,Rodrigo Bruni,n,12
+17/11/2018,France,2,Agustín Creevy,y,60
+17/11/2018,France,3,Santiago Medrano,y,72
+24/11/2018,Scotland,22,Matias Orlando,n,41
+24/11/2018,Scotland,17,Juan Pablo Zeiss,n,12
+24/11/2018,Scotland,13,Matias Moroni,y,40
+24/11/2018,Scotland,21,Martín Landajo,n,30
+24/11/2018,Scotland,10,Nicolas Sanchez,y,80
+24/11/2018,Scotland,20,Tomas Lezana,n,29
+24/11/2018,Scotland,15,Emiliano Boffelli,y,80
+24/11/2018,Scotland,6,Pablo Matera,y,80
+24/11/2018,Scotland,1,Santiago Garcia Botta,y,68
+24/11/2018,Scotland,12,Jeronimo de la Fuente,y,79
+24/11/2018,Scotland,5,Tomas Lavanini,y,62
+24/11/2018,Scotland,23,Sebastian Cancelliere,n,8
+24/11/2018,Scotland,14,Bautista Delguy,y,72
+24/11/2018,Scotland,9,Gonzalo Bertranou,y,50
+24/11/2018,Scotland,18,Lucio Sordoni,n,0
+24/11/2018,Scotland,11,Ramiro Moyano,y,80
+24/11/2018,Scotland,4,Guido Petti Pagadizabal,y,80
+24/11/2018,Scotland,19,Matias Alemanno,n,18
+24/11/2018,Scotland,16,Julian Montoya,n,19
+24/11/2018,Scotland,8,Javier Ortega Desio,y,51
+24/11/2018,Scotland,7,Rodrigo Bruni,y,80
+24/11/2018,Scotland,2,Agustín Creevy,y,61
+24/11/2018,Scotland,3,Santiago Medrano,y,80
 20/07/2019,New Zealand,3,Juan Figallo,y,48
 20/07/2019,New Zealand,7,Marcos Kremer,y,71
 20/07/2019,New Zealand,13,Matias Orlando,y,80
@@ -1724,3 +2851,26 @@ date,opposition,shirt,player,started,minutes
 18/07/2026,England,2,Julian Montoya,y,60
 18/07/2026,England,21,Joaquin Moro,n,20
 18/07/2026,England,6,Santiago Grondona,y,47
+08/08/2026,South Africa,11,Ignacio Mendy,y,56
+08/08/2026,South Africa,10,Santiago Carreras,y,80
+08/08/2026,South Africa,1,Boris Wenger,y,56
+08/08/2026,South Africa,23,Matias Moroni,n,24
+08/08/2026,South Africa,20,Juan Penoucos,n,31
+08/08/2026,South Africa,7,Benjamin Grondona,y,49
+08/08/2026,South Africa,6,Pablo Matera,y,80
+08/08/2026,South Africa,5,Tomas Lavanini,y,44
+08/08/2026,South Africa,18,Tomas Rapetti ,n,40
+08/08/2026,South Africa,3,Francisco Moreno,y,40
+08/08/2026,South Africa,19,Efrain Elias,n,36
+08/08/2026,South Africa,15,Geronimo Prisciantelli,y,80
+08/08/2026,South Africa,2,Ignacio Ruiz,y,65
+08/08/2026,South Africa,17,Mayco Vivas,n,24
+08/08/2026,South Africa,9,Simon Benitez Cruz,y,51
+08/08/2026,South Africa,4,Guido Petti Pagadizabal,y,80
+08/08/2026,South Africa,13,Lucio Cinti,y,80
+08/08/2026,South Africa,16,Leonel Oviedo,n,15
+08/08/2026,South Africa,22,Augustin Moyano,n,29
+08/08/2026,South Africa,14,Rodrigo Isgro,y,80
+08/08/2026,South Africa,12,Faustino Sanchez Valarolo,y,80
+08/08/2026,South Africa,8,Joaquin Moro,y,65
+08/08/2026,South Africa,21,Juan Martin Scelzo,n,15

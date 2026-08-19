@@ -1,4 +1,1246 @@
 date,opposition,shirt,player,started,minutes
+08/07/2015,Samoa,22,Colin Slade,n,23
+08/07/2015,Samoa,13,Ryan Crotty,y,80
+08/07/2015,Samoa,12,Sonny Bill Williams,y,80
+08/07/2015,Samoa,1,Tony Woodcock,y,48
+08/07/2015,Samoa,3,Owen Franks,y,57
+08/07/2015,Samoa,14,George Moala,y,72
+08/07/2015,Samoa,9,Andy Ellis,y,65
+08/07/2015,Samoa,23,Charlie Ngatai,n,12
+08/07/2015,Samoa,5,Samuel Whitelock,y,60
+08/07/2015,Samoa,19,Brodie Retallick,n,33
+08/07/2015,Samoa,4,Luke Romano,y,67
+08/07/2015,Samoa,2,Keven Mealamu,y,65
+08/07/2015,Samoa,15,Israel Dagg,y,53
+08/07/2015,Samoa,6,Jerome Kaino,y,60
+08/07/2015,Samoa,7,Richie McCaw,y,80
+08/07/2015,Samoa,18,Nepo Laulala,n,23
+08/07/2015,Samoa,21,Brad Weber,n,15
+08/07/2015,Samoa,8,Kieran Read,y,80
+08/07/2015,Samoa,10,Daniel Carter,y,80
+08/07/2015,Samoa,16,Hikawera Elliot,n,15
+08/07/2015,Samoa,11,Salesi Piutau,y,80
+08/07/2015,Samoa,20,Matt Todd,n,20
+08/07/2015,Samoa,17,Wyatt Crockett,n,32
+17/07/2015,Argentina,22,Colin Slade,n,28
+17/07/2015,Argentina,23,Ryan Crotty,n,7
+17/07/2015,Argentina,12,Sonny Bill Williams,y,80
+17/07/2015,Argentina,16,Codie Taylor,n,20
+17/07/2015,Argentina,1,Tony Woodcock,y,60
+17/07/2015,Argentina,3,Owen Franks,y,55
+17/07/2015,Argentina,21,Andy Ellis,n,9
+17/07/2015,Argentina,20,Liam Messam,n,9
+17/07/2015,Argentina,5,Brodie Retallick,y,80
+17/07/2015,Argentina,4,Luke Romano,y,60
+17/07/2015,Argentina,2,Keven Mealamu,y,60
+17/07/2015,Argentina,15,Israel Dagg,y,80
+17/07/2015,Argentina,14,Waisake Naholo,y,52
+17/07/2015,Argentina,6,Jerome Kaino,y,71
+17/07/2015,Argentina,7,Richie McCaw,y,80
+17/07/2015,Argentina,18,Nepo Laulala,n,25
+17/07/2015,Argentina,9,TJ Perenara,y,71
+17/07/2015,Argentina,8,Kieran Read,y,80
+17/07/2015,Argentina,19,Jeremy Thrush,n,20
+17/07/2015,Argentina,10,Daniel Carter,y,80
+17/07/2015,Argentina,13,Ma'a Nonu,y,73
+17/07/2015,Argentina,11,Salesi Piutau,y,80
+17/07/2015,Argentina,17,Wyatt Crockett,n,20
+25/07/2015,South Africa,16,Codie Taylor,n,17
+25/07/2015,South Africa,1,Tony Woodcock,y,50
+25/07/2015,South Africa,3,Owen Franks,y,57
+25/07/2015,South Africa,6,Liam Messam,y,57
+25/07/2015,South Africa,19,Samuel Whitelock,n,40
+25/07/2015,South Africa,4,Brodie Retallick,y,80
+25/07/2015,South Africa,14,Ben Smith,y,80
+25/07/2015,South Africa,15,Israel Dagg,y,52
+25/07/2015,South Africa,23,Malakai Fekitoa,n,33
+25/07/2015,South Africa,2,Dane Coles,y,63
+25/07/2015,South Africa,5,James Broadhurst,y,40
+25/07/2015,South Africa,7,Richie McCaw,y,80
+25/07/2015,South Africa,9,Aaron Smith,y,65
+25/07/2015,South Africa,18,Ben Franks,n,23
+25/07/2015,South Africa,20,Victor Vito,n,23
+25/07/2015,South Africa,21,TJ Perenara,n,15
+25/07/2015,South Africa,10,Lima Sopoaga,y,80
+25/07/2015,South Africa,8,Kieran Read,y,80
+25/07/2015,South Africa,13,Conrad Smith,y,80
+25/07/2015,South Africa,22,Beauden Barrett,n,28
+25/07/2015,South Africa,12,Ma'a Nonu,y,47
+25/07/2015,South Africa,11,Salesi Piutau,y,80
+25/07/2015,South Africa,17,Wyatt Crockett,n,30
+08/08/2015,Australia,12,Sonny Bill Williams,y,55
+08/08/2015,Australia,16,Codie Taylor,n,11
+08/08/2015,Australia,1,Tony Woodcock,y,74
+08/08/2015,Australia,3,Owen Franks,y,45
+08/08/2015,Australia,19,Samuel Whitelock,n,25
+08/08/2015,Australia,5,Brodie Retallick,y,80
+08/08/2015,Australia,15,Ben Smith,y,62
+08/08/2015,Australia,4,Luke Romano,y,55
+08/08/2015,Australia,11,Julian Savea,y,80
+08/08/2015,Australia,23,Malakai Fekitoa,n,25
+08/08/2015,Australia,6,Jerome Kaino,y,74
+08/08/2015,Australia,2,Dane Coles,y,69
+08/08/2015,Australia,7,Richie McCaw,y,80
+08/08/2015,Australia,9,Aaron Smith,y,78
+08/08/2015,Australia,17,Ben Franks,n,6
+08/08/2015,Australia,18,Nepo Laulala,n,35
+08/08/2015,Australia,21,TJ Perenara,n,2
+08/08/2015,Australia,8,Kieran Read,y,80
+08/08/2015,Australia,20,Sam Cane,n,6
+08/08/2015,Australia,13,Conrad Smith,y,80
+08/08/2015,Australia,22,Beauden Barrett,n,18
+08/08/2015,Australia,10,Daniel Carter,y,80
+08/08/2015,Australia,14,Nehe Milner-Skudder,y,80
+15/08/2015,Australia,22,Colin Slade,n,28
+15/08/2015,Australia,1,Tony Woodcock,y,52
+15/08/2015,Australia,3,Owen Franks,y,63
+15/08/2015,Australia,5,Samuel Whitelock,y,80
+15/08/2015,Australia,4,Brodie Retallick,y,80
+15/08/2015,Australia,15,Ben Smith,y,80
+15/08/2015,Australia,16,Keven Mealamu,n,13
+15/08/2015,Australia,11,Julian Savea,y,80
+15/08/2015,Australia,23,Malakai Fekitoa,n,12
+15/08/2015,Australia,19,Jerome Kaino,n,12
+15/08/2015,Australia,2,Dane Coles,y,67
+15/08/2015,Australia,7,Richie McCaw,y,68
+15/08/2015,Australia,9,Aaron Smith,y,67
+15/08/2015,Australia,6,Victor Vito,y,64
+15/08/2015,Australia,18,Nepo Laulala,n,17
+15/08/2015,Australia,21,TJ Perenara,n,13
+15/08/2015,Australia,8,Kieran Read,y,80
+15/08/2015,Australia,20,Sam Cane,n,16
+15/08/2015,Australia,13,Conrad Smith,y,68
+15/08/2015,Australia,10,Daniel Carter,y,80
+15/08/2015,Australia,12,Ma'a Nonu,y,80
+15/08/2015,Australia,17,Wyatt Crockett,n,28
+15/08/2015,Australia,14,Nehe Milner-Skudder,y,52
+20/09/2015,Argentina,23,Sonny Bill Williams,n,35
+20/09/2015,Argentina,1,Tony Woodcock,y,45
+20/09/2015,Argentina,3,Owen Franks,y,50
+20/09/2015,Argentina,5,Samuel Whitelock,y,80
+20/09/2015,Argentina,4,Brodie Retallick,y,71
+20/09/2015,Argentina,15,Ben Smith,y,80
+20/09/2015,Argentina,16,Keven Mealamu,n,12
+20/09/2015,Argentina,11,Julian Savea,y,80
+20/09/2015,Argentina,6,Jerome Kaino,y,64
+20/09/2015,Argentina,2,Dane Coles,y,68
+20/09/2015,Argentina,18,Charlie Faumuina,n,30
+20/09/2015,Argentina,7,Richie McCaw,y,80
+20/09/2015,Argentina,9,Aaron Smith,y,68
+20/09/2015,Argentina,19,Victor Vito,n,9
+20/09/2015,Argentina,21,TJ Perenara,n,12
+20/09/2015,Argentina,8,Kieran Read,y,80
+20/09/2015,Argentina,20,Sam Cane,n,16
+20/09/2015,Argentina,13,Conrad Smith,y,80
+20/09/2015,Argentina,22,Beauden Barrett,n,30
+20/09/2015,Argentina,10,Daniel Carter,y,80
+20/09/2015,Argentina,12,Ma'a Nonu,y,45
+20/09/2015,Argentina,17,Wyatt Crockett,n,35
+20/09/2015,Argentina,14,Nehe Milner-Skudder,y,50
+24/09/2015,Namibia,15,Colin Slade,y,52
+24/09/2015,Namibia,12,Sonny Bill Williams,y,62
+24/09/2015,Namibia,2,Codie Taylor,y,80
+24/09/2015,Namibia,18,Tony Woodcock,n,0
+24/09/2015,Namibia,21,Tawera Kerr-Barlow,n,32
+24/09/2015,Namibia,5,Samuel Whitelock,y,52
+24/09/2015,Namibia,23,Ben Smith,n,28
+24/09/2015,Namibia,4,Luke Romano,y,80
+24/09/2015,Namibia,16,Keven Mealamu,n,0
+24/09/2015,Namibia,11,Julian Savea,y,80
+24/09/2015,Namibia,13,Malakai Fekitoa,y,80
+24/09/2015,Namibia,6,Jerome Kaino,y,62
+24/09/2015,Namibia,3,Charlie Faumuina,y,63
+24/09/2015,Namibia,20,Richie McCaw,n,18
+24/09/2015,Namibia,1,Ben Franks,y,80
+24/09/2015,Namibia,8,Victor Vito,y,80
+24/09/2015,Namibia,9,TJ Perenara,y,48
+24/09/2015,Namibia,19,Kieran Read,n,28
+24/09/2015,Namibia,7,Sam Cane,y,80
+24/09/2015,Namibia,10,Beauden Barrett,y,80
+24/09/2015,Namibia,22,Ma'a Nonu,n,18
+24/09/2015,Namibia,17,Wyatt Crockett,n,17
+24/09/2015,Namibia,14,Nehe Milner-Skudder,y,80
+02/10/2015,Georgia,12,Sonny Bill Williams,y,73
+02/10/2015,Georgia,17,Tony Woodcock,n,20
+02/10/2015,Georgia,18,Owen Franks,n,20
+02/10/2015,Georgia,21,Tawera Kerr-Barlow,n,10
+02/10/2015,Georgia,5,Samuel Whitelock,y,80
+02/10/2015,Georgia,4,Brodie Retallick,y,80
+02/10/2015,Georgia,15,Ben Smith,y,80
+02/10/2015,Georgia,16,Keven Mealamu,n,9
+02/10/2015,Georgia,11,Julian Savea,y,80
+02/10/2015,Georgia,23,Malakai Fekitoa,n,28
+02/10/2015,Georgia,14,Waisake Naholo,y,52
+02/10/2015,Georgia,6,Jerome Kaino,y,80
+02/10/2015,Georgia,2,Dane Coles,y,71
+02/10/2015,Georgia,3,Charlie Faumuina,y,60
+02/10/2015,Georgia,7,Richie McCaw,y,61
+02/10/2015,Georgia,9,Aaron Smith,y,70
+02/10/2015,Georgia,19,Victor Vito,n,24
+02/10/2015,Georgia,22,TJ Perenara,n,0
+02/10/2015,Georgia,8,Kieran Read,y,80
+02/10/2015,Georgia,20,Sam Cane,n,19
+02/10/2015,Georgia,13,Conrad Smith,y,63
+02/10/2015,Georgia,10,Daniel Carter,y,80
+02/10/2015,Georgia,1,Wyatt Crockett,y,60
+09/10/2015,Tonga,23,Sonny Bill Williams,n,18
+09/10/2015,Tonga,1,Tony Woodcock,y,42
+09/10/2015,Tonga,3,Owen Franks,y,62
+09/10/2015,Tonga,20,Liam Messam,n,14
+09/10/2015,Tonga,21,Tawera Kerr-Barlow,n,8
+09/10/2015,Tonga,5,Samuel Whitelock,y,66
+09/10/2015,Tonga,19,Brodie Retallick,n,31
+09/10/2015,Tonga,15,Ben Smith,y,80
+09/10/2015,Tonga,4,Luke Romano,y,49
+09/10/2015,Tonga,16,Keven Mealamu,n,14
+09/10/2015,Tonga,11,Waisake Naholo,y,57
+09/10/2015,Tonga,6,Jerome Kaino,y,80
+09/10/2015,Tonga,2,Dane Coles,y,66
+09/10/2015,Tonga,9,Aaron Smith,y,72
+09/10/2015,Tonga,18,Ben Franks,n,18
+09/10/2015,Tonga,8,Kieran Read,y,80
+09/10/2015,Tonga,7,Sam Cane,y,80
+09/10/2015,Tonga,13,Conrad Smith,y,62
+09/10/2015,Tonga,22,Beauden Barrett,n,23
+09/10/2015,Tonga,10,Daniel Carter,y,80
+09/10/2015,Tonga,12,Ma'a Nonu,y,80
+09/10/2015,Tonga,17,Wyatt Crockett,n,38
+09/10/2015,Tonga,14,Nehe Milner-Skudder,y,80
+17/10/2015,France,23,Sonny Bill Williams,n,28
+17/10/2015,France,3,Owen Franks,y,51
+17/10/2015,France,21,Tawera Kerr-Barlow,n,15
+17/10/2015,France,5,Samuel Whitelock,y,80
+17/10/2015,France,4,Brodie Retallick,y,80
+17/10/2015,France,15,Ben Smith,y,80
+17/10/2015,France,16,Keven Mealamu,n,20
+17/10/2015,France,11,Julian Savea,y,80
+17/10/2015,France,17,Joe Moody,n,52
+17/10/2015,France,6,Jerome Kaino,y,65
+17/10/2015,France,2,Dane Coles,y,60
+17/10/2015,France,18,Charlie Faumuina,n,29
+17/10/2015,France,7,Richie McCaw,y,68
+17/10/2015,France,9,Aaron Smith,y,65
+17/10/2015,France,19,Victor Vito,n,15
+17/10/2015,France,8,Kieran Read,y,80
+17/10/2015,France,20,Sam Cane,n,12
+17/10/2015,France,13,Conrad Smith,y,52
+17/10/2015,France,22,Beauden Barrett,n,40
+17/10/2015,France,10,Daniel Carter,y,80
+17/10/2015,France,12,Ma'a Nonu,y,80
+17/10/2015,France,1,Wyatt Crockett,y,28
+17/10/2015,France,14,Nehe Milner-Skudder,y,40
+24/10/2015,South Africa,23,Sonny Bill Williams,n,28
+24/10/2015,South Africa,3,Owen Franks,y,52
+24/10/2015,South Africa,21,Tawera Kerr-Barlow,n,0
+24/10/2015,South Africa,5,Samuel Whitelock,y,80
+24/10/2015,South Africa,4,Brodie Retallick,y,80
+24/10/2015,South Africa,15,Ben Smith,y,80
+24/10/2015,South Africa,16,Keven Mealamu,n,13
+24/10/2015,South Africa,11,Julian Savea,y,80
+24/10/2015,South Africa,1,Joe Moody,y,69
+24/10/2015,South Africa,6,Jerome Kaino,y,67
+24/10/2015,South Africa,2,Dane Coles,y,67
+24/10/2015,South Africa,18,Charlie Faumuina,n,28
+24/10/2015,South Africa,7,Richie McCaw,y,80
+24/10/2015,South Africa,9,Aaron Smith,y,80
+24/10/2015,South Africa,17,Ben Franks,n,11
+24/10/2015,South Africa,19,Victor Vito,n,0
+24/10/2015,South Africa,8,Kieran Read,y,80
+24/10/2015,South Africa,20,Sam Cane,n,13
+24/10/2015,South Africa,13,Conrad Smith,y,80
+24/10/2015,South Africa,22,Beauden Barrett,n,31
+24/10/2015,South Africa,10,Daniel Carter,y,80
+24/10/2015,South Africa,12,Ma'a Nonu,y,52
+24/10/2015,South Africa,14,Nehe Milner-Skudder,y,49
+31/10/2015,Australia,23,Sonny Bill Williams,n,40
+31/10/2015,Australia,3,Owen Franks,y,54
+31/10/2015,Australia,21,Tawera Kerr-Barlow,n,9
+31/10/2015,Australia,5,Samuel Whitelock,y,80
+31/10/2015,Australia,4,Brodie Retallick,y,80
+31/10/2015,Australia,15,Ben Smith,y,80
+31/10/2015,Australia,16,Keven Mealamu,n,15
+31/10/2015,Australia,11,Julian Savea,y,80
+31/10/2015,Australia,1,Joe Moody,y,58
+31/10/2015,Australia,6,Jerome Kaino,y,71
+31/10/2015,Australia,2,Dane Coles,y,65
+31/10/2015,Australia,18,Charlie Faumuina,n,26
+31/10/2015,Australia,7,Richie McCaw,y,80
+31/10/2015,Australia,9,Aaron Smith,y,71
+31/10/2015,Australia,17,Ben Franks,n,22
+31/10/2015,Australia,19,Victor Vito,n,9
+31/10/2015,Australia,8,Kieran Read,y,80
+31/10/2015,Australia,20,Sam Cane,n,0
+31/10/2015,Australia,13,Conrad Smith,y,40
+31/10/2015,Australia,22,Beauden Barrett,n,16
+31/10/2015,Australia,10,Daniel Carter,y,80
+31/10/2015,Australia,12,Ma'a Nonu,y,80
+31/10/2015,Australia,14,Nehe Milner-Skudder,y,64
+11/06/2016,Wales,12,Ryan Crotty,y,80
+11/06/2016,Wales,10,Aaron Cruden,y,80
+11/06/2016,Wales,20,Ardie Savea,n,19
+11/06/2016,Wales,3,Owen Franks,y,45
+11/06/2016,Wales,5,Brodie Retallick,y,80
+11/06/2016,Wales,15,Ben Smith,y,80
+11/06/2016,Wales,4,Luke Romano,y,53
+11/06/2016,Wales,11,Julian Savea,y,43
+11/06/2016,Wales,1,Joe Moody,y,48
+11/06/2016,Wales,13,Malakai Fekitoa,y,74
+11/06/2016,Wales,14,Waisake Naholo,y,80
+11/06/2016,Wales,6,Jerome Kaino,y,80
+11/06/2016,Wales,2,Dane Coles,y,72
+11/06/2016,Wales,18,Charlie Faumuina,n,35
+11/06/2016,Wales,9,Aaron Smith,y,69
+11/06/2016,Wales,23,Seta Tamanivalu,n,6
+11/06/2016,Wales,16,Nathan Harris,n,8
+11/06/2016,Wales,21,TJ Perenara,n,11
+11/06/2016,Wales,8,Kieran Read,y,80
+11/06/2016,Wales,7,Sam Cane,y,61
+11/06/2016,Wales,22,Beauden Barrett,n,37
+11/06/2016,Wales,19,Patrick Tuipulotu,n,27
+11/06/2016,Wales,17,Wyatt Crockett,n,32
+18/06/2016,Wales,12,Ryan Crotty,y,80
+18/06/2016,Wales,10,Aaron Cruden,y,33
+18/06/2016,Wales,20,Ardie Savea,n,23
+18/06/2016,Wales,3,Owen Franks,y,46
+18/06/2016,Wales,5,Samuel Whitelock,y,80
+18/06/2016,Wales,4,Brodie Retallick,y,68
+18/06/2016,Wales,14,Ben Smith,y,65
+18/06/2016,Wales,15,Israel Dagg,y,80
+18/06/2016,Wales,1,Joe Moody,y,54
+18/06/2016,Wales,13,Malakai Fekitoa,y,67
+18/06/2016,Wales,11,Waisake Naholo,y,80
+18/06/2016,Wales,6,Jerome Kaino,y,80
+18/06/2016,Wales,2,Dane Coles,y,76
+18/06/2016,Wales,18,Charlie Faumuina,n,34
+18/06/2016,Wales,9,Aaron Smith,y,80
+18/06/2016,Wales,23,Seta Tamanivalu,n,13
+18/06/2016,Wales,16,Nathan Harris,n,4
+18/06/2016,Wales,21,TJ Perenara,n,15
+18/06/2016,Wales,8,Kieran Read,y,80
+18/06/2016,Wales,7,Sam Cane,y,57
+18/06/2016,Wales,22,Beauden Barrett,n,47
+18/06/2016,Wales,19,Patrick Tuipulotu,n,12
+18/06/2016,Wales,17,Wyatt Crockett,n,26
+25/06/2016,Wales,12,Ryan Crotty,y,55
+25/06/2016,Wales,16,Codie Taylor,n,8
+25/06/2016,Wales,13,George Moala,y,49
+25/06/2016,Wales,21,Tawera Kerr-Barlow,n,8
+25/06/2016,Wales,5,Samuel Whitelock,y,80
+25/06/2016,Wales,4,Brodie Retallick,y,65
+25/06/2016,Wales,14,Ben Smith,y,80
+25/06/2016,Wales,19,Luke Romano,n,15
+25/06/2016,Wales,15,Israel Dagg,y,80
+25/06/2016,Wales,11,Julian Savea,y,80
+25/06/2016,Wales,1,Joe Moody,y,53
+25/06/2016,Wales,23,Waisake Naholo,n,31
+25/06/2016,Wales,2,Dane Coles,y,72
+25/06/2016,Wales,3,Charlie Faumuina,y,53
+25/06/2016,Wales,9,Aaron Smith,y,72
+25/06/2016,Wales,18,Ofa Tuungafasi,n,27
+25/06/2016,Wales,22,Lima Sopoaga,n,25
+25/06/2016,Wales,20,Liam Squire,n,25
+25/06/2016,Wales,8,Kieran Read,y,80
+25/06/2016,Wales,7,Sam Cane,y,80
+25/06/2016,Wales,10,Beauden Barrett,y,80
+25/06/2016,Wales,6,Elliot Dixon,y,55
+25/06/2016,Wales,17,Wyatt Crockett,n,27
+20/08/2016,Australia,12,Ryan Crotty,y,40
+20/08/2016,Australia,2,Codie Taylor,y,3
+20/08/2016,Australia,22,Aaron Cruden,n,40
+20/08/2016,Australia,20,Ardie Savea,n,16
+20/08/2016,Australia,3,Owen Franks,y,46
+20/08/2016,Australia,5,Samuel Whitelock,y,80
+20/08/2016,Australia,4,Brodie Retallick,y,80
+20/08/2016,Australia,14,Ben Smith,y,80
+20/08/2016,Australia,15,Israel Dagg,y,80
+20/08/2016,Australia,23,Julian Savea,n,40
+20/08/2016,Australia,13,Malakai Fekitoa,y,80
+20/08/2016,Australia,11,Waisake Naholo,y,40
+20/08/2016,Australia,6,Jerome Kaino,y,56
+20/08/2016,Australia,16,Dane Coles,n,77
+20/08/2016,Australia,18,Charlie Faumuina,n,34
+20/08/2016,Australia,9,Aaron Smith,y,68
+20/08/2016,Australia,17,Kane Hames,n,22
+20/08/2016,Australia,21,TJ Perenara,n,12
+20/08/2016,Australia,19,Liam Squire,n,24
+20/08/2016,Australia,8,Kieran Read,y,80
+20/08/2016,Australia,7,Sam Cane,y,64
+20/08/2016,Australia,10,Beauden Barrett,y,80
+20/08/2016,Australia,1,Wyatt Crockett,y,58
+27/08/2016,Australia,22,Aaron Cruden,n,14
+27/08/2016,Australia,20,Ardie Savea,n,7
+27/08/2016,Australia,3,Owen Franks,y,52
+27/08/2016,Australia,5,Samuel Whitelock,y,80
+27/08/2016,Australia,4,Brodie Retallick,y,70
+27/08/2016,Australia,15,Ben Smith,y,80
+27/08/2016,Australia,14,Israel Dagg,y,80
+27/08/2016,Australia,11,Julian Savea,y,66
+27/08/2016,Australia,1,Joe Moody,y,52
+27/08/2016,Australia,13,Malakai Fekitoa,y,80
+27/08/2016,Australia,6,Jerome Kaino,y,80
+27/08/2016,Australia,2,Dane Coles,y,70
+27/08/2016,Australia,18,Charlie Faumuina,n,28
+27/08/2016,Australia,9,Aaron Smith,y,66
+27/08/2016,Australia,23,Seta Tamanivalu,n,4
+27/08/2016,Australia,16,James Parsons,n,10
+27/08/2016,Australia,21,TJ Perenara,n,14
+27/08/2016,Australia,19,Liam Squire,n,10
+27/08/2016,Australia,8,Kieran Read,y,80
+27/08/2016,Australia,7,Sam Cane,y,73
+27/08/2016,Australia,10,Beauden Barrett,y,80
+27/08/2016,Australia,17,Wyatt Crockett,n,28
+27/08/2016,Australia,12,Anton Lienert-Brown,y,76
+10/09/2016,Argentina,12,Ryan Crotty,y,69
+10/09/2016,Argentina,16,Codie Taylor,n,28
+10/09/2016,Argentina,22,Aaron Cruden,n,15
+10/09/2016,Argentina,20,Ardie Savea,n,34
+10/09/2016,Argentina,3,Owen Franks,y,49
+10/09/2016,Argentina,5,Samuel Whitelock,y,80
+10/09/2016,Argentina,4,Brodie Retallick,y,65
+10/09/2016,Argentina,15,Ben Smith,y,80
+10/09/2016,Argentina,19,Luke Romano,n,15
+10/09/2016,Argentina,14,Israel Dagg,y,80
+10/09/2016,Argentina,11,Julian Savea,y,80
+10/09/2016,Argentina,1,Joe Moody,y,52
+10/09/2016,Argentina,13,Malakai Fekitoa,y,80
+10/09/2016,Argentina,6,Jerome Kaino,y,80
+10/09/2016,Argentina,2,Dane Coles,y,52
+10/09/2016,Argentina,18,Charlie Faumuina,n,31
+10/09/2016,Argentina,9,Aaron Smith,y,49
+10/09/2016,Argentina,21,TJ Perenara,n,31
+10/09/2016,Argentina,8,Kieran Read,y,80
+10/09/2016,Argentina,7,Sam Cane,y,46
+10/09/2016,Argentina,10,Beauden Barrett,y,65
+10/09/2016,Argentina,17,Wyatt Crockett,n,28
+10/09/2016,Argentina,23,Anton Lienert-Brown,n,11
+17/09/2016,South Africa,12,Ryan Crotty,y,66
+17/09/2016,South Africa,16,Codie Taylor,n,14
+17/09/2016,South Africa,7,Ardie Savea,y,60
+17/09/2016,South Africa,3,Owen Franks,y,54
+17/09/2016,South Africa,5,Samuel Whitelock,y,80
+17/09/2016,South Africa,4,Brodie Retallick,y,80
+17/09/2016,South Africa,15,Ben Smith,y,80
+17/09/2016,South Africa,19,Luke Romano,n,20
+17/09/2016,South Africa,14,Israel Dagg,y,68
+17/09/2016,South Africa,11,Julian Savea,y,80
+17/09/2016,South Africa,1,Joe Moody,y,46
+17/09/2016,South Africa,13,Malakai Fekitoa,y,80
+17/09/2016,South Africa,6,Jerome Kaino,y,52
+17/09/2016,South Africa,2,Dane Coles,y,66
+17/09/2016,South Africa,18,Charlie Faumuina,n,26
+17/09/2016,South Africa,9,Aaron Smith,y,63
+17/09/2016,South Africa,21,TJ Perenara,n,17
+17/09/2016,South Africa,22,Lima Sopoaga,n,12
+17/09/2016,South Africa,8,Kieran Read,y,80
+17/09/2016,South Africa,10,Beauden Barrett,y,80
+17/09/2016,South Africa,20,Matt Todd,n,28
+17/09/2016,South Africa,17,Wyatt Crockett,n,34
+17/09/2016,South Africa,23,Anton Lienert-Brown,n,14
+01/10/2016,Argentina,12,Ryan Crotty,y,49
+01/10/2016,Argentina,16,Codie Taylor,n,10
+01/10/2016,Argentina,7,Ardie Savea,y,80
+01/10/2016,Argentina,3,Owen Franks,y,64
+01/10/2016,Argentina,21,Tawera Kerr-Barlow,n,11
+01/10/2016,Argentina,19,Samuel Whitelock,n,32
+01/10/2016,Argentina,5,Brodie Retallick,y,48
+01/10/2016,Argentina,15,Ben Smith,y,80
+01/10/2016,Argentina,14,Israel Dagg,y,80
+01/10/2016,Argentina,11,Julian Savea,y,80
+01/10/2016,Argentina,1,Joe Moody,y,64
+01/10/2016,Argentina,2,Dane Coles,y,70
+01/10/2016,Argentina,23,Damian McKenzie,n,31
+01/10/2016,Argentina,18,Ofa Tuungafasi,n,16
+01/10/2016,Argentina,9,TJ Perenara,y,69
+01/10/2016,Argentina,22,Lima Sopoaga,n,4
+01/10/2016,Argentina,6,Liam Squire,y,68
+01/10/2016,Argentina,8,Kieran Read,y,76
+01/10/2016,Argentina,10,Beauden Barrett,y,76
+01/10/2016,Argentina,20,Elliot Dixon,n,4
+01/10/2016,Argentina,4,Patrick Tuipulotu,y,80
+01/10/2016,Argentina,17,Wyatt Crockett,n,28
+01/10/2016,Argentina,13,Anton Lienert-Brown,y,80
+08/10/2016,South Africa,12,Ryan Crotty,y,66
+08/10/2016,South Africa,16,Codie Taylor,n,12
+08/10/2016,South Africa,20,Ardie Savea,n,23
+08/10/2016,South Africa,3,Owen Franks,y,67
+08/10/2016,South Africa,23,George Moala,n,14
+08/10/2016,South Africa,21,Tawera Kerr-Barlow,n,13
+08/10/2016,South Africa,5,Samuel Whitelock,y,80
+08/10/2016,South Africa,4,Brodie Retallick,y,80
+08/10/2016,South Africa,15,Ben Smith,y,80
+08/10/2016,South Africa,14,Israel Dagg,y,80
+08/10/2016,South Africa,1,Joe Moody,y,51
+08/10/2016,South Africa,11,Waisake Naholo,y,63
+08/10/2016,South Africa,6,Jerome Kaino,y,63
+08/10/2016,South Africa,2,Dane Coles,y,68
+08/10/2016,South Africa,18,Charlie Faumuina,n,13
+08/10/2016,South Africa,9,TJ Perenara,y,67
+08/10/2016,South Africa,22,Lima Sopoaga,n,17
+08/10/2016,South Africa,19,Liam Squire,n,17
+08/10/2016,South Africa,8,Kieran Read,y,80
+08/10/2016,South Africa,10,Beauden Barrett,y,80
+08/10/2016,South Africa,7,Matt Todd,y,57
+08/10/2016,South Africa,17,Wyatt Crockett,n,29
+08/10/2016,South Africa,13,Anton Lienert-Brown,y,80
+22/10/2016,Australia,2,Dane Coles,y,74
+22/10/2016,Australia,18,Charlie Faumuina,n,28
+22/10/2016,Australia,9,TJ Perenara,y,62
+22/10/2016,Australia,19,Liam Squire,n,28
+22/10/2016,Australia,8,Kieran Read,y,80
+22/10/2016,Australia,10,Beauden Barrett,y,45
+22/10/2016,Australia,7,Matt Todd,y,65
+22/10/2016,Australia,17,Wyatt Crockett,n,28
+22/10/2016,Australia,13,Anton Lienert-Brown,y,62
+22/10/2016,Australia,12,Ryan Crotty,y,80
+22/10/2016,Australia,16,Codie Taylor,n,6
+22/10/2016,Australia,22,Aaron Cruden,n,35
+22/10/2016,Australia,20,Ardie Savea,n,15
+22/10/2016,Australia,3,Owen Franks,y,52
+22/10/2016,Australia,21,Tawera Kerr-Barlow,n,18
+22/10/2016,Australia,5,Samuel Whitelock,y,80
+22/10/2016,Australia,4,Brodie Retallick,y,80
+22/10/2016,Australia,15,Ben Smith,y,80
+22/10/2016,Australia,14,Israel Dagg,y,80
+22/10/2016,Australia,11,Julian Savea,y,80
+22/10/2016,Australia,1,Joe Moody,y,52
+22/10/2016,Australia,23,Malakai Fekitoa,n,18
+22/10/2016,Australia,6,Jerome Kaino,y,52
+05/11/2016,Ireland,12,Ryan Crotty,y,26
+05/11/2016,Ireland,16,Codie Taylor,n,10
+05/11/2016,Ireland,22,Aaron Cruden,n,24
+05/11/2016,Ireland,20,Ardie Savea,n,21
+05/11/2016,Ireland,3,Owen Franks,y,80
+05/11/2016,Ireland,13,George Moala,y,70
+05/11/2016,Ireland,15,Ben Smith,y,80
+05/11/2016,Ireland,11,Julian Savea,y,80
+05/11/2016,Ireland,1,Joe Moody,y,59
+05/11/2016,Ireland,23,Malakai Fekitoa,n,54
+05/11/2016,Ireland,14,Waisake Naholo,y,56
+05/11/2016,Ireland,5,Jerome Kaino,y,45
+05/11/2016,Ireland,2,Dane Coles,y,80
+05/11/2016,Ireland,18,Charlie Faumuina,n,0
+05/11/2016,Ireland,9,Aaron Smith,y,45
+05/11/2016,Ireland,17,Ofa Tuungafasi,n,21
+05/11/2016,Ireland,21,TJ Perenara,n,35
+05/11/2016,Ireland,6,Liam Squire,y,80
+05/11/2016,Ireland,8,Kieran Read,y,80
+05/11/2016,Ireland,7,Sam Cane,y,80
+05/11/2016,Ireland,19,Scott Barrett,n,35
+05/11/2016,Ireland,10,Beauden Barrett,y,80
+05/11/2016,Ireland,4,Patrick Tuipulotu,y,59
+12/11/2016,Italy,2,Codie Taylor,y,66
+12/11/2016,Italy,10,Aaron Cruden,y,59
+12/11/2016,Italy,9,Tawera Kerr-Barlow,y,50
+12/11/2016,Italy,19,Brodie Retallick,n,25
+12/11/2016,Italy,14,Israel Dagg,y,50
+12/11/2016,Italy,23,Rieko Ioane,n,30
+12/11/2016,Italy,17,Joe Moody,n,10
+12/11/2016,Italy,16,Liam Coltman,n,14
+12/11/2016,Italy,13,Malakai Fekitoa,y,80
+12/11/2016,Italy,11,Waisake Naholo,y,80
+12/11/2016,Italy,3,Charlie Faumuina,y,56
+12/11/2016,Italy,15,Damian McKenzie,y,80
+12/11/2016,Italy,21,Aaron Smith,n,30
+12/11/2016,Italy,18,Ofa Tuungafasi,n,24
+12/11/2016,Italy,22,Lima Sopoaga,n,21
+12/11/2016,Italy,7,Sam Cane,y,80
+12/11/2016,Italy,5,Scott Barrett,y,55
+12/11/2016,Italy,6,Elliot Dixon,y,80
+12/11/2016,Italy,8,Steven Luatua,y,80
+12/11/2016,Italy,4,Patrick Tuipulotu,y,59
+12/11/2016,Italy,20,Matt Todd,n,21
+12/11/2016,Italy,1,Wyatt Crockett,y,70
+12/11/2016,Italy,12,Anton Lienert-Brown,y,80
+19/11/2016,Ireland,16,Codie Taylor,n,12
+19/11/2016,Ireland,22,Aaron Cruden,n,22
+19/11/2016,Ireland,20,Ardie Savea,n,64
+19/11/2016,Ireland,3,Owen Franks,y,52
+19/11/2016,Ireland,5,Samuel Whitelock,y,80
+19/11/2016,Ireland,4,Brodie Retallick,y,80
+19/11/2016,Ireland,15,Ben Smith,y,73
+19/11/2016,Ireland,14,Israel Dagg,y,80
+19/11/2016,Ireland,11,Julian Savea,y,80
+19/11/2016,Ireland,1,Joe Moody,y,49
+19/11/2016,Ireland,13,Malakai Fekitoa,y,80
+19/11/2016,Ireland,23,Waisake Naholo,n,7
+19/11/2016,Ireland,2,Dane Coles,y,68
+19/11/2016,Ireland,18,Charlie Faumuina,n,28
+19/11/2016,Ireland,9,Aaron Smith,y,58
+19/11/2016,Ireland,21,TJ Perenara,n,22
+19/11/2016,Ireland,6,Liam Squire,y,68
+19/11/2016,Ireland,8,Kieran Read,y,80
+19/11/2016,Ireland,7,Sam Cane,y,16
+19/11/2016,Ireland,19,Scott Barrett,n,12
+19/11/2016,Ireland,10,Beauden Barrett,y,58
+19/11/2016,Ireland,17,Wyatt Crockett,n,31
+19/11/2016,Ireland,12,Anton Lienert-Brown,y,80
+26/11/2016,France,12,Ryan Crotty,y,43
+26/11/2016,France,16,Codie Taylor,n,15
+26/11/2016,France,22,Aaron Cruden,n,22
+26/11/2016,France,20,Ardie Savea,n,23
+26/11/2016,France,3,Owen Franks,y,48
+26/11/2016,France,5,Samuel Whitelock,y,80
+26/11/2016,France,4,Brodie Retallick,y,43
+26/11/2016,France,15,Israel Dagg,y,58
+26/11/2016,France,11,Julian Savea,y,80
+26/11/2016,France,23,Rieko Ioane,n,37
+26/11/2016,France,1,Joe Moody,y,44
+26/11/2016,France,14,Waisake Naholo,y,80
+26/11/2016,France,6,Jerome Kaino,y,80
+26/11/2016,France,2,Dane Coles,y,65
+26/11/2016,France,18,Charlie Faumuina,n,32
+26/11/2016,France,21,Aaron Smith,n,21
+26/11/2016,France,9,TJ Perenara,y,59
+26/11/2016,France,8,Kieran Read,y,80
+26/11/2016,France,19,Scott Barrett,n,37
+26/11/2016,France,10,Beauden Barrett,y,80
+26/11/2016,France,7,Matt Todd,y,57
+26/11/2016,France,17,Wyatt Crockett,n,36
+26/11/2016,France,13,Anton Lienert-Brown,y,80
+16/06/2017,Samoa,12,Sonny Bill Williams,y,80
+16/06/2017,Samoa,2,Codie Taylor,y,63
+16/06/2017,Samoa,8,Ardie Savea,y,80
+16/06/2017,Samoa,3,Owen Franks,y,50
+16/06/2017,Samoa,5,Samuel Whitelock,y,50
+16/06/2017,Samoa,4,Brodie Retallick,y,80
+16/06/2017,Samoa,15,Ben Smith,y,63
+16/06/2017,Samoa,14,Israel Dagg,y,80
+16/06/2017,Samoa,11,Julian Savea,y,80
+16/06/2017,Samoa,1,Joe Moody,y,50
+16/06/2017,Samoa,6,Jerome Kaino,y,57
+16/06/2017,Samoa,18,Charlie Faumuina,n,30
+16/06/2017,Samoa,9,Aaron Smith,y,57
+16/06/2017,Samoa,23,Jordie Barrett,n,17
+16/06/2017,Samoa,16,Nathan Harris,n,17
+16/06/2017,Samoa,21,TJ Perenara,n,23
+16/06/2017,Samoa,22,Lima Sopoaga,n,20
+16/06/2017,Samoa,7,Sam Cane,y,80
+16/06/2017,Samoa,19,Scott Barrett,n,30
+16/06/2017,Samoa,10,Beauden Barrett,y,60
+16/06/2017,Samoa,20,Vaea Fifita,n,23
+16/06/2017,Samoa,17,Wyatt Crockett,n,30
+16/06/2017,Samoa,13,Anton Lienert-Brown,y,80
+24/06/2017,British & Irish Lions,9,Aaron Smith,y,57
+24/06/2017,British & Irish Lions,16,Nathan Harris,n,13
+24/06/2017,British & Irish Lions,21,TJ Perenara,n,23
+24/06/2017,British & Irish Lions,8,Kieran Read,y,77
+24/06/2017,British & Irish Lions,7,Sam Cane,y,80
+24/06/2017,British & Irish Lions,19,Scott Barrett,n,3
+24/06/2017,British & Irish Lions,10,Beauden Barrett,y,80
+24/06/2017,British & Irish Lions,17,Wyatt Crockett,n,26
+24/06/2017,British & Irish Lions,23,Anton Lienert-Brown,n,46
+24/06/2017,British & Irish Lions,13,Ryan Crotty,y,34
+24/06/2017,British & Irish Lions,12,Sonny Bill Williams,y,80
+24/06/2017,British & Irish Lions,2,Codie Taylor,y,67
+24/06/2017,British & Irish Lions,22,Aaron Cruden,n,0
+24/06/2017,British & Irish Lions,20,Ardie Savea,n,33
+24/06/2017,British & Irish Lions,3,Owen Franks,y,54
+24/06/2017,British & Irish Lions,5,Samuel Whitelock,y,80
+24/06/2017,British & Irish Lions,4,Brodie Retallick,y,80
+24/06/2017,British & Irish Lions,15,Ben Smith,y,80
+24/06/2017,British & Irish Lions,14,Israel Dagg,y,80
+24/06/2017,British & Irish Lions,11,Rieko Ioane,y,80
+24/06/2017,British & Irish Lions,1,Joe Moody,y,54
+24/06/2017,British & Irish Lions,6,Jerome Kaino,y,47
+24/06/2017,British & Irish Lions,18,Charlie Faumuina,n,26
+01/07/2017,British & Irish Lions,12,Sonny Bill Williams,y,80
+01/07/2017,British & Irish Lions,2,Codie Taylor,y,80
+01/07/2017,British & Irish Lions,22,Aaron Cruden,n,20
+01/07/2017,British & Irish Lions,20,Ardie Savea,n,16
+01/07/2017,British & Irish Lions,3,Owen Franks,y,53
+01/07/2017,British & Irish Lions,5,Samuel Whitelock,y,73
+01/07/2017,British & Irish Lions,4,Brodie Retallick,y,80
+01/07/2017,British & Irish Lions,15,Israel Dagg,y,80
+01/07/2017,British & Irish Lions,11,Rieko Ioane,y,80
+01/07/2017,British & Irish Lions,1,Joe Moody,y,53
+01/07/2017,British & Irish Lions,14,Waisake Naholo,y,60
+01/07/2017,British & Irish Lions,6,Jerome Kaino,y,26
+01/07/2017,British & Irish Lions,18,Charlie Faumuina,n,27
+01/07/2017,British & Irish Lions,9,Aaron Smith,y,66
+01/07/2017,British & Irish Lions,16,Nathan Harris,n,0
+01/07/2017,British & Irish Lions,21,TJ Perenara,n,14
+01/07/2017,British & Irish Lions,23,Ngani Laumape,n,54
+01/07/2017,British & Irish Lions,8,Kieran Read,y,80
+01/07/2017,British & Irish Lions,7,Sam Cane,y,64
+01/07/2017,British & Irish Lions,19,Scott Barrett,n,7
+01/07/2017,British & Irish Lions,10,Beauden Barrett,y,80
+01/07/2017,British & Irish Lions,17,Wyatt Crockett,n,27
+01/07/2017,British & Irish Lions,13,Anton Lienert-Brown,y,80
+08/07/2017,British & Irish Lions,2,Codie Taylor,y,73
+08/07/2017,British & Irish Lions,22,Aaron Cruden,n,7
+08/07/2017,British & Irish Lions,20,Ardie Savea,n,20
+08/07/2017,British & Irish Lions,3,Owen Franks,y,58
+08/07/2017,British & Irish Lions,5,Samuel Whitelock,y,78
+08/07/2017,British & Irish Lions,4,Brodie Retallick,y,80
+08/07/2017,British & Irish Lions,14,Israel Dagg,y,80
+08/07/2017,British & Irish Lions,11,Julian Savea,y,73
+08/07/2017,British & Irish Lions,1,Joe Moody,y,58
+08/07/2017,British & Irish Lions,23,Malakai Fekitoa,n,13
+08/07/2017,British & Irish Lions,6,Jerome Kaino,y,80
+08/07/2017,British & Irish Lions,18,Charlie Faumuina,n,22
+08/07/2017,British & Irish Lions,9,Aaron Smith,y,74
+08/07/2017,British & Irish Lions,15,Jordie Barrett,y,80
+08/07/2017,British & Irish Lions,16,Nathan Harris,n,7
+08/07/2017,British & Irish Lions,21,TJ Perenara,n,6
+08/07/2017,British & Irish Lions,12,Ngani Laumape,y,67
+08/07/2017,British & Irish Lions,8,Kieran Read,y,80
+08/07/2017,British & Irish Lions,7,Sam Cane,y,60
+08/07/2017,British & Irish Lions,19,Scott Barrett,n,2
+08/07/2017,British & Irish Lions,10,Beauden Barrett,y,80
+08/07/2017,British & Irish Lions,17,Wyatt Crockett,n,22
+08/07/2017,British & Irish Lions,13,Anton Lienert-Brown,y,80
+19/08/2017,Australia,13,Ryan Crotty,y,50
+19/08/2017,Australia,12,Sonny Bill Williams,y,80
+19/08/2017,Australia,2,Codie Taylor,y,67
+19/08/2017,Australia,20,Ardie Savea,n,17
+19/08/2017,Australia,3,Owen Franks,y,44
+19/08/2017,Australia,5,Samuel Whitelock,y,61
+19/08/2017,Australia,4,Brodie Retallick,y,80
+19/08/2017,Australia,14,Ben Smith,y,80
+19/08/2017,Australia,19,Luke Romano,n,19
+19/08/2017,Australia,11,Rieko Ioane,y,80
+19/08/2017,Australia,1,Joe Moody,y,66
+19/08/2017,Australia,15,Damian McKenzie,y,67
+19/08/2017,Australia,9,Aaron Smith,y,53
+19/08/2017,Australia,16,Nathan Harris,n,13
+19/08/2017,Australia,18,Ofa Tuungafasi,n,36
+19/08/2017,Australia,21,TJ Perenara,n,27
+19/08/2017,Australia,22,Lima Sopoaga,n,13
+19/08/2017,Australia,6,Liam Squire,y,63
+19/08/2017,Australia,8,Kieran Read,y,80
+19/08/2017,Australia,7,Sam Cane,y,80
+19/08/2017,Australia,10,Beauden Barrett,y,80
+19/08/2017,Australia,17,Wyatt Crockett,n,14
+19/08/2017,Australia,23,Anton Lienert-Brown,n,30
+26/08/2017,Australia,13,Ryan Crotty,y,56
+26/08/2017,Australia,12,Sonny Bill Williams,y,69
+26/08/2017,Australia,16,Codie Taylor,n,12
+26/08/2017,Australia,20,Ardie Savea,n,68
+26/08/2017,Australia,5,Samuel Whitelock,y,80
+26/08/2017,Australia,4,Brodie Retallick,y,80
+26/08/2017,Australia,14,Ben Smith,y,80
+26/08/2017,Australia,11,Rieko Ioane,y,80
+26/08/2017,Australia,1,Joe Moody,y,68
+26/08/2017,Australia,2,Dane Coles,y,68
+26/08/2017,Australia,15,Damian McKenzie,y,80
+26/08/2017,Australia,9,Aaron Smith,y,68
+26/08/2017,Australia,17,Kane Hames,n,12
+26/08/2017,Australia,3,Nepo Laulala,y,63
+26/08/2017,Australia,18,Ofa Tuungafasi,n,17
+26/08/2017,Australia,21,TJ Perenara,n,12
+26/08/2017,Australia,22,Lima Sopoaga,n,17
+26/08/2017,Australia,6,Liam Squire,y,77
+26/08/2017,Australia,8,Kieran Read,y,80
+26/08/2017,Australia,7,Sam Cane,y,12
+26/08/2017,Australia,19,Scott Barrett,n,3
+26/08/2017,Australia,10,Beauden Barrett,y,69
+26/08/2017,Australia,23,Anton Lienert-Brown,n,29
+09/09/2017,Argentina,12,Sonny Bill Williams,y,76
+09/09/2017,Argentina,16,Codie Taylor,n,12
+09/09/2017,Argentina,7,Ardie Savea,y,44
+09/09/2017,Argentina,21,Tawera Kerr-Barlow,n,15
+09/09/2017,Argentina,5,Brodie Retallick,y,80
+09/09/2017,Argentina,4,Luke Romano,y,53
+09/09/2017,Argentina,14,Israel Dagg,y,50
+09/09/2017,Argentina,1,Joe Moody,y,65
+09/09/2017,Argentina,2,Dane Coles,y,68
+09/09/2017,Argentina,15,Damian McKenzie,y,80
+09/09/2017,Argentina,3,Nepo Laulala,y,68
+09/09/2017,Argentina,18,Ofa Tuungafasi,n,12
+09/09/2017,Argentina,9,TJ Perenara,y,65
+09/09/2017,Argentina,22,Lima Sopoaga,n,30
+09/09/2017,Argentina,23,Ngani Laumape,n,4
+09/09/2017,Argentina,8,Kieran Read,y,80
+09/09/2017,Argentina,20,Sam Cane,n,36
+09/09/2017,Argentina,19,Scott Barrett,n,27
+09/09/2017,Argentina,10,Beauden Barrett,y,80
+09/09/2017,Argentina,6,Vaea Fifita,y,80
+09/09/2017,Argentina,17,Wyatt Crockett,n,15
+09/09/2017,Argentina,11,Nehe Milner-Skudder,y,80
+09/09/2017,Argentina,13,Anton Lienert-Brown,y,80
+16/09/2017,South Africa,13,Ryan Crotty,y,80
+16/09/2017,South Africa,12,Sonny Bill Williams,y,54
+16/09/2017,South Africa,16,Codie Taylor,n,23
+16/09/2017,South Africa,20,Ardie Savea,n,23
+16/09/2017,South Africa,5,Samuel Whitelock,y,80
+16/09/2017,South Africa,4,Brodie Retallick,y,80
+16/09/2017,South Africa,11,Rieko Ioane,y,80
+16/09/2017,South Africa,2,Dane Coles,y,57
+16/09/2017,South Africa,15,Damian McKenzie,y,80
+16/09/2017,South Africa,9,Aaron Smith,y,57
+16/09/2017,South Africa,1,Kane Hames,y,43
+16/09/2017,South Africa,3,Nepo Laulala,y,51
+16/09/2017,South Africa,18,Ofa Tuungafasi,n,29
+16/09/2017,South Africa,21,TJ Perenara,n,23
+16/09/2017,South Africa,22,Lima Sopoaga,n,26
+16/09/2017,South Africa,6,Liam Squire,y,27
+16/09/2017,South Africa,8,Kieran Read,y,80
+16/09/2017,South Africa,7,Sam Cane,y,57
+16/09/2017,South Africa,19,Scott Barrett,n,53
+16/09/2017,South Africa,10,Beauden Barrett,y,80
+16/09/2017,South Africa,17,Wyatt Crockett,n,37
+16/09/2017,South Africa,14,Nehe Milner-Skudder,y,55
+16/09/2017,South Africa,23,Anton Lienert-Brown,n,25
+30/09/2017,Argentina,12,Sonny Bill Williams,y,62
+30/09/2017,Argentina,16,Codie Taylor,n,25
+30/09/2017,Argentina,20,Ardie Savea,n,14
+30/09/2017,Argentina,4,Luke Romano,y,80
+30/09/2017,Argentina,11,Rieko Ioane,y,70
+30/09/2017,Argentina,14,Waisake Naholo,y,80
+30/09/2017,Argentina,2,Dane Coles,y,55
+30/09/2017,Argentina,15,Damian McKenzie,y,80
+30/09/2017,Argentina,23,David Havili,n,10
+30/09/2017,Argentina,9,Aaron Smith,y,51
+30/09/2017,Argentina,1,Kane Hames,y,47
+30/09/2017,Argentina,3,Nepo Laulala,y,51
+30/09/2017,Argentina,18,Ofa Tuungafasi,n,29
+30/09/2017,Argentina,21,TJ Perenara,n,29
+30/09/2017,Argentina,22,Ngani Laumape,n,18
+30/09/2017,Argentina,8,Kieran Read,y,80
+30/09/2017,Argentina,5,Scott Barrett,y,80
+30/09/2017,Argentina,10,Beauden Barrett,y,80
+30/09/2017,Argentina,19,Patrick Tuipulotu,n,14
+30/09/2017,Argentina,6,Vaea Fifita,y,66
+30/09/2017,Argentina,7,Matt Todd,y,66
+30/09/2017,Argentina,17,Wyatt Crockett,n,33
+30/09/2017,Argentina,13,Anton Lienert-Brown,y,80
+07/10/2017,South Africa,13,Ryan Crotty,y,80
+07/10/2017,South Africa,12,Sonny Bill Williams,y,80
+07/10/2017,South Africa,16,Codie Taylor,n,33
+07/10/2017,South Africa,21,Tawera Kerr-Barlow,n,20
+07/10/2017,South Africa,4,Samuel Whitelock,y,80
+07/10/2017,South Africa,11,Rieko Ioane,y,80
+07/10/2017,South Africa,2,Dane Coles,y,47
+07/10/2017,South Africa,15,Damian McKenzie,y,80
+07/10/2017,South Africa,23,David Havili,n,32
+07/10/2017,South Africa,9,Aaron Smith,y,60
+07/10/2017,South Africa,1,Kane Hames,y,47
+07/10/2017,South Africa,3,Nepo Laulala,y,47
+07/10/2017,South Africa,18,Ofa Tuungafasi,n,33
+07/10/2017,South Africa,22,Lima Sopoaga,n,47
+07/10/2017,South Africa,6,Liam Squire,y,80
+07/10/2017,South Africa,8,Kieran Read,y,80
+07/10/2017,South Africa,7,Sam Cane,y,47
+07/10/2017,South Africa,5,Scott Barrett,y,66
+07/10/2017,South Africa,10,Beauden Barrett,y,33
+07/10/2017,South Africa,19,Patrick Tuipulotu,n,14
+07/10/2017,South Africa,20,Matt Todd,n,33
+07/10/2017,South Africa,17,Wyatt Crockett,n,33
+07/10/2017,South Africa,14,Nehe Milner-Skudder,y,48
+21/10/2017,Australia,13,Ryan Crotty,y,70
+21/10/2017,Australia,12,Sonny Bill Williams,y,80
+21/10/2017,Australia,16,Codie Taylor,n,19
+21/10/2017,Australia,20,Ardie Savea,n,5
+21/10/2017,Australia,4,Samuel Whitelock,y,80
+21/10/2017,Australia,11,Rieko Ioane,y,71
+21/10/2017,Australia,14,Waisake Naholo,y,80
+21/10/2017,Australia,2,Dane Coles,y,61
+21/10/2017,Australia,15,Damian McKenzie,y,80
+21/10/2017,Australia,23,David Havili,n,28
+21/10/2017,Australia,9,Aaron Smith,y,65
+21/10/2017,Australia,1,Kane Hames,y,37
+21/10/2017,Australia,3,Nepo Laulala,y,51
+21/10/2017,Australia,18,Ofa Tuungafasi,n,29
+21/10/2017,Australia,21,TJ Perenara,n,15
+21/10/2017,Australia,10,Lima Sopoaga,y,61
+21/10/2017,Australia,6,Liam Squire,y,75
+21/10/2017,Australia,8,Kieran Read,y,80
+21/10/2017,Australia,7,Sam Cane,y,80
+21/10/2017,Australia,5,Scott Barrett,y,61
+21/10/2017,Australia,19,Patrick Tuipulotu,n,19
+21/10/2017,Australia,17,Wyatt Crockett,n,43
+21/10/2017,Australia,22,Anton Lienert-Brown,n,10
+11/11/2017,France,13,Ryan Crotty,y,65
+11/11/2017,France,12,Sonny Bill Williams,y,80
+11/11/2017,France,16,Codie Taylor,n,56
+11/11/2017,France,5,Samuel Whitelock,y,80
+11/11/2017,France,4,Luke Romano,y,57
+11/11/2017,France,11,Rieko Ioane,y,80
+11/11/2017,France,14,Waisake Naholo,y,80
+11/11/2017,France,2,Dane Coles,y,24
+11/11/2017,France,15,Damian McKenzie,y,66
+11/11/2017,France,9,Aaron Smith,y,69
+11/11/2017,France,1,Kane Hames,y,48
+11/11/2017,France,3,Nepo Laulala,y,61
+11/11/2017,France,18,Ofa Tuungafasi,n,19
+11/11/2017,France,21,TJ Perenara,n,11
+11/11/2017,France,22,Lima Sopoaga,n,14
+11/11/2017,France,8,Kieran Read,y,48
+11/11/2017,France,7,Sam Cane,y,80
+11/11/2017,France,19,Scott Barrett,n,23
+11/11/2017,France,10,Beauden Barrett,y,80
+11/11/2017,France,6,Vaea Fifita,y,80
+11/11/2017,France,20,Matt Todd,n,32
+11/11/2017,France,17,Wyatt Crockett,n,32
+11/11/2017,France,23,Anton Lienert-Brown,n,15
+18/11/2017,Scotland,13,Ryan Crotty,y,75
+18/11/2017,Scotland,12,Sonny Bill Williams,y,69
+18/11/2017,Scotland,2,Codie Taylor,y,75
+18/11/2017,Scotland,5,Samuel Whitelock,y,80
+18/11/2017,Scotland,4,Luke Romano,y,47
+18/11/2017,Scotland,11,Rieko Ioane,y,80
+18/11/2017,Scotland,14,Waisake Naholo,y,75
+18/11/2017,Scotland,15,Damian McKenzie,y,80
+18/11/2017,Scotland,9,Aaron Smith,y,64
+18/11/2017,Scotland,1,Kane Hames,y,61
+18/11/2017,Scotland,3,Nepo Laulala,y,59
+18/11/2017,Scotland,16,Nathan Harris,n,5
+18/11/2017,Scotland,18,Ofa Tuungafasi,n,21
+18/11/2017,Scotland,21,TJ Perenara,n,16
+18/11/2017,Scotland,22,Lima Sopoaga,n,5
+18/11/2017,Scotland,19,Liam Squire,n,33
+18/11/2017,Scotland,8,Kieran Read,y,80
+18/11/2017,Scotland,7,Sam Cane,y,75
+18/11/2017,Scotland,10,Beauden Barrett,y,80
+18/11/2017,Scotland,6,Vaea Fifita,y,72
+18/11/2017,Scotland,20,Matt Todd,n,5
+18/11/2017,Scotland,17,Wyatt Crockett,n,28
+18/11/2017,Scotland,23,Anton Lienert-Brown,n,15
+25/11/2017,Wales,13,Ryan Crotty,y,19
+25/11/2017,Wales,12,Sonny Bill Williams,y,80
+25/11/2017,Wales,2,Codie Taylor,y,72
+25/11/2017,Wales,8,Luke Whitelock,y,46
+25/11/2017,Wales,5,Samuel Whitelock,y,80
+25/11/2017,Wales,11,Rieko Ioane,y,80
+25/11/2017,Wales,14,Waisake Naholo,y,71
+25/11/2017,Wales,15,Damian McKenzie,y,80
+25/11/2017,Wales,9,Aaron Smith,y,64
+25/11/2017,Wales,1,Kane Hames,y,60
+25/11/2017,Wales,3,Nepo Laulala,y,40
+25/11/2017,Wales,16,Nathan Harris,n,8
+25/11/2017,Wales,18,Ofa Tuungafasi,n,40
+25/11/2017,Wales,21,TJ Perenara,n,16
+25/11/2017,Wales,22,Lima Sopoaga,n,9
+25/11/2017,Wales,6,Liam Squire,y,80
+25/11/2017,Wales,7,Sam Cane,y,80
+25/11/2017,Wales,19,Scott Barrett,n,34
+25/11/2017,Wales,10,Beauden Barrett,y,80
+25/11/2017,Wales,4,Patrick Tuipulotu,y,46
+25/11/2017,Wales,20,Matt Todd,n,34
+25/11/2017,Wales,17,Wyatt Crockett,n,20
+25/11/2017,Wales,23,Anton Lienert-Brown,n,61
+09/06/2018,France,12,Ryan Crotty,y,61
+09/06/2018,France,2,Codie Taylor,y,64
+09/06/2018,France,20,Ardie Savea,n,15
+09/06/2018,France,3,Owen Franks,y,59
+09/06/2018,France,8,Luke Whitelock,y,73
+09/06/2018,France,4,Samuel Whitelock,y,80
+09/06/2018,France,17,Karl Tu'inukuafe,n,34
+09/06/2018,France,14,Ben Smith,y,80
+09/06/2018,France,11,Rieko Ioane,y,80
+09/06/2018,France,1,Joe Moody,y,46
+09/06/2018,France,22,Damian McKenzie,n,19
+09/06/2018,France,9,Aaron Smith,y,66
+09/06/2018,France,15,Jordie Barrett,y,61
+09/06/2018,France,16,Nathan Harris,n,16
+09/06/2018,France,18,Ofa Tuungafasi,n,21
+09/06/2018,France,21,TJ Perenara,n,14
+09/06/2018,France,23,Ngani Laumape,n,19
+09/06/2018,France,6,Liam Squire,y,80
+09/06/2018,France,7,Sam Cane,y,65
+09/06/2018,France,5,Scott Barrett,y,80
+09/06/2018,France,10,Beauden Barrett,y,80
+09/06/2018,France,19,Vaea Fifita,n,7
+09/06/2018,France,13,Anton Lienert-Brown,y,80
+16/06/2018,France,12,Ryan Crotty,y,72
+16/06/2018,France,2,Codie Taylor,y,51
+16/06/2018,France,20,Ardie Savea,n,37
+16/06/2018,France,3,Owen Franks,y,33
+16/06/2018,France,8,Luke Whitelock,y,80
+16/06/2018,France,4,Samuel Whitelock,y,80
+16/06/2018,France,17,Karl Tu'inukuafe,n,34
+16/06/2018,France,14,Ben Smith,y,80
+16/06/2018,France,11,Rieko Ioane,y,80
+16/06/2018,France,1,Joe Moody,y,46
+16/06/2018,France,22,Damian McKenzie,n,68
+16/06/2018,France,9,Aaron Smith,y,56
+16/06/2018,France,15,Jordie Barrett,y,80
+16/06/2018,France,16,Nathan Harris,n,29
+16/06/2018,France,18,Ofa Tuungafasi,n,47
+16/06/2018,France,21,TJ Perenara,n,24
+16/06/2018,France,23,Ngani Laumape,n,20
+16/06/2018,France,6,Liam Squire,y,40
+16/06/2018,France,7,Sam Cane,y,43
+16/06/2018,France,5,Scott Barrett,y,80
+16/06/2018,France,10,Beauden Barrett,y,12
+16/06/2018,France,19,Vaea Fifita,n,40
+16/06/2018,France,13,Anton Lienert-Brown,y,68
+23/06/2018,France,12,Sonny Bill Williams,y,57
+23/06/2018,France,2,Codie Taylor,y,72
+23/06/2018,France,7,Ardie Savea,y,17
+23/06/2018,France,3,Owen Franks,y,46
+23/06/2018,France,8,Luke Whitelock,y,80
+23/06/2018,France,4,Samuel Whitelock,y,70
+23/06/2018,France,17,Karl Tu'inukuafe,n,16
+23/06/2018,France,15,Ben Smith,y,80
+23/06/2018,France,11,Rieko Ioane,y,80
+23/06/2018,France,19,Jackson Hemopo,n,19
+23/06/2018,France,1,Joe Moody,y,64
+23/06/2018,France,16,Liam Coltman,n,8
+23/06/2018,France,14,Waisake Naholo,y,80
+23/06/2018,France,10,Damian McKenzie,y,70
+23/06/2018,France,9,Aaron Smith,y,64
+23/06/2018,France,23,Jordie Barrett,n,23
+23/06/2018,France,18,Ofa Tuungafasi,n,34
+23/06/2018,France,21,TJ Perenara,n,16
+23/06/2018,France,6,Shannon Frizell,y,71
+23/06/2018,France,22,Richie Mo'unga,n,10
+23/06/2018,France,5,Scott Barrett,y,80
+23/06/2018,France,20,Matt Todd,n,63
+23/06/2018,France,13,Jack Goodhue,y,80
+18/08/2018,Australia,12,Ryan Crotty,y,13
+18/08/2018,Australia,2,Codie Taylor,y,68
+18/08/2018,Australia,20,Ardie Savea,n,10
+18/08/2018,Australia,3,Owen Franks,y,59
+18/08/2018,Australia,17,Tim Perry,n,26
+18/08/2018,Australia,5,Samuel Whitelock,y,80
+18/08/2018,Australia,18,Karl Tu'inukuafe,n,21
+18/08/2018,Australia,4,Brodie Retallick,y,80
+18/08/2018,Australia,15,Ben Smith,y,80
+18/08/2018,Australia,11,Rieko Ioane,y,47
+18/08/2018,Australia,1,Joe Moody,y,54
+18/08/2018,Australia,14,Waisake Naholo,y,80
+18/08/2018,Australia,22,Damian McKenzie,n,33
+18/08/2018,Australia,9,Aaron Smith,y,68
+18/08/2018,Australia,16,Nathan Harris,n,12
+18/08/2018,Australia,21,TJ Perenara,n,12
+18/08/2018,Australia,6,Liam Squire,y,59
+18/08/2018,Australia,8,Kieran Read,y,80
+18/08/2018,Australia,7,Sam Cane,y,70
+18/08/2018,Australia,19,Scott Barrett,n,21
+18/08/2018,Australia,10,Beauden Barrett,y,80
+18/08/2018,Australia,13,Jack Goodhue,y,80
+18/08/2018,Australia,23,Anton Lienert-Brown,n,67
+25/08/2018,Australia,2,Codie Taylor,y,56
+25/08/2018,Australia,20,Ardie Savea,n,27
+25/08/2018,Australia,3,Owen Franks,y,52
+25/08/2018,Australia,5,Samuel Whitelock,y,80
+25/08/2018,Australia,17,Karl Tu'inukuafe,n,24
+25/08/2018,Australia,4,Brodie Retallick,y,80
+25/08/2018,Australia,14,Ben Smith,y,80
+25/08/2018,Australia,1,Joe Moody,y,56
+25/08/2018,Australia,11,Waisake Naholo,y,80
+25/08/2018,Australia,22,Damian McKenzie,n,13
+25/08/2018,Australia,9,Aaron Smith,y,63
+25/08/2018,Australia,15,Jordie Barrett,y,67
+25/08/2018,Australia,16,Nathan Harris,n,24
+25/08/2018,Australia,18,Ofa Tuungafasi,n,28
+25/08/2018,Australia,21,TJ Perenara,n,17
+25/08/2018,Australia,12,Ngani Laumape,y,80
+25/08/2018,Australia,6,Liam Squire,y,56
+25/08/2018,Australia,8,Kieran Read,y,80
+25/08/2018,Australia,7,Sam Cane,y,53
+25/08/2018,Australia,19,Scott Barrett,n,24
+25/08/2018,Australia,10,Beauden Barrett,y,80
+25/08/2018,Australia,13,Jack Goodhue,y,63
+25/08/2018,Australia,23,Anton Lienert-Brown,n,17
+08/09/2018,Argentina,21,Te Toiroa Tahuriorangi,n,8
+08/09/2018,Argentina,2,Codie Taylor,y,63
+08/09/2018,Argentina,7,Ardie Savea,y,80
+08/09/2018,Argentina,3,Owen Franks,y,47
+08/09/2018,Argentina,17,Tim Perry,n,21
+08/09/2018,Argentina,20,Luke Whitelock,n,21
+08/09/2018,Argentina,19,Samuel Whitelock,n,70
+08/09/2018,Argentina,1,Karl Tu'inukuafe,y,59
+08/09/2018,Argentina,4,Brodie Retallick,y,10
+08/09/2018,Argentina,15,Ben Smith,y,70
+08/09/2018,Argentina,11,Waisake Naholo,y,59
+08/09/2018,Argentina,22,Damian McKenzie,n,31
+08/09/2018,Argentina,16,Nathan Harris,n,17
+08/09/2018,Argentina,18,Ofa Tuungafasi,n,33
+08/09/2018,Argentina,9,TJ Perenara,y,72
+08/09/2018,Argentina,6,Shannon Frizell,y,80
+08/09/2018,Argentina,12,Ngani Laumape,y,10
+08/09/2018,Argentina,8,Kieran Read,y,59
+08/09/2018,Argentina,10,Richie Mo'unga,y,80
+08/09/2018,Argentina,5,Scott Barrett,y,80
+08/09/2018,Argentina,13,Jack Goodhue,y,80
+08/09/2018,Argentina,14,Nehe Milner-Skudder,y,80
+08/09/2018,Argentina,23,Anton Lienert-Brown,n,70
+15/09/2018,South Africa,12,Ryan Crotty,y,80
+15/09/2018,South Africa,2,Codie Taylor,y,76
+15/09/2018,South Africa,20,Ardie Savea,n,12
+15/09/2018,South Africa,3,Owen Franks,y,48
+15/09/2018,South Africa,17,Tim Perry,n,21
+15/09/2018,South Africa,4,Samuel Whitelock,y,80
+15/09/2018,South Africa,1,Karl Tu'inukuafe,y,59
+15/09/2018,South Africa,14,Ben Smith,y,80
+15/09/2018,South Africa,11,Rieko Ioane,y,80
+15/09/2018,South Africa,16,Liam Coltman,n,4
+15/09/2018,South Africa,23,Damian McKenzie,n,22
+15/09/2018,South Africa,9,Aaron Smith,y,49
+15/09/2018,South Africa,15,Jordie Barrett,y,58
+15/09/2018,South Africa,18,Ofa Tuungafasi,n,32
+15/09/2018,South Africa,21,TJ Perenara,n,31
+15/09/2018,South Africa,6,Liam Squire,y,59
+15/09/2018,South Africa,8,Kieran Read,y,80
+15/09/2018,South Africa,7,Sam Cane,y,68
+15/09/2018,South Africa,5,Scott Barrett,y,80
+15/09/2018,South Africa,10,Beauden Barrett,y,80
+15/09/2018,South Africa,19,Patrick Tuipulotu,n,21
+15/09/2018,South Africa,22,Jack Goodhue,n,22
+15/09/2018,South Africa,13,Anton Lienert-Brown,y,58
+29/09/2018,Argentina,13,Ryan Crotty,y,80
+29/09/2018,Argentina,12,Sonny Bill Williams,y,57
+29/09/2018,Argentina,2,Codie Taylor,y,59
+29/09/2018,Argentina,8,Ardie Savea,y,80
+29/09/2018,Argentina,18,Angus Ta'avao,n,28
+29/09/2018,Argentina,17,Tim Perry,n,23
+29/09/2018,Argentina,4,Samuel Whitelock,y,52
+29/09/2018,Argentina,1,Karl Tu'inukuafe,y,57
+29/09/2018,Argentina,15,Ben Smith,y,60
+29/09/2018,Argentina,11,Rieko Ioane,y,80
+29/09/2018,Argentina,20,Jackson Hemopo,n,13
+29/09/2018,Argentina,14,Waisake Naholo,y,80
+29/09/2018,Argentina,21,Aaron Smith,n,13
+29/09/2018,Argentina,16,Nathan Harris,n,21
+29/09/2018,Argentina,3,Ofa Tuungafasi,y,52
+29/09/2018,Argentina,9,TJ Perenara,y,67
+29/09/2018,Argentina,6,Shannon Frizell,y,67
+29/09/2018,Argentina,22,Richie Mo'unga,n,20
+29/09/2018,Argentina,7,Sam Cane,y,80
+29/09/2018,Argentina,5,Scott Barrett,y,80
+29/09/2018,Argentina,10,Beauden Barrett,y,80
+29/09/2018,Argentina,19,Patrick Tuipulotu,n,28
+29/09/2018,Argentina,23,Anton Lienert-Brown,n,23
+06/10/2018,South Africa,13,Ryan Crotty,y,80
+06/10/2018,South Africa,12,Sonny Bill Williams,y,60
+06/10/2018,South Africa,2,Codie Taylor,y,70
+06/10/2018,South Africa,20,Ardie Savea,n,44
+06/10/2018,South Africa,3,Owen Franks,y,46
+06/10/2018,South Africa,17,Tim Perry,n,26
+06/10/2018,South Africa,4,Samuel Whitelock,y,80
+06/10/2018,South Africa,1,Karl Tu'inukuafe,y,54
+06/10/2018,South Africa,15,Ben Smith,y,80
+06/10/2018,South Africa,11,Rieko Ioane,y,80
+06/10/2018,South Africa,14,Waisake Naholo,y,51
+06/10/2018,South Africa,9,Aaron Smith,y,70
+06/10/2018,South Africa,16,Nathan Harris,n,10
+06/10/2018,South Africa,18,Ofa Tuungafasi,n,34
+06/10/2018,South Africa,21,TJ Perenara,n,10
+06/10/2018,South Africa,6,Shannon Frizell,y,46
+06/10/2018,South Africa,8,Kieran Read,y,80
+06/10/2018,South Africa,22,Richie Mo'unga,n,29
+06/10/2018,South Africa,7,Sam Cane,y,36
+06/10/2018,South Africa,5,Scott Barrett,y,80
+06/10/2018,South Africa,10,Beauden Barrett,y,80
+06/10/2018,South Africa,19,Patrick Tuipulotu,n,34
+06/10/2018,South Africa,23,Anton Lienert-Brown,n,20
+27/10/2018,Australia,13,Ryan Crotty,y,61
+27/10/2018,Australia,12,Sonny Bill Williams,y,80
+27/10/2018,Australia,2,Codie Taylor,y,72
+27/10/2018,Australia,7,Ardie Savea,y,68
+27/10/2018,Australia,3,Owen Franks,y,54
+27/10/2018,Australia,4,Samuel Whitelock,y,53
+27/10/2018,Australia,17,Karl Tu'inukuafe,n,26
+27/10/2018,Australia,19,Brodie Retallick,n,27
+27/10/2018,Australia,14,Ben Smith,y,80
+27/10/2018,Australia,11,Rieko Ioane,y,80
+27/10/2018,Australia,1,Joe Moody,y,54
+27/10/2018,Australia,15,Damian McKenzie,y,68
+27/10/2018,Australia,21,Aaron Smith,n,19
+27/10/2018,Australia,18,Nepo Laulala,n,26
+27/10/2018,Australia,16,Nathan Harris,n,8
+27/10/2018,Australia,9,TJ Perenara,y,61
+27/10/2018,Australia,6,Liam Squire,y,80
+27/10/2018,Australia,8,Kieran Read,y,80
+27/10/2018,Australia,22,Richie Mo'unga,n,12
+27/10/2018,Australia,5,Scott Barrett,y,80
+27/10/2018,Australia,10,Beauden Barrett,y,80
+27/10/2018,Australia,20,Matt Todd,n,12
+27/10/2018,Australia,23,Anton Lienert-Brown,n,19
+03/11/2018,Japan,9,Te Toiroa Tahuriorangi,y,59
+03/11/2018,Japan,18,Tyrel Lomax,n,21
+03/11/2018,Japan,21,Mitchell Drummond,n,21
+03/11/2018,Japan,20,Gareth Evans,n,26
+03/11/2018,Japan,3,Angus Ta'avao,y,59
+03/11/2018,Japan,17,Tim Perry,n,26
+03/11/2018,Japan,23,George Bridge,n,40
+03/11/2018,Japan,8,Luke Whitelock,y,80
+03/11/2018,Japan,7,Dalton Papali'i,y,59
+03/11/2018,Japan,5,Jackson Hemopo,y,80
+03/11/2018,Japan,16,Liam Coltman,n,26
+03/11/2018,Japan,11,Waisake Naholo,y,71
+03/11/2018,Japan,2,Dane Coles,y,54
+03/11/2018,Japan,13,Matt Proctor,y,80
+03/11/2018,Japan,15,Jordie Barrett,y,80
+03/11/2018,Japan,22,Brett Cameron,n,9
+03/11/2018,Japan,1,Ofa Tuungafasi,y,54
+03/11/2018,Japan,12,Ngani Laumape,y,80
+03/11/2018,Japan,10,Richie Mo'unga,y,80
+03/11/2018,Japan,19,Dillon Hunt,n,21
+03/11/2018,Japan,4,Patrick Tuipulotu,y,54
+03/11/2018,Japan,6,Vaea Fifita,y,80
+03/11/2018,Japan,14,Nehe Milner-Skudder,y,40
+10/11/2018,England,23,Ryan Crotty,n,49
+10/11/2018,England,12,Sonny Bill Williams,y,31
+10/11/2018,England,2,Codie Taylor,y,44
+10/11/2018,England,7,Ardie Savea,y,68
+10/11/2018,England,3,Owen Franks,y,44
+10/11/2018,England,4,Samuel Whitelock,y,80
+10/11/2018,England,1,Karl Tu'inukuafe,y,57
+10/11/2018,England,5,Brodie Retallick,y,80
+10/11/2018,England,14,Ben Smith,y,80
+10/11/2018,England,11,Rieko Ioane,y,80
+10/11/2018,England,16,Dane Coles,n,36
+10/11/2018,England,15,Damian McKenzie,y,63
+10/11/2018,England,9,Aaron Smith,y,63
+10/11/2018,England,18,Nepo Laulala,n,36
+10/11/2018,England,17,Ofa Tuungafasi,n,23
+10/11/2018,England,21,TJ Perenara,n,17
+10/11/2018,England,6,Liam Squire,y,52
+10/11/2018,England,8,Kieran Read,y,80
+10/11/2018,England,22,Richie Mo'unga,n,17
+10/11/2018,England,19,Scott Barrett,n,28
+10/11/2018,England,10,Beauden Barrett,y,80
+10/11/2018,England,20,Matt Todd,n,12
+10/11/2018,England,13,Jack Goodhue,y,80
+17/11/2018,Ireland,12,Ryan Crotty,y,62
+17/11/2018,Ireland,2,Codie Taylor,y,47
+17/11/2018,Ireland,7,Ardie Savea,y,74
+17/11/2018,Ireland,3,Owen Franks,y,47
+17/11/2018,Ireland,5,Samuel Whitelock,y,80
+17/11/2018,Ireland,1,Karl Tu'inukuafe,y,47
+17/11/2018,Ireland,4,Brodie Retallick,y,80
+17/11/2018,Ireland,14,Ben Smith,y,80
+17/11/2018,Ireland,11,Rieko Ioane,y,80
+17/11/2018,Ireland,16,Dane Coles,n,33
+17/11/2018,Ireland,15,Damian McKenzie,y,56
+17/11/2018,Ireland,9,Aaron Smith,y,58
+17/11/2018,Ireland,18,Nepo Laulala,n,33
+17/11/2018,Ireland,17,Ofa Tuungafasi,n,33
+17/11/2018,Ireland,21,TJ Perenara,n,22
+17/11/2018,Ireland,6,Liam Squire,y,32
+17/11/2018,Ireland,8,Kieran Read,y,80
+17/11/2018,Ireland,22,Richie Mo'unga,n,24
+17/11/2018,Ireland,19,Scott Barrett,n,48
+17/11/2018,Ireland,10,Beauden Barrett,y,80
+17/11/2018,Ireland,20,Matt Todd,n,6
+17/11/2018,Ireland,13,Jack Goodhue,y,80
+17/11/2018,Ireland,23,Anton Lienert-Brown,n,18
+24/11/2018,Italy,21,Te Toiroa Tahuriorangi,n,29
+24/11/2018,Italy,7,Ardie Savea,y,48
+24/11/2018,Italy,18,Angus Ta'avao,n,26
+24/11/2018,Italy,17,Karl Tu'inukuafe,n,20
+24/11/2018,Italy,19,Brodie Retallick,n,20
+24/11/2018,Italy,20,Dalton Papali'i,n,32
+24/11/2018,Italy,23,Rieko Ioane,n,25
+24/11/2018,Italy,11,Waisake Naholo,y,55
+24/11/2018,Italy,2,Dane Coles,y,60
+24/11/2018,Italy,15,Damian McKenzie,y,80
+24/11/2018,Italy,14,Jordie Barrett,y,80
+24/11/2018,Italy,3,Nepo Laulala,y,54
+24/11/2018,Italy,16,Nathan Harris,n,20
+24/11/2018,Italy,1,Ofa Tuungafasi,y,60
+24/11/2018,Italy,9,TJ Perenara,y,51
+24/11/2018,Italy,12,Ngani Laumape,y,80
+24/11/2018,Italy,8,Kieran Read,y,80
+24/11/2018,Italy,22,Richie Mo'unga,n,29
+24/11/2018,Italy,5,Scott Barrett,y,60
+24/11/2018,Italy,10,Beauden Barrett,y,51
+24/11/2018,Italy,4,Patrick Tuipulotu,y,80
+24/11/2018,Italy,6,Vaea Fifita,y,80
+24/11/2018,Italy,13,Anton Lienert-Brown,y,80
 20/07/2019,Argentina,8,Ardie Savea,y,80
 20/07/2019,Argentina,22,Josh Ioane,n,0
 20/07/2019,Argentina,3,Angus Ta'avao,y,60

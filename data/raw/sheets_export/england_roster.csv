@@ -1,7 +1,11 @@
 player,dob,caps,position_last_seen,shirt_last_seen,last_match_date,last_opposition
 Adam Radwan,1997-12-30,2,Wing,14,06/11/2021,Tonga
+Alec Hepburn,1993-03-30,11,Replacement,17,24/11/2018,Australia
 Alex Coles,1999-09-21,22,Lock,4,18/07/2026,Argentina
+Alex Corbisiero,1988-08-30,22,Replacement,17,15/08/2015,France
 Alex Dombrandt,1997-04-29,23,Number 8,8,19/07/2025,USA
+Alex Goode,1988-05-07,21,Full Back,15,19/11/2016,Fiji
+Alex Lozowski,1993-06-30,5,Centre,12,17/11/2018,Japan
 Alex Mitchell,1997-05-25,34,Replacement,21,11/07/2026,Fiji
 Anthony Watson,1994-02-26,62,Wing,14,19/08/2023,Ireland
 Arthur Clark,2001-12-19,1,Lock,5,19/07/2025,USA
@@ -10,6 +14,7 @@ Ben Curry,1998-06-15,14,Replacement,20,19/07/2025,USA
 Ben Earl,1998-01-07,56,Number 8,8,18/07/2026,Argentina
 Ben Loader,1998-09-08,0,Replacement,23,02/06/2019,Barbarians
 Ben Moon,1989-07-14,8,Prop,1,16/03/2019,Scotland
+Ben Morgan,1989-02-18,31,Number 8,8,03/10/2015,Australia
 Ben Spencer,1992-07-31,19,Replacement,21,18/07/2026,Argentina
 Ben Te'o,1987-01-27,20,Replacement,23,16/03/2019,Scotland
 Ben White,1998-05-27,38,Replacement,21,02/06/2019,Barbarians
@@ -17,22 +22,32 @@ Ben Youngs,1989-09-05,129,Scrum Half,9,27/10/2023,Argentina
 Benhard van Rensburg,1997-01-14,2,Replacement,22,18/07/2026,Argentina
 Beno Obano,1994-10-24,5,Replacement,17,04/07/2026,South Africa
 Bevan Rodd,2000-08-26,15,Replacement,17,14/03/2026,France
+Billy Twelvetrees,1988-11-15,22,Replacement,23,22/08/2015,France
 Billy Vunipola,1992-11-03,75,Replacement,20,21/10/2023,South Africa
+Brad Barritt,1986-08-07,26,Centre,12,03/10/2015,Australia
 Brad Shields,1991-04-02,8,Replacement,19,16/03/2019,Scotland
 Cadan Murley,1999-07-31,7,Wing,11,04/07/2026,South Africa
 Callum Chick,1996-11-25,2,Number 8,8,19/06/2022,Barbarians
 Callum Sheedy,1995-10-28,17,Replacement,22,02/06/2019,Barbarians
+Calum Clark,1989-06-10,1,Flanker,7,15/08/2015,France
 Chandler Cunningham-South,2002-02-14,22,Replacement,19,14/03/2026,France
 Charlie Atkinson,2001-10-06,1,Replacement,22,19/07/2025,USA
 Charlie Ewels,1995-06-29,35,Replacement,19,04/07/2026,South Africa
 Chris Ashton,1987-03-29,44,Wing,14,10/02/2019,France
+Chris Robshaw,1986-06-04,66,Flanker,6,23/06/2018,South Africa
 Courtney Lawes,1989-02-23,111,Flanker,6,21/10/2023,South Africa
 Curtis Langdon,1997-08-03,4,Hooker,2,19/07/2025,USA
 Dan Cole,1987-05-09,121,Replacement,18,16/11/2024,South Africa
 Dan Kelly,2001-06-16,1,Centre,12,10/07/2021,Canada
 Dan Robson,1992-03-14,14,Replacement,21,10/07/2021,Canada
 Danny Care,1987-01-02,101,Replacement,21,16/03/2024,France
+Danny Cipriani,1987-11-02,16,Fly Half,10,23/06/2018,South Africa
+David Attwood,1987-04-05,24,Replacement,19,12/11/2016,South Africa
 David Ribbans,1995-08-29,10,Replacement,19,27/10/2023,Argentina
+David Wilson,1985-04-09,44,Replacement,18,10/10/2015,Uruguay
+Denny Solomona,1993-10-27,5,Replacement,23,23/06/2018,South Africa
+Don Armand,1988-09-23,2,Replacement,20,17/03/2018,Ireland
+Dylan Hartley,1986-03-24,97,Replacement,16,24/11/2018,Australia
 Ehren Painter,1998-03-21,0,Prop,3,02/06/2019,Barbarians
 Elliot Daly,1992-10-08,81,Full Back,15,14/03/2026,France
 Elliott Stooke,1993-09-10,0,Lock,4,02/06/2019,Barbarians
@@ -44,11 +59,13 @@ Fin Smith,2002-05-11,19,Fly Half,10,18/07/2026,Argentina
 Fraser Dingwall,1999-04-07,10,Centre,12,21/02/2026,Ireland
 Freddie Steward,2000-12-05,44,Full Back,15,21/02/2026,Ireland
 Gabriel Oghre,1998-05-24,1,Replacement,16,19/07/2025,USA
+Geoff Parling,1983-10-28,32,Lock,5,10/10/2015,Uruguay
 George Ford,1993-03-16,108,Fly Half,10,21/02/2026,Ireland
 George Furbank,1996-10-17,14,Full Back,15,24/11/2024,Japan
 George Kloska,1994-02-07,2,Replacement,18,18/07/2026,Argentina
 George Kruis,1990-02-22,46,Lock,5,07/03/2020,Wales
 George Martin,2001-06-18,25,Lock,5,18/07/2026,Argentina
+George McGuigan,1993-03-30,0,Replacement,16,27/05/2018,Barbarians
 Guy Pepper,2003-04-15,15,Flanker,7,18/07/2026,Argentina
 Guy Porter,,5,Centre,12,05/08/2023,Wales
 Harry Randall,1997-12-18,14,Replacement,21,19/07/2025,USA
@@ -57,13 +74,19 @@ Harry Williams,1991-10-01,19,Replacement,18,06/02/2021,Scotland
 Henry Arundell,2002-11-08,14,Wing,11,21/02/2026,Ireland
 Henry Pollock,2005-01-14,13,Replacement,20,18/07/2026,Argentina
 Henry Slade,1993-03-19,77,Centre,13,18/07/2026,Argentina
+Henry Thomas,1991-10-30,14,Replacement,18,01/03/2015,Ireland
+Henry Trinder,1989-04-14,0,Centre,13,27/05/2018,Barbarians
 Immanuel Feyi-Waboso,2002-12-20,16,Wing,11,18/07/2026,Argentina
+Jack Clifford,1993-02-12,10,Replacement,20,26/02/2017,Italy
+Jack Maunder,1997-04-05,1,Replacement,21,17/06/2017,Argentina
 Jack Nowell,1993-04-11,47,Replacement,23,26/11/2022,South Africa
 Jack Singleton,1996-05-14,3,Replacement,16,06/11/2022,Argentina
 Jack Walker,1996-05-06,5,Replacement,16,23/09/2023,Chile
 Jack Willis,1996-12-24,14,Flanker,7,23/09/2023,Chile
 Jack van Poortvliet,2001-05-15,27,Scrum Half,9,18/07/2026,Argentina
 Jacob Umaga,1998-07-08,5,Replacement,23,04/07/2021,USA
+Jamal Ford-Robinson,1993-09-11,0,Replacement,18,28/05/2017,Barbarians
+James Haskell,1985-04-02,77,Flanker,7,17/03/2018,Ireland
 Jamie Blamire,1997-12-22,7,Hooker,2,05/08/2023,Wales
 Jamie George,1990-10-20,117,Hooker,2,18/07/2026,Argentina
 Joe Carpenter,2001-08-19,1,Full Back,15,19/07/2025,USA
@@ -79,23 +102,32 @@ Jonny May,1990-04-01,78,Wing,14,21/10/2023,South Africa
 Josh Bassett,1992-03-17,0,Wing,11,02/06/2019,Barbarians
 Josh Beaumont,1992-03-24,0,Lock,5,02/06/2019,Barbarians
 Josh McNally,1990-08-21,1,Lock,4,04/07/2021,USA
+Kieran Brookes,1990-08-29,16,Replacement,18,19/03/2016,France
 Kyle Sinckler,1993-03-30,75,Replacement,18,21/10/2023,South Africa
 Lewis Ludlam,1995-12-08,25,Replacement,20,27/10/2023,Argentina
 Lewis Ludlow,1994-09-11,2,Flanker,6,10/07/2021,Canada
 Luke Cowan-Dickie,1993-06-20,64,Replacement,16,18/07/2026,Argentina
 Luke Northmore,1997-03-16,2,Centre,13,19/07/2025,USA
+Luther Burrell,1987-12-06,15,Centre,12,11/06/2016,Australia
 Mako Vunipola,1991-01-14,88,Replacement,17,18/03/2023,Ireland
 Manu Tuilagi,1991-05-18,61,Replacement,23,16/03/2024,France
 Marcus Smith,1999-02-14,54,Full Back,15,18/07/2026,Argentina
 Mark Atkinson,1990-03-08,1,Centre,12,19/06/2022,Barbarians
 Mark Wilson,1989-10-06,23,Flanker,6,20/03/2021,Ireland
+Marland Yarde,1992-04-20,13,Wing,14,17/06/2017,Argentina
 Maro Itoje,1994-10-28,111,Lock,4,14/03/2026,France
 Matt Kvesic,1992-04-14,4,Replacement,20,06/09/2019,Italy
+Matt Mullan,1987-02-23,17,Replacement,17,17/06/2017,Argentina
 Max Malins,1997-01-07,22,Wing,11,23/09/2023,Chile
 Max Ojomoh,2000-09-14,2,Centre,12,23/11/2025,Argentina
+Mike Brown,1985-09-04,72,Wing,11,23/06/2018,South Africa
+Mike Haley,1994-06-28,1,Replacement,23,28/05/2017,Barbarians
+Nathan Earle,1994-09-25,0,Wing,14,28/05/2017,Barbarians
 Nathan Hughes,1991-06-10,22,Replacement,20,16/03/2019,Scotland
 Nic Dolly,1999-06-11,1,Replacement,16,19/03/2022,France
+Nick Easter,1978-08-15,54,Number 8,8,10/10/2015,Uruguay
 Nick Isiekwe,1998-04-20,15,Replacement,19,24/11/2024,Japan
+Nick Schonert,1991-09-20,0,Replacement,18,27/05/2018,Barbarians
 Noah Caluori,2006-09-22,2,Replacement,23,18/07/2026,Argentina
 Ollie Chessum,2000-09-06,41,Flanker,6,18/07/2026,Argentina
 Ollie Devoto,1993-09-22,2,Replacement,23,08/02/2020,Scotland
@@ -111,21 +143,29 @@ Paul Hill,1995-03-02,6,Replacement,18,10/07/2021,Canada
 Piers Francis,1990-06-20,9,Centre,12,26/09/2019,USA
 Piers O'Conor,1995-08-28,0,Wing,14,02/06/2019,Barbarians
 Raffi Quirke,2001-08-18,2,Replacement,22,20/11/2021,South Africa
+Richard Wigglesworth,1983-06-09,33,Replacement,21,24/11/2018,Australia
+Rob Webber,1986-08-01,16,Replacement,16,03/10/2015,Australia
 Ross Harrison,1992-09-03,0,Prop,1,02/06/2019,Barbarians
 Ruaridh McConnochie,1991-10-23,2,Wing,14,26/09/2019,USA
+Sam Burgess,1988-12-14,5,Replacement,23,03/10/2015,Australia
+Sam James,1994-07-03,0,Centre,13,28/05/2017,Barbarians
 Sam Simmonds,1994-11-10,19,Replacement,20,26/11/2022,South Africa
 Sam Underhill,1996-07-22,50,Replacement,20,14/03/2026,France
 Seb Atkinson,2002-05-21,7,Centre,12,18/07/2026,Argentina
+Semesa Rokoduguni,1987-08-28,4,Replacement,23,25/11/2017,Samoa
 Simon Hammersley,1993-03-20,0,Full Back,15,02/06/2019,Barbarians
 Ted Hill,1999-03-26,5,Replacement,19,19/07/2025,USA
 Teimana Harrison,1992-09-05,5,Number 8,8,02/06/2019,Barbarians
 Theo Dan,2000-12-26,20,Replacement,16,23/11/2025,Argentina
+Tom Croft,1985-11-07,45,Replacement,20,01/03/2015,Ireland
 Tom Curry,1998-06-15,77,Replacement,19,18/07/2026,Argentina
 Tom Dunn,1992-11-12,3,Replacement,16,21/11/2020,Ireland
 Tom Ellis,1994-09-29,0,Replacement,20,02/06/2019,Barbarians
 Tom Pearson,1999-10-26,1,Flanker,7,05/08/2023,Wales
 Tom Roebuck,2001-01-07,12,Wing,14,14/03/2026,France
 Tom Willis,1999-01-18,8,Number 8,8,12/07/2025,Argentina
+Tom Wood,1986-11-03,50,Replacement,19,18/03/2017,Ireland
+Tom Youngs,1987-01-28,31,Hooker,2,10/10/2015,Uruguay
 Tommy Freeman,2001-03-05,33,Wing,14,18/07/2026,Argentina
 Tommy Taylor,1991-11-11,1,Replacement,16,02/06/2019,Barbarians
 Trevor Davison,1992-08-20,8,Replacement,18,14/03/2026,France
@@ -136,3 +176,4 @@ Will Muir,1995-10-30,2,Wing,11,12/07/2025,Argentina
 Will Spencer,1992-05-30,0,Replacement,19,02/06/2019,Barbarians
 Will Stuart,1996-07-12,56,Replacement,18,23/11/2025,Argentina
 Willi Heinz,1986-11-24,13,Replacement,22,07/03/2020,Wales
+Zach Mercer,1997-06-28,2,Number 8,8,17/11/2018,Japan

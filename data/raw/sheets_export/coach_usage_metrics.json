@@ -28,10 +28,10 @@
     "one_cap_wonders": 11,
     "avg_starting_xv_changes_per_match": 5.0,
     "core15_share_of_starts_pct": 53.3,
-    "avg_bench_minutes_per_match": 142.6,
-    "avg_pct_bench_unused": 15.5,
-    "avg_starter_minutes": 70.0,
-    "matches_with_minutes_data": 45
+    "avg_bench_minutes_per_match": 143.4,
+    "avg_pct_bench_unused": 14.8,
+    "avg_starter_minutes": 69.9,
+    "matches_with_minutes_data": 48
   },
   "galthie": {
     "label": "Galthié (FRA)",
@@ -55,33 +55,33 @@
     "team": "south_africa",
     "date_range": [
       "22/06/2024",
-      "18/07/2026"
+      "08/08/2026"
     ],
-    "matches": 30,
+    "matches": 31,
     "unique_players_used": 68,
     "one_cap_wonders": 10,
-    "avg_starting_xv_changes_per_match": 8.07,
-    "core15_share_of_starts_pct": 55.8,
-    "avg_bench_minutes_per_match": 208.6,
-    "avg_pct_bench_unused": 8.7,
+    "avg_starting_xv_changes_per_match": 8.25,
+    "core15_share_of_starts_pct": 55.3,
+    "avg_bench_minutes_per_match": 209.5,
+    "avg_pct_bench_unused": 8.4,
     "avg_starter_minutes": 65.3,
-    "matches_with_minutes_data": 30
+    "matches_with_minutes_data": 31
   },
   "townsend": {
     "label": "Townsend (SCO)",
     "team": "scotland",
     "date_range": [
-      "02/02/2019",
+      "07/02/2015",
       "18/07/2026"
     ],
-    "matches": 89,
-    "unique_players_used": 116,
-    "one_cap_wonders": 11,
-    "avg_starting_xv_changes_per_match": 6.56,
-    "core15_share_of_starts_pct": 49.5,
-    "avg_bench_minutes_per_match": 145.9,
-    "avg_pct_bench_unused": 16.2,
-    "avg_starter_minutes": 70.0,
-    "matches_with_minutes_data": 89
+    "matches": 136,
+    "unique_players_used": 148,
+    "one_cap_wonders": 8,
+    "avg_starting_xv_changes_per_match": 6.34,
+    "core15_share_of_starts_pct": 41.8,
+    "avg_bench_minutes_per_match": 149.1,
+    "avg_pct_bench_unused": 14.9,
+    "avg_starter_minutes": 69.9,
+    "matches_with_minutes_data": 136
   }
 }

@@ -1,4 +1,1154 @@
 date,opposition,shirt,player,started,minutes
+18/07/2015,Australia,3,Jannie Du Plessis,y,44
+18/07/2015,Australia,11,Bryan Habana,y,80
+18/07/2015,Australia,16,Adriaan Strauss,n,30
+18/07/2015,Australia,20,Teboho Mohoje,n,21
+18/07/2015,Australia,17,Heinke van der Merwe,n,30
+18/07/2015,Australia,10,Handre Pollard,y,68
+18/07/2015,Australia,18,Frans Malherbe,n,36
+18/07/2015,Australia,13,Jesse Kriel,y,77
+18/07/2015,Australia,2,Bismarck Du Plessis,y,50
+18/07/2015,Australia,22,Pat Lambie,n,12
+18/07/2015,Australia,12,Damian de Allende,y,80
+18/07/2015,Australia,1,Tendai Mtawarira,y,50
+18/07/2015,Australia,4,Eben Etzebeth,y,80
+18/07/2015,Australia,9,Ruan Pienaar,y,68
+18/07/2015,Australia,5,Victor Matfield,y,18
+18/07/2015,Australia,7,Marcell Coetzee,y,70
+18/07/2015,Australia,21,Cobus Reinach,n,12
+18/07/2015,Australia,14,JP Pietersen,y,80
+18/07/2015,Australia,15,Willie Le Roux,y,80
+18/07/2015,Australia,19,Lodewyk De Jager,n,62
+18/07/2015,Australia,23,Lwazi Mvovo,n,3
+18/07/2015,Australia,8,Schalk Burger,y,80
+18/07/2015,Australia,6,Francois Louw,y,69
+25/07/2015,New Zealand,3,Jannie Du Plessis,y,40
+25/07/2015,New Zealand,11,Bryan Habana,y,80
+25/07/2015,New Zealand,16,Adriaan Strauss,n,10
+25/07/2015,New Zealand,10,Handre Pollard,y,80
+25/07/2015,New Zealand,13,Jesse Kriel,y,78
+25/07/2015,New Zealand,2,Bismarck Du Plessis,y,80
+25/07/2015,New Zealand,22,Pat Lambie,n,17
+25/07/2015,New Zealand,14,Cornal Hendricks,y,80
+25/07/2015,New Zealand,12,Damian de Allende,y,80
+25/07/2015,New Zealand,1,Tendai Mtawarira,y,70
+25/07/2015,New Zealand,6,Heinrich Brussow,y,80
+25/07/2015,New Zealand,23,Lionel Mapoe,n,2
+25/07/2015,New Zealand,4,Eben Etzebeth,y,80
+25/07/2015,New Zealand,9,Ruan Pienaar,y,75
+25/07/2015,New Zealand,19,Flip Van Der Merwe,n,20
+25/07/2015,New Zealand,20,Warren Whiteley,n,38
+25/07/2015,New Zealand,17,Trevor Nyakane,n,18
+25/07/2015,New Zealand,21,Cobus Reinach,n,5
+25/07/2015,New Zealand,18,Vincent Koch,n,22
+25/07/2015,New Zealand,15,Willie Le Roux,y,63
+25/07/2015,New Zealand,5,Lodewyk De Jager,y,60
+25/07/2015,New Zealand,8,Schalk Burger,y,80
+25/07/2015,New Zealand,7,Francois Louw,y,42
+08/08/2015,Argentina,17,Trevor Nyakane,n,18
+08/08/2015,Argentina,18,Marcel Van Der Merwe,n,40
+08/08/2015,Argentina,13,Jean De Villiers,y,80
+08/08/2015,Argentina,21,Cobus Reinach,n,20
+08/08/2015,Argentina,19,Pieter-Steph Du Toit,n,18
+08/08/2015,Argentina,3,Vincent Koch,y,40
+08/08/2015,Argentina,15,Willie Le Roux,y,80
+08/08/2015,Argentina,5,Lodewyk De Jager,y,80
+08/08/2015,Argentina,23,Lwazi Mvovo,n,14
+08/08/2015,Argentina,8,Schalk Burger,y,80
+08/08/2015,Argentina,11,Bryan Habana,y,80
+08/08/2015,Argentina,16,Adriaan Strauss,n,23
+08/08/2015,Argentina,10,Handre Pollard,y,66
+08/08/2015,Argentina,14,Jesse Kriel,y,80
+08/08/2015,Argentina,2,Bismarck Du Plessis,y,57
+08/08/2015,Argentina,22,Pat Lambie,n,14
+08/08/2015,Argentina,12,Damian de Allende,y,80
+08/08/2015,Argentina,1,Tendai Mtawarira,y,62
+08/08/2015,Argentina,6,Heinrich Brussow,y,63
+08/08/2015,Argentina,20,Siya Kolisi,n,17
+08/08/2015,Argentina,4,Eben Etzebeth,y,62
+08/08/2015,Argentina,9,Ruan Pienaar,y,60
+08/08/2015,Argentina,7,Marcell Coetzee,y,66
+15/08/2015,Argentina,11,Bryan Habana,y,80
+15/08/2015,Argentina,2,Adriaan Strauss,y,40
+15/08/2015,Argentina,16,Schalk Brits,n,40
+15/08/2015,Argentina,22,Handre Pollard,n,5
+15/08/2015,Argentina,18,Frans Malherbe,n,31
+15/08/2015,Argentina,23,Jan Serfontein,n,16
+15/08/2015,Argentina,13,Jesse Kriel,y,80
+15/08/2015,Argentina,10,Pat Lambie,y,75
+15/08/2015,Argentina,12,Damian de Allende,y,64
+15/08/2015,Argentina,17,Tendai Mtawarira,n,32
+15/08/2015,Argentina,6,Heinrich Brussow,y,80
+15/08/2015,Argentina,4,Eben Etzebeth,y,80
+15/08/2015,Argentina,9,Ruan Pienaar,y,80
+15/08/2015,Argentina,19,Flip Van Der Merwe,n,24
+15/08/2015,Argentina,5,Victor Matfield,y,56
+15/08/2015,Argentina,1,Trevor Nyakane,y,48
+15/08/2015,Argentina,3,Marcel Van Der Merwe,y,49
+15/08/2015,Argentina,21,Cobus Reinach,n,5
+15/08/2015,Argentina,20,Pieter-Steph Du Toit,n,16
+15/08/2015,Argentina,7,Willem Alberts,y,64
+15/08/2015,Argentina,15,Zane Kirchner,y,75
+15/08/2015,Argentina,14,Lwazi Mvovo,y,80
+15/08/2015,Argentina,8,Schalk Burger,y,80
+19/09/2015,Japan,3,Jannie Du Plessis,y,54
+19/09/2015,Japan,14,Bryan Habana,y,80
+19/09/2015,Japan,16,Adriaan Strauss,n,27
+19/09/2015,Japan,21,Fourie Du Preez,n,22
+19/09/2015,Japan,22,Handre Pollard,n,22
+19/09/2015,Japan,13,Jesse Kriel,y,80
+19/09/2015,Japan,2,Bismarck Du Plessis,y,53
+19/09/2015,Japan,10,Pat Lambie,y,58
+19/09/2015,Japan,1,Tendai Mtawarira,y,54
+19/09/2015,Japan,20,Siya Kolisi,n,23
+19/09/2015,Japan,19,Eben Etzebeth,n,12
+19/09/2015,Japan,9,Ruan Pienaar,y,58
+19/09/2015,Japan,18,Coenie Oosthuizen,n,27
+19/09/2015,Japan,5,Victor Matfield,y,80
+19/09/2015,Japan,17,Trevor Nyakane,n,26
+19/09/2015,Japan,12,Jean De Villiers,y,80
+19/09/2015,Japan,23,JP Pietersen,n,10
+19/09/2015,Japan,7,Pieter-Steph Du Toit,y,57
+19/09/2015,Japan,15,Zane Kirchner,y,80
+19/09/2015,Japan,4,Lodewyk De Jager,y,68
+19/09/2015,Japan,11,Lwazi Mvovo,y,70
+19/09/2015,Japan,8,Schalk Burger,y,80
+19/09/2015,Japan,6,Francois Louw,y,80
+26/09/2015,Samoa,3,Jannie Du Plessis,y,53
+26/09/2015,Samoa,11,Bryan Habana,y,80
+26/09/2015,Samoa,2,Adriaan Strauss,y,67
+26/09/2015,Samoa,16,Schalk Brits,n,13
+26/09/2015,Samoa,9,Fourie Du Preez,y,73
+26/09/2015,Samoa,10,Handre Pollard,y,80
+26/09/2015,Samoa,18,Frans Malherbe,n,27
+26/09/2015,Samoa,23,Jesse Kriel,n,29
+26/09/2015,Samoa,22,Pat Lambie,n,9
+26/09/2015,Samoa,12,Damian de Allende,y,48
+26/09/2015,Samoa,1,Tendai Mtawarira,y,61
+26/09/2015,Samoa,20,Siya Kolisi,n,13
+26/09/2015,Samoa,4,Eben Etzebeth,y,80
+26/09/2015,Samoa,21,Ruan Pienaar,n,7
+26/09/2015,Samoa,5,Victor Matfield,y,54
+26/09/2015,Samoa,17,Trevor Nyakane,n,19
+26/09/2015,Samoa,8,Duane Vermeulen,y,80
+26/09/2015,Samoa,13,Jean De Villiers,y,75
+26/09/2015,Samoa,14,JP Pietersen,y,80
+26/09/2015,Samoa,15,Willie Le Roux,y,80
+26/09/2015,Samoa,19,Lodewyk De Jager,n,26
+26/09/2015,Samoa,7,Schalk Burger,y,67
+26/09/2015,Samoa,6,Francois Louw,y,80
+03/10/2015,Scotland,3,Jannie Du Plessis,y,50
+03/10/2015,Scotland,11,Bryan Habana,y,80
+03/10/2015,Scotland,16,Adriaan Strauss,n,24
+03/10/2015,Scotland,9,Fourie Du Preez,y,77
+03/10/2015,Scotland,10,Handre Pollard,y,80
+03/10/2015,Scotland,18,Frans Malherbe,n,30
+03/10/2015,Scotland,23,Jan Serfontein,n,5
+03/10/2015,Scotland,13,Jesse Kriel,y,80
+03/10/2015,Scotland,2,Bismarck Du Plessis,y,56
+03/10/2015,Scotland,22,Pat Lambie,n,10
+03/10/2015,Scotland,12,Damian de Allende,y,75
+03/10/2015,Scotland,1,Tendai Mtawarira,y,60
+03/10/2015,Scotland,4,Eben Etzebeth,y,80
+03/10/2015,Scotland,21,Ruan Pienaar,n,3
+03/10/2015,Scotland,17,Trevor Nyakane,n,20
+03/10/2015,Scotland,8,Duane Vermeulen,y,80
+03/10/2015,Scotland,14,JP Pietersen,y,70
+03/10/2015,Scotland,19,Pieter-Steph Du Toit,n,5
+03/10/2015,Scotland,20,Willem Alberts,n,11
+03/10/2015,Scotland,15,Willie Le Roux,y,80
+03/10/2015,Scotland,5,Lodewyk De Jager,y,75
+03/10/2015,Scotland,7,Schalk Burger,y,69
+03/10/2015,Scotland,6,Francois Louw,y,80
+07/10/2015,USA,22,Morne Steyn,n,24
+07/10/2015,USA,21,Rudy Paige,n,17
+07/10/2015,USA,14,Bryan Habana,y,77
+07/10/2015,USA,16,Schalk Brits,n,24
+07/10/2015,USA,9,Fourie Du Preez,y,63
+07/10/2015,USA,10,Handre Pollard,y,56
+07/10/2015,USA,3,Frans Malherbe,y,60
+07/10/2015,USA,23,Jan Serfontein,n,24
+07/10/2015,USA,13,Jesse Kriel,y,80
+07/10/2015,USA,2,Bismarck Du Plessis,y,56
+07/10/2015,USA,12,Damian de Allende,y,60
+07/10/2015,USA,1,Tendai Mtawarira,y,56
+07/10/2015,USA,4,Eben Etzebeth,y,80
+07/10/2015,USA,18,Coenie Oosthuizen,n,20
+07/10/2015,USA,17,Trevor Nyakane,n,24
+07/10/2015,USA,8,Duane Vermeulen,y,80
+07/10/2015,USA,19,Pieter-Steph Du Toit,n,17
+07/10/2015,USA,20,Willem Alberts,n,32
+07/10/2015,USA,15,Willie Le Roux,y,80
+07/10/2015,USA,5,Lodewyk De Jager,y,63
+07/10/2015,USA,11,Lwazi Mvovo,y,80
+07/10/2015,USA,7,Schalk Burger,y,48
+07/10/2015,USA,6,Francois Louw,y,80
+17/10/2015,Wales,18,Jannie Du Plessis,n,19
+17/10/2015,Wales,11,Bryan Habana,y,80
+17/10/2015,Wales,16,Adriaan Strauss,n,36
+17/10/2015,Wales,9,Fourie Du Preez,y,80
+17/10/2015,Wales,10,Handre Pollard,y,76
+17/10/2015,Wales,3,Frans Malherbe,y,61
+17/10/2015,Wales,23,Jan Serfontein,n,12
+17/10/2015,Wales,13,Jesse Kriel,y,68
+17/10/2015,Wales,2,Bismarck Du Plessis,y,44
+17/10/2015,Wales,22,Pat Lambie,n,4
+17/10/2015,Wales,12,Damian de Allende,y,80
+17/10/2015,Wales,1,Tendai Mtawarira,y,57
+17/10/2015,Wales,4,Eben Etzebeth,y,68
+17/10/2015,Wales,21,Ruan Pienaar,n,0
+17/10/2015,Wales,17,Trevor Nyakane,n,23
+17/10/2015,Wales,8,Duane Vermeulen,y,80
+17/10/2015,Wales,14,JP Pietersen,y,80
+17/10/2015,Wales,19,Pieter-Steph Du Toit,n,12
+17/10/2015,Wales,20,Willem Alberts,n,12
+17/10/2015,Wales,15,Willie Le Roux,y,80
+17/10/2015,Wales,5,Lodewyk De Jager,y,80
+17/10/2015,Wales,7,Schalk Burger,y,80
+17/10/2015,Wales,6,Francois Louw,y,68
+24/10/2015,New Zealand,18,Jannie Du Plessis,n,20
+24/10/2015,New Zealand,11,Bryan Habana,y,80
+24/10/2015,New Zealand,16,Adriaan Strauss,n,27
+24/10/2015,New Zealand,9,Fourie Du Preez,y,80
+24/10/2015,New Zealand,10,Handre Pollard,y,65
+24/10/2015,New Zealand,3,Frans Malherbe,y,60
+24/10/2015,New Zealand,23,Jan Serfontein,n,1
+24/10/2015,New Zealand,13,Jesse Kriel,y,80
+24/10/2015,New Zealand,2,Bismarck Du Plessis,y,53
+24/10/2015,New Zealand,22,Pat Lambie,n,15
+24/10/2015,New Zealand,12,Damian de Allende,y,79
+24/10/2015,New Zealand,1,Tendai Mtawarira,y,53
+24/10/2015,New Zealand,4,Eben Etzebeth,y,80
+24/10/2015,New Zealand,21,Ruan Pienaar,n,0
+24/10/2015,New Zealand,19,Victor Matfield,n,20
+24/10/2015,New Zealand,17,Trevor Nyakane,n,27
+24/10/2015,New Zealand,8,Duane Vermeulen,y,80
+24/10/2015,New Zealand,14,JP Pietersen,y,80
+24/10/2015,New Zealand,20,Willem Alberts,n,23
+24/10/2015,New Zealand,15,Willie Le Roux,y,80
+24/10/2015,New Zealand,5,Lodewyk De Jager,y,60
+24/10/2015,New Zealand,7,Schalk Burger,y,63
+24/10/2015,New Zealand,6,Francois Louw,y,74
+30/10/2015,Argentina,18,Jannie Du Plessis,n,9
+30/10/2015,Argentina,21,Rudy Paige,n,3
+30/10/2015,Argentina,11,Bryan Habana,y,67
+30/10/2015,Argentina,16,Adriaan Strauss,n,32
+30/10/2015,Argentina,10,Handre Pollard,y,80
+30/10/2015,Argentina,3,Frans Malherbe,y,71
+30/10/2015,Argentina,23,Jan Serfontein,n,13
+30/10/2015,Argentina,13,Jesse Kriel,y,80
+30/10/2015,Argentina,2,Bismarck Du Plessis,y,48
+30/10/2015,Argentina,22,Pat Lambie,n,16
+30/10/2015,Argentina,12,Damian de Allende,y,80
+30/10/2015,Argentina,1,Tendai Mtawarira,y,40
+30/10/2015,Argentina,4,Eben Etzebeth,y,80
+30/10/2015,Argentina,9,Ruan Pienaar,y,77
+30/10/2015,Argentina,5,Victor Matfield,y,62
+30/10/2015,Argentina,17,Trevor Nyakane,n,40
+30/10/2015,Argentina,8,Duane Vermeulen,y,80
+30/10/2015,Argentina,14,JP Pietersen,y,80
+30/10/2015,Argentina,20,Willem Alberts,n,27
+30/10/2015,Argentina,15,Willie Le Roux,y,64
+30/10/2015,Argentina,19,Lodewyk De Jager,n,18
+30/10/2015,Argentina,7,Schalk Burger,y,58
+30/10/2015,Argentina,6,Francois Louw,y,75
+11/06/2016,Ireland,22,Elton Jantjies,n,57
+11/06/2016,Ireland,21,Rudy Paige,n,11
+11/06/2016,Ireland,2,Adriaan Strauss,y,80
+11/06/2016,Ireland,3,Frans Malherbe,y,77
+11/06/2016,Ireland,23,Jesse Kriel,n,11
+11/06/2016,Ireland,10,Pat Lambie,y,23
+11/06/2016,Ireland,12,Damian de Allende,y,80
+11/06/2016,Ireland,1,Tendai Mtawarira,y,59
+11/06/2016,Ireland,7,Siya Kolisi,y,80
+11/06/2016,Ireland,16,Mbongeni Mbonambi,n,0
+11/06/2016,Ireland,9,Faf de Klerk,y,69
+11/06/2016,Ireland,13,Lionel Mapoe,y,69
+11/06/2016,Ireland,4,Eben Etzebeth,y,80
+11/06/2016,Ireland,20,Warren Whiteley,n,24
+11/06/2016,Ireland,17,Trevor Nyakane,n,21
+11/06/2016,Ireland,8,Duane Vermeulen,y,80
+11/06/2016,Ireland,14,JP Pietersen,y,80
+11/06/2016,Ireland,19,Pieter-Steph Du Toit,n,24
+11/06/2016,Ireland,15,Willie Le Roux,y,80
+11/06/2016,Ireland,5,Lodewyk De Jager,y,56
+11/06/2016,Ireland,18,Julian Redelinghuys,n,3
+11/06/2016,Ireland,11,Lwazi Mvovo,y,80
+11/06/2016,Ireland,6,Francois Louw,y,56
+18/06/2016,Ireland,10,Elton Jantjies,y,77
+18/06/2016,Ireland,22,Morne Steyn,n,3
+18/06/2016,Ireland,21,Rudy Paige,n,0
+18/06/2016,Ireland,2,Adriaan Strauss,y,80
+18/06/2016,Ireland,3,Frans Malherbe,y,46
+18/06/2016,Ireland,12,Damian de Allende,y,80
+18/06/2016,Ireland,1,Tendai Mtawarira,y,51
+18/06/2016,Ireland,7,Siya Kolisi,y,68
+18/06/2016,Ireland,16,Mbongeni Mbonambi,n,0
+18/06/2016,Ireland,9,Faf de Klerk,y,80
+18/06/2016,Ireland,13,Lionel Mapoe,y,80
+18/06/2016,Ireland,4,Eben Etzebeth,y,80
+18/06/2016,Ireland,19,Franco Mostert,n,12
+18/06/2016,Ireland,20,Warren Whiteley,n,40
+18/06/2016,Ireland,17,Trevor Nyakane,n,29
+18/06/2016,Ireland,8,Duane Vermeulen,y,40
+18/06/2016,Ireland,14,JP Pietersen,y,80
+18/06/2016,Ireland,5,Pieter-Steph Du Toit,y,80
+18/06/2016,Ireland,23,Ruan Combrinck,n,40
+18/06/2016,Ireland,15,Willie Le Roux,y,80
+18/06/2016,Ireland,18,Julian Redelinghuys,n,34
+18/06/2016,Ireland,11,Lwazi Mvovo,y,40
+18/06/2016,Ireland,6,Francois Louw,y,80
+25/06/2016,Ireland,10,Elton Jantjies,y,80
+25/06/2016,Ireland,22,Morne Steyn,n,0
+25/06/2016,Ireland,21,Rudy Paige,n,0
+25/06/2016,Ireland,2,Adriaan Strauss,y,79
+25/06/2016,Ireland,3,Frans Malherbe,y,57
+25/06/2016,Ireland,12,Damian de Allende,y,80
+25/06/2016,Ireland,1,Tendai Mtawarira,y,57
+25/06/2016,Ireland,7,Siya Kolisi,y,61
+25/06/2016,Ireland,16,Mbongeni Mbonambi,n,1
+25/06/2016,Ireland,9,Faf de Klerk,y,80
+25/06/2016,Ireland,13,Lionel Mapoe,y,80
+25/06/2016,Ireland,4,Eben Etzebeth,y,74
+25/06/2016,Ireland,19,Franco Mostert,n,6
+25/06/2016,Ireland,8,Warren Whiteley,y,80
+25/06/2016,Ireland,11,JP Pietersen,y,80
+25/06/2016,Ireland,5,Pieter-Steph Du Toit,y,80
+25/06/2016,Ireland,20,Jaco Kriel,n,19
+25/06/2016,Ireland,14,Ruan Combrinck,y,80
+25/06/2016,Ireland,15,Willie Le Roux,y,80
+25/06/2016,Ireland,18,Julian Redelinghuys,n,23
+25/06/2016,Ireland,17,Steven Kitshoff,n,23
+25/06/2016,Ireland,23,Lwazi Mvovo,n,0
+25/06/2016,Ireland,6,Francois Louw,y,80
+20/08/2016,Argentina,10,Elton Jantjies,y,80
+20/08/2016,Argentina,21,Rudy Paige,n,0
+20/08/2016,Argentina,11,Bryan Habana,y,80
+20/08/2016,Argentina,2,Adriaan Strauss,y,80
+20/08/2016,Argentina,7,Teboho Mohoje,y,80
+20/08/2016,Argentina,23,Jesse Kriel,n,8
+20/08/2016,Argentina,15,Johan Goosen,y,80
+20/08/2016,Argentina,12,Damian de Allende,y,74
+20/08/2016,Argentina,1,Tendai Mtawarira,y,54
+20/08/2016,Argentina,16,Mbongeni Mbonambi,n,0
+20/08/2016,Argentina,9,Faf de Klerk,y,80
+20/08/2016,Argentina,13,Lionel Mapoe,y,72
+20/08/2016,Argentina,4,Eben Etzebeth,y,80
+20/08/2016,Argentina,8,Warren Whiteley,y,80
+20/08/2016,Argentina,19,Pieter-Steph Du Toit,n,26
+20/08/2016,Argentina,20,Jaco Kriel,n,26
+20/08/2016,Argentina,18,Vincent Koch,n,48
+20/08/2016,Argentina,14,Ruan Combrinck,y,80
+20/08/2016,Argentina,22,Juan de Jongh,n,6
+20/08/2016,Argentina,5,Lodewyk De Jager,y,54
+20/08/2016,Argentina,3,Julian Redelinghuys,y,32
+20/08/2016,Argentina,17,Steven Kitshoff,n,26
+20/08/2016,Argentina,6,Francois Louw,y,54
+27/08/2016,Argentina,10,Elton Jantjies,y,46
+27/08/2016,Argentina,22,Morne Steyn,n,34
+27/08/2016,Argentina,21,Rudy Paige,n,6
+27/08/2016,Argentina,11,Bryan Habana,y,80
+27/08/2016,Argentina,2,Adriaan Strauss,y,80
+27/08/2016,Argentina,7,Teboho Mohoje,y,80
+27/08/2016,Argentina,23,Jesse Kriel,n,47
+27/08/2016,Argentina,15,Johan Goosen,y,80
+27/08/2016,Argentina,12,Damian de Allende,y,80
+27/08/2016,Argentina,1,Tendai Mtawarira,y,46
+27/08/2016,Argentina,16,Mbongeni Mbonambi,n,0
+27/08/2016,Argentina,9,Faf de Klerk,y,74
+27/08/2016,Argentina,13,Lionel Mapoe,y,80
+27/08/2016,Argentina,4,Eben Etzebeth,y,80
+27/08/2016,Argentina,8,Warren Whiteley,y,80
+27/08/2016,Argentina,18,Lourens Adriaanse,n,34
+27/08/2016,Argentina,19,Pieter-Steph Du Toit,n,34
+27/08/2016,Argentina,20,Jaco Kriel,n,19
+27/08/2016,Argentina,3,Vincent Koch,y,46
+27/08/2016,Argentina,14,Ruan Combrinck,y,33
+27/08/2016,Argentina,5,Lodewyk De Jager,y,46
+27/08/2016,Argentina,17,Steven Kitshoff,n,34
+27/08/2016,Argentina,6,Francois Louw,y,61
+10/09/2016,Australia,10,Elton Jantjies,y,64
+10/09/2016,Australia,22,Morne Steyn,n,16
+10/09/2016,Australia,14,Bryan Habana,y,80
+10/09/2016,Australia,2,Adriaan Strauss,y,74
+10/09/2016,Australia,7,Teboho Mohoje,y,46
+10/09/2016,Australia,11,Francois Hougaard,y,79
+10/09/2016,Australia,13,Jesse Kriel,y,80
+10/09/2016,Australia,15,Johan Goosen,y,80
+10/09/2016,Australia,1,Tendai Mtawarira,y,50
+10/09/2016,Australia,16,Mbongeni Mbonambi,n,6
+10/09/2016,Australia,9,Faf de Klerk,y,80
+10/09/2016,Australia,23,Lionel Mapoe,n,1
+10/09/2016,Australia,4,Eben Etzebeth,y,80
+10/09/2016,Australia,19,Franco Mostert,n,34
+10/09/2016,Australia,8,Warren Whiteley,y,80
+10/09/2016,Australia,18,Trevor Nyakane,n,30
+10/09/2016,Australia,3,Lourens Adriaanse,y,50
+10/09/2016,Australia,20,Pieter-Steph Du Toit,n,37
+10/09/2016,Australia,21,Jaco Kriel,n,30
+10/09/2016,Australia,12,Juan de Jongh,y,80
+10/09/2016,Australia,5,Lodewyk De Jager,y,43
+10/09/2016,Australia,17,Steven Kitshoff,n,30
+10/09/2016,Australia,6,Francois Louw,y,50
+17/09/2016,New Zealand,10,Elton Jantjies,y,60
+17/09/2016,New Zealand,22,Morne Steyn,n,20
+17/09/2016,New Zealand,14,Bryan Habana,y,80
+17/09/2016,New Zealand,2,Adriaan Strauss,y,44
+17/09/2016,New Zealand,7,Teboho Mohoje,y,50
+17/09/2016,New Zealand,11,Francois Hougaard,y,80
+17/09/2016,New Zealand,13,Jesse Kriel,y,80
+17/09/2016,New Zealand,15,Johan Goosen,y,50
+17/09/2016,New Zealand,23,Damian de Allende,n,30
+17/09/2016,New Zealand,1,Tendai Mtawarira,y,60
+17/09/2016,New Zealand,9,Faf de Klerk,y,80
+17/09/2016,New Zealand,4,Eben Etzebeth,y,80
+17/09/2016,New Zealand,19,Franco Mostert,n,18
+17/09/2016,New Zealand,8,Warren Whiteley,y,80
+17/09/2016,New Zealand,16,Malcolm Marx,n,36
+17/09/2016,New Zealand,18,Lourens Adriaanse,n,8
+17/09/2016,New Zealand,5,Pieter-Steph Du Toit,y,62
+17/09/2016,New Zealand,21,Jaco Kriel,n,19
+17/09/2016,New Zealand,3,Vincent Koch,y,72
+17/09/2016,New Zealand,20,Willem Alberts,n,30
+17/09/2016,New Zealand,12,Juan de Jongh,y,80
+17/09/2016,New Zealand,17,Steven Kitshoff,n,20
+17/09/2016,New Zealand,6,Francois Louw,y,61
+01/10/2016,Australia,10,Morne Steyn,y,80
+01/10/2016,Australia,9,Rudy Paige,y,57
+01/10/2016,Australia,14,Bryan Habana,y,46
+01/10/2016,Australia,2,Adriaan Strauss,y,80
+01/10/2016,Australia,7,Teboho Mohoje,y,55
+01/10/2016,Australia,11,Francois Hougaard,y,80
+01/10/2016,Australia,13,Jesse Kriel,y,39
+01/10/2016,Australia,15,Pat Lambie,y,80
+01/10/2016,Australia,1,Tendai Mtawarira,y,45
+01/10/2016,Australia,16,Mbongeni Mbonambi,n,0
+01/10/2016,Australia,22,Lionel Mapoe,n,41
+01/10/2016,Australia,4,Eben Etzebeth,y,80
+01/10/2016,Australia,8,Warren Whiteley,y,80
+01/10/2016,Australia,5,Pieter-Steph Du Toit,y,45
+01/10/2016,Australia,21,Jaco Kriel,n,25
+01/10/2016,Australia,3,Vincent Koch,y,45
+01/10/2016,Australia,20,Willem Alberts,n,23
+01/10/2016,Australia,23,Willie Le Roux,n,34
+01/10/2016,Australia,12,Juan de Jongh,y,80
+01/10/2016,Australia,19,Lodewyk De Jager,n,35
+01/10/2016,Australia,18,Julian Redelinghuys,n,35
+01/10/2016,Australia,17,Steven Kitshoff,n,35
+01/10/2016,Australia,6,Francois Louw,y,80
+08/10/2016,New Zealand,10,Morne Steyn,y,63
+08/10/2016,New Zealand,11,Bryan Habana,y,80
+08/10/2016,New Zealand,2,Adriaan Strauss,y,74
+08/10/2016,New Zealand,7,Teboho Mohoje,y,46
+08/10/2016,New Zealand,14,Francois Hougaard,y,80
+08/10/2016,New Zealand,15,Pat Lambie,y,80
+08/10/2016,New Zealand,12,Damian de Allende,y,80
+08/10/2016,New Zealand,1,Tendai Mtawarira,y,51
+08/10/2016,New Zealand,16,Mbongeni Mbonambi,n,6
+08/10/2016,New Zealand,9,Faf de Klerk,y,67
+08/10/2016,New Zealand,22,Lionel Mapoe,n,13
+08/10/2016,New Zealand,4,Eben Etzebeth,y,46
+08/10/2016,New Zealand,8,Warren Whiteley,y,80
+08/10/2016,New Zealand,5,Pieter-Steph Du Toit,y,80
+08/10/2016,New Zealand,21,Jaco Kriel,n,68
+08/10/2016,New Zealand,3,Vincent Koch,y,46
+08/10/2016,New Zealand,20,Willem Alberts,n,34
+08/10/2016,New Zealand,23,Willie Le Roux,n,17
+08/10/2016,New Zealand,13,Juan de Jongh,y,80
+08/10/2016,New Zealand,19,Lodewyk De Jager,n,34
+08/10/2016,New Zealand,18,Julian Redelinghuys,n,34
+08/10/2016,New Zealand,17,Steven Kitshoff,n,29
+08/10/2016,New Zealand,6,Francois Louw,y,12
+12/11/2016,England,9,Rudy Paige,y,63
+12/11/2016,England,2,Adriaan Strauss,y,71
+12/11/2016,England,20,Nizaam Carr,n,12
+12/11/2016,England,10,Pat Lambie,y,54
+12/11/2016,England,22,Johan Goosen,n,26
+12/11/2016,England,12,Damian de Allende,y,80
+12/11/2016,England,1,Tendai Mtawarira,y,56
+12/11/2016,England,16,Mbongeni Mbonambi,n,9
+12/11/2016,England,21,Faf de Klerk,n,17
+12/11/2016,England,23,Lionel Mapoe,n,3
+12/11/2016,England,13,Francois Venter,y,80
+12/11/2016,England,4,Eben Etzebeth,y,31
+12/11/2016,England,19,Franco Mostert,n,49
+12/11/2016,England,8,Warren Whiteley,y,80
+12/11/2016,England,11,JP Pietersen,y,77
+12/11/2016,England,18,Lourens Adriaanse,n,24
+12/11/2016,England,7,Pieter-Steph Du Toit,y,80
+12/11/2016,England,3,Vincent Koch,y,56
+12/11/2016,England,14,Ruan Combrinck,y,80
+12/11/2016,England,6,Willem Alberts,y,80
+12/11/2016,England,15,Willie Le Roux,y,80
+12/11/2016,England,5,Lodewyk De Jager,y,68
+12/11/2016,England,17,Steven Kitshoff,n,24
+19/11/2016,Italy,22,Elton Jantjies,n,27
+19/11/2016,Italy,9,Rudy Paige,y,53
+19/11/2016,Italy,11,Bryan Habana,y,80
+19/11/2016,Italy,2,Adriaan Strauss,y,76
+19/11/2016,Italy,20,Teboho Mohoje,n,14
+19/11/2016,Italy,6,Nizaam Carr,y,80
+19/11/2016,Italy,10,Pat Lambie,y,53
+19/11/2016,Italy,23,Johan Goosen,n,10
+19/11/2016,Italy,12,Damian de Allende,y,80
+19/11/2016,Italy,1,Tendai Mtawarira,y,53
+19/11/2016,Italy,16,Mbongeni Mbonambi,n,4
+19/11/2016,Italy,21,Faf de Klerk,n,27
+19/11/2016,Italy,13,Francois Venter,y,80
+19/11/2016,Italy,19,Franco Mostert,n,9
+19/11/2016,Italy,8,Warren Whiteley,y,80
+19/11/2016,Italy,18,Trevor Nyakane,n,27
+19/11/2016,Italy,4,Pieter-Steph Du Toit,y,80
+19/11/2016,Italy,3,Vincent Koch,y,53
+19/11/2016,Italy,14,Ruan Combrinck,y,80
+19/11/2016,Italy,7,Willem Alberts,y,66
+19/11/2016,Italy,15,Willie Le Roux,y,70
+19/11/2016,Italy,5,Lodewyk De Jager,y,71
+19/11/2016,Italy,17,Steven Kitshoff,n,27
+26/11/2016,Wales,10,Elton Jantjies,y,59
+26/11/2016,Wales,11,Jamba Ulengo,y,80
+26/11/2016,Wales,12,Rohan Janse van Rensburg,y,68
+26/11/2016,Wales,2,Adriaan Strauss,y,72
+26/11/2016,Wales,21,Piet van Zyl,n,16
+26/11/2016,Wales,6,Nizaam Carr,y,78
+26/11/2016,Wales,7,Uzair Cassiem,y,80
+26/11/2016,Wales,22,Pat Lambie,n,21
+26/11/2016,Wales,15,Johan Goosen,y,80
+26/11/2016,Wales,1,Tendai Mtawarira,y,59
+26/11/2016,Wales,9,Faf de Klerk,y,64
+26/11/2016,Wales,23,Lionel Mapoe,n,12
+26/11/2016,Wales,13,Francois Venter,y,80
+26/11/2016,Wales,19,Franco Mostert,n,12
+26/11/2016,Wales,8,Warren Whiteley,y,80
+26/11/2016,Wales,18,Trevor Nyakane,n,12
+26/11/2016,Wales,16,Malcolm Marx,n,8
+26/11/2016,Wales,3,Lourens Adriaanse,y,68
+26/11/2016,Wales,4,Pieter-Steph Du Toit,y,68
+26/11/2016,Wales,14,Ruan Combrinck,y,80
+26/11/2016,Wales,5,Lodewyk De Jager,y,80
+26/11/2016,Wales,17,Steven Kitshoff,n,21
+26/11/2016,Wales,20,Jean-Luc Du Preez,n,2
+10/06/2017,France,23,Dillyn Leyds,n,7
+10/06/2017,France,10,Elton Jantjies,y,80
+10/06/2017,France,7,Teboho Mohoje,y,60
+10/06/2017,France,21,Francois Hougaard,n,16
+10/06/2017,France,14,Raymond Rhule,y,73
+10/06/2017,France,3,Frans Malherbe,y,64
+10/06/2017,France,12,Jan Serfontein,y,80
+10/06/2017,France,13,Jesse Kriel,y,57
+10/06/2017,France,1,Tendai Mtawarira,y,54
+10/06/2017,France,15,Andries Coetzee,y,80
+10/06/2017,France,22,Frans Steyn,n,23
+10/06/2017,France,6,Siya Kolisi,y,80
+10/06/2017,France,16,Mbongeni Mbonambi,n,16
+10/06/2017,France,4,Eben Etzebeth,y,80
+10/06/2017,France,18,Coenie Oosthuizen,n,16
+10/06/2017,France,5,Franco Mostert,y,64
+10/06/2017,France,8,Warren Whiteley,y,80
+10/06/2017,France,2,Malcolm Marx,y,64
+10/06/2017,France,9,Ross Cronje,y,64
+10/06/2017,France,19,Pieter-Steph Du Toit,n,16
+10/06/2017,France,17,Steven Kitshoff,n,26
+10/06/2017,France,11,Courtnall Skosan,y,80
+10/06/2017,France,20,Jean-Luc Du Preez,n,20
+17/06/2017,France,23,Dillyn Leyds,n,0
+17/06/2017,France,10,Elton Jantjies,y,80
+17/06/2017,France,7,Teboho Mohoje,y,14
+17/06/2017,France,21,Francois Hougaard,n,15
+17/06/2017,France,14,Raymond Rhule,y,80
+17/06/2017,France,3,Frans Malherbe,y,65
+17/06/2017,France,12,Jan Serfontein,y,80
+17/06/2017,France,1,Tendai Mtawarira,y,53
+17/06/2017,France,15,Andries Coetzee,y,80
+17/06/2017,France,22,Frans Steyn,n,15
+17/06/2017,France,6,Siya Kolisi,y,80
+17/06/2017,France,16,Mbongeni Mbonambi,n,6
+17/06/2017,France,13,Lionel Mapoe,y,65
+17/06/2017,France,4,Eben Etzebeth,y,65
+17/06/2017,France,18,Coenie Oosthuizen,n,15
+17/06/2017,France,5,Franco Mostert,y,80
+17/06/2017,France,8,Warren Whiteley,y,80
+17/06/2017,France,2,Malcolm Marx,y,74
+17/06/2017,France,9,Ross Cronje,y,65
+17/06/2017,France,19,Pieter-Steph Du Toit,n,15
+17/06/2017,France,17,Steven Kitshoff,n,27
+17/06/2017,France,11,Courtnall Skosan,y,80
+17/06/2017,France,20,Jean-Luc Du Preez,n,66
+24/06/2017,France,23,Dillyn Leyds,n,9
+24/06/2017,France,10,Elton Jantjies,y,80
+24/06/2017,France,21,Rudy Paige,n,9
+24/06/2017,France,9,Francois Hougaard,y,71
+24/06/2017,France,14,Raymond Rhule,y,71
+24/06/2017,France,12,Jan Serfontein,y,80
+24/06/2017,France,13,Jesse Kriel,y,71
+24/06/2017,France,1,Tendai Mtawarira,y,55
+24/06/2017,France,15,Andries Coetzee,y,80
+24/06/2017,France,22,Frans Steyn,n,9
+24/06/2017,France,6,Siya Kolisi,y,80
+24/06/2017,France,16,Mbongeni Mbonambi,n,13
+24/06/2017,France,4,Eben Etzebeth,y,80
+24/06/2017,France,18,Coenie Oosthuizen,n,25
+24/06/2017,France,5,Franco Mostert,y,67
+24/06/2017,France,2,Malcolm Marx,y,67
+24/06/2017,France,19,Pieter-Steph Du Toit,n,25
+24/06/2017,France,7,Jaco Kriel,y,80
+24/06/2017,France,20,Lodewyk De Jager,n,13
+24/06/2017,France,3,Ruan Dreyer,y,55
+24/06/2017,France,17,Steven Kitshoff,n,25
+24/06/2017,France,11,Courtnall Skosan,y,80
+24/06/2017,France,8,Jean-Luc Du Preez,y,55
+19/08/2017,Argentina,10,Elton Jantjies,y,76
+19/08/2017,Argentina,21,Francois Hougaard,n,17
+19/08/2017,Argentina,22,Curwin Bosch,n,4
+19/08/2017,Argentina,8,Uzair Cassiem,y,80
+19/08/2017,Argentina,14,Raymond Rhule,y,80
+19/08/2017,Argentina,12,Jan Serfontein,y,74
+19/08/2017,Argentina,13,Jesse Kriel,y,80
+19/08/2017,Argentina,23,Damian de Allende,n,6
+19/08/2017,Argentina,1,Tendai Mtawarira,y,56
+19/08/2017,Argentina,15,Andries Coetzee,y,80
+19/08/2017,Argentina,6,Siya Kolisi,y,80
+19/08/2017,Argentina,16,Mbongeni Mbonambi,n,6
+19/08/2017,Argentina,4,Eben Etzebeth,y,80
+19/08/2017,Argentina,3,Coenie Oosthuizen,y,74
+19/08/2017,Argentina,5,Franco Mostert,y,60
+19/08/2017,Argentina,18,Trevor Nyakane,n,6
+19/08/2017,Argentina,2,Malcolm Marx,y,74
+19/08/2017,Argentina,9,Ross Cronje,y,63
+19/08/2017,Argentina,19,Pieter-Steph Du Toit,n,20
+19/08/2017,Argentina,7,Jaco Kriel,y,60
+19/08/2017,Argentina,17,Steven Kitshoff,n,24
+19/08/2017,Argentina,11,Courtnall Skosan,y,80
+19/08/2017,Argentina,20,Jean-Luc Du Preez,n,20
+26/08/2017,Argentina,10,Elton Jantjies,y,80
+26/08/2017,Argentina,21,Rudy Paige,n,23
+26/08/2017,Argentina,9,Francois Hougaard,y,57
+26/08/2017,Argentina,22,Curwin Bosch,n,0
+26/08/2017,Argentina,8,Uzair Cassiem,y,52
+26/08/2017,Argentina,14,Raymond Rhule,y,80
+26/08/2017,Argentina,12,Jan Serfontein,y,73
+26/08/2017,Argentina,13,Jesse Kriel,y,80
+26/08/2017,Argentina,23,Damian de Allende,n,7
+26/08/2017,Argentina,1,Tendai Mtawarira,y,52
+26/08/2017,Argentina,15,Andries Coetzee,y,80
+26/08/2017,Argentina,6,Siya Kolisi,y,80
+26/08/2017,Argentina,16,Mbongeni Mbonambi,n,3
+26/08/2017,Argentina,4,Eben Etzebeth,y,80
+26/08/2017,Argentina,3,Coenie Oosthuizen,y,54
+26/08/2017,Argentina,5,Franco Mostert,y,52
+26/08/2017,Argentina,18,Trevor Nyakane,n,26
+26/08/2017,Argentina,2,Malcolm Marx,y,77
+26/08/2017,Argentina,19,Pieter-Steph Du Toit,n,28
+26/08/2017,Argentina,7,Jaco Kriel,y,80
+26/08/2017,Argentina,17,Steven Kitshoff,n,28
+26/08/2017,Argentina,11,Courtnall Skosan,y,80
+26/08/2017,Argentina,20,Jean-Luc Du Preez,n,28
+09/09/2017,Australia,10,Elton Jantjies,y,80
+09/09/2017,Australia,21,Francois Hougaard,n,15
+09/09/2017,Australia,8,Uzair Cassiem,y,55
+09/09/2017,Australia,14,Raymond Rhule,y,80
+09/09/2017,Australia,22,Handre Pollard,n,0
+09/09/2017,Australia,12,Jan Serfontein,y,80
+09/09/2017,Australia,13,Jesse Kriel,y,80
+09/09/2017,Australia,23,Damian de Allende,n,0
+09/09/2017,Australia,1,Tendai Mtawarira,y,55
+09/09/2017,Australia,15,Andries Coetzee,y,80
+09/09/2017,Australia,6,Siya Kolisi,y,80
+09/09/2017,Australia,16,Mbongeni Mbonambi,n,0
+09/09/2017,Australia,4,Eben Etzebeth,y,80
+09/09/2017,Australia,3,Coenie Oosthuizen,y,75
+09/09/2017,Australia,18,Trevor Nyakane,n,5
+09/09/2017,Australia,2,Malcolm Marx,y,80
+09/09/2017,Australia,9,Ross Cronje,y,65
+09/09/2017,Australia,5,Pieter-Steph Du Toit,y,65
+09/09/2017,Australia,7,Jaco Kriel,y,80
+09/09/2017,Australia,19,Lodewyk De Jager,n,15
+09/09/2017,Australia,17,Steven Kitshoff,n,25
+09/09/2017,Australia,11,Courtnall Skosan,y,80
+09/09/2017,Australia,20,Jean-Luc Du Preez,n,25
+16/09/2017,New Zealand,10,Elton Jantjies,y,57
+16/09/2017,New Zealand,21,Rudy Paige,n,21
+16/09/2017,New Zealand,9,Francois Hougaard,y,59
+16/09/2017,New Zealand,8,Uzair Cassiem,y,80
+16/09/2017,New Zealand,14,Raymond Rhule,y,80
+16/09/2017,New Zealand,22,Handre Pollard,n,23
+16/09/2017,New Zealand,12,Jan Serfontein,y,70
+16/09/2017,New Zealand,13,Jesse Kriel,y,80
+16/09/2017,New Zealand,23,Damian de Allende,n,10
+16/09/2017,New Zealand,1,Tendai Mtawarira,y,44
+16/09/2017,New Zealand,15,Andries Coetzee,y,80
+16/09/2017,New Zealand,6,Siya Kolisi,y,80
+16/09/2017,New Zealand,16,Mbongeni Mbonambi,n,23
+16/09/2017,New Zealand,4,Eben Etzebeth,y,80
+16/09/2017,New Zealand,5,Franco Mostert,y,44
+16/09/2017,New Zealand,18,Trevor Nyakane,n,25
+16/09/2017,New Zealand,2,Malcolm Marx,y,57
+16/09/2017,New Zealand,20,Pieter-Steph Du Toit,n,28
+16/09/2017,New Zealand,19,Lodewyk De Jager,n,36
+16/09/2017,New Zealand,3,Ruan Dreyer,y,55
+16/09/2017,New Zealand,17,Steven Kitshoff,n,36
+16/09/2017,New Zealand,11,Courtnall Skosan,y,80
+16/09/2017,New Zealand,7,Jean-Luc Du Preez,y,52
+30/09/2017,Australia,14,Dillyn Leyds,y,80
+30/09/2017,Australia,10,Elton Jantjies,y,80
+30/09/2017,Australia,21,Rudy Paige,n,6
+30/09/2017,Australia,8,Uzair Cassiem,y,21
+30/09/2017,Australia,22,Handre Pollard,n,0
+30/09/2017,Australia,12,Jan Serfontein,y,71
+30/09/2017,Australia,13,Jesse Kriel,y,80
+30/09/2017,Australia,23,Damian de Allende,n,9
+30/09/2017,Australia,1,Tendai Mtawarira,y,58
+30/09/2017,Australia,15,Andries Coetzee,y,80
+30/09/2017,Australia,6,Siya Kolisi,y,80
+30/09/2017,Australia,4,Eben Etzebeth,y,80
+30/09/2017,Australia,5,Franco Mostert,y,80
+30/09/2017,Australia,18,Trevor Nyakane,n,22
+30/09/2017,Australia,2,Malcolm Marx,y,80
+30/09/2017,Australia,9,Ross Cronje,y,74
+30/09/2017,Australia,19,Pieter-Steph Du Toit,n,14
+30/09/2017,Australia,3,Ruan Dreyer,y,58
+30/09/2017,Australia,17,Steven Kitshoff,n,22
+30/09/2017,Australia,11,Courtnall Skosan,y,80
+30/09/2017,Australia,7,Francois Louw,y,66
+30/09/2017,Australia,16,Chiliboy Ralepelle,n,0
+30/09/2017,Australia,20,Jean-Luc Du Preez,n,59
+07/10/2017,New Zealand,14,Dillyn Leyds,y,80
+07/10/2017,New Zealand,10,Elton Jantjies,y,64
+07/10/2017,New Zealand,21,Rudy Paige,n,0
+07/10/2017,New Zealand,22,Handre Pollard,n,16
+07/10/2017,New Zealand,12,Jan Serfontein,y,62
+07/10/2017,New Zealand,13,Jesse Kriel,y,80
+07/10/2017,New Zealand,23,Damian de Allende,n,18
+07/10/2017,New Zealand,15,Andries Coetzee,y,80
+07/10/2017,New Zealand,6,Siya Kolisi,y,55
+07/10/2017,New Zealand,4,Eben Etzebeth,y,76
+07/10/2017,New Zealand,19,Franco Mostert,n,25
+07/10/2017,New Zealand,17,Trevor Nyakane,n,2
+07/10/2017,New Zealand,2,Malcolm Marx,y,80
+07/10/2017,New Zealand,9,Ross Cronje,y,80
+07/10/2017,New Zealand,18,Wilco Louw,n,29
+07/10/2017,New Zealand,7,Pieter-Steph Du Toit,y,80
+07/10/2017,New Zealand,5,Lodewyk De Jager,y,59
+07/10/2017,New Zealand,3,Ruan Dreyer,y,51
+07/10/2017,New Zealand,1,Steven Kitshoff,y,78
+07/10/2017,New Zealand,11,Courtnall Skosan,y,80
+07/10/2017,New Zealand,8,Francois Louw,y,80
+07/10/2017,New Zealand,16,Chiliboy Ralepelle,n,0
+07/10/2017,New Zealand,20,Jean-Luc Du Preez,n,25
+11/11/2017,Ireland,14,Dillyn Leyds,y,80
+11/11/2017,Ireland,10,Elton Jantjies,y,59
+11/11/2017,Ireland,21,Rudy Paige,n,9
+11/11/2017,Ireland,20,Uzair Cassiem,n,8
+11/11/2017,Ireland,22,Handre Pollard,n,21
+11/11/2017,Ireland,13,Jesse Kriel,y,80
+11/11/2017,Ireland,12,Damian de Allende,y,58
+11/11/2017,Ireland,1,Tendai Mtawarira,y,54
+11/11/2017,Ireland,15,Andries Coetzee,y,80
+11/11/2017,Ireland,6,Siya Kolisi,y,77
+11/11/2017,Ireland,16,Mbongeni Mbonambi,n,8
+11/11/2017,Ireland,23,Francois Venter,n,22
+11/11/2017,Ireland,4,Eben Etzebeth,y,80
+11/11/2017,Ireland,3,Coenie Oosthuizen,y,3
+11/11/2017,Ireland,19,Franco Mostert,n,13
+11/11/2017,Ireland,2,Malcolm Marx,y,72
+11/11/2017,Ireland,9,Ross Cronje,y,71
+11/11/2017,Ireland,18,Wilco Louw,n,77
+11/11/2017,Ireland,7,Pieter-Steph Du Toit,y,75
+11/11/2017,Ireland,5,Lodewyk De Jager,y,67
+11/11/2017,Ireland,17,Steven Kitshoff,n,26
+11/11/2017,Ireland,11,Courtnall Skosan,y,80
+11/11/2017,Ireland,8,Francois Louw,y,80
+18/11/2017,France,14,Dillyn Leyds,y,80
+18/11/2017,France,22,Elton Jantjies,n,0
+18/11/2017,France,21,Rudy Paige,n,0
+18/11/2017,France,10,Handre Pollard,y,80
+18/11/2017,France,13,Jesse Kriel,y,80
+18/11/2017,France,23,Damian de Allende,n,0
+18/11/2017,France,1,Tendai Mtawarira,y,53
+18/11/2017,France,15,Andries Coetzee,y,80
+18/11/2017,France,7,Siya Kolisi,y,73
+18/11/2017,France,16,Mbongeni Mbonambi,n,0
+18/11/2017,France,12,Francois Venter,y,80
+18/11/2017,France,20,Dan Du Preez,n,7
+18/11/2017,France,4,Eben Etzebeth,y,62
+18/11/2017,France,19,Franco Mostert,n,18
+18/11/2017,France,18,Trevor Nyakane,n,6
+18/11/2017,France,8,Duane Vermeulen,y,80
+18/11/2017,France,2,Malcolm Marx,y,80
+18/11/2017,France,9,Ross Cronje,y,80
+18/11/2017,France,3,Wilco Louw,y,74
+18/11/2017,France,5,Lodewyk De Jager,y,80
+18/11/2017,France,17,Steven Kitshoff,n,27
+18/11/2017,France,11,Courtnall Skosan,y,80
+18/11/2017,France,6,Francois Louw,y,80
+25/11/2017,Italy,14,Dillyn Leyds,y,80
+25/11/2017,Italy,22,Elton Jantjies,n,14
+25/11/2017,Italy,21,Rudy Paige,n,25
+25/11/2017,Italy,10,Handre Pollard,y,66
+25/11/2017,Italy,13,Jesse Kriel,y,80
+25/11/2017,Italy,1,Tendai Mtawarira,y,28
+25/11/2017,Italy,15,Andries Coetzee,y,80
+25/11/2017,Italy,2,Mbongeni Mbonambi,y,61
+25/11/2017,Italy,12,Francois Venter,y,80
+25/11/2017,Italy,20,Dan Du Preez,n,6
+25/11/2017,Italy,4,Eben Etzebeth,y,61
+25/11/2017,Italy,19,Franco Mostert,n,19
+25/11/2017,Italy,18,Trevor Nyakane,n,14
+25/11/2017,Italy,8,Duane Vermeulen,y,80
+25/11/2017,Italy,9,Ross Cronje,y,55
+25/11/2017,Italy,3,Wilco Louw,y,66
+25/11/2017,Italy,23,Warrick Gelant,n,19
+25/11/2017,Italy,7,Pieter-Steph Du Toit,y,74
+25/11/2017,Italy,5,Lodewyk De Jager,y,80
+25/11/2017,Italy,17,Steven Kitshoff,n,52
+25/11/2017,Italy,11,Courtnall Skosan,y,61
+25/11/2017,Italy,6,Francois Louw,y,80
+25/11/2017,Italy,16,Chiliboy Ralepelle,n,19
+02/12/2017,Wales,14,Dillyn Leyds,y,80
+02/12/2017,Wales,22,Elton Jantjies,n,9
+02/12/2017,Wales,19,Teboho Mohoje,n,40
+02/12/2017,Wales,20,Uzair Cassiem,n,3
+02/12/2017,Wales,21,Louis Schreuder,n,9
+02/12/2017,Wales,10,Handre Pollard,y,71
+02/12/2017,Wales,13,Jesse Kriel,y,80
+02/12/2017,Wales,15,Andries Coetzee,y,77
+02/12/2017,Wales,6,Siya Kolisi,y,80
+02/12/2017,Wales,16,Mbongeni Mbonambi,n,9
+02/12/2017,Wales,12,Francois Venter,y,80
+02/12/2017,Wales,8,Dan Du Preez,y,77
+02/12/2017,Wales,4,Eben Etzebeth,y,40
+02/12/2017,Wales,17,Trevor Nyakane,n,11
+02/12/2017,Wales,2,Malcolm Marx,y,71
+02/12/2017,Wales,9,Ross Cronje,y,71
+02/12/2017,Wales,3,Wilco Louw,y,69
+02/12/2017,Wales,11,Warrick Gelant,y,80
+02/12/2017,Wales,7,Pieter-Steph Du Toit,y,80
+02/12/2017,Wales,5,Lodewyk De Jager,y,80
+02/12/2017,Wales,18,Ruan Dreyer,n,0
+02/12/2017,Wales,1,Steven Kitshoff,y,80
+02/12/2017,Wales,23,Lukhanyo Am,n,3
+02/06/2018,Wales,14,Travis Ismaiel,y,80
+02/06/2018,Wales,5,Pieter-Steph Du Toit,y,80
+02/06/2018,Wales,20,Sikhumbuzo Notshe,n,35
+02/06/2018,Wales,4,Jason Jenkins,y,66
+02/06/2018,Wales,19,Marvin Orie,n,14
+02/06/2018,Wales,18,Thomas Du Toit,n,31
+02/06/2018,Wales,17,Steven Kitshoff,n,32
+02/06/2018,Wales,2,Chiliboy Ralepelle,y,53
+02/06/2018,Wales,22,Rob Du Preez,n,8
+02/06/2018,Wales,10,Elton Jantjies,y,72
+02/06/2018,Wales,7,Teboho Mohoje,y,80
+02/06/2018,Wales,15,Curwin Bosch,y,48
+02/06/2018,Wales,12,Andre Esterhuizen,y,80
+02/06/2018,Wales,13,Jesse Kriel,y,80
+02/06/2018,Wales,1,Ox Nche,y,48
+02/06/2018,Wales,21,Embrose Papier,n,2
+02/06/2018,Wales,11,Makazole Mapimpi,y,78
+02/06/2018,Wales,16,Akker van der Merwe,n,27
+02/06/2018,Wales,6,Kwagga Smith,y,70
+02/06/2018,Wales,8,Dan Du Preez,y,55
+02/06/2018,Wales,9,Ivan Van Zyl,y,80
+02/06/2018,Wales,3,Wilco Louw,y,49
+02/06/2018,Wales,23,Warrick Gelant,n,70
+09/06/2018,England,22,Elton Jantjies,n,4
+09/06/2018,England,11,Aphiwe Dyantyi,y,80
+09/06/2018,England,4,RG Snyman,y,80
+09/06/2018,England,10,Handre Pollard,y,80
+09/06/2018,England,12,Damian de Allende,y,76
+09/06/2018,England,1,Tendai Mtawarira,y,48
+09/06/2018,England,16,Akker van der Merwe,n,22
+09/06/2018,England,6,Siya Kolisi,y,71
+09/06/2018,England,2,Mbongeni Mbonambi,y,58
+09/06/2018,England,9,Faf de Klerk,y,73
+09/06/2018,England,14,S'Busiso Nkosi,y,80
+09/06/2018,England,5,Franco Mostert,y,80
+09/06/2018,England,21,Ivan Van Zyl,n,7
+09/06/2018,England,8,Duane Vermeulen,y,80
+09/06/2018,England,3,Wilco Louw,y,48
+09/06/2018,England,23,Warrick Gelant,n,16
+09/06/2018,England,19,Pieter-Steph Du Toit,n,30
+09/06/2018,England,20,Sikhumbuzo Notshe,n,9
+09/06/2018,England,15,Willie Le Roux,y,64
+09/06/2018,England,18,Thomas Du Toit,n,32
+09/06/2018,England,17,Steven Kitshoff,n,32
+09/06/2018,England,13,Lukhanyo Am,y,80
+09/06/2018,England,7,Jean-Luc Du Preez,y,50
+16/06/2018,England,11,Aphiwe Dyantyi,y,80
+16/06/2018,England,4,RG Snyman,y,56
+16/06/2018,England,10,Handre Pollard,y,80
+16/06/2018,England,3,Frans Malherbe,y,43
+16/06/2018,England,22,Jesse Kriel,n,20
+16/06/2018,England,12,Damian de Allende,y,80
+16/06/2018,England,1,Tendai Mtawarira,y,43
+16/06/2018,England,16,Akker van der Merwe,n,29
+16/06/2018,England,6,Siya Kolisi,y,66
+16/06/2018,England,2,Mbongeni Mbonambi,y,51
+16/06/2018,England,9,Faf de Klerk,y,75
+16/06/2018,England,14,S'Busiso Nkosi,y,80
+16/06/2018,England,5,Franco Mostert,y,80
+16/06/2018,England,21,Ivan Van Zyl,n,5
+16/06/2018,England,8,Duane Vermeulen,y,80
+16/06/2018,England,23,Warrick Gelant,n,0
+16/06/2018,England,7,Pieter-Steph Du Toit,y,80
+16/06/2018,England,20,Sikhumbuzo Notshe,n,14
+16/06/2018,England,15,Willie Le Roux,y,80
+16/06/2018,England,18,Thomas Du Toit,n,37
+16/06/2018,England,17,Steven Kitshoff,n,37
+16/06/2018,England,13,Lukhanyo Am,y,60
+16/06/2018,England,19,Jean-Luc Du Preez,n,24
+23/06/2018,England,10,Elton Jantjies,y,58
+23/06/2018,England,11,Aphiwe Dyantyi,y,80
+23/06/2018,England,4,RG Snyman,y,58
+23/06/2018,England,16,Schalk Brits,n,36
+23/06/2018,England,12,Andre Esterhuizen,y,80
+23/06/2018,England,22,Handre Pollard,n,22
+23/06/2018,England,3,Frans Malherbe,y,44
+23/06/2018,England,13,Jesse Kriel,y,80
+23/06/2018,England,1,Tendai Mtawarira,y,44
+23/06/2018,England,21,Embrose Papier,n,3
+23/06/2018,England,6,Siya Kolisi,y,66
+23/06/2018,England,9,Faf de Klerk,y,77
+23/06/2018,England,14,S'Busiso Nkosi,y,50
+23/06/2018,England,5,Franco Mostert,y,80
+23/06/2018,England,8,Duane Vermeulen,y,80
+23/06/2018,England,15,Warrick Gelant,y,80
+23/06/2018,England,7,Pieter-Steph Du Toit,y,80
+23/06/2018,England,20,Sikhumbuzo Notshe,n,14
+23/06/2018,England,23,Willie Le Roux,n,30
+23/06/2018,England,18,Thomas Du Toit,n,36
+23/06/2018,England,17,Steven Kitshoff,n,36
+23/06/2018,England,2,Chiliboy Ralepelle,y,44
+23/06/2018,England,19,Jean-Luc Du Preez,n,22
+18/08/2018,Argentina,11,Aphiwe Dyantyi,y,74
+18/08/2018,Argentina,12,Andre Esterhuizen,y,63
+18/08/2018,Argentina,23,Damian Willemse,n,17
+18/08/2018,Argentina,10,Handre Pollard,y,80
+18/08/2018,Argentina,3,Frans Malherbe,y,58
+18/08/2018,Argentina,1,Tendai Mtawarira,y,52
+18/08/2018,Argentina,21,Embrose Papier,n,6
+18/08/2018,Argentina,14,Makazole Mapimpi,y,80
+18/08/2018,Argentina,7,Siya Kolisi,y,80
+18/08/2018,Argentina,16,Mbongeni Mbonambi,n,15
+18/08/2018,Argentina,9,Faf de Klerk,y,80
+18/08/2018,Argentina,22,Lionel Mapoe,n,7
+18/08/2018,Argentina,4,Eben Etzebeth,y,80
+18/08/2018,Argentina,8,Warren Whiteley,y,80
+18/08/2018,Argentina,20,Marco van Staden,n,20
+18/08/2018,Argentina,2,Malcolm Marx,y,65
+18/08/2018,Argentina,5,Pieter-Steph Du Toit,y,80
+18/08/2018,Argentina,15,Willie Le Roux,y,80
+18/08/2018,Argentina,19,Marvin Orie,n,0
+18/08/2018,Argentina,18,Thomas Du Toit,n,22
+18/08/2018,Argentina,17,Steven Kitshoff,n,28
+18/08/2018,Argentina,6,Francois Louw,y,60
+18/08/2018,Argentina,13,Lukhanyo Am,y,73
+25/08/2018,Argentina,11,Aphiwe Dyantyi,y,80
+25/08/2018,Argentina,19,RG Snyman,n,27
+25/08/2018,Argentina,12,Andre Esterhuizen,y,63
+25/08/2018,Argentina,23,Damian Willemse,n,17
+25/08/2018,Argentina,10,Handre Pollard,y,80
+25/08/2018,Argentina,3,Frans Malherbe,y,63
+25/08/2018,Argentina,1,Tendai Mtawarira,y,43
+25/08/2018,Argentina,21,Embrose Papier,n,0
+25/08/2018,Argentina,14,Makazole Mapimpi,y,12
+25/08/2018,Argentina,7,Siya Kolisi,y,80
+25/08/2018,Argentina,16,Mbongeni Mbonambi,n,8
+25/08/2018,Argentina,9,Faf de Klerk,y,80
+25/08/2018,Argentina,22,Lionel Mapoe,n,68
+25/08/2018,Argentina,4,Eben Etzebeth,y,47
+25/08/2018,Argentina,5,Franco Mostert,y,62
+25/08/2018,Argentina,8,Warren Whiteley,y,71
+25/08/2018,Argentina,2,Malcolm Marx,y,72
+25/08/2018,Argentina,18,Wilco Louw,n,17
+25/08/2018,Argentina,20,Pieter-Steph Du Toit,n,33
+25/08/2018,Argentina,15,Willie Le Roux,y,80
+25/08/2018,Argentina,17,Steven Kitshoff,n,37
+25/08/2018,Argentina,6,Francois Louw,y,80
+25/08/2018,Argentina,13,Lukhanyo Am,y,80
+08/09/2018,Australia,10,Elton Jantjies,y,65
+08/09/2018,Australia,11,Aphiwe Dyantyi,y,80
+08/09/2018,Australia,19,RG Snyman,n,19
+08/09/2018,Australia,22,Handre Pollard,n,15
+08/09/2018,Australia,3,Frans Malherbe,y,58
+08/09/2018,Australia,13,Jesse Kriel,y,80
+08/09/2018,Australia,12,Damian de Allende,y,80
+08/09/2018,Australia,17,Tendai Mtawarira,n,22
+08/09/2018,Australia,23,Cheslin Kolbe,n,46
+08/09/2018,Australia,21,Embrose Papier,n,0
+08/09/2018,Australia,14,Makazole Mapimpi,y,34
+08/09/2018,Australia,6,Siya Kolisi,y,80
+08/09/2018,Australia,2,Mbongeni Mbonambi,y,35
+08/09/2018,Australia,9,Faf de Klerk,y,80
+08/09/2018,Australia,4,Eben Etzebeth,y,61
+08/09/2018,Australia,5,Franco Mostert,y,80
+08/09/2018,Australia,8,Warren Whiteley,y,62
+08/09/2018,Australia,16,Malcolm Marx,n,45
+08/09/2018,Australia,18,Wilco Louw,n,22
+08/09/2018,Australia,7,Pieter-Steph Du Toit,y,80
+08/09/2018,Australia,15,Willie Le Roux,y,80
+08/09/2018,Australia,1,Steven Kitshoff,y,58
+08/09/2018,Australia,20,Francois Louw,n,18
+15/09/2018,New Zealand,22,Elton Jantjies,n,32
+15/09/2018,New Zealand,11,Aphiwe Dyantyi,y,80
+15/09/2018,New Zealand,19,RG Snyman,n,29
+15/09/2018,New Zealand,10,Handre Pollard,y,80
+15/09/2018,New Zealand,3,Frans Malherbe,y,64
+15/09/2018,New Zealand,14,Jesse Kriel,y,80
+15/09/2018,New Zealand,12,Damian de Allende,y,48
+15/09/2018,New Zealand,17,Tendai Mtawarira,n,15
+15/09/2018,New Zealand,23,Cheslin Kolbe,n,40
+15/09/2018,New Zealand,6,Siya Kolisi,y,65
+15/09/2018,New Zealand,16,Mbongeni Mbonambi,n,12
+15/09/2018,New Zealand,9,Faf de Klerk,y,80
+15/09/2018,New Zealand,4,Eben Etzebeth,y,51
+15/09/2018,New Zealand,5,Franco Mostert,y,80
+15/09/2018,New Zealand,8,Warren Whiteley,y,80
+15/09/2018,New Zealand,2,Malcolm Marx,y,68
+15/09/2018,New Zealand,21,Ross Cronje,n,0
+15/09/2018,New Zealand,18,Wilco Louw,n,16
+15/09/2018,New Zealand,7,Pieter-Steph Du Toit,y,80
+15/09/2018,New Zealand,15,Willie Le Roux,y,80
+15/09/2018,New Zealand,1,Steven Kitshoff,y,65
+15/09/2018,New Zealand,20,Francois Louw,n,15
+15/09/2018,New Zealand,13,Lukhanyo Am,y,40
+29/09/2018,Australia,22,Elton Jantjies,n,0
+29/09/2018,Australia,11,Aphiwe Dyantyi,y,80
+29/09/2018,Australia,19,RG Snyman,n,4
+29/09/2018,Australia,12,Andre Esterhuizen,y,80
+29/09/2018,Australia,23,Damian Willemse,n,0
+29/09/2018,Australia,10,Handre Pollard,y,80
+29/09/2018,Australia,3,Frans Malherbe,y,62
+29/09/2018,Australia,13,Jesse Kriel,y,80
+29/09/2018,Australia,1,Tendai Mtawarira,y,42
+29/09/2018,Australia,14,Cheslin Kolbe,y,80
+29/09/2018,Australia,21,Embrose Papier,n,0
+29/09/2018,Australia,6,Siya Kolisi,y,80
+29/09/2018,Australia,16,Mbongeni Mbonambi,n,10
+29/09/2018,Australia,9,Faf de Klerk,y,80
+29/09/2018,Australia,4,Eben Etzebeth,y,76
+29/09/2018,Australia,5,Franco Mostert,y,80
+29/09/2018,Australia,20,Marco van Staden,n,36
+29/09/2018,Australia,2,Malcolm Marx,y,70
+29/09/2018,Australia,18,Wilco Louw,n,18
+29/09/2018,Australia,7,Pieter-Steph Du Toit,y,80
+29/09/2018,Australia,8,Sikhumbuzo Notshe,y,44
+29/09/2018,Australia,15,Willie Le Roux,y,80
+29/09/2018,Australia,17,Steven Kitshoff,n,38
+06/10/2018,New Zealand,22,Elton Jantjies,n,3
+06/10/2018,New Zealand,11,Aphiwe Dyantyi,y,80
+06/10/2018,New Zealand,19,RG Snyman,n,18
+06/10/2018,New Zealand,23,Damian Willemse,n,15
+06/10/2018,New Zealand,10,Handre Pollard,y,80
+06/10/2018,New Zealand,3,Frans Malherbe,y,60
+06/10/2018,New Zealand,13,Jesse Kriel,y,80
+06/10/2018,New Zealand,12,Damian de Allende,y,77
+06/10/2018,New Zealand,17,Tendai Mtawarira,n,7
+06/10/2018,New Zealand,14,Cheslin Kolbe,y,80
+06/10/2018,New Zealand,21,Embrose Papier,n,8
+06/10/2018,New Zealand,6,Siya Kolisi,y,80
+06/10/2018,New Zealand,16,Mbongeni Mbonambi,n,8
+06/10/2018,New Zealand,9,Faf de Klerk,y,72
+06/10/2018,New Zealand,4,Eben Etzebeth,y,62
+06/10/2018,New Zealand,5,Franco Mostert,y,80
+06/10/2018,New Zealand,2,Malcolm Marx,y,72
+06/10/2018,New Zealand,7,Pieter-Steph Du Toit,y,80
+06/10/2018,New Zealand,20,Sikhumbuzo Notshe,n,10
+06/10/2018,New Zealand,18,Vincent Koch,n,20
+06/10/2018,New Zealand,15,Willie Le Roux,y,65
+06/10/2018,New Zealand,1,Steven Kitshoff,y,73
+06/10/2018,New Zealand,8,Francois Louw,y,70
+03/11/2018,England,22,Elton Jantjies,n,5
+03/11/2018,England,11,Aphiwe Dyantyi,y,80
+03/11/2018,England,19,RG Snyman,n,38
+03/11/2018,England,23,Andre Esterhuizen,n,20
+03/11/2018,England,15,Damian Willemse,y,75
+03/11/2018,England,10,Handre Pollard,y,80
+03/11/2018,England,3,Frans Malherbe,y,65
+03/11/2018,England,13,Jesse Kriel,y,80
+03/11/2018,England,12,Damian de Allende,y,80
+03/11/2018,England,21,Embrose Papier,n,5
+03/11/2018,England,6,Siya Kolisi,y,65
+03/11/2018,England,16,Mbongeni Mbonambi,n,6
+03/11/2018,England,14,S'Busiso Nkosi,y,60
+03/11/2018,England,4,Eben Etzebeth,y,42
+03/11/2018,England,8,Warren Whiteley,y,80
+03/11/2018,England,9,Ivan Van Zyl,y,75
+03/11/2018,England,7,Duane Vermeulen,y,80
+03/11/2018,England,2,Malcolm Marx,y,74
+03/11/2018,England,18,Wilco Louw,n,15
+03/11/2018,England,5,Pieter-Steph Du Toit,y,80
+03/11/2018,England,20,Lodewyk De Jager,n,15
+03/11/2018,England,17,Thomas Du Toit,n,15
+03/11/2018,England,1,Steven Kitshoff,y,65
+10/11/2018,France,22,Elton Jantjies,n,13
+10/11/2018,France,11,Aphiwe Dyantyi,y,80
+10/11/2018,France,19,RG Snyman,n,30
+10/11/2018,France,10,Handre Pollard,y,80
+10/11/2018,France,3,Frans Malherbe,y,60
+10/11/2018,France,13,Jesse Kriel,y,80
+10/11/2018,France,12,Damian de Allende,y,67
+10/11/2018,France,23,Cheslin Kolbe,n,23
+10/11/2018,France,21,Embrose Papier,n,0
+10/11/2018,France,6,Siya Kolisi,y,67
+10/11/2018,France,16,Mbongeni Mbonambi,n,7
+10/11/2018,France,9,Faf de Klerk,y,80
+10/11/2018,France,14,S'Busiso Nkosi,y,57
+10/11/2018,France,5,Franco Mostert,y,80
+10/11/2018,France,8,Warren Whiteley,y,50
+10/11/2018,France,7,Duane Vermeulen,y,80
+10/11/2018,France,2,Malcolm Marx,y,73
+10/11/2018,France,4,Pieter-Steph Du Toit,y,80
+10/11/2018,France,18,Vincent Koch,n,20
+10/11/2018,France,15,Willie Le Roux,y,80
+10/11/2018,France,17,Thomas Du Toit,n,17
+10/11/2018,France,1,Steven Kitshoff,y,63
+10/11/2018,France,20,Francois Louw,n,13
+17/11/2018,Scotland,22,Elton Jantjies,n,24
+17/11/2018,Scotland,11,Aphiwe Dyantyi,y,80
+17/11/2018,Scotland,4,RG Snyman,y,60
+17/11/2018,Scotland,10,Handre Pollard,y,80
+17/11/2018,Scotland,3,Frans Malherbe,y,58
+17/11/2018,Scotland,13,Jesse Kriel,y,80
+17/11/2018,Scotland,12,Damian de Allende,y,56
+17/11/2018,Scotland,23,Cheslin Kolbe,n,15
+17/11/2018,Scotland,9,Embrose Papier,y,78
+17/11/2018,Scotland,6,Siya Kolisi,y,67
+17/11/2018,Scotland,16,Mbongeni Mbonambi,n,13
+17/11/2018,Scotland,14,S'Busiso Nkosi,y,65
+17/11/2018,Scotland,5,Franco Mostert,y,80
+17/11/2018,Scotland,21,Ivan Van Zyl,n,2
+17/11/2018,Scotland,8,Duane Vermeulen,y,80
+17/11/2018,Scotland,2,Malcolm Marx,y,67
+17/11/2018,Scotland,7,Pieter-Steph Du Toit,y,80
+17/11/2018,Scotland,18,Vincent Koch,n,22
+17/11/2018,Scotland,15,Willie Le Roux,y,80
+17/11/2018,Scotland,19,Lodewyk De Jager,n,20
+17/11/2018,Scotland,17,Thomas Du Toit,n,22
+17/11/2018,Scotland,1,Steven Kitshoff,y,58
+17/11/2018,Scotland,20,Francois Louw,n,13
+24/11/2018,Wales,22,Elton Jantjies,n,34
+24/11/2018,Wales,11,Aphiwe Dyantyi,y,76
+24/11/2018,Wales,4,RG Snyman,y,12
+24/11/2018,Wales,26,Damian Willemse,n,4
+24/11/2018,Wales,10,Handre Pollard,y,80
+24/11/2018,Wales,3,Frans Malherbe,y,47
+24/11/2018,Wales,13,Jesse Kriel,y,80
+24/11/2018,Wales,12,Damian de Allende,y,46
+24/11/2018,Wales,23,Cheslin Kolbe,n,0
+24/11/2018,Wales,9,Embrose Papier,y,50
+24/11/2018,Wales,6,Siya Kolisi,y,80
+24/11/2018,Wales,16,Mbongeni Mbonambi,n,26
+24/11/2018,Wales,19,Eben Etzebeth,n,68
+24/11/2018,Wales,5,Franco Mostert,y,80
+24/11/2018,Wales,21,Ivan Van Zyl,n,30
+24/11/2018,Wales,8,Duane Vermeulen,y,65
+24/11/2018,Wales,2,Malcolm Marx,y,54
+24/11/2018,Wales,7,Pieter-Steph Du Toit,y,80
+24/11/2018,Wales,18,Vincent Koch,n,33
+24/11/2018,Wales,15,Willie Le Roux,y,80
+24/11/2018,Wales,17,Thomas Du Toit,n,27
+24/11/2018,Wales,1,Steven Kitshoff,y,53
+24/11/2018,Wales,20,Francois Louw,n,15
 20/07/2019,Australia,23,Dillyn Leyds,n,0
 20/07/2019,Australia,10,Elton Jantjies,y,80
 20/07/2019,Australia,6,Rynhardt Elstadt,y,60
@@ -1862,3 +3012,26 @@ date,opposition,shirt,player,started,minutes
 18/07/2026,Wales,15,Aphelele Fassi,y,59
 18/07/2026,Wales,16,Andre-Hugo Venter,n,33
 18/07/2026,Wales,11,Kurt-Lee Arendse,y,80
+08/08/2026,Argentina,11,Ethan Hooker,y,80
+08/08/2026,Argentina,1,Boan Venter,y,49
+08/08/2026,Argentina,12,Andre Esterhuizen,y,65
+08/08/2026,Argentina,13,Canan Moodie,y,80
+08/08/2026,Argentina,23,Handre Pollard,n,20
+08/08/2026,Argentina,20,Cobus Wiese,n,30
+08/08/2026,Argentina,16,Jan-Hendrik Wessels,n,18
+08/08/2026,Argentina,19,Ben-Jason Dixon,n,31
+08/08/2026,Argentina,22,Morne van den Berg,n,20
+08/08/2026,Argentina,15,Aphelele Fassi,y,75
+08/08/2026,Argentina,6,Siya Kolisi,y,25
+08/08/2026,Argentina,8,Cameron Hanekom,y,78
+08/08/2026,Argentina,7,Elrigh Louw,y,52
+08/08/2026,Argentina,10,Sacha Feinberg-Mngomezulu,y,80
+08/08/2026,Argentina,4,Eben Etzebeth,y,80
+08/08/2026,Argentina,21,Marco van Staden,n,55
+08/08/2026,Argentina,18,Zach Porthen,n,31
+08/08/2026,Argentina,9,Cobus Reinach,y,60
+08/08/2026,Argentina,14,Edwill Van Der Merwe,y,80
+08/08/2026,Argentina,2,Johan Grobbelaar,y,62
+08/08/2026,Argentina,17,Gerhard Steenekamp,n,31
+08/08/2026,Argentina,5,Lodewyk De Jager,y,50
+08/08/2026,Argentina,3,Thomas Du Toit,y,49
