@@ -84,7 +84,7 @@ TEAM_META_FIELDS = {
 }
 
 LINEUP_FIELDS = [
-    "url", "match_id", "team", "shirt_number", "player_name", "role",
+    "url", "match_id", "team", "shirt_number", "player_name", "role", "capped",
 ]
 
 PLAYER_FIELDS = [
@@ -644,32 +644,58 @@ def _player_id_name_map(tab_data: dict[str, dict], side: str) -> dict[str, str]:
     return mapping
 
 
-def write_lineup(results: list[dict], path: Path, append: bool = False) -> None:
+def _lineup_rows(results: list[dict], capped: bool = True) -> list[dict]:
+    """Resolve and flatten all lineup rows across results into dicts."""
+    rows = []
+    for r in results:
+        home_id_map = _player_id_name_map(r["tab_data"], "home")
+        away_id_map = _player_id_name_map(r["tab_data"], "away")
+        home_team = r["home_team"]
+        for entry in r.get("lineup", []):
+            pid = entry.get("player_id", "")
+            id_map = home_id_map if entry["team"] == home_team else away_id_map
+            stats_name = id_map.get(pid) or ""
+            resolved_name = max(stats_name, entry["player_name"], key=len) or entry["player_name"]
+            rows.append({
+                "url":          r["url"],
+                "match_id":     r["match_id"],
+                "team":         entry["team"],
+                "shirt_number": entry["shirt_number"],
+                "player_name":  resolved_name,
+                "role":         entry["role"],
+                "capped":       str(capped),
+            })
+    return rows
+
+
+def _write_lineup_rows(rows: list[dict], path: Path, append: bool = False) -> None:
     mode = "a" if append else "w"
     with open(path, mode, newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=LINEUP_FIELDS, extrasaction="ignore")
         if not append:
             writer.writeheader()
-        for r in results:
-            home_id_map = _player_id_name_map(r["tab_data"], "home")
-            away_id_map = _player_id_name_map(r["tab_data"], "away")
-            home_team = r["home_team"]
-            for entry in r.get("lineup", []):
-                pid = entry.get("player_id", "")
-                id_map = home_id_map if entry["team"] == home_team else away_id_map
-                # Prefer whichever name is longer — lineup widget has first+last for
-                # older matches; stats tabs have first+last for newer ones.
-                # Fall back to lineup name for unused substitutes (not in any stats tab).
-                stats_name = id_map.get(pid) or ""
-                resolved_name = max(stats_name, entry["player_name"], key=len) or entry["player_name"]
-                writer.writerow({
-                    "url":          r["url"],
-                    "match_id":     r["match_id"],
-                    "team":         entry["team"],
-                    "shirt_number": entry["shirt_number"],
-                    "player_name":  resolved_name,
-                    "role":         entry["role"],
-                })
+        writer.writerows(rows)
+
+
+def write_lineup(
+    results: list[dict],
+    path: Path,
+    append: bool = False,
+    capped: bool = True,
+    ffe_path: Path | None = None,
+) -> None:
+    rows = _lineup_rows(results, capped=capped)
+
+    if ffe_path is not None:
+        # Split by country: "England"-named teams → path, "France"-named → ffe_path
+        eng_rows = [r for r in rows if "england" in r["team"].lower()]
+        fra_rows = [r for r in rows if "france" in r["team"].lower()]
+        other_rows = [r for r in rows if r not in eng_rows and r not in fra_rows]
+        _write_lineup_rows(eng_rows + other_rows, path, append=append)
+        ffe_needs_header = not ffe_path.exists()
+        _write_lineup_rows(fra_rows, ffe_path, append=(not ffe_needs_header))
+    else:
+        _write_lineup_rows(rows, path, append=append)
 
 
 # ---------------------------------------------------------------------------
@@ -678,7 +704,9 @@ def write_lineup(results: list[dict], path: Path, append: bool = False) -> None:
 async def main() -> None:
     args = sys.argv[1:]
     append = "--append" in args
-    args = [a for a in args if a != "--append"]
+    non_capped = "--non-capped" in args
+    ffe_split = "--ffe-split" in args
+    args = [a for a in args if a not in ("--append", "--non-capped", "--ffe-split")]
     url_file = Path(args[0]) if args else URLS_FILE
     urls = [
         line.strip()
@@ -722,15 +750,18 @@ async def main() -> None:
     team_csv   = OUT_DIR / "rfu_team_stats.csv"
     player_csv = OUT_DIR / "rfu_player_stats.csv"
     lineup_csv = OUT_DIR / "rfu_lineups.csv"
+    ffe_csv    = OUT_DIR / "ffe_lineups.csv" if ffe_split else None
 
     write_team_stats(results, team_csv, append=append)
     write_player_stats(results, player_csv, append=append)
-    write_lineup(results, lineup_csv, append=append)
+    write_lineup(results, lineup_csv, append=append, capped=not non_capped, ffe_path=ffe_csv)
 
     print(f"\n✓ {len(results)}/{len(urls)} matches scraped")
     print(f"  {team_csv}")
     print(f"  {player_csv}")
     print(f"  {lineup_csv}")
+    if ffe_csv:
+        print(f"  {ffe_csv}")
 
 
 if __name__ == "__main__":

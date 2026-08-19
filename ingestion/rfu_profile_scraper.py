@@ -101,7 +101,7 @@ def get_lineup_england_names() -> list[str]:
     names: dict[str, None] = {}
     with open(LINEUPS_CSV, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            if row.get("team") == "England":
+            if row.get("team", "").lower().startswith("england"):
                 n = row.get("player_name", "").strip()
                 if n:
                     names[n] = None
