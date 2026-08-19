@@ -1,0 +1,410 @@
+<title>Borthwick win/loss streaks</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --good:           #0ca30c;
+    --critical:       #d03b3b;
+    --good-text:      #006300;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --good:           #0ca30c;
+      --critical:       #e66767;
+      --good-text:      #0ca30c;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --good:           #0ca30c;
+    --critical:       #e66767;
+    --good-text:      #0ca30c;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--text-primary);
+  }
+  .viz-root {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 28px 24px 32px;
+  }
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px clamp(12px, 4vw, 28px) 20px;
+    overflow-x: auto;
+  }
+  h1 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 2px;
+  }
+  .subtitle {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin: 0 0 18px;
+  }
+  .legend {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    margin-bottom: 6px;
+    font-size: 12.5px;
+    color: var(--text-secondary);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-swatch {
+    width: 10px; height: 10px; border-radius: 2px; flex: none;
+  }
+  .chart-wrap { min-width: 640px; }
+  svg { display: block; overflow: visible; }
+  .bar { rx: 4px; }
+  .bar-win { fill: var(--good); }
+  .bar-loss { fill: var(--critical); }
+  .bar:hover { opacity: 0.85; cursor: pointer; }
+  .gridline { stroke: var(--gridline); stroke-width: 1; }
+  .baseline { stroke: var(--baseline); stroke-width: 1; }
+  .axis-label { fill: var(--text-muted); font-size: 10.5px; }
+  .year-label { fill: var(--text-muted); font-size: 10.5px; }
+  .value-label { fill: var(--text-primary); font-size: 11.5px; font-weight: 600; }
+  .ref-line { stroke: var(--text-muted); stroke-width: 1; stroke-dasharray: 3 3; opacity: 0.6; }
+  .ref-label { fill: var(--text-muted); font-size: 10px; }
+  .callout-line {
+    stroke: var(--text-secondary);
+    stroke-width: 1;
+    fill: none;
+  }
+  .callout-text {
+    fill: var(--text-primary);
+    font-size: 12px;
+  }
+  .callout-text tspan.accent { fill: var(--good-text); font-weight: 600; }
+
+  .tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--text-primary);
+    color: var(--surface-1);
+    font-size: 12px;
+    line-height: 1.45;
+    padding: 8px 10px;
+    border-radius: 6px;
+    max-width: 220px;
+    opacity: 0;
+    transition: opacity 0.08s ease;
+    z-index: 5;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+  }
+  .tooltip.show { opacity: 1; }
+  .tooltip b { display: block; margin-bottom: 2px; }
+  .tooltip .opp { color: var(--text-muted); }
+
+  .foot-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 14px;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .stat-strip {
+    display: flex;
+    gap: 18px;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+  .stat-strip b { color: var(--text-primary); font-weight: 600; }
+  .table-toggle {
+    font-size: 12px;
+    color: var(--text-secondary);
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .table-toggle:hover { color: var(--text-primary); }
+
+  .table-wrap { margin-top: 14px; overflow-x: auto; display: none; }
+  .table-wrap.open { display: block; }
+  table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+  th, td {
+    text-align: left;
+    padding: 6px 10px;
+    border-bottom: 1px solid var(--gridline);
+    white-space: nowrap;
+  }
+  th { color: var(--text-muted); font-weight: 500; }
+  td.num { font-variant-numeric: tabular-nums; }
+  .pill {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 999px;
+  }
+  .pill-win { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good-text); }
+  .pill-loss { background: color-mix(in srgb, var(--critical) 16%, transparent); color: var(--critical); }
+  td.opp-list { white-space: normal; color: var(--text-secondary); }
+</style>
+
+<div class="viz-root">
+  <div class="card">
+    <h1>Steve Borthwick's win/loss streaks</h1>
+    <p class="subtitle">Every full England Test, grouped into consecutive-result streaks · 4 Feb 2023 – 18 Jul 2026</p>
+
+    <div class="legend">
+      <div class="legend-item"><span class="legend-swatch" style="background:var(--good)"></span>▲ Won streak</div>
+      <div class="legend-item"><span class="legend-swatch" style="background:var(--critical)"></span>▼ Lost streak</div>
+    </div>
+
+    <div class="chart-wrap">
+      <svg id="chart" viewBox="0 0 820 380" width="100%" height="380" role="img" aria-label="Bar chart of Steve Borthwick's win and loss streaks over time, showing an outlier 12-game winning streak against otherwise short streaks of 1-5 games"></svg>
+    </div>
+
+    <div class="foot-row">
+      <div class="stat-strip">
+        <span><b>48</b> Tests</span>
+        <span><b>28W–20L</b></span>
+        <span><b>18</b> streaks</span>
+        <span>avg streak <b>2.7</b> games</span>
+      </div>
+      <button class="table-toggle" id="tableToggle" aria-expanded="false">View as table ▾</button>
+    </div>
+
+    <div class="table-wrap" id="tableWrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>Result</th><th>Games</th><th>Start</th><th>End</th><th>Opponents</th></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+const streaks = [
+ {type:"l", length:1, start:"2023-02-04", end:"2023-02-04", opponents:["Scotland"]},
+ {type:"w", length:2, start:"2023-02-12", end:"2023-02-25", opponents:["Italy","Wales"]},
+ {type:"l", length:3, start:"2023-03-11", end:"2023-08-05", opponents:["France","Ireland","Wales"]},
+ {type:"w", length:1, start:"2023-08-12", end:"2023-08-12", opponents:["Wales"]},
+ {type:"l", length:2, start:"2023-08-19", end:"2023-08-26", opponents:["Ireland","Fiji"]},
+ {type:"w", length:5, start:"2023-09-09", end:"2023-10-15", opponents:["Argentina","Japan","Chile","Samoa","Fiji"]},
+ {type:"l", length:1, start:"2023-10-21", end:"2023-10-21", opponents:["South Africa"]},
+ {type:"w", length:3, start:"2023-10-27", end:"2024-02-10", opponents:["Argentina","Italy","Wales"]},
+ {type:"l", length:1, start:"2024-02-24", end:"2024-02-24", opponents:["Scotland"]},
+ {type:"w", length:1, start:"2024-03-09", end:"2024-03-09", opponents:["Ireland"]},
+ {type:"l", length:1, start:"2024-03-16", end:"2024-03-16", opponents:["France"]},
+ {type:"w", length:1, start:"2024-06-22", end:"2024-06-22", opponents:["Japan"]},
+ {type:"l", length:5, start:"2024-07-06", end:"2024-11-16", opponents:["New Zealand","New Zealand","New Zealand","Australia","South Africa"]},
+ {type:"w", length:1, start:"2024-11-24", end:"2024-11-24", opponents:["Japan"]},
+ {type:"l", length:1, start:"2025-01-02", end:"2025-01-02", opponents:["Ireland"]},
+ {type:"w", length:12, start:"2025-02-08", end:"2026-02-07", opponents:["France","Scotland","Italy","Wales","Argentina","Argentina","USA","Australia","Fiji","New Zealand","Argentina","Wales"]},
+ {type:"l", length:5, start:"2026-02-14", end:"2026-07-04", opponents:["Scotland","Ireland","Italy","France","South Africa"]},
+ {type:"w", length:2, start:"2026-07-11", end:"2026-07-18", opponents:["Fiji","Argentina"]},
+];
+
+const svg = document.getElementById('chart');
+const tooltip = document.getElementById('tooltip');
+const NS = "http://www.w3.org/2000/svg";
+
+const W = 820, H = 380;
+const marginL = 28, marginR = 16, marginT = 16, marginB = 34;
+const plotW = W - marginL - marginR;
+const plotH = H - marginT - marginB;
+const midY = marginT + plotH * (12 / (12 + 6));  // asymmetric: +12 max up, -6 max down (loss max 5, pad)
+
+const maxUp = 12, maxDown = 6; // y domain: -6..+12
+const yScale = v => midY - (v / (maxUp)) * (midY - marginT) ;
+function yFor(v) {
+  if (v >= 0) return midY - (v / maxUp) * (midY - marginT);
+  return midY + (-v / maxDown) * (marginT + plotH - midY);
+}
+
+const n = streaks.length;
+const bandW = plotW / n;
+const barW = Math.min(24, bandW * 0.6);
+
+// gridlines at signed values
+const gridVals = [-6,-4,-2,0,2,4,6,8,10,12];
+gridVals.forEach(v => {
+  const y = yFor(v);
+  const line = document.createElementNS(NS, 'line');
+  line.setAttribute('x1', marginL); line.setAttribute('x2', W - marginR);
+  line.setAttribute('y1', y); line.setAttribute('y2', y);
+  line.setAttribute('class', v === 0 ? 'baseline' : 'gridline');
+  svg.appendChild(line);
+  if (v !== 0) {
+    const t = document.createElementNS(NS, 'text');
+    t.setAttribute('x', marginL - 6); t.setAttribute('y', y + 3);
+    t.setAttribute('text-anchor', 'end'); t.setAttribute('class', 'axis-label');
+    t.textContent = Math.abs(v);
+    svg.appendChild(t);
+  }
+});
+
+// year boundary labels
+let lastYear = null;
+streaks.forEach((s, i) => {
+  const yr = s.start.slice(0,4);
+  if (yr !== lastYear) {
+    const x = marginL + bandW * i + bandW/2;
+    const t = document.createElementNS(NS, 'text');
+    t.setAttribute('x', x); t.setAttribute('y', H - 8);
+    t.setAttribute('text-anchor', 'middle'); t.setAttribute('class', 'year-label');
+    t.textContent = yr;
+    svg.appendChild(t);
+    lastYear = yr;
+  }
+});
+
+function fmtDate(iso) {
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-GB', {day:'numeric', month:'short', year:'numeric'});
+}
+
+function roundedBarPath(x, top, w, h, roundTop) {
+  const r = Math.min(4, w / 2, h);
+  if (roundTop) {
+    // rounded top-left/top-right, square bottom (bar grows up from baseline)
+    return `M${x},${top + h}
+            L${x},${top + r}
+            Q${x},${top} ${x + r},${top}
+            L${x + w - r},${top}
+            Q${x + w},${top} ${x + w},${top + r}
+            L${x + w},${top + h}
+            Z`;
+  }
+  // square top, rounded bottom-left/bottom-right (bar grows down from baseline)
+  return `M${x},${top}
+          L${x + w},${top}
+          L${x + w},${top + h - r}
+          Q${x + w},${top + h} ${x + w - r},${top + h}
+          L${x + r},${top + h}
+          Q${x},${top + h} ${x},${top + h - r}
+          Z`;
+}
+
+streaks.forEach((s, i) => {
+  const x = marginL + bandW * i + (bandW - barW)/2;
+  const signed = s.type === 'w' ? s.length : -s.length;
+  const y0 = yFor(0);
+  const y1 = yFor(signed);
+  const top = Math.min(y0, y1);
+  const h = Math.max(Math.abs(y1 - y0), 2);
+
+  const rect = document.createElementNS(NS, 'path');
+  rect.setAttribute('d', roundedBarPath(x, top, barW, h, s.type === 'w'));
+  rect.setAttribute('class', s.type === 'w' ? 'bar bar-win' : 'bar bar-loss');
+  svg.appendChild(rect);
+
+  const isOutlier = s.length === 12;
+  if (isOutlier || s.length >= 5) {
+    const t = document.createElementNS(NS, 'text');
+    t.setAttribute('x', x + barW/2);
+    t.setAttribute('y', s.type === 'w' ? top - 6 : top + h + 13);
+    t.setAttribute('text-anchor', 'middle');
+    t.setAttribute('class', 'value-label');
+    t.textContent = s.length;
+    svg.appendChild(t);
+  }
+
+  rect.addEventListener('mousemove', (e) => {
+    const rectBounds = svg.getBoundingClientRect();
+    tooltip.innerHTML = `<b>${s.type === 'w' ? 'Won' : 'Lost'} ${s.length} in a row</b>${fmtDate(s.start)} – ${fmtDate(s.end)}<div class="opp">${s.opponents.join(', ')}</div>`;
+    tooltip.style.left = (e.clientX + 14) + 'px';
+    tooltip.style.top = (e.clientY + 10 + window.scrollY) + 'px';
+    tooltip.classList.add('show');
+  });
+  rect.addEventListener('mouseleave', () => tooltip.classList.remove('show'));
+});
+
+// reference lines: avg win streak excl. outlier, avg loss streak — drawn after
+// bars so the dashed line + label sit on top where they cross a bar
+const winLens = streaks.filter(s=>s.type==='w').map(s=>s.length);
+const winsExclOutlier = winLens.filter(l => l !== Math.max(...winLens));
+const avgWin = winsExclOutlier.reduce((a,b)=>a+b,0)/winsExclOutlier.length;
+const lossLens = streaks.filter(s=>s.type==='l').map(s=>s.length);
+const avgLoss = lossLens.reduce((a,b)=>a+b,0)/lossLens.length;
+
+[avgWin, -avgLoss].forEach((v,i) => {
+  const y = yFor(v);
+  const line = document.createElementNS(NS, 'line');
+  line.setAttribute('x1', marginL); line.setAttribute('x2', W - marginR);
+  line.setAttribute('y1', y); line.setAttribute('y2', y);
+  line.setAttribute('class', 'ref-line');
+  svg.appendChild(line);
+  const t = document.createElementNS(NS, 'text');
+  t.setAttribute('x', marginL + 4); t.setAttribute('y', y - 4);
+  t.setAttribute('text-anchor', 'start'); t.setAttribute('class', 'ref-label');
+  t.textContent = i===0 ? `avg won streak ${avgWin.toFixed(1)} (excl. outlier)` : `avg lost streak ${avgLoss.toFixed(1)}`;
+  svg.appendChild(t);
+});
+
+// outlier callout
+const outlierIdx = streaks.findIndex(s => s.length === 12);
+const ox = marginL + bandW * outlierIdx + bandW/2;
+const oy = yFor(12);
+const callout = document.createElementNS(NS, 'text');
+callout.setAttribute('x', ox);
+callout.setAttribute('y', oy - 20);
+callout.setAttribute('text-anchor', 'middle');
+callout.innerHTML = `<tspan class="callout-text"><tspan class="accent">6x</tspan> the typical run</tspan>`;
+svg.appendChild(callout);
+
+// table
+const tbody = document.getElementById('tableBody');
+streaks.forEach(s => {
+  const tr = document.createElement('tr');
+  tr.innerHTML = `<td class="num"></td>
+    <td><span class="pill ${s.type==='w'?'pill-win':'pill-loss'}">${s.type==='w'?'Won':'Lost'}</span></td>
+    <td class="num">${s.length}</td>
+    <td>${fmtDate(s.start)}</td>
+    <td>${fmtDate(s.end)}</td>
+    <td class="opp-list">${s.opponents.join(', ')}</td>`;
+  tbody.appendChild(tr);
+});
+[...tbody.children].forEach((tr, i) => tr.children[0].textContent = i+1);
+
+const toggle = document.getElementById('tableToggle');
+const tableWrap = document.getElementById('tableWrap');
+toggle.addEventListener('click', () => {
+  const open = tableWrap.classList.toggle('open');
+  toggle.setAttribute('aria-expanded', open);
+  toggle.textContent = open ? 'Hide table ▴' : 'View as table ▾';
+});
+</script>

@@ -1,0 +1,377 @@
+<title>Margin by opponent strength</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --below:          #2a78d6;
+    --above:          #eb6834;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --below:          #3987e5;
+      --above:          #d95926;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --below:          #3987e5;
+    --above:          #d95926;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--page);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: var(--text-primary);
+  }
+  .viz-root {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 28px 24px 32px;
+  }
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px clamp(12px, 4vw, 28px) 20px;
+    overflow-x: auto;
+  }
+  h1 { font-size: 18px; font-weight: 600; margin: 0 0 2px; }
+  .subtitle { font-size: 13px; color: var(--text-secondary); margin: 0 0 18px; max-width: 640px; }
+  .legend {
+    display: flex; gap: 20px; align-items: center; flex-wrap: wrap;
+    margin-bottom: 6px; font-size: 12.5px; color: var(--text-secondary);
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-swatch { width: 10px; height: 10px; border-radius: 2px; flex: none; }
+  .legend-ring {
+    width: 8px; height: 8px; border-radius: 50%; flex: none;
+    border: 1.5px solid var(--text-secondary); background: var(--surface-1);
+  }
+  .chart-wrap { min-width: 760px; }
+  svg { display: block; overflow: visible; }
+  .bar-below { fill: var(--below); }
+  .bar-above { fill: var(--above); }
+  .bar:hover { opacity: 0.82; cursor: pointer; }
+  .gridline { stroke: var(--gridline); stroke-width: 1; }
+  .baseline { stroke: var(--baseline); stroke-width: 1; }
+  .axis-label { fill: var(--text-muted); font-size: 10px; }
+  .year-label { fill: var(--text-muted); font-size: 10.5px; }
+  .value-label { fill: var(--text-primary); font-size: 11px; font-weight: 600; }
+  .value-label .opp { font-weight: 400; fill: var(--text-secondary); }
+  .upset-ring { fill: none; stroke: var(--text-primary); stroke-width: 1.3; opacity: 0.55; }
+
+  .tooltip {
+    position: absolute; pointer-events: none;
+    background: var(--text-primary); color: var(--surface-1);
+    font-size: 12px; line-height: 1.45; padding: 8px 10px; border-radius: 6px;
+    max-width: 230px; opacity: 0; transition: opacity 0.08s ease; z-index: 5;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+  }
+  .tooltip.show { opacity: 1; }
+  .tooltip b { display: block; margin-bottom: 2px; }
+  .tooltip .sub { color: var(--text-muted); }
+
+  .foot-row {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    margin-top: 14px; gap: 16px; flex-wrap: wrap;
+  }
+  .stat-strip { display: flex; gap: 22px; font-size: 12px; color: var(--text-secondary); flex-wrap: wrap; }
+  .stat-strip .stat-block { display: flex; flex-direction: column; gap: 2px; }
+  .stat-strip b { color: var(--text-primary); font-weight: 600; font-size: 13px; }
+  .stat-strip .tag { display: flex; align-items: center; gap: 5px; }
+  .table-toggle {
+    font-size: 12px; color: var(--text-secondary); background: none;
+    border: 1px solid var(--border); border-radius: 6px; padding: 5px 10px;
+    cursor: pointer; font-family: inherit; flex: none;
+  }
+  .table-toggle:hover { color: var(--text-primary); }
+
+  .table-wrap { margin-top: 14px; overflow-x: auto; display: none; }
+  .table-wrap.open { display: block; }
+  table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+  th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--gridline); white-space: nowrap; }
+  th { color: var(--text-muted); font-weight: 500; }
+  td.num { font-variant-numeric: tabular-nums; text-align: right; }
+  .pill { display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 7px; border-radius: 999px; }
+  .pill-below { background: color-mix(in srgb, var(--below) 16%, transparent); color: var(--below); }
+  .pill-above { background: color-mix(in srgb, var(--above) 16%, transparent); color: var(--above); }
+  .upset-mark { color: var(--text-secondary); font-size: 11px; }
+</style>
+
+<div class="viz-root">
+  <div class="card">
+    <h1>Margin by opponent strength — the Borthwick era</h1>
+    <p class="subtitle">Point differential in every full England Test, coloured by whether the opponent was ranked above or below England in the World Rugby rankings at kickoff · 4 Feb 2023 – 18 Jul 2026</p>
+
+    <div class="legend">
+      <div class="legend-item"><span class="legend-swatch" style="background:var(--below)"></span>Opponent ranked below England (favourite)</div>
+      <div class="legend-item"><span class="legend-swatch" style="background:var(--above)"></span>Opponent ranked above England (underdog)</div>
+      <div class="legend-item"><span class="legend-ring"></span>Upset result (lost as favourite, or won as underdog)</div>
+    </div>
+
+    <div class="chart-wrap">
+      <svg id="chart" viewBox="0 0 980 400" width="100%" height="400" role="img" aria-label="Bar chart of England's point margin in every Test under Steve Borthwick, coloured by whether the opponent was ranked above or below England, showing dominant margins against lower-ranked sides and tight or negative margins against higher-ranked sides"></svg>
+    </div>
+
+    <div class="foot-row">
+      <div class="stat-strip">
+        <div class="stat-block"><b>48 Tests · 28W–20L</b><span>overall record</span></div>
+        <div class="stat-block tag"><span class="legend-swatch" style="background:var(--below)"></span><b>23W–8L</b><span>vs lower-ranked · avg margin +13.4</span></div>
+        <div class="stat-block tag"><span class="legend-swatch" style="background:var(--above)"></span><b>5W–12L</b><span>vs higher-ranked · avg margin −4.2</span></div>
+      </div>
+      <button class="table-toggle" id="tableToggle" aria-expanded="false">View as table ▾</button>
+    </div>
+
+    <div class="table-wrap" id="tableWrap">
+      <table>
+        <thead>
+          <tr><th>#</th><th>Date</th><th>Opponent</th><th>Tier</th><th>Result</th><th>Score</th><th class="num">Margin</th><th>Eng #</th><th>Opp #</th><th></th></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script>
+const matches = [
+{"date":"2023-02-04","opp":"Scotland","result":"l","pts_for":23,"pts_against":29,"margin":-6,"eng_irb":5,"opp_irb":7,"higher":false},
+{"date":"2023-02-12","opp":"Italy","result":"w","pts_for":31,"pts_against":14,"margin":17,"eng_irb":6,"opp_irb":12,"higher":false},
+{"date":"2023-02-25","opp":"Wales","result":"w","pts_for":20,"pts_against":10,"margin":10,"eng_irb":6,"opp_irb":9,"higher":false},
+{"date":"2023-03-11","opp":"France","result":"l","pts_for":10,"pts_against":53,"margin":-43,"eng_irb":6,"opp_irb":2,"higher":true},
+{"date":"2023-03-18","opp":"Ireland","result":"l","pts_for":16,"pts_against":29,"margin":-13,"eng_irb":6,"opp_irb":1,"higher":true},
+{"date":"2023-08-05","opp":"Wales","result":"l","pts_for":9,"pts_against":20,"margin":-11,"eng_irb":6,"opp_irb":9,"higher":false},
+{"date":"2023-08-12","opp":"Wales","result":"w","pts_for":19,"pts_against":17,"margin":2,"eng_irb":6,"opp_irb":9,"higher":false},
+{"date":"2023-08-19","opp":"Ireland","result":"l","pts_for":10,"pts_against":29,"margin":-19,"eng_irb":6,"opp_irb":1,"higher":true},
+{"date":"2023-08-26","opp":"Fiji","result":"l","pts_for":22,"pts_against":30,"margin":-8,"eng_irb":6,"opp_irb":9,"higher":false},
+{"date":"2023-09-09","opp":"Argentina","result":"w","pts_for":27,"pts_against":10,"margin":17,"eng_irb":8,"opp_irb":6,"higher":true},
+{"date":"2023-09-17","opp":"Japan","result":"w","pts_for":34,"pts_against":12,"margin":22,"eng_irb":6,"opp_irb":14,"higher":false},
+{"date":"2023-09-23","opp":"Chile","result":"w","pts_for":71,"pts_against":0,"margin":71,"eng_irb":6,"opp_irb":22,"higher":false},
+{"date":"2023-10-07","opp":"Samoa","result":"w","pts_for":18,"pts_against":17,"margin":1,"eng_irb":6,"opp_irb":14,"higher":false},
+{"date":"2023-10-15","opp":"Fiji","result":"w","pts_for":30,"pts_against":24,"margin":6,"eng_irb":6,"opp_irb":10,"higher":false},
+{"date":"2023-10-21","opp":"South Africa","result":"l","pts_for":15,"pts_against":16,"margin":-1,"eng_irb":5,"opp_irb":1,"higher":true},
+{"date":"2023-10-27","opp":"Argentina","result":"w","pts_for":26,"pts_against":23,"margin":3,"eng_irb":5,"opp_irb":7,"higher":false},
+{"date":"2024-02-03","opp":"Italy","result":"w","pts_for":27,"pts_against":24,"margin":3,"eng_irb":5,"opp_irb":11,"higher":false},
+{"date":"2024-02-10","opp":"Wales","result":"w","pts_for":16,"pts_against":14,"margin":2,"eng_irb":5,"opp_irb":8,"higher":false},
+{"date":"2024-02-24","opp":"Scotland","result":"l","pts_for":21,"pts_against":30,"margin":-9,"eng_irb":5,"opp_irb":6,"higher":false},
+{"date":"2024-03-09","opp":"Ireland","result":"w","pts_for":23,"pts_against":22,"margin":1,"eng_irb":5,"opp_irb":2,"higher":true},
+{"date":"2024-03-16","opp":"France","result":"l","pts_for":31,"pts_against":33,"margin":-2,"eng_irb":5,"opp_irb":4,"higher":true},
+{"date":"2024-06-22","opp":"Japan","result":"w","pts_for":52,"pts_against":17,"margin":35,"eng_irb":5,"opp_irb":12,"higher":false},
+{"date":"2024-07-06","opp":"New Zealand","result":"l","pts_for":15,"pts_against":16,"margin":-1,"eng_irb":5,"opp_irb":3,"higher":true},
+{"date":"2024-07-13","opp":"New Zealand","result":"l","pts_for":17,"pts_against":24,"margin":-7,"eng_irb":5,"opp_irb":3,"higher":true},
+{"date":"2024-11-02","opp":"New Zealand","result":"l","pts_for":22,"pts_against":24,"margin":-2,"eng_irb":5,"opp_irb":3,"higher":true},
+{"date":"2024-11-09","opp":"Australia","result":"l","pts_for":37,"pts_against":42,"margin":-5,"eng_irb":5,"opp_irb":9,"higher":false},
+{"date":"2024-11-16","opp":"South Africa","result":"l","pts_for":20,"pts_against":29,"margin":-9,"eng_irb":7,"opp_irb":1,"higher":true},
+{"date":"2024-11-24","opp":"Japan","result":"w","pts_for":59,"pts_against":14,"margin":45,"eng_irb":7,"opp_irb":13,"higher":false},
+{"date":"2025-01-02","opp":"Ireland","result":"l","pts_for":22,"pts_against":27,"margin":-5,"eng_irb":7,"opp_irb":2,"higher":true},
+{"date":"2025-02-08","opp":"France","result":"w","pts_for":26,"pts_against":25,"margin":1,"eng_irb":7,"opp_irb":4,"higher":true},
+{"date":"2025-02-22","opp":"Scotland","result":"w","pts_for":16,"pts_against":15,"margin":1,"eng_irb":6,"opp_irb":7,"higher":false},
+{"date":"2025-03-09","opp":"Italy","result":"w","pts_for":47,"pts_against":24,"margin":23,"eng_irb":6,"opp_irb":10,"higher":false},
+{"date":"2025-03-15","opp":"Wales","result":"w","pts_for":68,"pts_against":14,"margin":54,"eng_irb":6,"opp_irb":12,"higher":false},
+{"date":"2025-07-05","opp":"Argentina","result":"w","pts_for":35,"pts_against":12,"margin":23,"eng_irb":6,"opp_irb":5,"higher":true},
+{"date":"2025-07-12","opp":"Argentina","result":"w","pts_for":22,"pts_against":17,"margin":5,"eng_irb":5,"opp_irb":6,"higher":false},
+{"date":"2025-07-19","opp":"USA","result":"w","pts_for":40,"pts_against":5,"margin":35,"eng_irb":5,"opp_irb":16,"higher":false},
+{"date":"2025-11-01","opp":"Australia","result":"w","pts_for":25,"pts_against":7,"margin":18,"eng_irb":5,"opp_irb":7,"higher":false},
+{"date":"2025-11-07","opp":"Fiji","result":"w","pts_for":38,"pts_against":18,"margin":20,"eng_irb":4,"opp_irb":9,"higher":false},
+{"date":"2025-11-15","opp":"New Zealand","result":"w","pts_for":33,"pts_against":19,"margin":14,"eng_irb":4,"opp_irb":2,"higher":true},
+{"date":"2025-11-22","opp":"Argentina","result":"w","pts_for":27,"pts_against":23,"margin":4,"eng_irb":3,"opp_irb":6,"higher":false},
+{"date":"2026-02-07","opp":"Wales","result":"w","pts_for":48,"pts_against":7,"margin":41,"eng_irb":3,"opp_irb":11,"higher":false},
+{"date":"2026-02-14","opp":"Scotland","result":"l","pts_for":20,"pts_against":31,"margin":-11,"eng_irb":3,"opp_irb":10,"higher":false},
+{"date":"2026-02-21","opp":"Ireland","result":"l","pts_for":21,"pts_against":42,"margin":-21,"eng_irb":4,"opp_irb":5,"higher":false},
+{"date":"2026-03-07","opp":"Italy","result":"l","pts_for":18,"pts_against":23,"margin":-5,"eng_irb":5,"opp_irb":10,"higher":false},
+{"date":"2026-03-14","opp":"France","result":"l","pts_for":46,"pts_against":48,"margin":-2,"eng_irb":6,"opp_irb":4,"higher":true},
+{"date":"2026-07-04","opp":"South Africa","result":"l","pts_for":21,"pts_against":45,"margin":-24,"eng_irb":6,"opp_irb":1,"higher":true},
+{"date":"2026-07-11","opp":"Fiji","result":"w","pts_for":73,"pts_against":8,"margin":65,"eng_irb":6,"opp_irb":9,"higher":false},
+{"date":"2026-07-18","opp":"Argentina","result":"w","pts_for":31,"pts_against":24,"margin":7,"eng_irb":5,"opp_irb":7,"higher":false},
+];
+
+matches.forEach(m => { m.upset = (m.result === 'l' && !m.higher) || (m.result === 'w' && m.higher); });
+
+const svg = document.getElementById('chart');
+const tooltip = document.getElementById('tooltip');
+const NS = "http://www.w3.org/2000/svg";
+
+const W = 980, H = 400;
+const marginL = 30, marginR = 16, marginT = 16, marginB = 34;
+const plotW = W - marginL - marginR;
+const plotH = H - marginT - marginB;
+
+const maxUp = 75, maxDown = 45;
+const midY = marginT + plotH * (maxUp / (maxUp + maxDown));
+function yFor(v) {
+  if (v >= 0) return midY - (v / maxUp) * (midY - marginT);
+  return midY + (-v / maxDown) * (marginT + plotH - midY);
+}
+
+const n = matches.length;
+const bandW = plotW / n;
+const barW = Math.min(24, bandW * 0.72);
+
+const gridVals = [-40,-20,0,20,40,60];
+gridVals.forEach(v => {
+  const y = yFor(v);
+  const line = document.createElementNS(NS, 'line');
+  line.setAttribute('x1', marginL); line.setAttribute('x2', W - marginR);
+  line.setAttribute('y1', y); line.setAttribute('y2', y);
+  line.setAttribute('class', v === 0 ? 'baseline' : 'gridline');
+  svg.appendChild(line);
+  if (v !== 0) {
+    const t = document.createElementNS(NS, 'text');
+    t.setAttribute('x', marginL - 6); t.setAttribute('y', y + 3);
+    t.setAttribute('text-anchor', 'end'); t.setAttribute('class', 'axis-label');
+    t.textContent = v;
+    svg.appendChild(t);
+  }
+});
+
+let lastYear = null;
+matches.forEach((s, i) => {
+  const yr = s.date.slice(0,4);
+  if (yr !== lastYear) {
+    const x = marginL + bandW * i + bandW/2;
+    const t = document.createElementNS(NS, 'text');
+    t.setAttribute('x', x); t.setAttribute('y', H - 8);
+    t.setAttribute('text-anchor', 'middle'); t.setAttribute('class', 'year-label');
+    t.textContent = yr;
+    svg.appendChild(t);
+    lastYear = yr;
+  }
+});
+
+function roundedBarPath(x, top, w, h, roundTop) {
+  const r = Math.min(4, w / 2, h);
+  if (roundTop) {
+    return `M${x},${top + h} L${x},${top + r} Q${x},${top} ${x + r},${top}
+            L${x + w - r},${top} Q${x + w},${top} ${x + w},${top + r} L${x + w},${top + h} Z`;
+  }
+  return `M${x},${top} L${x + w},${top} L${x + w},${top + h - r}
+          Q${x + w},${top + h} ${x + w - r},${top + h} L${x + r},${top + h}
+          Q${x},${top + h} ${x},${top + h - r} Z`;
+}
+
+function fmtDate(iso) {
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-GB', {day:'numeric', month:'short', year:'numeric'});
+}
+
+const maxMargin = matches.reduce((a,m)=> m.margin > a.margin ? m : a, matches[0]);
+const minMargin = matches.reduce((a,m)=> m.margin < a.margin ? m : a, matches[0]);
+const labelSet = new Set([maxMargin, minMargin]);
+// also call out the standout upset in each direction
+const upsetLosses = matches.filter(m => m.result==='l' && !m.higher).sort((a,b)=>a.margin-b.margin);
+const upsetWins = matches.filter(m => m.result==='w' && m.higher).sort((a,b)=>b.margin-a.margin);
+if (upsetLosses[0]) labelSet.add(upsetLosses[0]);
+if (upsetWins[0]) labelSet.add(upsetWins[0]);
+
+matches.forEach((s, i) => {
+  const x = marginL + bandW * i + (bandW - barW)/2;
+  const y0 = yFor(0);
+  const y1 = yFor(s.margin);
+  const top = Math.min(y0, y1);
+  const h = Math.max(Math.abs(y1 - y0), 1.5);
+
+  // wide invisible hit target for hover
+  const hit = document.createElementNS(NS, 'rect');
+  hit.setAttribute('x', marginL + bandW * i);
+  hit.setAttribute('y', marginT);
+  hit.setAttribute('width', bandW);
+  hit.setAttribute('height', plotH);
+  hit.setAttribute('fill', 'transparent');
+  hit.setAttribute('class', 'bar');
+  svg.appendChild(hit);
+
+  const bar = document.createElementNS(NS, 'path');
+  bar.setAttribute('d', roundedBarPath(x, top, barW, h, s.margin >= 0));
+  bar.setAttribute('class', s.higher ? 'bar-above' : 'bar-below');
+  bar.style.pointerEvents = 'none';
+  svg.appendChild(bar);
+
+  if (s.upset) {
+    const ring = document.createElementNS(NS, 'circle');
+    const cy = s.margin >= 0 ? top - 7 : top + h + 7;
+    ring.setAttribute('cx', x + barW/2);
+    ring.setAttribute('cy', cy);
+    ring.setAttribute('r', 3);
+    ring.setAttribute('class', 'upset-ring');
+    svg.appendChild(ring);
+  }
+
+  if (labelSet.has(s)) {
+    const t = document.createElementNS(NS, 'text');
+    const ly = s.margin >= 0 ? top - (s.upset ? 16 : 6) : top + h + (s.upset ? 22 : 13);
+    t.setAttribute('x', x + barW/2);
+    t.setAttribute('y', ly);
+    t.setAttribute('text-anchor', 'middle');
+    t.setAttribute('class', 'value-label');
+    t.innerHTML = `${s.margin > 0 ? '+' : ''}${s.margin} <tspan class="opp">${s.opp}</tspan>`;
+    svg.appendChild(t);
+  }
+
+  const tip = [hit];
+  tip.forEach(el => {
+    el.addEventListener('mousemove', (e) => {
+      const tierTxt = s.higher ? 'ranked above England (underdog match)' : 'ranked below England (favourite match)';
+      tooltip.innerHTML = `<b>${s.opp} — ${s.result==='w'?'Won':'Lost'} ${s.pts_for}-${s.pts_against}</b>`+
+        `<div class="sub">${fmtDate(s.date)}</div>`+
+        `<div class="sub">England #${s.eng_irb} · ${s.opp} #${s.opp_irb} — ${tierTxt}</div>`+
+        (s.upset ? `<div class="sub">⚠ upset result</div>` : '');
+      tooltip.style.left = (e.clientX + 14) + 'px';
+      tooltip.style.top = (e.clientY + 10 + window.scrollY) + 'px';
+      tooltip.classList.add('show');
+    });
+    el.addEventListener('mouseleave', () => tooltip.classList.remove('show'));
+  });
+});
+
+const tbody = document.getElementById('tableBody');
+matches.forEach((s, i) => {
+  const tr = document.createElement('tr');
+  tr.innerHTML = `<td class="num">${i+1}</td>
+    <td>${fmtDate(s.date)}</td>
+    <td>${s.opp}</td>
+    <td><span class="pill ${s.higher?'pill-above':'pill-below'}">${s.higher?'Above':'Below'}</span></td>
+    <td>${s.result==='w'?'Won':'Lost'}</td>
+    <td class="num">${s.pts_for}-${s.pts_against}</td>
+    <td class="num">${s.margin>0?'+':''}${s.margin}</td>
+    <td class="num">${s.eng_irb}</td>
+    <td class="num">${s.opp_irb}</td>
+    <td class="upset-mark">${s.upset ? '⚠ upset' : ''}</td>`;
+  tbody.appendChild(tr);
+});
+
+const toggle = document.getElementById('tableToggle');
+const tableWrap = document.getElementById('tableWrap');
+toggle.addEventListener('click', () => {
+  const open = tableWrap.classList.toggle('open');
+  toggle.setAttribute('aria-expanded', open);
+  toggle.textContent = open ? 'Hide table ▴' : 'View as table ▾';
+});
+</script>
