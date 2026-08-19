@@ -1,0 +1,360 @@
+squad_id,announcement_date,player_name,dob,caps_at_announcement,caps_source
+6N 2023,2023-01-16,Jamie George,1990-10-20,72,wikipedia/rugbypass
+6N 2023,2023-01-16,George McGuigan,1995-03-15,0,wikipedia/rugbypass
+6N 2023,2023-01-16,Jack Walker,1998-04-07,0,wikipedia/rugbypass
+6N 2023,2023-01-16,Dan Cole,1987-05-09,95,wikipedia/rugbypass
+6N 2023,2023-01-16,Ellis Genge,1995-02-16,43,wikipedia/rugbypass
+6N 2023,2023-01-16,Joe Heyes,1999-04-13,7,wikipedia/rugbypass
+6N 2023,2023-01-16,Bevan Rodd,2000-08-26,2,wikipedia/rugbypass
+6N 2023,2023-01-16,Kyle Sinckler,1993-09-14,56,wikipedia/rugbypass
+6N 2023,2023-01-16,Mako Vunipola,1991-02-03,74,wikipedia/rugbypass
+6N 2023,2023-01-16,Ollie Chessum,2000-09-06,5,wikipedia/rugbypass
+6N 2023,2023-01-16,Jonny Hill,1994-01-02,19,wikipedia/rugbypass
+6N 2023,2023-01-16,Nick Isiekwe,1998-04-20,8,wikipedia/rugbypass
+6N 2023,2023-01-16,Maro Itoje,1994-10-28,62,wikipedia/rugbypass
+6N 2023,2023-01-16,Ben Curry,1998-06-15,1,wikipedia/rugbypass
+6N 2023,2023-01-16,Ben Earl,1998-01-07,13,wikipedia/rugbypass
+6N 2023,2023-01-16,Courtney Lawes,1989-02-25,96,wikipedia/rugbypass
+6N 2023,2023-01-16,Lewis Ludlam,1995-12-08,14,wikipedia/rugbypass
+6N 2023,2023-01-16,Jack Willis,1996-12-24,6,wikipedia/rugbypass
+6N 2023,2023-01-16,Alex Dombrandt,1997-04-29,7,wikipedia/rugbypass
+6N 2023,2023-01-16,Sam Simmonds,1994-12-18,18,wikipedia/rugbypass
+6N 2023,2023-01-16,Alex Mitchell,1997-05-25,1,wikipedia/rugbypass
+6N 2023,2023-01-16,Jack van Poortvliet,2001-05-15,7,wikipedia/rugbypass
+6N 2023,2023-01-16,Ben Youngs,1989-08-05,121,wikipedia/rugbypass
+6N 2023,2023-01-16,Owen Farrell,1991-09-24,101,wikipedia/rugbypass
+6N 2023,2023-01-16,Fin Smith,2002-05-11,0,wikipedia/rugbypass
+6N 2023,2023-01-16,Marcus Smith,1999-02-14,17,wikipedia/rugbypass
+6N 2023,2023-01-16,Elliot Daly,1992-10-08,57,wikipedia/rugbypass
+6N 2023,2023-01-16,Dan Kelly,1998-06-01,1,wikipedia/rugbypass
+6N 2023,2023-01-16,Joe Marchant,1996-07-16,13,wikipedia/rugbypass
+6N 2023,2023-01-16,Henry Slade,1993-03-19,52,wikipedia/rugbypass
+6N 2023,2023-01-16,Manu Tuilagi,1991-05-18,50,wikipedia/rugbypass
+6N 2023,2023-01-16,Ollie Hassell-Collins,1999-10-13,0,wikipedia/rugbypass
+6N 2023,2023-01-16,Max Malins,1997-01-07,14,wikipedia/rugbypass
+6N 2023,2023-01-16,Cadan Murley,1999-01-31,0,wikipedia/rugbypass
+6N 2023,2023-01-16,Tommy Freeman,2001-03-05,3,wikipedia/rugbypass
+6N 2023,2023-01-16,Freddie Steward,2000-12-05,17,wikipedia/rugbypass
+RWC 2023,2023-08-14,Theo Dan,2000-12-26,2,derived_from_lineups
+RWC 2023,2023-08-14,Jamie George,1990-10-20,78,derived_from_lineups
+RWC 2023,2023-08-14,Jack Walker,1998-04-07,5,derived_from_lineups
+RWC 2023,2023-08-14,Dan Cole,1987-05-09,101,derived_from_lineups
+RWC 2023,2023-08-14,Ellis Genge,1995-02-16,50,derived_from_lineups
+RWC 2023,2023-08-14,Joe Marler,1990-07-07,80,derived_from_lineups
+RWC 2023,2023-08-14,Bevan Rodd,2000-08-26,3,derived_from_lineups
+RWC 2023,2023-08-14,Kyle Sinckler,1993-09-14,62,derived_from_lineups
+RWC 2023,2023-08-14,Will Stuart,1996-07-12,27,derived_from_lineups
+RWC 2023,2023-08-14,Ollie Chessum,2000-09-06,9,derived_from_lineups
+RWC 2023,2023-08-14,Maro Itoje,1994-10-28,68,derived_from_lineups
+RWC 2023,2023-08-14,Courtney Lawes,1989-02-25,98,derived_from_lineups
+RWC 2023,2023-08-14,George Martin,2001-06-18,3,derived_from_lineups
+RWC 2023,2023-08-14,David Ribbans,1994-10-10,2,estimated
+RWC 2023,2023-08-14,Tom Curry,1998-06-15,45,derived_from_lineups
+RWC 2023,2023-08-14,Ben Earl,1998-01-07,16,derived_from_lineups
+RWC 2023,2023-08-14,Lewis Ludlam,1995-12-08,20,derived_from_lineups
+RWC 2023,2023-08-14,Billy Vunipola,1992-11-05,65,estimated
+RWC 2023,2023-08-14,Jack Willis,1996-12-24,12,derived_from_lineups
+RWC 2023,2023-08-14,Danny Care,1987-01-09,88,derived_from_lineups
+RWC 2023,2023-08-14,Alex Mitchell,1997-05-25,5,derived_from_lineups
+RWC 2023,2023-08-14,Ben Youngs,1989-08-05,123,derived_from_lineups
+RWC 2023,2023-08-14,Owen Farrell,1991-09-24,107,derived_from_lineups
+RWC 2023,2023-08-14,George Ford,1993-03-16,82,derived_from_lineups
+RWC 2023,2023-08-14,Marcus Smith,1999-02-14,20,derived_from_lineups
+RWC 2023,2023-08-14,Elliot Daly,1992-10-08,58,derived_from_lineups
+RWC 2023,2023-08-14,Ollie Lawrence,1999-09-18,12,derived_from_lineups
+RWC 2023,2023-08-14,Joe Marchant,1996-07-16,17,derived_from_lineups
+RWC 2023,2023-08-14,Manu Tuilagi,1991-05-18,51,derived_from_lineups
+RWC 2023,2023-08-14,Henry Arundell,2002-11-08,8,derived_from_lineups
+RWC 2023,2023-08-14,Jonny May,1990-04-01,76,estimated
+RWC 2023,2023-08-14,Max Malins,1997-01-07,20,derived_from_lineups
+RWC 2023,2023-08-14,Freddie Steward,2000-12-05,24,derived_from_lineups
+6N 2024,2024-01-17,Luke Cowan-Dickie,1993-06-20,41,wikipedia/rugbypass
+6N 2024,2024-01-17,Theo Dan,2000-12-26,11,derived_from_lineups
+6N 2024,2024-01-17,Jamie George,1990-10-20,85,wikipedia/rugbypass
+6N 2024,2024-01-17,Dan Cole,1987-05-09,107,wikipedia/rugbypass
+6N 2024,2024-01-17,Ellis Genge,1995-02-16,58,wikipedia/rugbypass
+6N 2024,2024-01-17,Joe Heyes,1999-04-13,7,wikipedia/rugbypass
+6N 2024,2024-01-17,Joe Marler,1990-07-07,88,wikipedia/rugbypass
+6N 2024,2024-01-17,Beno Obano,1996-09-03,3,wikipedia/rugbypass
+6N 2024,2024-01-17,Will Stuart,1996-07-12,33,wikipedia/rugbypass
+6N 2024,2024-01-17,Ollie Chessum,2000-09-06,18,wikipedia/rugbypass
+6N 2024,2024-01-17,Alex Coles,1999-09-21,3,wikipedia/rugbypass
+6N 2024,2024-01-17,Nick Isiekwe,1998-04-20,11,wikipedia/rugbypass
+6N 2024,2024-01-17,Maro Itoje,1994-10-28,76,wikipedia/rugbypass
+6N 2024,2024-01-17,Chandler Cunningham-South,2003-03-18,0,wikipedia/rugbypass
+6N 2024,2024-01-17,Ben Curry,1998-06-15,5,wikipedia/rugbypass
+6N 2024,2024-01-17,Alex Dombrandt,1997-04-29,15,wikipedia/rugbypass
+6N 2024,2024-01-17,Ben Earl,1998-01-07,25,wikipedia/rugbypass
+6N 2024,2024-01-17,Tom Pearson,1996-08-01,1,wikipedia/rugbypass
+6N 2024,2024-01-17,Ethan Roots,1997-11-10,0,wikipedia/rugbypass
+6N 2024,2024-01-17,Sam Underhill,1996-11-22,30,wikipedia/rugbypass
+6N 2024,2024-01-17,Danny Care,1987-01-09,96,wikipedia/rugbypass
+6N 2024,2024-01-17,Alex Mitchell,1997-05-25,11,wikipedia/rugbypass
+6N 2024,2024-01-17,Ben Spencer,1992-07-31,4,wikipedia/rugbypass
+6N 2024,2024-01-17,George Ford,1993-03-16,91,wikipedia/rugbypass
+6N 2024,2024-01-17,Fin Smith,2002-05-11,0,wikipedia/rugbypass
+6N 2024,2024-01-17,Marcus Smith,1999-02-14,30,wikipedia/rugbypass
+6N 2024,2024-01-17,Oscar Beard,2001-11-20,0,wikipedia/rugbypass
+6N 2024,2024-01-17,Elliot Daly,1992-10-08,64,wikipedia/rugbypass
+6N 2024,2024-01-17,Fraser Dingwall,1999-04-07,0,wikipedia/rugbypass
+6N 2024,2024-01-17,Ollie Lawrence,1999-09-18,21,wikipedia/rugbypass
+6N 2024,2024-01-17,Henry Slade,1993-03-19,57,wikipedia/rugbypass
+6N 2024,2024-01-17,Immanuel Feyi-Waboso,2002-12-20,0,wikipedia/rugbypass
+6N 2024,2024-01-17,Tommy Freeman,2001-03-05,3,wikipedia/rugbypass
+6N 2024,2024-01-17,Tom Roebuck,2001-01-07,0,wikipedia/rugbypass
+6N 2024,2024-01-17,George Furbank,1996-10-17,6,wikipedia/rugbypass
+6N 2024,2024-01-17,Freddie Steward,2000-12-05,31,wikipedia/rugbypass
+Summer 2024,2024-06-10,Theo Dan,2000-12-26,12,wikipedia/rugbypass
+Summer 2024,2024-06-10,Jamie George,1990-10-20,90,wikipedia/rugbypass
+Summer 2024,2024-06-10,Gabriel Oghre,1998-05-25,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,Fin Baxter,2002-02-12,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,Dan Cole,1987-05-09,112,wikipedia/rugbypass
+Summer 2024,2024-06-10,Joe Heyes,1999-04-13,7,wikipedia/rugbypass
+Summer 2024,2024-06-10,Emmanuel Iyogun,2000-11-24,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,Joe Marler,1990-07-07,92,wikipedia/rugbypass
+Summer 2024,2024-06-10,Bevan Rodd,2000-08-26,5,wikipedia/rugbypass
+Summer 2024,2024-06-10,Will Stuart,1996-07-12,38,wikipedia/rugbypass
+Summer 2024,2024-06-10,Alex Coles,1999-09-21,5,wikipedia/rugbypass
+Summer 2024,2024-06-10,Charlie Ewels,1995-06-25,30,wikipedia/rugbypass
+Summer 2024,2024-06-10,Nick Isiekwe,1998-04-20,11,wikipedia/rugbypass
+Summer 2024,2024-06-10,Maro Itoje,1994-10-28,81,wikipedia/rugbypass
+Summer 2024,2024-06-10,George Martin,2001-06-18,12,wikipedia/rugbypass
+Summer 2024,2024-06-10,Chandler Cunningham-South,2003-03-18,4,wikipedia/rugbypass
+Summer 2024,2024-06-10,Ben Curry,1998-06-15,5,wikipedia/rugbypass
+Summer 2024,2024-06-10,Tom Curry,1998-06-15,50,wikipedia/rugbypass
+Summer 2024,2024-06-10,Alex Dombrandt,1997-04-29,17,wikipedia/rugbypass
+Summer 2024,2024-06-10,Ben Earl,1998-01-07,30,wikipedia/rugbypass
+Summer 2024,2024-06-10,Ethan Roots,1997-11-10,4,wikipedia/rugbypass
+Summer 2024,2024-06-10,Sam Underhill,1996-11-22,35,wikipedia/rugbypass
+Summer 2024,2024-06-10,Alex Mitchell,1997-05-25,16,wikipedia/rugbypass
+Summer 2024,2024-06-10,Harry Randall,1997-12-18,6,wikipedia/rugbypass
+Summer 2024,2024-06-10,Ben Spencer,1992-07-31,5,wikipedia/rugbypass
+Summer 2024,2024-06-10,Fin Smith,2002-05-11,2,wikipedia/rugbypass
+Summer 2024,2024-06-10,Marcus Smith,1999-02-14,32,wikipedia/rugbypass
+Summer 2024,2024-06-10,Fraser Dingwall,1999-04-07,2,wikipedia/rugbypass
+Summer 2024,2024-06-10,Ollie Lawrence,1999-09-18,24,wikipedia/rugbypass
+Summer 2024,2024-06-10,Luke Northmore,1997-03-16,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,Henry Slade,1993-03-19,62,wikipedia/rugbypass
+Summer 2024,2024-06-10,Immanuel Feyi-Waboso,2002-12-20,3,wikipedia/rugbypass
+Summer 2024,2024-06-10,Tommy Freeman,2001-03-05,8,wikipedia/rugbypass
+Summer 2024,2024-06-10,Tom Roebuck,2001-01-07,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,Ollie Sleightholme,2000-04-13,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,Joe Carpenter,2001-08-19,0,wikipedia/rugbypass
+Summer 2024,2024-06-10,George Furbank,1996-10-17,9,wikipedia/rugbypass
+Summer 2024,2024-06-10,Freddie Steward,2000-12-05,33,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Luke Cowan-Dickie,1993-06-20,41,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Theo Dan,2000-12-26,14,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Jamie George,1990-10-20,93,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Fin Baxter,2002-02-12,2,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Dan Cole,1987-05-09,115,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ellis Genge,1995-02-16,62,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Joe Marler,1990-07-07,95,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Will Stuart,1996-07-12,41,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ollie Chessum,2000-09-06,23,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Alex Coles,1999-09-21,,missing
+Autumn 2024,2024-10-07,Nick Isiekwe,1998-04-20,11,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Maro Itoje,1994-10-28,84,wikipedia/rugbypass
+Autumn 2024,2024-10-07,George Martin,2001-06-18,15,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Chandler Cunningham-South,2003-03-18,7,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ben Curry,1998-06-15,5,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Tom Curry,1998-06-15,53,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Alex Dombrandt,1997-04-29,17,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ben Earl,1998-01-07,33,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ethan Roots,1997-11-10,,missing
+Autumn 2024,2024-10-07,Sam Underhill,1996-11-22,38,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Harry Randall,1997-12-18,7,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Jack van Poortvliet,2001-05-15,14,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ben Spencer,1992-07-31,6,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Fin Smith,2002-05-11,5,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Marcus Smith,1999-02-14,35,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Elliot Daly,1992-10-08,69,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ollie Lawrence,1999-09-18,27,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Alex Lozowski,1994-07-14,5,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Luke Northmore,1997-03-16,2,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Henry Slade,1993-03-19,65,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Immanuel Feyi-Waboso,2002-12-20,6,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Tommy Freeman,2001-03-05,11,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Tom Roebuck,2001-01-07,1,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Ollie Sleightholme,2000-04-13,2,wikipedia/rugbypass
+Autumn 2024,2024-10-07,George Furbank,1996-10-17,11,wikipedia/rugbypass
+Autumn 2024,2024-10-07,Freddie Steward,2000-12-05,34,wikipedia/rugbypass
+6N 2025,2025-01-14,Luke Cowan-Dickie,1993-06-20,44,wikipedia/rugbypass
+6N 2025,2025-01-14,Theo Dan,2000-12-26,16,wikipedia/rugbypass
+6N 2025,2025-01-14,Jamie George,1990-10-20,97,wikipedia/rugbypass
+6N 2025,2025-01-14,Fin Baxter,2002-02-12,6,wikipedia/rugbypass
+6N 2025,2025-01-14,Ellis Genge,1995-02-16,62,wikipedia/rugbypass
+6N 2025,2025-01-14,Joe Heyes,1999-04-13,7,wikipedia/rugbypass
+6N 2025,2025-01-14,Asher Opoku-Fordjour,2004-07-16,1,wikipedia/rugbypass
+6N 2025,2025-01-14,Bevan Rodd,2000-08-26,7,wikipedia/rugbypass
+6N 2025,2025-01-14,Will Stuart,1996-07-12,45,wikipedia/rugbypass
+6N 2025,2025-01-14,Ollie Chessum,2000-09-06,23,wikipedia/rugbypass
+6N 2025,2025-01-14,Alex Coles,1999-09-21,7,wikipedia/rugbypass
+6N 2025,2025-01-14,Maro Itoje,1994-10-28,88,wikipedia/rugbypass
+6N 2025,2025-01-14,George Martin,2001-06-18,19,wikipedia/rugbypass
+6N 2025,2025-01-14,Chandler Cunningham-South,2003-03-18,11,wikipedia/rugbypass
+6N 2025,2025-01-14,Ben Curry,1998-06-15,6,wikipedia/rugbypass
+6N 2025,2025-01-14,Tom Curry,1998-06-15,56,wikipedia/rugbypass
+6N 2025,2025-01-14,Alex Dombrandt,1997-04-29,20,wikipedia/rugbypass
+6N 2025,2025-01-14,Ben Earl,1998-01-07,37,wikipedia/rugbypass
+6N 2025,2025-01-14,Ted Hill,1999-03-26,2,wikipedia/rugbypass
+6N 2025,2025-01-14,Tom Willis,1999-01-18,1,wikipedia/rugbypass
+6N 2025,2025-01-14,Alex Mitchell,1997-05-25,18,wikipedia/rugbypass
+6N 2025,2025-01-14,Harry Randall,1997-12-18,11,wikipedia/rugbypass
+6N 2025,2025-01-14,Jack van Poortvliet,2001-05-15,16,wikipedia/rugbypass
+6N 2025,2025-01-14,George Ford,1993-03-16,98,wikipedia/rugbypass
+6N 2025,2025-01-14,Fin Smith,2002-05-11,6,wikipedia/rugbypass
+6N 2025,2025-01-14,Marcus Smith,1999-02-14,39,wikipedia/rugbypass
+6N 2025,2025-01-14,Oscar Beard,2001-11-20,0,wikipedia/rugbypass
+6N 2025,2025-01-14,Fraser Dingwall,1999-04-07,2,wikipedia/rugbypass
+6N 2025,2025-01-14,Ollie Lawrence,1999-09-18,31,wikipedia/rugbypass
+6N 2025,2025-01-14,Henry Slade,1993-03-19,70,wikipedia/rugbypass
+6N 2025,2025-01-14,Tommy Freeman,2001-03-05,16,wikipedia/rugbypass
+6N 2025,2025-01-14,Cadan Murley,1999-01-31,0,wikipedia/rugbypass
+6N 2025,2025-01-14,Tom Roebuck,2001-01-07,3,wikipedia/rugbypass
+6N 2025,2025-01-14,Ollie Sleightholme,2000-04-13,5,wikipedia/rugbypass
+6N 2025,2025-01-14,Elliot Daly,1992-10-08,69,wikipedia/rugbypass
+6N 2025,2025-01-14,Freddie Steward,2000-12-05,35,wikipedia/rugbypass
+Summer 2025,2025-06-23,Theo Dan,2000-12-26,17,wikipedia/rugbypass
+Summer 2025,2025-06-23,Jamie George,1990-10-20,101,wikipedia/rugbypass
+Summer 2025,2025-06-23,Curtis Langdon,1997-08-03,2,wikipedia/rugbypass
+Summer 2025,2025-06-23,Fin Baxter,2002-02-12,11,wikipedia/rugbypass
+Summer 2025,2025-06-23,Trevor Davison,1992-08-20,2,wikipedia/rugbypass
+Summer 2025,2025-06-23,Joe Heyes,1999-04-13,12,wikipedia/rugbypass
+Summer 2025,2025-06-23,Emmanuel Iyogun,2000-11-24,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Asher Opoku-Fordjour,2004-07-16,1,wikipedia/rugbypass
+Summer 2025,2025-06-23,Bevan Rodd,2000-08-26,7,wikipedia/rugbypass
+Summer 2025,2025-06-23,Arthur Clark,2001-12-19,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Alex Coles,1999-09-21,7,wikipedia/rugbypass
+Summer 2025,2025-06-23,Charlie Ewels,1995-06-25,31,wikipedia/rugbypass
+Summer 2025,2025-06-23,Nick Isiekwe,1998-04-20,15,wikipedia/rugbypass
+Summer 2025,2025-06-23,Chandler Cunningham-South,2003-03-18,15,wikipedia/rugbypass
+Summer 2025,2025-06-23,Ben Curry,1998-06-15,11,wikipedia/rugbypass
+Summer 2025,2025-06-23,Alex Dombrandt,1997-04-29,20,wikipedia/rugbypass
+Summer 2025,2025-06-23,Ted Hill,1999-03-26,4,wikipedia/rugbypass
+Summer 2025,2025-06-23,Guy Pepper,2003-04-21,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Sam Underhill,1996-11-22,40,wikipedia/rugbypass
+Summer 2025,2025-06-23,Tom Willis,1999-01-18,6,wikipedia/rugbypass
+Summer 2025,2025-06-23,Harry Randall,1997-12-18,13,wikipedia/rugbypass
+Summer 2025,2025-06-23,Ben Spencer,1992-07-31,8,wikipedia/rugbypass
+Summer 2025,2025-06-23,Jack van Poortvliet,2001-05-15,18,wikipedia/rugbypass
+Summer 2025,2025-06-23,Charlie Atkinson,2001-10-06,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,George Ford,1993-03-16,99,wikipedia/rugbypass
+Summer 2025,2025-06-23,Seb Atkinson,2002-05-21,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Oscar Beard,2001-11-20,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Luke Northmore,1997-03-16,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Max Ojomoh,2000-09-14,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Henry Slade,1993-03-19,72,wikipedia/rugbypass
+Summer 2025,2025-06-23,Immanuel Feyi-Waboso,2002-12-20,8,wikipedia/rugbypass
+Summer 2025,2025-06-23,Will Muir,1995-10-30,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Cadan Murley,1999-01-31,1,wikipedia/rugbypass
+Summer 2025,2025-06-23,Tom Roebuck,2001-01-07,4,wikipedia/rugbypass
+Summer 2025,2025-06-23,Joe Carpenter,2001-08-19,0,wikipedia/rugbypass
+Summer 2025,2025-06-23,Freddie Steward,2000-12-05,36,wikipedia/rugbypass
+Autumn 2025,2025-10-13,Luke Cowan-Dickie,1993-06-20,49,derived_from_lineups
+Autumn 2025,2025-10-13,Theo Dan,2000-12-26,19,derived_from_lineups
+Autumn 2025,2025-10-13,Jamie George,1990-10-20,102,derived_from_lineups
+Autumn 2025,2025-10-13,Fin Baxter,2002-02-12,14,derived_from_lineups
+Autumn 2025,2025-10-13,Ellis Genge,1995-02-16,67,derived_from_lineups
+Autumn 2025,2025-10-13,Joe Heyes,1999-04-13,14,derived_from_lineups
+Autumn 2025,2025-10-13,Asher Opoku-Fordjour,2004-07-16,4,derived_from_lineups
+Autumn 2025,2025-10-13,Will Stuart,1996-07-12,50,derived_from_lineups
+Autumn 2025,2025-10-13,Ollie Chessum,2000-09-06,28,derived_from_lineups
+Autumn 2025,2025-10-13,Alex Coles,1999-09-21,10,derived_from_lineups
+Autumn 2025,2025-10-13,Nick Isiekwe,1998-04-20,15,derived_from_lineups
+Autumn 2025,2025-10-13,Maro Itoje,1994-10-28,93,derived_from_lineups
+Autumn 2025,2025-10-13,Chandler Cunningham-South,2003-03-18,18,derived_from_lineups
+Autumn 2025,2025-10-13,Tom Curry,1998-06-15,65,derived_from_lineups
+Autumn 2025,2025-10-13,Ben Earl,1998-01-07,42,derived_from_lineups
+Autumn 2025,2025-10-13,Jack Kenningham,1997-06-01,0,estimated
+Autumn 2025,2025-10-13,Guy Pepper,2003-04-21,3,derived_from_lineups
+Autumn 2025,2025-10-13,Henry Pollock,2005-01-14,1,derived_from_lineups
+Autumn 2025,2025-10-13,Sam Underhill,1996-11-22,42,derived_from_lineups
+Autumn 2025,2025-10-13,Alex Mitchell,1997-05-25,23,derived_from_lineups
+Autumn 2025,2025-10-13,Raffi Quirke,2001-09-01,0,estimated
+Autumn 2025,2025-10-13,Ben Spencer,1992-07-31,10,derived_from_lineups
+Autumn 2025,2025-10-13,George Ford,1993-03-16,102,derived_from_lineups
+Autumn 2025,2025-10-13,Fin Smith,2002-05-11,8,derived_from_lineups
+Autumn 2025,2025-10-13,Marcus Smith,1999-02-14,47,derived_from_lineups
+Autumn 2025,2025-10-13,Fraser Dingwall,1999-04-07,4,derived_from_lineups
+Autumn 2025,2025-10-13,Ollie Lawrence,1999-09-18,35,derived_from_lineups
+Autumn 2025,2025-10-13,Max Ojomoh,2000-09-14,1,derived_from_lineups
+Autumn 2025,2025-10-13,Henry Slade,1993-03-19,73,derived_from_lineups
+Autumn 2025,2025-10-13,Henry Arundell,2002-11-08,10,derived_from_lineups
+Autumn 2025,2025-10-13,Noah Caluori,2005-01-01,0,estimated
+Autumn 2025,2025-10-13,Immanuel Feyi-Waboso,2002-12-20,9,derived_from_lineups
+Autumn 2025,2025-10-13,Tommy Freeman,2001-03-05,21,derived_from_lineups
+Autumn 2025,2025-10-13,Cadan Murley,1999-01-31,4,derived_from_lineups
+Autumn 2025,2025-10-13,Tom Roebuck,2001-01-07,6,derived_from_lineups
+Autumn 2025,2025-10-13,Freddie Steward,2000-12-05,38,derived_from_lineups
+6N 2026,2026-01-23,Luke Cowan-Dickie,1993-06-20,53,wikipedia/rugbypass
+6N 2026,2026-01-23,Theo Dan,2000-12-26,20,wikipedia/rugbypass
+6N 2026,2026-01-23,Jamie George,1990-10-20,105,wikipedia/rugbypass
+6N 2026,2026-01-23,Trevor Davison,1992-08-20,3,wikipedia/rugbypass
+6N 2026,2026-01-23,Ellis Genge,1995-02-16,75,wikipedia/rugbypass
+6N 2026,2026-01-23,Joe Heyes,1999-04-13,17,wikipedia/rugbypass
+6N 2026,2026-01-23,Emmanuel Iyogun,2000-11-24,0,wikipedia/rugbypass
+6N 2026,2026-01-23,Bevan Rodd,2000-08-26,10,wikipedia/rugbypass
+6N 2026,2026-01-23,Vilikesa Sela,2005-04-12,0,wikipedia/rugbypass
+6N 2026,2026-01-23,Ollie Chessum,2000-09-06,30,wikipedia/rugbypass
+6N 2026,2026-01-23,Arthur Clark,2001-12-19,1,wikipedia/rugbypass
+6N 2026,2026-01-23,Alex Coles,1999-09-21,14,wikipedia/rugbypass
+6N 2026,2026-01-23,Maro Itoje,1994-10-28,97,wikipedia/rugbypass
+6N 2026,2026-01-23,Chandler Cunningham-South,2003-03-18,20,wikipedia/rugbypass
+6N 2026,2026-01-23,Tom Curry,1998-06-15,65,wikipedia/rugbypass
+6N 2026,2026-01-23,Ben Earl,1998-01-07,46,wikipedia/rugbypass
+6N 2026,2026-01-23,Greg Fisilau,2003-07-09,0,wikipedia/rugbypass
+6N 2026,2026-01-23,Guy Pepper,2003-04-21,7,wikipedia/rugbypass
+6N 2026,2026-01-23,Henry Pollock,2005-01-14,5,wikipedia/rugbypass
+6N 2026,2026-01-23,Sam Underhill,1996-11-22,45,wikipedia/rugbypass
+6N 2026,2026-01-23,Alex Mitchell,1997-05-25,27,wikipedia/rugbypass
+6N 2026,2026-01-23,Ben Spencer,1992-07-31,14,wikipedia/rugbypass
+6N 2026,2026-01-23,Jack van Poortvliet,2001-05-15,21,wikipedia/rugbypass
+6N 2026,2026-01-23,George Ford,1993-03-16,105,wikipedia/rugbypass
+6N 2026,2026-01-23,Marcus Smith,1999-02-14,46,wikipedia/rugbypass
+6N 2026,2026-01-23,Seb Atkinson,2002-05-21,2,wikipedia/rugbypass
+6N 2026,2026-01-23,Fraser Dingwall,1999-04-07,7,wikipedia/rugbypass
+6N 2026,2026-01-23,Max Ojomoh,2000-09-14,2,wikipedia/rugbypass
+6N 2026,2026-01-23,Henry Slade,1993-03-19,74,wikipedia/rugbypass
+6N 2026,2026-01-23,Henry Arundell,2002-11-08,11,wikipedia/rugbypass
+6N 2026,2026-01-23,Immanuel Feyi-Waboso,2002-12-20,13,wikipedia/rugbypass
+6N 2026,2026-01-23,Tommy Freeman,2001-03-05,22,wikipedia/rugbypass
+6N 2026,2026-01-23,Cadan Murley,1999-01-31,4,wikipedia/rugbypass
+6N 2026,2026-01-23,Elliot Daly,1992-10-08,74,wikipedia/rugbypass
+6N 2026,2026-01-23,George Furbank,1996-10-17,14,wikipedia/rugbypass
+6N 2026,2026-01-23,Freddie Steward,2000-12-05,41,wikipedia/rugbypass
+Summer NC 2026,2026-06-23,Jamie George,1990-10-20,110,derived_from_lineups
+Summer NC 2026,2026-06-23,Luke Cowan-Dickie,1993-06-20,58,derived_from_lineups
+Summer NC 2026,2026-06-23,Theo Dan,2000-12-26,20,derived_from_lineups
+Summer NC 2026,2026-06-23,Ellis Genge,1995-02-16,80,derived_from_lineups
+Summer NC 2026,2026-06-23,Joe Heyes,1999-04-13,22,derived_from_lineups
+Summer NC 2026,2026-06-23,George Kloska,2000-06-01,0,estimated
+Summer NC 2026,2026-06-23,Beno Obano,1996-09-03,4,derived_from_lineups
+Summer NC 2026,2026-06-23,Asher Opoku-Fordjour,2004-07-16,6,derived_from_lineups
+Summer NC 2026,2026-06-23,Vilikesa Sela,2005-04-12,0,derived_from_lineups
+Summer NC 2026,2026-06-23,Ollie Chessum,2000-09-06,35,derived_from_lineups
+Summer NC 2026,2026-06-23,Arthur Clark,2001-12-19,1,derived_from_lineups
+Summer NC 2026,2026-06-23,Alex Coles,1999-09-21,19,derived_from_lineups
+Summer NC 2026,2026-06-23,Charlie Ewels,1995-06-25,34,derived_from_lineups
+Summer NC 2026,2026-06-23,George Martin,2001-06-18,21,derived_from_lineups
+Summer NC 2026,2026-06-23,Tom Curry,1998-06-15,66,derived_from_lineups
+Summer NC 2026,2026-06-23,Ben Earl,1998-01-07,51,derived_from_lineups
+Summer NC 2026,2026-06-23,Greg Fisilau,2003-07-09,0,derived_from_lineups
+Summer NC 2026,2026-06-23,Ted Hill,1999-03-26,5,derived_from_lineups
+Summer NC 2026,2026-06-23,Guy Pepper,2003-04-21,12,derived_from_lineups
+Summer NC 2026,2026-06-23,Henry Pollock,2005-01-14,10,derived_from_lineups
+Summer NC 2026,2026-06-23,Alex Mitchell,1997-05-25,30,derived_from_lineups
+Summer NC 2026,2026-06-23,Ben Spencer,1992-07-31,18,derived_from_lineups
+Summer NC 2026,2026-06-23,Jack van Poortvliet,2001-05-15,24,derived_from_lineups
+Summer NC 2026,2026-06-23,George Ford,1993-03-16,108,derived_from_lineups
+Summer NC 2026,2026-06-23,Benhard Janse van Rensburg,2001-06-01,0,estimated
+Summer NC 2026,2026-06-23,Fin Smith,2002-05-11,16,derived_from_lineups
+Summer NC 2026,2026-06-23,Marcus Smith,1999-02-14,48,derived_from_lineups
+Summer NC 2026,2026-06-23,Seb Atkinson,2002-05-21,4,derived_from_lineups
+Summer NC 2026,2026-06-23,Noah Caluori,2005-01-01,2,estimated
+Summer NC 2026,2026-06-23,Max Ojomoh,2000-09-14,2,derived_from_lineups
+Summer NC 2026,2026-06-23,Henry Slade,1993-03-19,74,derived_from_lineups
+Summer NC 2026,2026-06-23,Immanuel Feyi-Waboso,2002-12-20,13,derived_from_lineups
+Summer NC 2026,2026-06-23,Tommy Freeman,2001-03-05,27,derived_from_lineups
+Summer NC 2026,2026-06-23,Cadan Murley,1999-01-31,6,derived_from_lineups
+Summer NC 2026,2026-06-23,George Furbank,1996-10-17,14,derived_from_lineups
+Summer NC 2026,2026-06-23,Freddie Steward,2000-12-05,44,derived_from_lineups

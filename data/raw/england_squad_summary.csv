@@ -1,0 +1,11 @@
+squad_id,date,n_players,median_caps,avg_caps,median_age,avg_age,caps_source
+6N 2023,2023-01-16,36,13.5,29.2,26.0,26.9,wikipedia/rugbypass
+RWC 2023,2023-08-14,33,27,43.5,27.7,28.3,derived_from_lineups
+6N 2024,2024-01-17,36,13.0,28.6,26.4,27.0,wikipedia/rugbypass
+Summer 2024,2024-06-10,38,8.5,22.2,26.0,26.3,wikipedia/rugbypass
+Autumn 2024,2024-10-07,36,16.0,30.9,26.6,27.1,wikipedia/rugbypass
+6N 2025,2025-01-14,36,16.0,27.1,25.8,26.3,wikipedia/rugbypass
+Summer 2025,2025-06-23,36,7.0,15.6,26.0,26.4,wikipedia/rugbypass
+Autumn 2025,2025-10-13,36,16.5,28.5,26.3,26.6,derived_from_lineups
+6N 2026,2026-01-23,36,18.5,30.3,26.6,27.2,wikipedia/rugbypass
+Summer NC 2026,2026-06-23,36,18.5,27.3,25.9,26.9,derived_from_lineups
