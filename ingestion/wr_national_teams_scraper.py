@@ -45,7 +45,7 @@ TEAM_IDS = {
     "41": "italy",
 }
 
-SLEEP = 0.25
+SLEEP = 1.0
 CLIENT = httpx.Client(timeout=30.0)
 
 
@@ -102,9 +102,17 @@ def fetch_bulk():
     print(f"bulk fetch done, api calls={total_calls}")
 
 
+def _bulk_sort_key(filename: str) -> tuple[int, int]:
+    # page_N.json -> (1, N); page_pre2019_N.json -> (0, N), sorting before the main range
+    parts = filename.split("_")
+    if parts[1] == "pre2019":
+        return (0, int(parts[2].split(".")[0]))
+    return (1, int(parts[1].split(".")[0]))
+
+
 def load_bulk():
     matches = []
-    files = sorted(os.listdir(BULK_CACHE), key=lambda x: int(x.split("_")[1].split(".")[0]))
+    files = sorted(os.listdir(BULK_CACHE), key=_bulk_sort_key)
     for fn in files:
         with open(os.path.join(BULK_CACHE, fn)) as f:
             d = json.load(f)
