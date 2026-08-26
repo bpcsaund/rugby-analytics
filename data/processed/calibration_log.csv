@@ -1,0 +1,2 @@
+logged_at,match_date,home_team,away_team,elo_home,elo_away,elo_win_prob,pred_home_score,pred_away_score,pred_margin,market_margin,used_squad_data,used_lineup_data,actual_home_score,actual_away_score,actual_margin
+2026-08-26T21:39:30+00:00,2026-08-29,south_africa,new_zealand,1997.1,1983.8,0.5191,26.4,21.9,4.5,7.0,False,False,,,

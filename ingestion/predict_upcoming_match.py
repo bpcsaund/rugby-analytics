@@ -15,19 +15,29 @@ line per starter, shirts 1-15) once the starting XV is named, to compute real
 positional-combination experience (front row, locks, half-backs, etc. -- see
 COMBOS in build_intl_match_dataset.py) instead of a training-set median.
 
+Calibration log: pass --log (optionally with --market-line, the home team's
+expected winning margin per the betting market -- e.g. "South Africa -7"
+becomes --market-line 7) to append this prediction to
+data/processed/calibration_log.csv. Run reconcile_calibration_log.py after the
+fixture is played to fill in the actual result and see how our projection and
+the market compare once results accumulate.
+
 Usage:
     .venv/bin/python3 ingestion/predict_upcoming_match.py \
         --home south_africa --away new_zealand --date 2026-08-29
 
-    # once teams/lineups are named:
+    # once teams/lineups are named, logging the prediction for later calibration:
     .venv/bin/python3 ingestion/predict_upcoming_match.py \
         --home south_africa --away new_zealand --date 2026-08-29 \
         --home-squad sa_squad.txt --away-squad nz_squad.txt \
-        --home-lineup sa_lineup.txt --away-lineup nz_lineup.txt
+        --home-lineup sa_lineup.txt --away-lineup nz_lineup.txt \
+        --market-line 7 --log
 """
 
 import argparse
+import csv
 import difflib
+from datetime import datetime, timezone
 from pathlib import Path
 
 import numpy as np
@@ -37,6 +47,15 @@ from sklearn.linear_model import Ridge
 from build_intl_match_dataset import (
     RAW_DIR, TEAMS, build_rows_and_state, combo_snapshot, snapshot,
 )
+
+LOG_PATH = Path(__file__).resolve().parent.parent / "data" / "processed" / "calibration_log.csv"
+LOG_FIELDS = [
+    "logged_at", "match_date", "home_team", "away_team",
+    "elo_home", "elo_away", "elo_win_prob",
+    "pred_home_score", "pred_away_score", "pred_margin",
+    "market_margin", "used_squad_data", "used_lineup_data",
+    "actual_home_score", "actual_away_score", "actual_margin",
+]
 
 FEATURE_ORDER = [
     "elo_diff", "form5_home", "form5_away", "pdiff5_home", "pdiff5_away",
@@ -106,6 +125,9 @@ def main():
     ap.add_argument("--away-squad", type=Path, help="text file, one player name per line")
     ap.add_argument("--home-lineup", type=Path, help="text file, 'shirt,name' per line (shirts 1-15)")
     ap.add_argument("--away-lineup", type=Path, help="text file, 'shirt,name' per line (shirts 1-15)")
+    ap.add_argument("--market-line", type=float,
+                     help="home team's expected winning margin per the market (e.g. 'home -7' -> 7)")
+    ap.add_argument("--log", action="store_true", help="append this prediction to data/processed/calibration_log.csv")
     args = ap.parse_args()
 
     match_date = pd.Timestamp(args.date)
@@ -185,6 +207,31 @@ def main():
 
     p_elo = elo_win_prob(feat["elo_diff"])
     print(f"\nFor reference, Elo-implied home-win probability: {p_elo:.1%}")
+
+    if args.market_line is not None:
+        print(f"Market line: {args.home} favored by {args.market_line:+.1f} (our margin: {margin:+.1f})")
+
+    if args.log:
+        log_row = dict(
+            logged_at=datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            match_date=args.date, home_team=args.home, away_team=args.away,
+            elo_home=round(snap_home["elo"], 1), elo_away=round(snap_away["elo"], 1),
+            elo_win_prob=round(p_elo, 4),
+            pred_home_score=round(pred_home_score, 1), pred_away_score=round(pred_away_score, 1),
+            pred_margin=round(margin, 1),
+            market_margin=args.market_line,
+            used_squad_data=bool(args.home_squad or args.away_squad),
+            used_lineup_data=bool(args.home_lineup or args.away_lineup),
+            actual_home_score="", actual_away_score="", actual_margin="",
+        )
+        write_header = not LOG_PATH.exists()
+        LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+        with open(LOG_PATH, "a", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=LOG_FIELDS)
+            if write_header:
+                writer.writeheader()
+            writer.writerow(log_row)
+        print(f"\nLogged to {LOG_PATH} -- run reconcile_calibration_log.py after the match to fill in the result.")
 
 
 if __name__ == "__main__":
