@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every Monday 06:00 UTC -- catches regressions even between pushes
+    # (e.g. a data file edited by hand, or a dependency update).
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pandas numpy scikit-learn xgboost
+
+      - name: Build international match dataset
+        run: python3 ingestion/build_intl_match_dataset.py
+
+      - name: Sanity-check the dataset
+        run: python3 ingestion/ci_sanity_checks.py
+
+      - name: Backtest classification models
+        run: python3 ingestion/train_intl_baseline.py
+
+      - name: Backtest score regression models
+        run: python3 ingestion/train_intl_score_regression.py
+
+      - name: Smoke-test the live predictor
+        run: python3 ingestion/predict_upcoming_match.py --home south_africa --away new_zealand --date 2026-08-29
+
+      - name: Reconcile calibration log (no-op if nothing new)
+        run: python3 ingestion/reconcile_calibration_log.py
