@@ -149,6 +149,25 @@ def load_team_events(team: str) -> list[dict]:
     return events
 
 
+def load_cards_lookup() -> dict:
+    """(team, date, normalized_opposition) -> weighted card score (yellow + 2*red) for that match."""
+    path = RAW_DIR / "match_cards.csv"
+    if not path.exists():
+        return {}
+    df = pd.read_csv(path, dtype=str)
+    lookup = {}
+    for _, row in df.iterrows():
+        date = pd.to_datetime(row["date"], dayfirst=True, errors="coerce")
+        if pd.isna(date):
+            continue
+        key = (row["team"], date, normalize(row["opposition"]))
+        try:
+            lookup[key] = float(row["yellow_cards"]) + 2 * float(row["red_cards"])
+        except (TypeError, ValueError):
+            continue
+    return lookup
+
+
 def load_age_lookup() -> dict:
     """(team, date, normalized_opposition) -> full_squad_avg_age"""
     df = pd.read_csv(RAW_DIR / "team_age_summary.csv", dtype=str)
@@ -240,6 +259,7 @@ def new_state() -> dict:
         elo=defaultdict(lambda: 1500.0),
         recent_results=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),   # 1/0.5/0
         recent_point_diff=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),
+        recent_cards=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),   # only matches with known card data
         last_match_date={},
         last_irb={},
         coach_state={},   # team -> (coach_code, games_played_under_coach)
@@ -282,10 +302,12 @@ def snapshot(state: dict, team: str, date) -> dict:
     coach_code, tenure = state["coach_state"].get(team, (None, 0))
     recent_results = state["recent_results"][team]
     recent_point_diff = state["recent_point_diff"][team]
+    recent_cards = state["recent_cards"][team]
     return dict(
         elo=state["elo"][team],
         form5=(sum(recent_results) / len(recent_results)) if recent_results else float("nan"),
         pdiff5=(sum(recent_point_diff) / len(recent_point_diff)) if recent_point_diff else float("nan"),
+        cards5=(sum(recent_cards) / len(recent_cards)) if recent_cards else float("nan"),
         rest_days=(date - state["last_match_date"][team]).days if team in state["last_match_date"] else float("nan"),
         rank_prev=state["last_irb"].get(team, float("nan")),
         coach_tenure=tenure,
@@ -293,13 +315,16 @@ def snapshot(state: dict, team: str, date) -> dict:
     )
 
 
-def advance(state: dict, team: str, date, result: str, point_diff: float, coach_code: str, own_irb: float):
+def advance(state: dict, team: str, date, result: str, point_diff: float, coach_code: str, own_irb: float,
+            card_score: float | None = None):
     prev_coach, tenure = state["coach_state"].get(team, (None, 0))
     if coach_code and coach_code != prev_coach:
         tenure = 0
     state["coach_state"][team] = (coach_code or prev_coach, tenure + 1)
     state["recent_results"][team].append(1.0 if result == "w" else 0.5 if result == "d" else 0.0)
     state["recent_point_diff"][team].append(point_diff)
+    if card_score is not None:
+        state["recent_cards"][team].append(card_score)
     state["last_match_date"][team] = date
     if not pd.isna(own_irb):
         state["last_irb"][team] = own_irb
@@ -321,6 +346,7 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
     if asof is not None:
         matches = [m for m in matches if m["date"] <= asof]
     age_lookup = load_age_lookup()
+    cards_lookup = load_cards_lookup()
     state = new_state()
     elo = state["elo"]
 
@@ -332,7 +358,8 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
             result = "w" if m["points_for"] > m["points_against"] else ("d" if m["points_for"] == m["points_against"] else "l")
             is_home = m["home_away"] == "h"
             update_elo(elo, team, opp, m["points_for"], m["points_against"], a_is_home=is_home)
-            advance(state, team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"])
+            card_score = cards_lookup.get((team, date, opp))
+            advance(state, team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"], card_score)
             combo_advance(state, team, m["lineup"])
             continue
 
@@ -364,13 +391,16 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
             combo_min_home=combo_home["combo_min"], combo_min_away=combo_away["combo_min"],
             **{f"combo_{name}_home": combo_home[name] for name in COMBOS},
             **{f"combo_{name}_away": combo_away[name] for name in COMBOS},
+            cards5_home=snap_home["cards5"], cards5_away=snap_away["cards5"],
         ))
 
         # advance both sides' state after snapshotting
         update_elo(elo, home, away, m["home_score"], m["away_score"], a_is_home=True)
-        advance(state, home, date, home_result, m["home_score"] - m["away_score"], m["home_coach"], m["home_irb"])
+        card_home = cards_lookup.get((home, date, away))
+        card_away = cards_lookup.get((away, date, home))
+        advance(state, home, date, home_result, m["home_score"] - m["away_score"], m["home_coach"], m["home_irb"], card_home)
         advance(state, away, date, "l" if home_result == "w" else ("d" if home_result == "d" else "w"),
-                m["away_score"] - m["home_score"], m["away_coach"], m["away_irb"])
+                m["away_score"] - m["home_score"], m["away_coach"], m["away_irb"], card_away)
         combo_advance(state, home, m["home_lineup"])
         combo_advance(state, away, m["away_lineup"])
 
