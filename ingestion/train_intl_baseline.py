@@ -25,6 +25,7 @@ FEATURES = [
     "elo_diff", "form5_home", "form5_away", "pdiff5_home", "pdiff5_away",
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
+    "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
 ]
 
 

@@ -22,6 +22,7 @@ import math
 from collections import defaultdict, deque
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 
 RAW_DIR = Path(__file__).resolve().parent.parent / "data" / "raw" / "sheets_export"
@@ -54,6 +55,20 @@ ALIASES = {
 HOME_ADV = 60          # Elo points of home advantage baked into expected score
 K_BASE = 20            # base Elo K-factor
 FORM_WINDOW = 5        # matches for rolling form/point-diff features
+
+# Positional combinations tracked for "experience playing together" -- shirt
+# numbers follow standard rugby positional numbering (1=loosehead prop ...
+# 15=fullback), which is consistent across all matches in these CSVs.
+COMBOS = {
+    "front_row": (1, 2, 3),
+    "locks": (4, 5),
+    "back_row": (6, 7, 8),
+    "lineout_unit": (2, 4, 5, 8),
+    "halfbacks": (9, 10),
+    "inside_backs": (10, 12, 13),
+    "back_three": (11, 14, 15),
+    "spine": (2, 4, 5, 8, 9, 10, 12, 15),
+}
 
 
 def normalize(name: str) -> str:
@@ -112,6 +127,12 @@ def load_team_events(team: str) -> list[dict]:
         if test_flag == "no":
             continue
 
+        lineup = {}
+        for shirt in range(1, 16):
+            name = safe_str(row.get(str(shirt))).lower()
+            if name:
+                lineup[shirt] = name
+
         events.append(dict(
             date=date,
             team=team,
@@ -123,6 +144,7 @@ def load_team_events(team: str) -> list[dict]:
             tournament=safe_str(row.get(col_tournament)).lower() if col_tournament else "",
             coach=safe_str(row.get(col_coach)).lower() if col_coach else "",
             own_irb=pd.to_numeric(row.get(col_own_irb), errors="coerce") if col_own_irb else float("nan"),
+            lineup=lineup,
         ))
     return events
 
@@ -180,6 +202,7 @@ def dedupe_events(all_events: list[dict]) -> list[dict]:
             tournament=home["tournament"] or away["tournament"],
             home_coach=home["coach"], away_coach=away["coach"],
             home_irb=home["own_irb"], away_irb=away["own_irb"],
+            home_lineup=home["lineup"], away_lineup=away["lineup"],
         ))
     for ev in singles:
         matches.append(dict(
@@ -187,7 +210,7 @@ def dedupe_events(all_events: list[dict]) -> list[dict]:
             team=ev["team"], opponent=ev["opponent"],
             points_for=ev["points_for"], points_against=ev["points_against"],
             home_away=ev["home_away"], tournament=ev["tournament"],
-            coach=ev["coach"], own_irb=ev["own_irb"],
+            coach=ev["coach"], own_irb=ev["own_irb"], lineup=ev["lineup"],
         ))
     matches.sort(key=lambda m: m["date"])
     return matches
@@ -211,44 +234,95 @@ def update_elo(elo: dict, team_a: str, team_b: str, score_a: float, score_b: flo
     elo[team_b] = rb - delta
 
 
-def main():
+def new_state() -> dict:
+    """Fresh per-team state used while walking matches in chronological order."""
+    return dict(
+        elo=defaultdict(lambda: 1500.0),
+        recent_results=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),   # 1/0.5/0
+        recent_point_diff=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),
+        last_match_date={},
+        last_irb={},
+        coach_state={},   # team -> (coach_code, games_played_under_coach)
+        games_played=defaultdict(int),
+        # team -> combo_name -> {frozenset(player names): times started together before now}
+        combo_counts=defaultdict(lambda: defaultdict(lambda: defaultdict(int))),
+    )
+
+
+def combo_snapshot(state: dict, team: str, lineup: dict) -> dict:
+    """
+    Prior-appearances-together count for each tracked combo, given `lineup`
+    (shirt number -> player name). NaN for a combo if any required shirt is
+    missing from the lineup (partial/legacy data).
+    """
+    counts = {}
+    for combo_name, shirts in COMBOS.items():
+        if not all(s in lineup for s in shirts):
+            counts[combo_name] = float("nan")
+            continue
+        group = frozenset(lineup[s] for s in shirts)
+        counts[combo_name] = state["combo_counts"][team][combo_name][group]
+    valid = [v for v in counts.values() if not pd.isna(v)]
+    counts["combo_avg"] = float(np.mean(valid)) if valid else float("nan")
+    counts["combo_min"] = float(np.min(valid)) if valid else float("nan")
+    return counts
+
+
+def combo_advance(state: dict, team: str, lineup: dict):
+    """Record this match's combos as having been played, for future lookups."""
+    for combo_name, shirts in COMBOS.items():
+        if not all(s in lineup for s in shirts):
+            continue
+        group = frozenset(lineup[s] for s in shirts)
+        state["combo_counts"][team][combo_name][group] += 1
+
+
+def snapshot(state: dict, team: str, date) -> dict:
+    """Pre-match feature snapshot for `team` as of (but not including) `date`."""
+    coach_code, tenure = state["coach_state"].get(team, (None, 0))
+    recent_results = state["recent_results"][team]
+    recent_point_diff = state["recent_point_diff"][team]
+    return dict(
+        elo=state["elo"][team],
+        form5=(sum(recent_results) / len(recent_results)) if recent_results else float("nan"),
+        pdiff5=(sum(recent_point_diff) / len(recent_point_diff)) if recent_point_diff else float("nan"),
+        rest_days=(date - state["last_match_date"][team]).days if team in state["last_match_date"] else float("nan"),
+        rank_prev=state["last_irb"].get(team, float("nan")),
+        coach_tenure=tenure,
+        n_hist=state["games_played"][team],
+    )
+
+
+def advance(state: dict, team: str, date, result: str, point_diff: float, coach_code: str, own_irb: float):
+    prev_coach, tenure = state["coach_state"].get(team, (None, 0))
+    if coach_code and coach_code != prev_coach:
+        tenure = 0
+    state["coach_state"][team] = (coach_code or prev_coach, tenure + 1)
+    state["recent_results"][team].append(1.0 if result == "w" else 0.5 if result == "d" else 0.0)
+    state["recent_point_diff"][team].append(point_diff)
+    state["last_match_date"][team] = date
+    if not pd.isna(own_irb):
+        state["last_irb"][team] = own_irb
+    state["games_played"][team] += 1
+
+
+def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], dict]:
+    """
+    Walk every tracked team's match history in chronological order (optionally
+    capped at `asof`), emitting a training row per tracked-vs-tracked match and
+    returning the final per-team state (Elo, form, rest, coach tenure, etc.) as
+    of the last processed match -- the same state a pre-match prediction for
+    the *next* fixture would snapshot from.
+    """
     all_events = []
     for team in TEAMS:
         all_events.extend(load_team_events(team))
     matches = dedupe_events(all_events)
+    if asof is not None:
+        matches = [m for m in matches if m["date"] <= asof]
     age_lookup = load_age_lookup()
-
-    elo = defaultdict(lambda: 1500.0)
-    recent_results = defaultdict(lambda: deque(maxlen=FORM_WINDOW))   # 1/0.5/0
-    recent_point_diff = defaultdict(lambda: deque(maxlen=FORM_WINDOW))
-    last_match_date = {}
-    last_irb = {}
-    coach_state = {}   # team -> (coach_code, games_played_under_coach)
-    games_played = defaultdict(int)
-
-    def snapshot(team: str, date) -> dict:
-        coach_code, tenure = coach_state.get(team, (None, 0))
-        return dict(
-            elo=elo[team],
-            form5=(sum(recent_results[team]) / len(recent_results[team])) if recent_results[team] else float("nan"),
-            pdiff5=(sum(recent_point_diff[team]) / len(recent_point_diff[team])) if recent_point_diff[team] else float("nan"),
-            rest_days=(date - last_match_date[team]).days if team in last_match_date else float("nan"),
-            rank_prev=last_irb.get(team, float("nan")),
-            coach_tenure=tenure,
-            n_hist=games_played[team],
-        )
-
-    def advance(team: str, date, result: str, point_diff: float, coach_code: str, own_irb: float):
-        prev_coach, tenure = coach_state.get(team, (None, 0))
-        if coach_code and coach_code != prev_coach:
-            tenure = 0
-        coach_state[team] = (coach_code or prev_coach, tenure + 1)
-        recent_results[team].append(1.0 if result == "w" else 0.5 if result == "d" else 0.0)
-        recent_point_diff[team].append(point_diff)
-        last_match_date[team] = date
-        if not pd.isna(own_irb):
-            last_irb[team] = own_irb
-        games_played[team] += 1
+    state = new_state()
+    elo = state["elo"]
 
     rows = []
     for m in matches:
@@ -258,12 +332,15 @@ def main():
             result = "w" if m["points_for"] > m["points_against"] else ("d" if m["points_for"] == m["points_against"] else "l")
             is_home = m["home_away"] == "h"
             update_elo(elo, team, opp, m["points_for"], m["points_against"], a_is_home=is_home)
-            advance(team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"])
+            advance(state, team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"])
+            combo_advance(state, team, m["lineup"])
             continue
 
         home, away = m["home_team"], m["away_team"]
-        snap_home = snapshot(home, date)
-        snap_away = snapshot(away, date)
+        snap_home = snapshot(state, home, date)
+        snap_away = snapshot(state, away, date)
+        combo_home = combo_snapshot(state, home, m["home_lineup"])
+        combo_away = combo_snapshot(state, away, m["away_lineup"])
         age_home = age_lookup.get((home, date, away))
         age_away = age_lookup.get((away, date, home))
 
@@ -283,14 +360,25 @@ def main():
             coach_tenure_home=snap_home["coach_tenure"], coach_tenure_away=snap_away["coach_tenure"],
             avg_age_home=age_home, avg_age_away=age_away,
             n_hist_home=snap_home["n_hist"], n_hist_away=snap_away["n_hist"],
+            combo_avg_home=combo_home["combo_avg"], combo_avg_away=combo_away["combo_avg"],
+            combo_min_home=combo_home["combo_min"], combo_min_away=combo_away["combo_min"],
+            **{f"combo_{name}_home": combo_home[name] for name in COMBOS},
+            **{f"combo_{name}_away": combo_away[name] for name in COMBOS},
         ))
 
         # advance both sides' state after snapshotting
         update_elo(elo, home, away, m["home_score"], m["away_score"], a_is_home=True)
-        advance(home, date, home_result, m["home_score"] - m["away_score"], m["home_coach"], m["home_irb"])
-        advance(away, date, "l" if home_result == "w" else ("d" if home_result == "d" else "w"),
+        advance(state, home, date, home_result, m["home_score"] - m["away_score"], m["home_coach"], m["home_irb"])
+        advance(state, away, date, "l" if home_result == "w" else ("d" if home_result == "d" else "w"),
                 m["away_score"] - m["home_score"], m["away_coach"], m["away_irb"])
+        combo_advance(state, home, m["home_lineup"])
+        combo_advance(state, away, m["away_lineup"])
 
+    return rows, state
+
+
+def main():
+    rows, _ = build_rows_and_state()
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUT_PATH, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
