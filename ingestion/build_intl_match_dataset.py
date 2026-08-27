@@ -226,15 +226,24 @@ def dedupe_events(all_events: list[dict]) -> list[dict]:
             singles.append(evs[0])
             continue
         a, b = evs[0], evs[1]
-        if a["home_away"] == "h" and b["home_away"] != "h":
-            home, away = a, b
-        elif b["home_away"] == "h" and a["home_away"] != "h":
-            home, away = b, a
+        ha_a, ha_b = a["home_away"], b["home_away"]
+        neutral = False
+        if (ha_a == "h") != (ha_b == "h"):
+            # exactly one side says home -- trust it
+            home, away = (a, b) if ha_a == "h" else (b, a)
+        elif (ha_a == "a") != (ha_b == "a"):
+            # exactly one side says away -- the *other* side was therefore home
+            # (this recovers matches where one sheet has a wrong 'n'/'ne' marker)
+            home, away = (b, a) if ha_a == "a" else (a, b)
         else:
-            # both marked away/neutral (World Cup etc.) -- pick alphabetically
+            # both non-home / both non-away / both the same -- a genuine neutral
+            # venue (World Cup etc.) or an unresolvable clash. Pick a stable
+            # "home" alphabetically but flag it so home advantage and the
+            # venue-split form/streak features aren't updated on a fiction.
             home, away = sorted((a, b), key=lambda e: e["team"])
+            neutral = True
         matches.append(dict(
-            date=date, kind="pair",
+            date=date, kind="pair", neutral=neutral,
             home_team=home["team"], away_team=away["team"],
             home_score=home["points_for"], away_score=home["points_against"],
             tournament=home["tournament"] or away["tournament"],
@@ -259,9 +268,10 @@ def mov_multiplier(point_diff: float, elo_diff_winner: float) -> float:
     return math.log(abs(point_diff) + 1) * (2.2 / (elo_diff_winner * 0.001 + 2.2))
 
 
-def update_elo(elo: dict, team_a: str, team_b: str, score_a: float, score_b: float, a_is_home: bool):
+def update_elo(elo: dict, team_a: str, team_b: str, score_a: float, score_b: float, a_is_home: bool,
+               neutral: bool = False):
     ra, rb = elo[team_a], elo[team_b]
-    home_bonus = HOME_ADV if a_is_home else -HOME_ADV if not a_is_home else 0
+    home_bonus = 0 if neutral else (HOME_ADV if a_is_home else -HOME_ADV)
     exp_a = 1 / (1 + 10 ** (-((ra + home_bonus) - rb) / 400))
     actual_a = 0.5 if score_a == score_b else (1.0 if score_a > score_b else 0.0)
     winner_elo_diff = abs(ra - rb) if score_a != score_b else 0
@@ -279,6 +289,15 @@ def new_state() -> dict:
         recent_results=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),   # 1/0.5/0
         recent_point_diff=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),
         recent_cards=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),   # only matches with known card data
+        # venue-split rolling form: a team's last FORM_WINDOW *home* (resp. *away*)
+        # results only, plus a signed run-length at that venue type: +n for n
+        # straight wins, -n for n straight losses, 0 after a draw / no history
+        recent_results_home=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),
+        recent_results_away=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),
+        venue_loss_streak_home=defaultdict(int),
+        venue_loss_streak_away=defaultdict(int),
+        # rolling results in matches where the opponent's pre-match Elo was higher
+        recent_vs_stronger=defaultdict(lambda: deque(maxlen=FORM_WINDOW)),
         last_match_date={},
         last_irb={},
         coach_state={},   # team -> (coach_code, games_played_under_coach)
@@ -316,12 +335,30 @@ def combo_advance(state: dict, team: str, lineup: dict):
         state["combo_counts"][team][combo_name][group] += 1
 
 
-def snapshot(state: dict, team: str, date) -> dict:
-    """Pre-match feature snapshot for `team` as of (but not including) `date`."""
+def snapshot(state: dict, team: str, date, is_home: bool | None = None) -> dict:
+    """
+    Pre-match feature snapshot for `team` as of (but not including) `date`.
+
+    `is_home` selects the venue-split features: pass True when `team` will be
+    the home side in the upcoming match, False when the away side, None (the
+    default) at a genuinely neutral venue -- those come back as NaN / 0.
+    """
     coach_code, tenure = state["coach_state"].get(team, (None, 0))
     recent_results = state["recent_results"][team]
     recent_point_diff = state["recent_point_diff"][team]
     recent_cards = state["recent_cards"][team]
+
+    if is_home is True:
+        venue_form = state["recent_results_home"][team]
+        venue_streak = state["venue_loss_streak_home"][team]
+    elif is_home is False:
+        venue_form = state["recent_results_away"][team]
+        venue_streak = state["venue_loss_streak_away"][team]
+    else:
+        venue_form, venue_streak = (), float("nan")
+
+    vs_stronger = state["recent_vs_stronger"][team]
+
     return dict(
         elo=state["elo"][team],
         form5=(sum(recent_results) / len(recent_results)) if recent_results else float("nan"),
@@ -331,19 +368,35 @@ def snapshot(state: dict, team: str, date) -> dict:
         rank_prev=state["last_irb"].get(team, float("nan")),
         coach_tenure=tenure,
         n_hist=state["games_played"][team],
+        venue_form5=(sum(venue_form) / len(venue_form)) if venue_form else float("nan"),
+        venue_loss_streak=venue_streak,
+        form_vs_stronger=(sum(vs_stronger) / len(vs_stronger)) if vs_stronger else float("nan"),
     )
 
 
 def advance(state: dict, team: str, date, result: str, point_diff: float, coach_code: str, own_irb: float,
-            card_score: float | None = None):
+            card_score: float | None = None, is_home: bool | None = None, opp_stronger: bool | None = None):
     prev_coach, tenure = state["coach_state"].get(team, (None, 0))
     if coach_code and coach_code != prev_coach:
         tenure = 0
     state["coach_state"][team] = (coach_code or prev_coach, tenure + 1)
-    state["recent_results"][team].append(1.0 if result == "w" else 0.5 if result == "d" else 0.0)
+    result_score = 1.0 if result == "w" else 0.5 if result == "d" else 0.0
+    state["recent_results"][team].append(result_score)
     state["recent_point_diff"][team].append(point_diff)
     if card_score is not None:
         state["recent_cards"][team].append(card_score)
+    # venue-split form + a consecutive-loss counter at this venue type (a win or
+    # draw resets it to 0). Backtests found the loss run predictive but a signed
+    # win/loss run-length noisier than plain Elo -- see git history. Neutral
+    # venues update neither.
+    if is_home is True:
+        state["recent_results_home"][team].append(result_score)
+        state["venue_loss_streak_home"][team] = state["venue_loss_streak_home"][team] + 1 if result == "l" else 0
+    elif is_home is False:
+        state["recent_results_away"][team].append(result_score)
+        state["venue_loss_streak_away"][team] = state["venue_loss_streak_away"][team] + 1 if result == "l" else 0
+    if opp_stronger:
+        state["recent_vs_stronger"][team].append(result_score)
     state["last_match_date"][team] = date
     if not pd.isna(own_irb):
         state["last_irb"][team] = own_irb
@@ -376,16 +429,24 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
         if m["kind"] == "single":
             team, opp = m["team"], m["opponent"]
             result = "w" if m["points_for"] > m["points_against"] else ("d" if m["points_for"] == m["points_against"] else "l")
-            is_home = m["home_away"] == "h"
-            update_elo(elo, team, opp, m["points_for"], m["points_against"], a_is_home=is_home)
+            ha = m["home_away"]
+            is_home = True if ha == "h" else (False if ha == "a" else None)
+            neutral = is_home is None
+            opp_stronger = elo[opp] > elo[team]
+            update_elo(elo, team, opp, m["points_for"], m["points_against"],
+                       a_is_home=(is_home is True), neutral=neutral)
             card_score = cards_lookup.get((team, date, opp))
-            advance(state, team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"], card_score)
+            advance(state, team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"],
+                    card_score, is_home=is_home, opp_stronger=opp_stronger)
             combo_advance(state, team, m["lineup"])
             continue
 
         home, away = m["home_team"], m["away_team"]
-        snap_home = snapshot(state, home, date)
-        snap_away = snapshot(state, away, date)
+        home_is_home = None if m["neutral"] else True
+        away_is_home = None if m["neutral"] else False
+        home_stronger_than_away = elo[home] > elo[away]
+        snap_home = snapshot(state, home, date, is_home=home_is_home)
+        snap_away = snapshot(state, away, date, is_home=away_is_home)
         combo_home = combo_snapshot(state, home, m["home_lineup"])
         combo_away = combo_snapshot(state, away, m["away_lineup"])
         age_home = age_lookup.get((home, date, away))
@@ -402,7 +463,11 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
             result=home_result,
             elo_home=round(snap_home["elo"], 1), elo_away=round(snap_away["elo"], 1),
             elo_diff=round(snap_home["elo"] - snap_away["elo"], 1),
+            neutral=int(m["neutral"]),
             form5_home=snap_home["form5"], form5_away=snap_away["form5"],
+            venue_form5_home=snap_home["venue_form5"], venue_form5_away=snap_away["venue_form5"],
+            venue_loss_streak_home=snap_home["venue_loss_streak"], venue_loss_streak_away=snap_away["venue_loss_streak"],
+            form_vs_stronger_home=snap_home["form_vs_stronger"], form_vs_stronger_away=snap_away["form_vs_stronger"],
             pdiff5_home=snap_home["pdiff5"], pdiff5_away=snap_away["pdiff5"],
             rest_days_home=snap_home["rest_days"], rest_days_away=snap_away["rest_days"],
             rank_prev_home=snap_home["rank_prev"], rank_prev_away=snap_away["rank_prev"],
@@ -418,12 +483,14 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
         ))
 
         # advance both sides' state after snapshotting
-        update_elo(elo, home, away, m["home_score"], m["away_score"], a_is_home=True)
+        update_elo(elo, home, away, m["home_score"], m["away_score"], a_is_home=True, neutral=m["neutral"])
         card_home = cards_lookup.get((home, date, away))
         card_away = cards_lookup.get((away, date, home))
-        advance(state, home, date, home_result, m["home_score"] - m["away_score"], m["home_coach"], m["home_irb"], card_home)
+        advance(state, home, date, home_result, m["home_score"] - m["away_score"], m["home_coach"], m["home_irb"],
+                card_home, is_home=home_is_home, opp_stronger=not home_stronger_than_away)
         advance(state, away, date, "l" if home_result == "w" else ("d" if home_result == "d" else "w"),
-                m["away_score"] - m["home_score"], m["away_coach"], m["away_irb"], card_away)
+                m["away_score"] - m["home_score"], m["away_coach"], m["away_irb"], card_away, is_home=away_is_home,
+                opp_stronger=home_stronger_than_away)
         combo_advance(state, home, m["home_lineup"])
         combo_advance(state, away, m["away_lineup"])
 

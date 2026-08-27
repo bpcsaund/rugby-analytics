@@ -21,8 +21,16 @@ from xgboost import XGBRegressor
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "processed" / "intl_match_features.csv"
 TEST_START = "2024-01-01"
 
+# See train_intl_baseline.py for why the production predictor uses only LEAN.
+# This script keeps the full set so the backtest still shows what each feature
+# family is (not) contributing.
+LEAN = ["elo_diff", "venue_loss_streak_home", "venue_loss_streak_away"]
 FEATURES = [
-    "elo_diff", "form5_home", "form5_away", "pdiff5_home", "pdiff5_away",
+    "elo_diff", "neutral", "form5_home", "form5_away",
+    "venue_form5_home", "venue_form5_away",
+    "venue_loss_streak_home", "venue_loss_streak_away",
+    "form_vs_stronger_home", "form_vs_stronger_away",
+    "pdiff5_home", "pdiff5_away",
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
@@ -69,8 +77,12 @@ def main():
     test_margin = test["home_score"] - test["away_score"]
     naive_pred = np.full(len(test_margin), train_margin.mean())
     report("Naive (train mean margin)", test_margin, naive_pred)
-    ridge = Ridge(alpha=5.0).fit(X_train, train_margin)
-    report("Ridge regression", test_margin, ridge.predict(X_test))
+    report("Ridge regression (full features)", test_margin,
+           Ridge(alpha=5.0).fit(X_train, train_margin).predict(X_test))
+    Xl_train = train[LEAN].fillna(train[LEAN].median())
+    Xl_test = test[LEAN].fillna(train[LEAN].median())
+    report("Ridge regression (LEAN)", test_margin,
+           Ridge(alpha=5.0).fit(Xl_train, train_margin).predict(Xl_test))
     # margin derived from the elo-implied win prob as a sanity comparator
     elo_margin_est = X_test["elo_diff"] / 25   # ~25 elo pts per point is a common rough rugby conversion
     report("Elo-diff/25 heuristic", test_margin, elo_margin_est)

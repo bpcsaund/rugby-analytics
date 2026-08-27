@@ -57,8 +57,23 @@ LOG_FIELDS = [
     "actual_home_score", "actual_away_score", "actual_margin",
 ]
 
+# Lean feature set. Walk-forward backtests (train_intl_*.py, and see git
+# history) repeatedly found that Elo alone matched or beat the full ~22-feature
+# model on the 2023-26 test period, and that only the venue loss-streak added
+# consistent signal on top. Weather, cards, combo-experience, squad age, coach
+# tenure, rest days, rank, rolling form, venue win-streaks and "form vs
+# higher-ranked" are all still emitted as columns by build_intl_match_dataset.py
+# for analysis -- they're just not fed to the model. FEATURE_ORDER_FULL keeps
+# the old list for easy A/B.
 FEATURE_ORDER = [
-    "elo_diff", "form5_home", "form5_away", "pdiff5_home", "pdiff5_away",
+    "elo_diff", "venue_loss_streak_home", "venue_loss_streak_away",
+]
+FEATURE_ORDER_FULL = [
+    "elo_diff", "neutral", "form5_home", "form5_away",
+    "venue_form5_home", "venue_form5_away",
+    "venue_loss_streak_home", "venue_loss_streak_away",
+    "form_vs_stronger_home", "form_vs_stronger_away",
+    "pdiff5_home", "pdiff5_away",
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
@@ -171,13 +186,15 @@ def main():
     ap.add_argument("--city", default="", help="venue city, improves geocoding accuracy")
     ap.add_argument("--country", default="", help="venue country, improves geocoding accuracy")
     ap.add_argument("--kickoff-hour", type=int, default=15, help="local kickoff hour, 24h clock (default 15)")
+    ap.add_argument("--neutral", action="store_true",
+                     help="match is at a neutral venue (World Cup etc.) -- drops home advantage and venue-form features")
     args = ap.parse_args()
 
     match_date = pd.Timestamp(args.date)
 
     train_rows, state = build_rows_and_state(asof=match_date - pd.Timedelta(days=1))
-    snap_home = snapshot(state, args.home, match_date)
-    snap_away = snapshot(state, args.away, match_date)
+    snap_home = snapshot(state, args.home, match_date, is_home=None if args.neutral else True)
+    snap_away = snapshot(state, args.away, match_date, is_home=None if args.neutral else False)
 
     if args.home_squad:
         age_home, unmatched_home = squad_avg_age(args.home, args.home_squad, match_date)
@@ -215,7 +232,11 @@ def main():
 
     feat = dict(
         elo_diff=snap_home["elo"] - snap_away["elo"],
+        neutral=int(args.neutral),
         form5_home=snap_home["form5"], form5_away=snap_away["form5"],
+        venue_form5_home=snap_home["venue_form5"], venue_form5_away=snap_away["venue_form5"],
+        venue_loss_streak_home=snap_home["venue_loss_streak"], venue_loss_streak_away=snap_away["venue_loss_streak"],
+        form_vs_stronger_home=snap_home["form_vs_stronger"], form_vs_stronger_away=snap_away["form_vs_stronger"],
         pdiff5_home=snap_home["pdiff5"], pdiff5_away=snap_away["pdiff5"],
         rest_days_home=snap_home["rest_days"], rest_days_away=snap_away["rest_days"],
         rank_prev_home=snap_home["rank_prev"], rank_prev_away=snap_away["rank_prev"],
@@ -228,19 +249,25 @@ def main():
     )
 
     print(f"\n{args.home} (home) vs {args.away} (away) -- {args.date}")
-    print(f"  Elo:    {snap_home['elo']:.1f}  vs  {snap_away['elo']:.1f}  (diff {feat['elo_diff']:+.1f})")
-    print(f"  Rank:   {snap_home['rank_prev']}  vs  {snap_away['rank_prev']}  (last known)")
-    print(f"  Form(5 games): {snap_home['form5']:.2f}  vs  {snap_away['form5']:.2f}")
-    print(f"  Avg squad age: {age_home:.1f}  vs  {age_away:.1f}")
-    print(f"  Coach tenure:  {snap_home['coach_tenure']} games vs {snap_away['coach_tenure']} games")
-    print(f"  Combo experience (avg times together): {combo_home['combo_avg']}  vs  {combo_away['combo_avg']}")
-    print(f"  Cards conceded (avg last 5): {snap_home['cards5']}  vs  {snap_away['cards5']}")
-    print(f"  Weather: {weather['temp_c']}C, {weather['precip_mm']}mm precip, {weather['wind_kmh']}km/h wind")
+    print("  Model inputs:")
+    print(f"    Elo:  {snap_home['elo']:.1f}  vs  {snap_away['elo']:.1f}  (diff {feat['elo_diff']:+.1f})")
+    print(f"    Consecutive venue losses coming in:  {snap_home['venue_loss_streak']}  vs  {snap_away['venue_loss_streak']}")
+    print("  Context (computed, not fed to the model -- see FEATURE_ORDER_FULL):")
+    print(f"    Rank (last known):  {snap_home['rank_prev']}  vs  {snap_away['rank_prev']}")
+    print(f"    Form / venue form / vs-stronger (last 5):  "
+          f"{snap_home['form5']:.2f}/{snap_home['venue_form5']:.2f}/{snap_home['form_vs_stronger']:.2f}  vs  "
+          f"{snap_away['form5']:.2f}/{snap_away['venue_form5']:.2f}/{snap_away['form_vs_stronger']:.2f}")
+    print(f"    Avg squad age:  {age_home:.1f}  vs  {age_away:.1f}")
+    print(f"    Coach tenure:  {snap_home['coach_tenure']} vs {snap_away['coach_tenure']} games")
+    print(f"    Combo experience (avg times together):  {combo_home['combo_avg']}  vs  {combo_away['combo_avg']}")
+    print(f"    Cards conceded (avg last 5):  {snap_home['cards5']}  vs  {snap_away['cards5']}")
+    print(f"    Weather:  {weather['temp_c']}C, {weather['precip_mm']}mm precip, {weather['wind_kmh']}km/h wind")
 
-    # Scoreline regression: two Ridge models (home_score, away_score), retrained
-    # on every tracked-vs-tracked match on file before this fixture. Ridge chosen
-    # over XGBoost here since the backtest (train_intl_score_regression.py) showed
-    # them roughly tied on MAE at this sample size, and Ridge is simpler/more stable.
+    # Scoreline regression: two Ridge models (home_score, away_score) on the
+    # LEAN feature set, retrained on every tracked-vs-tracked match on file
+    # before this fixture. On the 2024-26 backtest the lean Ridge margin MAE
+    # (~12.4) is close to the raw elo_diff/25 heuristic (~12.1) and clearly
+    # better than the full-feature Ridge (~13.3) -- see train_intl_score_regression.py.
     df = pd.DataFrame(train_rows).dropna(subset=["elo_diff"])
     X = df[FEATURE_ORDER]
     medians = X.median()
@@ -255,7 +282,7 @@ def main():
 
     print(f"\nProjected scoreline (Ridge regression, trained on {len(df)} matches to date):")
     print(f"  {args.home}: {pred_home_score:.0f}   {args.away}: {pred_away_score:.0f}   (margin {margin:+.1f})")
-    print(f"  Backtested accuracy of this approach: MAE ~9 pts/team, ~13 pts on margin (see train_intl_score_regression.py)")
+    print(f"  Backtested accuracy of this approach: MAE ~9 pts/team, ~12 pts on margin (see train_intl_score_regression.py)")
     print(f"  -> treat this as 'which side, roughly what gap', not a literal final score.")
 
     p_elo = elo_win_prob(feat["elo_diff"])

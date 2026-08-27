@@ -21,8 +21,18 @@ from xgboost import XGBClassifier
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "processed" / "intl_match_features.csv"
 TEST_START = "2024-01-01"
 
+# Walk-forward backtests over 2023-26 (and 3 different split dates) repeatedly
+# showed Elo alone matching or beating the full feature set, with only the
+# venue loss-streak adding consistent signal on top. The production predictor
+# (predict_upcoming_match.py) therefore ships LEAN; FEATURES is kept here so the
+# backtest keeps showing what the wider feature set is (not) contributing.
+LEAN = ["elo_diff", "venue_loss_streak_home", "venue_loss_streak_away"]
 FEATURES = [
-    "elo_diff", "form5_home", "form5_away", "pdiff5_home", "pdiff5_away",
+    "elo_diff", "neutral", "form5_home", "form5_away",
+    "venue_form5_home", "venue_form5_away",
+    "venue_loss_streak_home", "venue_loss_streak_away",
+    "form_vs_stronger_home", "form_vs_stronger_away",
+    "pdiff5_home", "pdiff5_away",
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
@@ -100,6 +110,15 @@ def main():
     majority_prob = np.full(len(y_test), y_train.mean())
     majority_pred = np.full(len(y_test), int(y_train.mean() >= 0.5))
     report("Majority-class baseline (predict train home-win rate)", y_test, majority_pred, majority_prob)
+
+    # --- LEAN feature set (what the production predictor actually ships) ---
+    Xl_train = train[LEAN].fillna(train[LEAN].median())
+    Xl_test = test[LEAN].fillna(train[LEAN].median())
+    lean_xgb = XGBClassifier(n_estimators=100, max_depth=2, learning_rate=0.05,
+                              subsample=0.8, colsample_bytree=0.8, reg_lambda=2.0,
+                              eval_metric="logloss").fit(Xl_train, y_train)
+    lean_prob = lean_xgb.predict_proba(Xl_test)[:, 1]
+    report(f"XGBoost on LEAN {LEAN}", y_test, (lean_prob >= 0.5).astype(int), lean_prob)
 
 
 if __name__ == "__main__":
