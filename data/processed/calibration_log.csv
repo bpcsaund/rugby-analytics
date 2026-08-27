@@ -1,2 +1,3 @@
 logged_at,match_date,home_team,away_team,elo_home,elo_away,elo_win_prob,pred_home_score,pred_away_score,pred_margin,market_margin,model_weight,blended_margin,used_squad_data,used_lineup_data,actual_home_score,actual_away_score,actual_margin
 2026-08-27T18:20:44+00:00,2026-08-29,south_africa,new_zealand,1982.0,1972.9,0.5131,25.6,24.0,1.6,7.0,0.35,5.1,True,True,,,
+2026-08-27T19:54:26+00:00,2026-08-29,argentina,australia,1606.7,1553.0,0.5767,27.0,23.6,3.5,,,,False,False,,,
