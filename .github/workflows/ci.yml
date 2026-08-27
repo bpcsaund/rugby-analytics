@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install pandas numpy scikit-learn xgboost
+        run: pip install pandas numpy scikit-learn xgboost httpx
 
       - name: Build international match dataset
         run: python3 ingestion/build_intl_match_dataset.py
