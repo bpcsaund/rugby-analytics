@@ -203,7 +203,16 @@ def main():
     ap.add_argument("--kickoff-hour", type=int, default=15, help="local kickoff hour, 24h clock (default 15)")
     ap.add_argument("--neutral", action="store_true",
                      help="match is at a neutral venue (World Cup etc.) -- drops home advantage and venue-form features")
+    ap.add_argument("--fetch-odds", action="store_true",
+                     help="if --market-line not given, try The Odds API (Six Nations only -- see fetch_odds.py)")
     args = ap.parse_args()
+
+    if args.market_line is None and args.fetch_odds:
+        from fetch_odds import fetch_market_line
+        got = fetch_market_line(args.home, args.away, args.date)
+        if got:
+            args.market_line = got["market_margin"]
+            print(f"Market line {args.home} {args.market_line:+.1f} via {got['source']}")
 
     match_date = pd.Timestamp(args.date)
 

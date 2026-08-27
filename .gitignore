@@ -4,3 +4,5 @@
 __pycache__/
 data/raw/wr_api_cache/
 data/raw/weather_cache/
+.env
+data/raw/odds_cache/
