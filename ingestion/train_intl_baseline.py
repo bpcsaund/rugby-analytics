@@ -36,6 +36,9 @@ FEATURES = [
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
+    "xv_cohesion_avg_home", "xv_cohesion_avg_away", "xv_cohesion_min_home", "xv_cohesion_min_away",
+    "sq23_cohesion_avg_home", "sq23_cohesion_avg_away",
+    "xv_retained_home", "xv_retained_away", "xv_starts_avg_home", "xv_starts_avg_away",
     "cards5_home", "cards5_away",
     "weather_temp_c", "weather_precip_mm", "weather_wind_kmh",
 ]

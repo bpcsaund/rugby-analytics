@@ -45,7 +45,7 @@ import pandas as pd
 from sklearn.linear_model import Ridge
 
 from build_intl_match_dataset import (
-    RAW_DIR, TEAMS, build_rows_and_state, combo_snapshot, snapshot,
+    RAW_DIR, TEAMS, build_rows_and_state, combo_snapshot, snapshot, squad_cohesion_snapshot,
 )
 
 LOG_PATH = Path(__file__).resolve().parent.parent / "data" / "processed" / "calibration_log.csv"
@@ -77,6 +77,9 @@ FEATURE_ORDER_FULL = [
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
+    "xv_cohesion_avg_home", "xv_cohesion_avg_away", "xv_cohesion_min_home", "xv_cohesion_min_away",
+    "sq23_cohesion_avg_home", "sq23_cohesion_avg_away",
+    "xv_retained_home", "xv_retained_away", "xv_starts_avg_home", "xv_starts_avg_away",
     "cards5_home", "cards5_away",
     "weather_temp_c", "weather_precip_mm", "weather_wind_kmh",
 ]
@@ -212,17 +215,27 @@ def main():
         age_away = latest_known_avg_age(args.away)
         print(f"No --away-squad given -- using {args.away}'s most recent known squad average age as a placeholder.")
 
+    NAN_COH = {"xv_cohesion_avg": float("nan"), "xv_cohesion_min": float("nan"),
+               "sq23_cohesion_avg": float("nan"), "xv_retained": float("nan"),
+               "xv_starts_avg": float("nan")}
+
     if args.home_lineup:
-        combo_home = combo_snapshot(state, args.home, parse_lineup(args.home_lineup))
+        lu_home = parse_lineup(args.home_lineup)
+        combo_home = combo_snapshot(state, args.home, lu_home)
+        coh_home = squad_cohesion_snapshot(state, args.home, {s: n for s, n in lu_home.items() if s <= 15}, lu_home)
     else:
         combo_home = {"combo_avg": float("nan"), "combo_min": float("nan")}
-        print(f"No --home-lineup given -- combo-experience features for {args.home} will use the training median.")
+        coh_home = dict(NAN_COH)
+        print(f"No --home-lineup given -- combo/cohesion features for {args.home} will use the training median.")
 
     if args.away_lineup:
-        combo_away = combo_snapshot(state, args.away, parse_lineup(args.away_lineup))
+        lu_away = parse_lineup(args.away_lineup)
+        combo_away = combo_snapshot(state, args.away, lu_away)
+        coh_away = squad_cohesion_snapshot(state, args.away, {s: n for s, n in lu_away.items() if s <= 15}, lu_away)
     else:
         combo_away = {"combo_avg": float("nan"), "combo_min": float("nan")}
-        print(f"No --away-lineup given -- combo-experience features for {args.away} will use the training median.")
+        coh_away = dict(NAN_COH)
+        print(f"No --away-lineup given -- combo/cohesion features for {args.away} will use the training median.")
 
     if args.venue:
         weather = forecast_weather(args.venue, args.city, args.country, match_date, args.kickoff_hour)
@@ -244,6 +257,11 @@ def main():
         avg_age_home=age_home, avg_age_away=age_away,
         combo_avg_home=combo_home["combo_avg"], combo_avg_away=combo_away["combo_avg"],
         combo_min_home=combo_home["combo_min"], combo_min_away=combo_away["combo_min"],
+        xv_cohesion_avg_home=coh_home["xv_cohesion_avg"], xv_cohesion_avg_away=coh_away["xv_cohesion_avg"],
+        xv_cohesion_min_home=coh_home["xv_cohesion_min"], xv_cohesion_min_away=coh_away["xv_cohesion_min"],
+        sq23_cohesion_avg_home=coh_home["sq23_cohesion_avg"], sq23_cohesion_avg_away=coh_away["sq23_cohesion_avg"],
+        xv_retained_home=coh_home["xv_retained"], xv_retained_away=coh_away["xv_retained"],
+        xv_starts_avg_home=coh_home["xv_starts_avg"], xv_starts_avg_away=coh_away["xv_starts_avg"],
         cards5_home=snap_home["cards5"], cards5_away=snap_away["cards5"],
         weather_temp_c=weather["temp_c"], weather_precip_mm=weather["precip_mm"], weather_wind_kmh=weather["wind_kmh"],
     )
@@ -260,6 +278,10 @@ def main():
     print(f"    Avg squad age:  {age_home:.1f}  vs  {age_away:.1f}")
     print(f"    Coach tenure:  {snap_home['coach_tenure']} vs {snap_away['coach_tenure']} games")
     print(f"    Combo experience (avg times together):  {combo_home['combo_avg']}  vs  {combo_away['combo_avg']}")
+    print(f"    XV cohesion (avg prior co-starts / 105 pairs):  {coh_home['xv_cohesion_avg']}  vs  {coh_away['xv_cohesion_avg']}")
+    print(f"    23 cohesion (avg prior co-selections):  {coh_home['sq23_cohesion_avg']}  vs  {coh_away['sq23_cohesion_avg']}")
+    print(f"    XV retained from last Test / avg XV starts:  "
+          f"{coh_home['xv_retained']}/{coh_home['xv_starts_avg']}  vs  {coh_away['xv_retained']}/{coh_away['xv_starts_avg']}")
     print(f"    Cards conceded (avg last 5):  {snap_home['cards5']}  vs  {snap_away['cards5']}")
     print(f"    Weather:  {weather['temp_c']}C, {weather['precip_mm']}mm precip, {weather['wind_kmh']}km/h wind")
 

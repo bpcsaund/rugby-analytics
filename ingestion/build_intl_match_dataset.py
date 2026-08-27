@@ -132,6 +132,11 @@ def load_team_events(team: str) -> list[dict]:
             name = safe_str(row.get(str(shirt))).lower()
             if name:
                 lineup[shirt] = name
+        squad23 = dict(lineup)
+        for shirt in range(16, 24):
+            name = safe_str(row.get(str(shirt))).lower()
+            if name:
+                squad23[shirt] = name
 
         events.append(dict(
             date=date,
@@ -145,6 +150,7 @@ def load_team_events(team: str) -> list[dict]:
             coach=safe_str(row.get(col_coach)).lower() if col_coach else "",
             own_irb=pd.to_numeric(row.get(col_own_irb), errors="coerce") if col_own_irb else float("nan"),
             lineup=lineup,
+            squad23=squad23,
         ))
     return events
 
@@ -250,6 +256,7 @@ def dedupe_events(all_events: list[dict]) -> list[dict]:
             home_coach=home["coach"], away_coach=away["coach"],
             home_irb=home["own_irb"], away_irb=away["own_irb"],
             home_lineup=home["lineup"], away_lineup=away["lineup"],
+            home_squad23=home["squad23"], away_squad23=away["squad23"],
         ))
     for ev in singles:
         matches.append(dict(
@@ -257,7 +264,7 @@ def dedupe_events(all_events: list[dict]) -> list[dict]:
             team=ev["team"], opponent=ev["opponent"],
             points_for=ev["points_for"], points_against=ev["points_against"],
             home_away=ev["home_away"], tournament=ev["tournament"],
-            coach=ev["coach"], own_irb=ev["own_irb"], lineup=ev["lineup"],
+            coach=ev["coach"], own_irb=ev["own_irb"], lineup=ev["lineup"], squad23=ev["squad23"],
         ))
     matches.sort(key=lambda m: m["date"])
     return matches
@@ -304,7 +311,61 @@ def new_state() -> dict:
         games_played=defaultdict(int),
         # team -> combo_name -> {frozenset(player names): times started together before now}
         combo_counts=defaultdict(lambda: defaultdict(lambda: defaultdict(int))),
+        # whole-squad cohesion: every unordered player pair -> matches they have
+        # BOTH started (xv) / BOTH been named in the 23 (sq23) before now, plus
+        # the set of names in each team's most recent starting XV (for retention)
+        xv_pair_starts=defaultdict(lambda: defaultdict(int)),
+        sq23_pair_apps=defaultdict(lambda: defaultdict(int)),
+        last_xv=defaultdict(set),
+        player_starts=defaultdict(lambda: defaultdict(int)),
     )
+
+
+def _pairs(names):
+    names = sorted(set(names))
+    return [frozenset((a, b)) for i, a in enumerate(names) for b in names[i + 1:]]
+
+
+def squad_cohesion_snapshot(state: dict, team: str, lineup: dict, squad23: dict) -> dict:
+    """
+    Squad-continuity features from prior Test selections:
+      xv_cohesion_avg/min : mean / minimum prior co-starts across the 105 pairs
+                            in the named starting XV
+      sq23_cohesion_avg   : mean prior co-selections across the 253 pairs in the 23
+      xv_retained         : how many of the XV also started this team's last Test
+      xv_starts_avg       : mean individual prior Test starts across the XV
+    NaN where the lineup/23 isn't fully known.
+    """
+    out = dict(xv_cohesion_avg=float("nan"), xv_cohesion_min=float("nan"),
+               sq23_cohesion_avg=float("nan"), xv_retained=float("nan"),
+               xv_starts_avg=float("nan"))
+    xv = [lineup[s] for s in range(1, 16) if s in lineup]
+    if len(xv) == 15:
+        pc = [state["xv_pair_starts"][team][p] for p in _pairs(xv)]
+        out["xv_cohesion_avg"] = float(np.mean(pc))
+        out["xv_cohesion_min"] = float(np.min(pc))
+        out["xv_starts_avg"] = float(np.mean([state["player_starts"][team][n] for n in xv]))
+        last = state["last_xv"][team]
+        out["xv_retained"] = float(len(set(xv) & last)) if last else float("nan")
+    names23 = list(squad23.values())
+    if len(set(names23)) >= 22:
+        pc = [state["sq23_pair_apps"][team][p] for p in _pairs(names23)]
+        out["sq23_cohesion_avg"] = float(np.mean(pc))
+    return out
+
+
+def squad_cohesion_advance(state: dict, team: str, lineup: dict, squad23: dict):
+    xv = [lineup[s] for s in range(1, 16) if s in lineup]
+    if len(xv) == 15:
+        for p in _pairs(xv):
+            state["xv_pair_starts"][team][p] += 1
+        for n in xv:
+            state["player_starts"][team][n] += 1
+        state["last_xv"][team] = set(xv)
+    names23 = list(squad23.values())
+    if len(set(names23)) >= 22:
+        for p in _pairs(names23):
+            state["sq23_pair_apps"][team][p] += 1
 
 
 def combo_snapshot(state: dict, team: str, lineup: dict) -> dict:
@@ -439,6 +500,7 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
             advance(state, team, date, result, m["points_for"] - m["points_against"], m["coach"], m["own_irb"],
                     card_score, is_home=is_home, opp_stronger=opp_stronger)
             combo_advance(state, team, m["lineup"])
+            squad_cohesion_advance(state, team, m["lineup"], m["squad23"])
             continue
 
         home, away = m["home_team"], m["away_team"]
@@ -449,6 +511,8 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
         snap_away = snapshot(state, away, date, is_home=away_is_home)
         combo_home = combo_snapshot(state, home, m["home_lineup"])
         combo_away = combo_snapshot(state, away, m["away_lineup"])
+        coh_home = squad_cohesion_snapshot(state, home, m["home_lineup"], m["home_squad23"])
+        coh_away = squad_cohesion_snapshot(state, away, m["away_lineup"], m["away_squad23"])
         age_home = age_lookup.get((home, date, away))
         age_away = age_lookup.get((away, date, home))
         weather = weather_lookup.get((home, date, away)) or weather_lookup.get((away, date, home))
@@ -478,6 +542,11 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
             combo_min_home=combo_home["combo_min"], combo_min_away=combo_away["combo_min"],
             **{f"combo_{name}_home": combo_home[name] for name in COMBOS},
             **{f"combo_{name}_away": combo_away[name] for name in COMBOS},
+            xv_cohesion_avg_home=coh_home["xv_cohesion_avg"], xv_cohesion_avg_away=coh_away["xv_cohesion_avg"],
+            xv_cohesion_min_home=coh_home["xv_cohesion_min"], xv_cohesion_min_away=coh_away["xv_cohesion_min"],
+            sq23_cohesion_avg_home=coh_home["sq23_cohesion_avg"], sq23_cohesion_avg_away=coh_away["sq23_cohesion_avg"],
+            xv_retained_home=coh_home["xv_retained"], xv_retained_away=coh_away["xv_retained"],
+            xv_starts_avg_home=coh_home["xv_starts_avg"], xv_starts_avg_away=coh_away["xv_starts_avg"],
             cards5_home=snap_home["cards5"], cards5_away=snap_away["cards5"],
             weather_temp_c=weather_temp, weather_precip_mm=weather_precip, weather_wind_kmh=weather_wind,
         ))
@@ -493,6 +562,8 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
                 opp_stronger=home_stronger_than_away)
         combo_advance(state, home, m["home_lineup"])
         combo_advance(state, away, m["away_lineup"])
+        squad_cohesion_advance(state, home, m["home_lineup"], m["home_squad23"])
+        squad_cohesion_advance(state, away, m["away_lineup"], m["away_squad23"])
 
     return rows, state
 
