@@ -4,17 +4,50 @@ then reports how our projected margin compares to the betting market's line
 (where logged) once results are known.
 
 Run this periodically (e.g. after each weekend's Tests) once fixtures logged
-via --log have been played.
+via --log have been played. Unresolved rows are looked up first against the
+local dataset, then -- so this works standalone in a fresh checkout with no
+data refresh -- directly against the World Rugby match API.
 """
 
 from pathlib import Path
 
+import httpx
 import numpy as np
 import pandas as pd
 
 from build_intl_match_dataset import build_rows_and_state
 
 LOG_PATH = Path(__file__).resolve().parent.parent / "data" / "processed" / "calibration_log.csv"
+WR_MATCH_API = "https://api.wr-rims-prod.pulselive.com/rugby/v3/match"
+
+
+def _wr_name(team_id: str) -> str:
+    return team_id.replace("_", " ").title()
+
+
+def fetch_result_from_wr(match_date: str, home_team: str, away_team: str) -> tuple | None:
+    """(home_score, away_score) for a completed Test, via the WR bulk match feed. None if not found/not complete."""
+    day = pd.to_datetime(match_date)
+    want = {_wr_name(home_team), _wr_name(away_team)}
+    try:
+        r = httpx.get(WR_MATCH_API, params={
+            "states": "C", "sort": "asc", "pageSize": 100, "sport": "mru",
+            "startDate": (day - pd.Timedelta(days=2)).strftime("%Y-%m-%d"),
+            "endDate": (day + pd.Timedelta(days=2)).strftime("%Y-%m-%d"),
+        }, timeout=30)
+        r.raise_for_status()
+        content = r.json().get("content", [])
+    except (httpx.HTTPError, ValueError) as e:
+        print(f"  WR API lookup failed for {home_team} v {away_team} {match_date}: {e}")
+        return None
+    for m in content:
+        names = {t["name"] for t in m.get("teams", [])}
+        if names != want or m.get("status") != "C":
+            continue
+        by_name = {t["name"]: s for t, s in zip(m["teams"], m.get("scores", []))}
+        if _wr_name(home_team) in by_name and _wr_name(away_team) in by_name:
+            return float(by_name[_wr_name(home_team)]), float(by_name[_wr_name(away_team)])
+    return None
 
 
 def main():
@@ -39,12 +72,17 @@ def main():
             & (results_df["home_team"] == row["home_team"])
             & (results_df["away_team"] == row["away_team"])
         ]
-        if match.empty:
-            continue
-        m = match.iloc[0]
-        log.loc[i, "actual_home_score"] = m["home_score"]
-        log.loc[i, "actual_away_score"] = m["away_score"]
-        log.loc[i, "actual_margin"] = m["home_score"] - m["away_score"]
+        if not match.empty:
+            m = match.iloc[0]
+            hs, as_ = float(m["home_score"]), float(m["away_score"])
+        else:
+            wr = fetch_result_from_wr(row["match_date"], row["home_team"], row["away_team"])
+            if wr is None:
+                continue
+            hs, as_ = wr
+        log.loc[i, "actual_home_score"] = hs
+        log.loc[i, "actual_away_score"] = as_
+        log.loc[i, "actual_margin"] = hs - as_
         n_filled += 1
 
     log.to_csv(LOG_PATH, index=False)
