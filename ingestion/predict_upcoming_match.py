@@ -37,6 +37,7 @@ Usage:
 import argparse
 import csv
 import difflib
+import math
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -53,9 +54,17 @@ LOG_FIELDS = [
     "logged_at", "match_date", "home_team", "away_team",
     "elo_home", "elo_away", "elo_win_prob",
     "pred_home_score", "pred_away_score", "pred_margin",
-    "market_margin", "used_squad_data", "used_lineup_data",
+    "market_margin", "model_weight", "blended_margin",
+    "used_squad_data", "used_lineup_data",
     "actual_home_score", "actual_away_score", "actual_margin",
 ]
+
+# Default weight on our own model when blending with the market line. Sports
+# betting markets are efficient enough that a model rarely beats the closing
+# line outright, so the market is the prior and our model is a shade on top:
+#   blended = market + MODEL_WEIGHT * (model - market)
+# Re-tune once reconcile_calibration_log.py has a dozen-plus resolved matches.
+DEFAULT_MODEL_WEIGHT = 0.35
 
 # Lean feature set. Walk-forward backtests (train_intl_*.py, and see git
 # history) repeatedly found that Elo alone matched or beat the full ~22-feature
@@ -184,6 +193,9 @@ def main():
     ap.add_argument("--away-lineup", type=Path, help="text file, 'shirt,name' per line (shirts 1-15)")
     ap.add_argument("--market-line", type=float,
                      help="home team's expected winning margin per the market (e.g. 'home -7' -> 7)")
+    ap.add_argument("--model-weight", type=float, default=DEFAULT_MODEL_WEIGHT,
+                     help=f"weight on our model vs the market line when blending (default {DEFAULT_MODEL_WEIGHT}; "
+                          "0 = trust the market entirely, 1 = ignore it)")
     ap.add_argument("--log", action="store_true", help="append this prediction to data/processed/calibration_log.csv")
     ap.add_argument("--venue", help="venue name, for a live weather forecast (requires the match date be within ~16 days)")
     ap.add_argument("--city", default="", help="venue city, improves geocoding accuracy")
@@ -310,8 +322,17 @@ def main():
     p_elo = elo_win_prob(feat["elo_diff"])
     print(f"\nFor reference, Elo-implied home-win probability: {p_elo:.1%}")
 
+    blended_margin = None
     if args.market_line is not None:
-        print(f"Market line: {args.home} favored by {args.market_line:+.1f} (our margin: {margin:+.1f})")
+        blended_margin = args.market_line + args.model_weight * (margin - args.market_line)
+        # rough win prob from a margin, using the ~15pt margin RMSE from the backtest
+        p_blend = 0.5 * (1 + math.erf(blended_margin / (15.0 * math.sqrt(2))))
+        print(f"\n  Model margin:    {args.home} {margin:+.1f}")
+        print(f"  Market line:     {args.home} {args.market_line:+.1f}")
+        print(f"  Blended ({args.model_weight:.2f} model / {1 - args.model_weight:.2f} market):  "
+              f"{args.home} {blended_margin:+.1f}   (~{p_blend:.0%} {args.home} win)")
+        gap = margin - args.market_line
+        print(f"  We are {abs(gap):.1f} pts {'below' if gap < 0 else 'above'} the market on {args.home}.")
 
     if args.log:
         log_row = dict(
@@ -322,6 +343,8 @@ def main():
             pred_home_score=round(pred_home_score, 1), pred_away_score=round(pred_away_score, 1),
             pred_margin=round(margin, 1),
             market_margin=args.market_line,
+            model_weight=args.model_weight if args.market_line is not None else "",
+            blended_margin=round(blended_margin, 1) if blended_margin is not None else "",
             used_squad_data=bool(args.home_squad or args.away_squad),
             used_lineup_data=bool(args.home_lineup or args.away_lineup),
             actual_home_score="", actual_away_score="", actual_margin="",

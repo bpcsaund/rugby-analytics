@@ -23,6 +23,10 @@ def main():
         return
 
     log = pd.read_csv(LOG_PATH, dtype={"match_date": str, "home_team": str, "away_team": str})
+    for c in ("pred_margin", "market_margin", "blended_margin", "model_weight",
+              "actual_margin", "actual_home_score", "actual_away_score"):
+        if c in log.columns:
+            log[c] = pd.to_numeric(log[c], errors="coerce")
     results, _ = build_rows_and_state()
     results_df = pd.DataFrame(results)
 
@@ -53,22 +57,38 @@ def main():
 
     print(f"\n=== Calibration summary ({len(resolved)} resolved matches) ===")
     pred_mae = (resolved["pred_margin"] - resolved["actual_margin"]).abs().mean()
-    print(f"Our projected-margin MAE:   {pred_mae:.2f} pts")
+    print(f"Model-margin MAE:            {pred_mae:.2f} pts")
 
-    with_market = resolved.dropna(subset=["market_margin"])
+    with_market = resolved.dropna(subset=["market_margin"]).copy()
     if len(with_market):
-        market_mae = (with_market["market_margin"] - with_market["actual_margin"]).abs().mean()
-        our_mae_same_subset = (with_market["pred_margin"] - with_market["actual_margin"]).abs().mean()
-        print(f"Market-line MAE (n={len(with_market)}):     {market_mae:.2f} pts")
-        print(f"Our MAE on same subset:      {our_mae_same_subset:.2f} pts")
+        act = with_market["actual_margin"]
+        market_mae = (with_market["market_margin"] - act).abs().mean()
+        model_mae = (with_market["pred_margin"] - act).abs().mean()
+        blend_mae = (with_market["blended_margin"] - act).abs().mean()
+        print(f"On the {len(with_market)} matches with a logged market line:")
+        print(f"  Market-line MAE:           {market_mae:.2f} pts")
+        print(f"  Model-margin MAE:          {model_mae:.2f} pts")
+        print(f"  Blended-margin MAE:        {blend_mae:.2f} pts  (as logged)")
         bias = (with_market["pred_margin"] - with_market["market_margin"]).mean()
-        print(f"Avg (our margin - market margin): {bias:+.2f} pts "
-              f"({'we are more conservative than the market' if bias < 0 else 'we are more confident than the market'})")
+        print(f"  Avg (model - market):     {bias:+.2f} pts "
+              f"({'model more conservative' if bias < 0 else 'model more bullish on home'})")
+
+        # ex-post: which blend weight would have been best so far?
+        if len(with_market) >= 6:
+            weights = np.linspace(0, 1, 21)
+            maes = [((w * with_market["pred_margin"] + (1 - w) * with_market["market_margin"] - act)
+                     .abs().mean()) for w in weights]
+            best_w = weights[int(np.argmin(maes))]
+            print(f"  Ex-post best model weight: {best_w:.2f}  (MAE {min(maes):.2f}); "
+                  f"currently logging {with_market['model_weight'].dropna().iloc[-1]}")
     else:
         print("No rows have a logged --market-line yet -- nothing to compare against the market.")
 
-    pick_correct = ((resolved["pred_margin"] > 0) == (resolved["actual_margin"] > 0)).mean()
-    print(f"Our home/away pick correct: {pick_correct:.1%}")
+    for col, label in [("pred_margin", "Model"), ("blended_margin", "Blended")]:
+        sub = resolved.dropna(subset=[col])
+        if len(sub):
+            pick = ((sub[col] > 0) == (sub["actual_margin"] > 0)).mean()
+            print(f"{label} home/away pick correct: {pick:.0%} (n={len(sub)})")
 
 
 if __name__ == "__main__":
