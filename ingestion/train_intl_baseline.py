@@ -27,6 +27,7 @@ FEATURES = [
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
     "cards5_home", "cards5_away",
+    "weather_temp_c", "weather_precip_mm", "weather_wind_kmh",
 ]
 
 

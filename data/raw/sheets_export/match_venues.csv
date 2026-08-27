@@ -1,0 +1,1633 @@
+date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
+09/02/2020,france,italy,Stade de France,Saint-Denis,France,2020-02-09T15:00:00+00:00,1.0
+09/02/2020,italy,france,Stade de France,Saint-Denis,France,2020-02-09T15:00:00+00:00,1.0
+06/11/2021,england,tonga,Twickenham,London,England,2021-11-06T15:15:00+00:00,0.0
+06/11/2021,tonga,england,Twickenham,London,England,2021-11-06T15:15:00+00:00,0.0
+27/09/2025,new_zealand,australia,Eden Park,Auckland,New Zealand,2025-09-27T05:05:00+00:00,12.0
+27/09/2025,australia,new_zealand,Eden Park,Auckland,New Zealand,2025-09-27T05:05:00+00:00,12.0
+25/06/2016,south_africa,ireland,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2016-06-25T15:00:00+00:00,2.0
+25/06/2016,ireland,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2016-06-25T15:00:00+00:00,2.0
+08/08/2015,south_africa,argentina,King's Park,Durban,South Africa,2015-08-08T15:05:00+00:00,2.0
+08/08/2015,argentina,south_africa,King's Park,Durban,South Africa,2015-08-08T15:05:00+00:00,2.0
+20/03/2021,france,wales,Stade de France,Saint-Denis,France,2021-03-20T20:00:00+00:00,1.0
+20/03/2021,wales,france,Stade de France,Saint-Denis,France,2021-03-20T20:00:00+00:00,1.0
+07/03/2026,italy,england,Stadio Olimpico,Roma,Italy,2026-03-07T16:40:00+00:00,1.0
+07/03/2026,england,italy,Stadio Olimpico,Roma,Italy,2026-03-07T16:40:00+00:00,1.0
+22/02/2025,wales,ireland,Principality Stadium,Cardiff,Wales,2025-02-22T14:15:00+00:00,0.0
+22/02/2025,ireland,wales,Principality Stadium,Cardiff,Wales,2025-02-22T14:15:00+00:00,0.0
+26/02/2022,england,wales,Twickenham,London,England,2022-02-26T16:45:00+00:00,0.0
+26/02/2022,wales,england,Twickenham,London,England,2022-02-26T16:45:00+00:00,0.0
+11/03/2023,england,france,Twickenham,London,England,2023-03-11T16:45:00+00:00,0.0
+11/03/2023,france,england,Twickenham,London,England,2023-03-11T16:45:00+00:00,0.0
+10/11/2018,scotland,fiji,Murrayfield,Edinburgh,Scotland,2018-11-10T14:30:00+00:00,0.0
+10/11/2018,fiji,scotland,Murrayfield,Edinburgh,Scotland,2018-11-10T14:30:00+00:00,0.0
+01/11/2025,ireland,new_zealand,Soldier Field Stadium,Chicago,United States,2025-11-01T20:10:00+00:00,-5.0
+01/11/2025,new_zealand,ireland,Soldier Field Stadium,Chicago,United States,2025-11-01T20:10:00+00:00,-5.0
+05/11/2022,scotland,fiji,Murrayfield,Edinburgh,Scotland,2022-11-05T12:00:00+00:00,1.0
+05/11/2022,fiji,scotland,Murrayfield,Edinburgh,Scotland,2022-11-05T12:00:00+00:00,1.0
+21/10/2017,australia,new_zealand,Suncorp Stadium,Brisbane,Australia,2017-10-21T09:00:00+00:00,10.0
+21/10/2017,new_zealand,australia,Suncorp Stadium,Brisbane,Australia,2017-10-21T09:00:00+00:00,10.0
+25/09/2015,argentina,georgia,Kingsholm,Gloucester,England,2015-09-25T15:45:00+00:00,1.0
+25/09/2015,georgia,argentina,Kingsholm,Gloucester,England,2015-09-25T15:45:00+00:00,1.0
+05/08/2023,wales,england,Principality Stadium,Cardiff,Wales,2023-08-05T16:30:00+00:00,1.0
+05/08/2023,england,wales,Principality Stadium,Cardiff,Wales,2023-08-05T16:30:00+00:00,1.0
+06/10/2019,france,tonga,Kumamoto Stadium,"Kumamoto Prefecture, Kumamoto City",Japan,2019-10-06T07:45:00+00:00,9.0
+06/10/2019,tonga,france,Kumamoto Stadium,"Kumamoto Prefecture, Kumamoto City",Japan,2019-10-06T07:45:00+00:00,9.0
+06/02/2021,england,scotland,Twickenham,London,England,2021-02-06T16:45:00+00:00,0.0
+06/02/2021,scotland,england,Twickenham,London,England,2021-02-06T16:45:00+00:00,0.0
+19/09/2015,south_africa,japan,Brighton Community Stadium,Brighton and Hove,England,2015-09-19T15:45:00+00:00,1.0
+19/09/2015,japan,south_africa,Brighton Community Stadium,Brighton and Hove,England,2015-09-19T15:45:00+00:00,1.0
+08/09/2018,new_zealand,argentina,Trafalgar Park,Nelson,New Zealand,2018-09-08T07:35:00+00:00,12.0
+08/09/2018,argentina,new_zealand,Trafalgar Park,Nelson,New Zealand,2018-09-08T07:35:00+00:00,12.0
+10/03/2018,france,england,Stade de France,Saint-Denis,France,2018-03-10T16:45:00+00:00,1.0
+10/03/2018,england,france,Stade de France,Saint-Denis,France,2018-03-10T16:45:00+00:00,1.0
+22/09/2019,italy,namibia,Hanazono Rugby Stadium,"Osaka Prefecture, Higashiosaka City",Japan,2019-09-22T05:15:00+00:00,9.0
+22/09/2019,namibia,italy,Hanazono Rugby Stadium,"Osaka Prefecture, Higashiosaka City",Japan,2019-09-22T05:15:00+00:00,9.0
+10/07/2021,new_zealand,fiji,Forsyth Barr Stadium,Dunedin,New Zealand,2021-07-10T07:05:00+00:00,12.0
+10/07/2021,fiji,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2021-07-10T07:05:00+00:00,12.0
+27/07/2019,new_zealand,south_africa,Westpac Stadium,Wellington,New Zealand,2019-07-27T07:35:00+00:00,12.0
+27/07/2019,south_africa,new_zealand,Westpac Stadium,Wellington,New Zealand,2019-07-27T07:35:00+00:00,12.0
+07/08/2021,south_africa,british & irish lions,Cape Town Stadium,Cape Town,South Africa,2021-08-07T16:00:00+00:00,2.0
+07/08/2021,british & irish lions,south_africa,Cape Town Stadium,Cape Town,South Africa,2021-08-07T16:00:00+00:00,2.0
+07/10/2023,ireland,scotland,Stade de France,Saint-Denis,France,2023-10-07T19:00:00+00:00,2.0
+07/10/2023,scotland,ireland,Stade de France,Saint-Denis,France,2023-10-07T19:00:00+00:00,2.0
+08/11/2025,italy,australia,Bluenergy Stadium,Udine,Italy,2025-11-08T17:40:00+00:00,1.0
+08/11/2025,australia,italy,Bluenergy Stadium,Udine,Italy,2025-11-08T17:40:00+00:00,1.0
+04/07/2026,australia,ireland,Sydney Football Stadium,Sydney,Australia,2026-07-04T10:10:00+00:00,10.0
+04/07/2026,ireland,australia,Sydney Football Stadium,Sydney,Australia,2026-07-04T10:10:00+00:00,10.0
+23/09/2019,wales,georgia,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2019-09-23T10:15:00+00:00,9.0
+23/09/2019,georgia,wales,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2019-09-23T10:15:00+00:00,9.0
+24/06/2017,argentina,georgia,Estadio 23 de Agosto,Jujuy,Argentina,2017-06-24T19:15:00+00:00,-3.0
+24/06/2017,georgia,argentina,Estadio 23 de Agosto,Jujuy,Argentina,2017-06-24T19:15:00+00:00,-3.0
+28/09/2024,south_africa,argentina,Mbombela Stadium,Mbombela,South Africa,2024-09-28T15:00:00+00:00,2.0
+28/09/2024,argentina,south_africa,Mbombela Stadium,Mbombela,South Africa,2024-09-28T15:00:00+00:00,2.0
+05/07/2025,georgia,ireland,Mikheil Meskhi Stadium,Tbilisi,Georgia,2025-07-05T19:00:00+00:00,2.0
+05/07/2025,ireland,georgia,Mikheil Meskhi Stadium,Tbilisi,Georgia,2025-07-05T19:00:00+00:00,2.0
+16/07/2022,argentina,scotland,Estadio Único Madre de Ciudades,Santiago del Estero,Argentina,2022-07-16T19:10:00+00:00,-3.0
+16/07/2022,scotland,argentina,Estadio Único Madre de Ciudades,Santiago del Estero,Argentina,2022-07-16T19:10:00+00:00,-3.0
+17/10/2015,new_zealand,france,Millennium Stadium,Cardiff,Wales,2015-10-17T19:00:00+00:00,1.0
+17/10/2015,france,new_zealand,Millennium Stadium,Cardiff,Wales,2015-10-17T19:00:00+00:00,1.0
+24/11/2018,italy,new_zealand,Stadio Olimpico,Roma,Italy,2018-11-24T13:00:00+00:00,1.0
+24/11/2018,new_zealand,italy,Stadio Olimpico,Roma,Italy,2018-11-24T13:00:00+00:00,1.0
+20/08/2016,south_africa,argentina,Mbombela Stadium,Mbombela,South Africa,2016-08-20T15:05:00+00:00,2.0
+20/08/2016,argentina,south_africa,Mbombela Stadium,Mbombela,South Africa,2016-08-20T15:05:00+00:00,2.0
+08/08/2015,wales,ireland,Millennium Stadium,Cardiff,Wales,2015-08-08T13:30:00+00:00,1.0
+08/08/2015,ireland,wales,Millennium Stadium,Cardiff,Wales,2015-08-08T13:30:00+00:00,1.0
+25/11/2017,england,samoa,Twickenham,London,England,2017-11-25T14:30:00+00:00,0.0
+25/11/2017,samoa,england,Twickenham,London,England,2017-11-25T14:30:00+00:00,0.0
+03/02/2018,wales,scotland,Principality Stadium,Cardiff,Wales,2018-02-03T14:15:00+00:00,0.0
+03/02/2018,scotland,wales,Principality Stadium,Cardiff,Wales,2018-02-03T14:15:00+00:00,0.0
+18/11/2017,ireland,fiji,Aviva Stadium,Dublin,Ireland,2017-11-18T17:30:00+00:00,0.0
+18/11/2017,fiji,ireland,Aviva Stadium,Dublin,Ireland,2017-11-18T17:30:00+00:00,0.0
+14/10/2023,ireland,new_zealand,Stade de France,Saint-Denis,France,2023-10-14T19:00:00+00:00,2.0
+14/10/2023,new_zealand,ireland,Stade de France,Saint-Denis,France,2023-10-14T19:00:00+00:00,2.0
+16/09/2023,ireland,tonga,Stade de la Beaujoire,Nantes,France,2023-09-16T19:00:00+00:00,2.0
+16/09/2023,tonga,ireland,Stade de la Beaujoire,Nantes,France,2023-09-16T19:00:00+00:00,2.0
+02/06/2019,england,barbarians,Twickenham,London,England,2019-06-02T14:30:00+00:00,1.0
+02/06/2019,barbarians,england,Twickenham,London,England,2019-06-02T14:30:00+00:00,1.0
+23/09/2023,south_africa,ireland,Stade de France,Saint-Denis,France,2023-09-23T19:00:00+00:00,2.0
+23/09/2023,ireland,south_africa,Stade de France,Saint-Denis,France,2023-09-23T19:00:00+00:00,2.0
+15/07/2023,australia,argentina,CommBank Stadium,Parramatta,Australia,2023-07-15T09:45:00+00:00,10.0
+15/07/2023,argentina,australia,CommBank Stadium,Parramatta,Australia,2023-07-15T09:45:00+00:00,10.0
+23/02/2019,france,scotland,Stade de France,Saint-Denis,France,2019-02-23T14:15:00+00:00,1.0
+23/02/2019,scotland,france,Stade de France,Saint-Denis,France,2019-02-23T14:15:00+00:00,1.0
+23/06/2018,australia,ireland,Allianz Stadium,Sydney,Australia,2018-06-23T10:00:00+00:00,10.0
+23/06/2018,ireland,australia,Allianz Stadium,Sydney,Australia,2018-06-23T10:00:00+00:00,10.0
+26/10/2024,japan,new_zealand,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2024-10-26T05:50:00+00:00,9.0
+26/10/2024,new_zealand,japan,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2024-10-26T05:50:00+00:00,9.0
+29/05/2016,england,wales,Twickenham,London,England,2016-05-29T14:00:00+00:00,1.0
+29/05/2016,wales,england,Twickenham,London,England,2016-05-29T14:00:00+00:00,1.0
+11/07/2026,argentina,wales,Estadio del Bicentenario,San Juan,Argentina,2026-07-11T19:10:00+00:00,-3.0
+11/07/2026,wales,argentina,Estadio del Bicentenario,San Juan,Argentina,2026-07-11T19:10:00+00:00,-3.0
+26/08/2023,spain,argentina,Estadio Cívitas Metropolitano,Madrid,Spain,2023-08-26T18:45:00+00:00,2.0
+26/08/2023,argentina,spain,Estadio Cívitas Metropolitano,Madrid,Spain,2023-08-26T18:45:00+00:00,2.0
+17/06/2017,argentina,england,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2017-06-17T19:15:00+00:00,-3.0
+17/06/2017,england,argentina,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2017-06-17T19:15:00+00:00,-3.0
+06/09/2019,japan,south_africa,Kumagaya Rugby Stadium,"Saitama Prefecture, Kumagaya City",Japan,2019-09-06T10:15:00+00:00,9.0
+06/09/2019,south_africa,japan,Kumagaya Rugby Stadium,"Saitama Prefecture, Kumagaya City",Japan,2019-09-06T10:15:00+00:00,9.0
+06/11/2021,france,argentina,Stade de France,Saint-Denis,France,2021-11-06T20:00:00+00:00,1.0
+06/11/2021,argentina,france,Stade de France,Saint-Denis,France,2021-11-06T20:00:00+00:00,1.0
+31/10/2020,italy,england,Stadio Olimpico,Roma,Italy,2020-10-31T16:45:00+00:00,1.0
+31/10/2020,england,italy,Stadio Olimpico,Roma,Italy,2020-10-31T16:45:00+00:00,1.0
+18/06/2016,usa,italy,Avaya Stadium,"San Jose, California",United States,2016-06-19T01:00:00+00:00,-7.0
+18/06/2016,italy,usa,Avaya Stadium,"San Jose, California",United States,2016-06-19T01:00:00+00:00,-7.0
+05/09/2015,wales,italy,Millennium Stadium,Cardiff,Wales,2015-09-05T16:00:00+00:00,1.0
+05/09/2015,italy,wales,Millennium Stadium,Cardiff,Wales,2015-09-05T16:00:00+00:00,1.0
+23/02/2018,france,italy,Stade Vélodrome,Marseille,France,2018-02-23T20:00:00+00:00,1.0
+23/02/2018,italy,france,Stade Vélodrome,Marseille,France,2018-02-23T20:00:00+00:00,1.0
+04/07/2021,england,usa,Twickenham,London,England,2021-07-04T13:00:00+00:00,1.0
+04/07/2021,usa,england,Twickenham,London,England,2021-07-04T13:00:00+00:00,1.0
+10/07/2024,uruguay,france,Estadio Charrúa,Montevideo,Uruguay,2024-07-10T17:00:00+00:00,-3.0
+10/07/2024,france,uruguay,Estadio Charrúa,Montevideo,Uruguay,2024-07-10T17:00:00+00:00,-3.0
+16/08/2025,south_africa,australia,Emirates Airline Park,Johannesburg,South Africa,2025-08-16T15:10:00+00:00,2.0
+16/08/2025,australia,south_africa,Emirates Airline Park,Johannesburg,South Africa,2025-08-16T15:10:00+00:00,2.0
+23/11/2024,italy,new_zealand,Allianz Stadium,Turin,Italy,2024-11-23T20:10:00+00:00,1.0
+23/11/2024,new_zealand,italy,Allianz Stadium,Turin,Italy,2024-11-23T20:10:00+00:00,1.0
+21/10/2023,england,south_africa,Stade de France,Saint-Denis,France,2023-10-21T19:00:00+00:00,2.0
+21/10/2023,south_africa,england,Stade de France,Saint-Denis,France,2023-10-21T19:00:00+00:00,2.0
+04/10/2025,australia,new_zealand,Optus Stadium,Perth,Australia,2025-10-04T09:45:00+00:00,8.0
+04/10/2025,new_zealand,australia,Optus Stadium,Perth,Australia,2025-10-04T09:45:00+00:00,8.0
+01/10/2015,france,canada,Stadiummk,Milton Keynes,England,2015-10-01T19:00:00+00:00,1.0
+01/10/2015,canada,france,Stadiummk,Milton Keynes,England,2015-10-01T19:00:00+00:00,1.0
+11/02/2018,scotland,france,Murrayfield,Edinburgh,Scotland,2018-02-11T15:00:00+00:00,0.0
+11/02/2018,france,scotland,Murrayfield,Edinburgh,Scotland,2018-02-11T15:00:00+00:00,0.0
+11/07/2026,south_africa,scotland,Loftus Versfeld,Pretoria,South Africa,2026-07-11T15:40:00+00:00,2.0
+11/07/2026,scotland,south_africa,Loftus Versfeld,Pretoria,South Africa,2026-07-11T15:40:00+00:00,2.0
+31/08/2019,wales,ireland,Principality Stadium,Cardiff,Wales,2019-08-31T13:30:00+00:00,1.0
+31/08/2019,ireland,wales,Principality Stadium,Cardiff,Wales,2019-08-31T13:30:00+00:00,1.0
+10/08/2024,new_zealand,argentina,Sky Stadium,Wellington,New Zealand,2024-08-10T07:05:00+00:00,12.0
+10/08/2024,argentina,new_zealand,Sky Stadium,Wellington,New Zealand,2024-08-10T07:05:00+00:00,12.0
+26/08/2023,scotland,georgia,Murrayfield,Edinburgh,Scotland,2023-08-26T16:30:00+00:00,1.0
+26/08/2023,georgia,scotland,Murrayfield,Edinburgh,Scotland,2023-08-26T16:30:00+00:00,1.0
+05/07/2025,japan,wales,Mikuni World Stadium,Kitakyushu,Japan,2025-07-05T05:00:00+00:00,9.0
+05/07/2025,wales,japan,Mikuni World Stadium,Kitakyushu,Japan,2025-07-05T05:00:00+00:00,9.0
+04/02/2018,italy,england,Stadio Olimpico,Roma,Italy,2018-02-04T15:00:00+00:00,1.0
+04/02/2018,england,italy,Stadio Olimpico,Roma,Italy,2018-02-04T15:00:00+00:00,1.0
+24/09/2022,new_zealand,australia,Eden Park,Auckland,New Zealand,2022-09-24T07:05:00+00:00,12.0
+24/09/2022,australia,new_zealand,Eden Park,Auckland,New Zealand,2022-09-24T07:05:00+00:00,12.0
+14/11/2020,italy,scotland,Stadio Artemio Franchi,Florence,Italy,2020-11-14T12:45:00+00:00,1.0
+14/11/2020,scotland,italy,Stadio Artemio Franchi,Florence,Italy,2020-11-14T12:45:00+00:00,1.0
+18/06/2016,australia,england,AAMI Park,Melbourne,Australia,2016-06-18T10:00:00+00:00,10.0
+18/06/2016,england,australia,AAMI Park,Melbourne,Australia,2016-06-18T10:00:00+00:00,10.0
+19/08/2023,wales,south_africa,Principality Stadium,Cardiff,Wales,2023-08-19T14:15:00+00:00,1.0
+19/08/2023,south_africa,wales,Principality Stadium,Cardiff,Wales,2023-08-19T14:15:00+00:00,1.0
+16/06/2018,argentina,wales,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2018-06-16T19:40:00+00:00,-3.0
+16/06/2018,wales,argentina,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2018-06-16T19:40:00+00:00,-3.0
+19/03/2022,ireland,scotland,Aviva Stadium,Dublin,Ireland,2022-03-19T16:45:00+00:00,0.0
+19/03/2022,scotland,ireland,Aviva Stadium,Dublin,Ireland,2022-03-19T16:45:00+00:00,0.0
+16/03/2019,italy,france,Stadio Olimpico,Roma,Italy,2019-03-16T12:30:00+00:00,1.0
+16/03/2019,france,italy,Stadio Olimpico,Roma,Italy,2019-03-16T12:30:00+00:00,1.0
+19/03/2016,wales,italy,Principality Stadium,Cardiff,Wales,2016-03-19T14:30:00+00:00,0.0
+19/03/2016,italy,wales,Principality Stadium,Cardiff,Wales,2016-03-19T14:30:00+00:00,0.0
+13/11/2021,ireland,new_zealand,Aviva Stadium,Dublin,Ireland,2021-11-13T15:15:00+00:00,0.0
+13/11/2021,new_zealand,ireland,Aviva Stadium,Dublin,Ireland,2021-11-13T15:15:00+00:00,0.0
+19/10/2019,england,australia,Oita Stadium,Oita Prefecture,Japan,2019-10-19T07:15:00+00:00,9.0
+19/10/2019,australia,england,Oita Stadium,Oita Prefecture,Japan,2019-10-19T07:15:00+00:00,9.0
+04/10/2025,argentina,south_africa,Allianz Stadium,London,England,2025-10-04T13:00:00+00:00,1.0
+04/10/2025,south_africa,argentina,Allianz Stadium,London,England,2025-10-04T13:00:00+00:00,1.0
+03/02/2024,italy,england,Stadio Olimpico,Roma,Italy,2024-02-03T14:15:00+00:00,1.0
+03/02/2024,england,italy,Stadio Olimpico,Roma,Italy,2024-02-03T14:15:00+00:00,1.0
+29/10/2022,scotland,australia,Murrayfield,Edinburgh,Scotland,2022-10-29T16:30:00+00:00,1.0
+29/10/2022,australia,scotland,Murrayfield,Edinburgh,Scotland,2022-10-29T16:30:00+00:00,1.0
+19/07/2025,new_zealand,france,FMG Stadium,Hamilton,New Zealand,2025-07-19T08:05:00+00:00,11.0
+19/07/2025,france,new_zealand,FMG Stadium,Hamilton,New Zealand,2025-07-19T08:05:00+00:00,11.0
+01/12/2018,barbarians,argentina,Twickenham,London,England,2018-12-01T14:30:00+00:00,0.0
+01/12/2018,argentina,barbarians,Twickenham,London,England,2018-12-01T14:30:00+00:00,0.0
+16/09/2017,australia,argentina,GIO Stadium,Canberra,Australia,2017-09-16T10:00:00+00:00,10.0
+16/09/2017,argentina,australia,GIO Stadium,Canberra,Australia,2017-09-16T10:00:00+00:00,10.0
+14/03/2026,ireland,scotland,Aviva Stadium,Dublin,Ireland,2026-03-14T14:10:00+00:00,0.0
+14/03/2026,scotland,ireland,Aviva Stadium,Dublin,Ireland,2026-03-14T14:10:00+00:00,0.0
+22/06/2024,japan,england,Japan National Stadium,Tokyo,Japan,2024-06-22T05:50:00+00:00,9.0
+22/06/2024,england,japan,Japan National Stadium,Tokyo,Japan,2024-06-22T05:50:00+00:00,9.0
+31/10/2020,france,ireland,Stade de France,Saint-Denis,France,2020-10-31T20:05:00+00:00,1.0
+31/10/2020,ireland,france,Stade de France,Saint-Denis,France,2020-10-31T20:05:00+00:00,1.0
+10/09/2023,wales,fiji,Stade de Bordeaux,Bordeaux,France,2023-09-10T19:00:00+00:00,2.0
+10/09/2023,fiji,wales,Stade de Bordeaux,Bordeaux,France,2023-09-10T19:00:00+00:00,2.0
+04/11/2017,barbarians,new_zealand,Twickenham,London,England,2017-11-04T15:00:00+00:00,0.0
+04/11/2017,new_zealand,barbarians,Twickenham,London,England,2017-11-04T15:00:00+00:00,0.0
+26/08/2023,england,fiji,Twickenham,London,England,2023-08-26T14:15:00+00:00,1.0
+26/08/2023,fiji,england,Twickenham,London,England,2023-08-26T14:15:00+00:00,1.0
+10/10/2015,samoa,scotland,St James Park,Newcastle upon Tyne,England,2015-10-10T13:30:00+00:00,1.0
+10/10/2015,scotland,samoa,St James Park,Newcastle upon Tyne,England,2015-10-10T13:30:00+00:00,1.0
+26/11/2016,england,argentina,Twickenham,London,England,2016-11-26T14:30:00+00:00,0.0
+26/11/2016,argentina,england,Twickenham,London,England,2016-11-26T14:30:00+00:00,0.0
+13/11/2021,italy,argentina,Stadio Comunale di Monigo,Treviso,Italy,2021-11-13T13:00:00+00:00,1.0
+13/11/2021,argentina,italy,Stadio Comunale di Monigo,Treviso,Italy,2021-11-13T13:00:00+00:00,1.0
+05/11/2022,italy,samoa,Stadio Plebiscito,Padova,Italy,2022-11-05T13:00:00+00:00,1.0
+05/11/2022,samoa,italy,Stadio Plebiscito,Padova,Italy,2022-11-05T13:00:00+00:00,1.0
+19/08/2017,south_africa,argentina,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2017-08-19T15:05:00+00:00,2.0
+19/08/2017,argentina,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2017-08-19T15:05:00+00:00,2.0
+24/10/2020,ireland,italy,Aviva Stadium,Dublin,Ireland,2020-10-24T14:30:00+00:00,1.0
+24/10/2020,italy,ireland,Aviva Stadium,Dublin,Ireland,2020-10-24T14:30:00+00:00,1.0
+20/09/2015,new_zealand,argentina,Wembley Stadium,London,England,2015-09-20T15:45:00+00:00,1.0
+20/09/2015,argentina,new_zealand,Wembley Stadium,London,England,2015-09-20T15:45:00+00:00,1.0
+21/07/2024,japan,italy,Sapporo Dome,Sapporo,Japan,2024-07-21T05:05:00+00:00,9.0
+21/07/2024,italy,japan,Sapporo Dome,Sapporo,Japan,2024-07-21T05:05:00+00:00,9.0
+18/10/2020,new_zealand,australia,Eden Park,Auckland,New Zealand,2020-10-18T03:00:00+00:00,13.0
+18/10/2020,australia,new_zealand,Eden Park,Auckland,New Zealand,2020-10-18T03:00:00+00:00,13.0
+14/10/2023,wales,argentina,Stade de Marseille,Marseille,France,2023-10-14T15:00:00+00:00,2.0
+14/10/2023,argentina,wales,Stade de Marseille,Marseille,France,2023-10-14T15:00:00+00:00,2.0
+22/06/2024,south_africa,wales,Twickenham,London,England,2024-06-22T13:00:00+00:00,1.0
+22/06/2024,wales,south_africa,Twickenham,London,England,2024-06-22T13:00:00+00:00,1.0
+12/11/2022,france,south_africa,Stade Vélodrome,Marseille,France,2022-11-12T20:00:00+00:00,1.0
+12/11/2022,south_africa,france,Stade Vélodrome,Marseille,France,2022-11-12T20:00:00+00:00,1.0
+20/11/2021,england,south_africa,Twickenham,London,England,2021-11-20T15:15:00+00:00,0.0
+20/11/2021,south_africa,england,Twickenham,London,England,2021-11-20T15:15:00+00:00,0.0
+26/08/2017,new_zealand,australia,Forsyth Barr Stadium,Dunedin,New Zealand,2017-08-26T07:35:00+00:00,12.0
+26/08/2017,australia,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2017-08-26T07:35:00+00:00,12.0
+20/11/2021,france,new_zealand,Stade de France,Saint-Denis,France,2021-11-20T20:00:00+00:00,1.0
+20/11/2021,new_zealand,france,Stade de France,Saint-Denis,France,2021-11-20T20:00:00+00:00,1.0
+10/11/2018,italy,georgia,Stadio Artemio Franchi,Florence,Italy,2018-11-10T13:00:00+00:00,1.0
+10/11/2018,georgia,italy,Stadio Artemio Franchi,Florence,Italy,2018-11-10T13:00:00+00:00,1.0
+22/08/2015,france,england,Stade de France,Saint-Denis,France,2015-08-22T19:00:00+00:00,2.0
+22/08/2015,england,france,Stade de France,Saint-Denis,France,2015-08-22T19:00:00+00:00,2.0
+02/08/2025,australia,british & irish lions,Accor Stadium,Sydney,Australia,2025-08-02T10:00:00+00:00,10.0
+02/08/2025,british & irish lions,australia,Accor Stadium,Sydney,Australia,2025-08-02T10:00:00+00:00,10.0
+05/11/2016,ireland,new_zealand,Soldier Field Stadium,Chicago,United States,2016-11-05T20:00:00+00:00,-5.0
+05/11/2016,new_zealand,ireland,Soldier Field Stadium,Chicago,United States,2016-11-05T20:00:00+00:00,-5.0
+27/02/2016,england,ireland,Twickenham,London,England,2016-02-27T16:50:00+00:00,0.0
+27/02/2016,ireland,england,Twickenham,London,England,2016-02-27T16:50:00+00:00,0.0
+27/08/2016,new_zealand,australia,Westpac Stadium,Wellington,New Zealand,2016-08-27T07:35:00+00:00,12.0
+27/08/2016,australia,new_zealand,Westpac Stadium,Wellington,New Zealand,2016-08-27T07:35:00+00:00,12.0
+17/06/2017,fiji,italy,ANZ Stadium,Suva,Fiji,2017-06-17T02:30:00+00:00,12.0
+17/06/2017,italy,fiji,ANZ Stadium,Suva,Fiji,2017-06-17T02:30:00+00:00,12.0
+12/11/2022,wales,argentina,Principality Stadium,Cardiff,Wales,2022-11-12T17:30:00+00:00,0.0
+12/11/2022,argentina,wales,Principality Stadium,Cardiff,Wales,2022-11-12T17:30:00+00:00,0.0
+06/08/2022,south_africa,new_zealand,Mbombela Stadium,Mbombela,South Africa,2022-08-06T15:05:00+00:00,2.0
+06/08/2022,new_zealand,south_africa,Mbombela Stadium,Mbombela,South Africa,2022-08-06T15:05:00+00:00,2.0
+15/03/2015,italy,france,Stadio Olimpico,Roma,Italy,2015-03-15T15:00:00+00:00,1.0
+15/03/2015,france,italy,Stadio Olimpico,Roma,Italy,2015-03-15T15:00:00+00:00,1.0
+30/10/2021,scotland,tonga,Murrayfield,Edinburgh,Scotland,2021-10-30T14:30:00+00:00,0.0
+30/10/2021,tonga,scotland,Murrayfield,Edinburgh,Scotland,2021-10-30T14:30:00+00:00,0.0
+23/09/2023,england,chile,Stade Pierre-Mauroy,Lille,France,2023-09-23T15:45:00+00:00,2.0
+23/09/2023,chile,england,Stade Pierre-Mauroy,Lille,France,2023-09-23T15:45:00+00:00,2.0
+07/02/2016,ireland,wales,Aviva Stadium,Dublin,Ireland,2016-02-07T15:00:00+00:00,0.0
+07/02/2016,wales,ireland,Aviva Stadium,Dublin,Ireland,2016-02-07T15:00:00+00:00,0.0
+04/07/2026,fiji,wales,Cardiff City Stadium,Cardiff,Wales,2026-07-04T13:10:00+00:00,1.0
+04/07/2026,wales,fiji,Cardiff City Stadium,Cardiff,Wales,2026-07-04T13:10:00+00:00,1.0
+11/10/2019,australia,georgia,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-10-11T10:15:00+00:00,9.0
+11/10/2019,georgia,australia,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-10-11T10:15:00+00:00,9.0
+24/02/2019,italy,ireland,Stadio Olimpico,Roma,Italy,2019-02-24T15:00:00+00:00,1.0
+24/02/2019,ireland,italy,Stadio Olimpico,Roma,Italy,2019-02-24T15:00:00+00:00,1.0
+18/10/2015,ireland,argentina,Millennium Stadium,Cardiff,Wales,2015-10-18T12:00:00+00:00,1.0
+18/10/2015,argentina,ireland,Millennium Stadium,Cardiff,Wales,2015-10-18T12:00:00+00:00,1.0
+07/11/2021,scotland,australia,Murrayfield,Edinburgh,Scotland,2021-11-07T14:15:00+00:00,0.0
+07/11/2021,australia,scotland,Murrayfield,Edinburgh,Scotland,2021-11-07T14:15:00+00:00,0.0
+10/03/2019,ireland,france,Aviva Stadium,Dublin,Ireland,2019-03-10T15:00:00+00:00,0.0
+10/03/2019,france,ireland,Aviva Stadium,Dublin,Ireland,2019-03-10T15:00:00+00:00,0.0
+14/11/2021,wales,fiji,Principality Stadium,Cardiff,Wales,2021-11-14T15:15:00+00:00,0.0
+14/11/2021,fiji,wales,Principality Stadium,Cardiff,Wales,2021-11-14T15:15:00+00:00,0.0
+07/09/2019,ireland,wales,Aviva Stadium,Dublin,Ireland,2019-09-07T13:00:00+00:00,1.0
+07/09/2019,wales,ireland,Aviva Stadium,Dublin,Ireland,2019-09-07T13:00:00+00:00,1.0
+07/09/2019,new_zealand,tonga,FMG Stadium,Hamilton,New Zealand,2019-09-07T02:35:00+00:00,12.0
+07/09/2019,tonga,new_zealand,FMG Stadium,Hamilton,New Zealand,2019-09-07T02:35:00+00:00,12.0
+09/09/2017,new_zealand,argentina,Yarrows Stadium,New Plymouth,New Zealand,2017-09-09T07:35:00+00:00,12.0
+09/09/2017,argentina,new_zealand,Yarrows Stadium,New Plymouth,New Zealand,2017-09-09T07:35:00+00:00,12.0
+20/11/2022,france,japan,Stadium de Toulouse,Toulouse,France,2022-11-20T13:00:00+00:00,1.0
+20/11/2022,japan,france,Stadium de Toulouse,Toulouse,France,2022-11-20T13:00:00+00:00,1.0
+13/02/2016,wales,scotland,Principality Stadium,Cardiff,Wales,2016-02-13T16:50:00+00:00,0.0
+13/02/2016,scotland,wales,Principality Stadium,Cardiff,Wales,2016-02-13T16:50:00+00:00,0.0
+18/09/2021,australia,south_africa,Suncorp Stadium,Brisbane,Australia,2021-09-18T07:05:00+00:00,10.0
+18/09/2021,south_africa,australia,Suncorp Stadium,Brisbane,Australia,2021-09-18T07:05:00+00:00,10.0
+12/02/2022,wales,scotland,Principality Stadium,Cardiff,Wales,2022-02-12T14:15:00+00:00,0.0
+12/02/2022,scotland,wales,Principality Stadium,Cardiff,Wales,2022-02-12T14:15:00+00:00,0.0
+12/08/2023,england,wales,Twickenham,London,England,2023-08-12T16:30:00+00:00,1.0
+12/08/2023,wales,england,Twickenham,London,England,2023-08-12T16:30:00+00:00,1.0
+31/07/2021,south_africa,british & irish lions,Cape Town Stadium,Cape Town,South Africa,2021-07-31T16:00:00+00:00,2.0
+31/07/2021,british & irish lions,south_africa,Cape Town Stadium,Cape Town,South Africa,2021-07-31T16:00:00+00:00,2.0
+28/09/2019,south_africa,namibia,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2019-09-28T09:45:00+00:00,9.0
+28/09/2019,namibia,south_africa,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2019-09-28T09:45:00+00:00,9.0
+21/11/2020,england,ireland,Twickenham,London,England,2020-11-21T15:00:00+00:00,0.0
+21/11/2020,ireland,england,Twickenham,London,England,2020-11-21T15:00:00+00:00,0.0
+12/11/2022,england,japan,Twickenham,London,England,2022-11-12T15:15:00+00:00,0.0
+12/11/2022,japan,england,Twickenham,London,England,2022-11-12T15:15:00+00:00,0.0
+20/07/2019,argentina,new_zealand,Estadio José Amalfitani,Buenos Aires,Argentina,2019-07-20T18:05:00+00:00,-3.0
+20/07/2019,new_zealand,argentina,Estadio José Amalfitani,Buenos Aires,Argentina,2019-07-20T18:05:00+00:00,-3.0
+09/03/2019,scotland,wales,Murrayfield,Edinburgh,Scotland,2019-03-09T14:15:00+00:00,0.0
+09/03/2019,wales,scotland,Murrayfield,Edinburgh,Scotland,2019-03-09T14:15:00+00:00,0.0
+18/11/2017,england,australia,Twickenham,London,England,2017-11-18T14:30:00+00:00,0.0
+18/11/2017,australia,england,Twickenham,London,England,2017-11-18T14:30:00+00:00,0.0
+17/11/2024,wales,australia,Principality Stadium,Cardiff,Wales,2024-11-17T16:10:00+00:00,0.0
+17/11/2024,australia,wales,Principality Stadium,Cardiff,Wales,2024-11-17T16:10:00+00:00,0.0
+10/11/2024,wales,fiji,Principality Stadium,Cardiff,Wales,2024-11-10T13:40:00+00:00,0.0
+10/11/2024,fiji,wales,Principality Stadium,Cardiff,Wales,2024-11-10T13:40:00+00:00,0.0
+18/09/2021,argentina,new_zealand,Suncorp Stadium,Brisbane,Australia,2021-09-18T10:05:00+00:00,10.0
+18/09/2021,new_zealand,argentina,Suncorp Stadium,Brisbane,Australia,2021-09-18T10:05:00+00:00,10.0
+29/08/2015,scotland,italy,Murrayfield,Edinburgh,Scotland,2015-08-29T14:15:00+00:00,1.0
+29/08/2015,italy,scotland,Murrayfield,Edinburgh,Scotland,2015-08-29T14:15:00+00:00,1.0
+23/05/2015,paraguay,argentina,Estadio Heroes De Curupayty,Luque,Paraguay,2015-05-24T00:00:00+00:00,-4.0
+23/05/2015,argentina,paraguay,Estadio Heroes De Curupayty,Luque,Paraguay,2015-05-24T00:00:00+00:00,-4.0
+23/10/2021,usa,new_zealand,FedExField,Washington D.C.,United States,2021-10-23T21:00:00+00:00,-5.5
+23/10/2021,new_zealand,usa,FedExField,Washington D.C.,United States,2021-10-23T21:00:00+00:00,-5.5
+26/11/2016,ireland,australia,Aviva Stadium,Dublin,Ireland,2016-11-26T17:30:00+00:00,0.0
+26/11/2016,australia,ireland,Aviva Stadium,Dublin,Ireland,2016-11-26T17:30:00+00:00,0.0
+28/06/2025,south_africa,barbarians,DHL Stadium,Cape Town,South Africa,2025-06-28T15:10:00+00:00,2.0
+28/06/2025,barbarians,south_africa,DHL Stadium,Cape Town,South Africa,2025-06-28T15:10:00+00:00,2.0
+17/10/2015,south_africa,wales,Twickenham,London,England,2015-10-17T15:00:00+00:00,1.0
+17/10/2015,wales,south_africa,Twickenham,London,England,2015-10-17T15:00:00+00:00,1.0
+24/08/2019,england,ireland,Twickenham,London,England,2019-08-24T14:00:00+00:00,1.0
+24/08/2019,ireland,england,Twickenham,London,England,2019-08-24T14:00:00+00:00,1.0
+12/11/2022,ireland,fiji,Aviva Stadium,Dublin,Ireland,2022-11-12T13:00:00+00:00,0.0
+12/11/2022,fiji,ireland,Aviva Stadium,Dublin,Ireland,2022-11-12T13:00:00+00:00,0.0
+02/07/2021,south_africa,georgia,Loftus Versfeld,Pretoria,South Africa,2021-07-02T17:00:00+00:00,2.0
+02/07/2021,georgia,south_africa,Loftus Versfeld,Pretoria,South Africa,2021-07-02T17:00:00+00:00,2.0
+18/07/2025,samoa,scotland,Eden Park,Auckland,New Zealand,2025-07-18T09:05:00+00:00,11.0
+18/07/2025,scotland,samoa,Eden Park,Auckland,New Zealand,2025-07-18T09:05:00+00:00,11.0
+10/02/2019,england,france,Twickenham,London,England,2019-02-10T15:00:00+00:00,0.0
+10/02/2019,france,england,Twickenham,London,England,2019-02-10T15:00:00+00:00,0.0
+26/06/2016,canada,italy,BMO Field,Toronto,Canada,2016-06-26T16:00:00+00:00,-4.0
+26/06/2016,italy,canada,BMO Field,Toronto,Canada,2016-06-26T16:00:00+00:00,-4.0
+19/08/2023,italy,romania,Stadio Riviera Della Palme,San Benedetto del Tronto,Italy,2023-08-19T16:30:00+00:00,2.0
+19/08/2023,romania,italy,Stadio Riviera Della Palme,San Benedetto del Tronto,Italy,2023-08-19T16:30:00+00:00,2.0
+19/11/2016,france,australia,Stade de France,Saint-Denis,France,2016-11-19T20:00:00+00:00,1.0
+19/11/2016,australia,france,Stade de France,Saint-Denis,France,2016-11-19T20:00:00+00:00,1.0
+24/11/2018,england,australia,Twickenham,London,England,2018-11-24T15:00:00+00:00,0.0
+24/11/2018,australia,england,Twickenham,London,England,2018-11-24T15:00:00+00:00,0.0
+21/02/2026,wales,scotland,Principality Stadium,Cardiff,Wales,2026-02-21T16:40:00+00:00,0.0
+21/02/2026,scotland,wales,Principality Stadium,Cardiff,Wales,2026-02-21T16:40:00+00:00,0.0
+18/06/2016,south_africa,ireland,Ellis Park,Johannesburg,South Africa,2016-06-18T15:00:00+00:00,2.0
+18/06/2016,ireland,south_africa,Ellis Park,Johannesburg,South Africa,2016-06-18T15:00:00+00:00,2.0
+18/11/2017,scotland,new_zealand,Murrayfield,Edinburgh,Scotland,2017-11-18T17:15:00+00:00,0.0
+18/11/2017,new_zealand,scotland,Murrayfield,Edinburgh,Scotland,2017-11-18T17:15:00+00:00,0.0
+23/06/2017,samoa,wales,Apia Park,Apia,Samoa,2017-06-23T06:30:00+00:00,13.0
+23/06/2017,wales,samoa,Apia Park,Apia,Samoa,2017-06-23T06:30:00+00:00,13.0
+10/03/2018,ireland,scotland,Aviva Stadium,Dublin,Ireland,2018-03-10T14:15:00+00:00,0.0
+10/03/2018,scotland,ireland,Aviva Stadium,Dublin,Ireland,2018-03-10T14:15:00+00:00,0.0
+09/07/2022,new_zealand,ireland,Forsyth Barr Stadium,Dunedin,New Zealand,2022-07-09T07:05:00+00:00,12.0
+09/07/2022,ireland,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2022-07-09T07:05:00+00:00,12.0
+27/06/2026,barbarians,wales,Allianz Stadium,London,England,2026-06-27T13:00:00+00:00,1.0
+27/06/2026,wales,barbarians,Allianz Stadium,London,England,2026-06-27T13:00:00+00:00,1.0
+23/09/2015,australia,fiji,Millennium Stadium,Cardiff,Wales,2015-09-23T15:45:00+00:00,1.0
+23/09/2015,fiji,australia,Millennium Stadium,Cardiff,Wales,2015-09-23T15:45:00+00:00,1.0
+12/07/2025,fiji,scotland,HFC Bank Stadium,Suva,Fiji,2025-07-12T04:00:00+00:00,11.0
+12/07/2025,scotland,fiji,HFC Bank Stadium,Suva,Fiji,2025-07-12T04:00:00+00:00,11.0
+17/08/2019,italy,russia,Stadio Riviera Della Palme,San Benedetto del Tronto,Italy,2019-08-17T16:25:00+00:00,2.0
+17/08/2019,russia,italy,Stadio Riviera Della Palme,San Benedetto del Tronto,Italy,2019-08-17T16:25:00+00:00,2.0
+09/06/2018,japan,italy,Oita Stadium,Oita Prefecture,Japan,2018-06-09T05:45:00+00:00,9.0
+09/06/2018,italy,japan,Oita Stadium,Oita Prefecture,Japan,2018-06-09T05:45:00+00:00,9.0
+11/07/2026,australia,france,Brisbane Stadium,Brisbane,Australia,2026-07-11T07:40:00+00:00,10.0
+11/07/2026,france,australia,Brisbane Stadium,Brisbane,Australia,2026-07-11T07:40:00+00:00,10.0
+27/10/2018,new_zealand,australia,Nissan Stadium,"Kanagawa Prefecture, Yokohama City",Japan,2018-10-27T06:00:00+00:00,9.0
+27/10/2018,australia,new_zealand,Nissan Stadium,"Kanagawa Prefecture, Yokohama City",Japan,2018-10-27T06:00:00+00:00,9.0
+25/02/2017,scotland,wales,Murrayfield,Edinburgh,Scotland,2017-02-25T14:25:00+00:00,0.0
+25/02/2017,wales,scotland,Murrayfield,Edinburgh,Scotland,2017-02-25T14:25:00+00:00,0.0
+11/03/2023,italy,wales,Stadio Olimpico,Roma,Italy,2023-03-11T14:15:00+00:00,1.0
+11/03/2023,wales,italy,Stadio Olimpico,Roma,Italy,2023-03-11T14:15:00+00:00,1.0
+17/11/2018,scotland,south_africa,Murrayfield,Edinburgh,Scotland,2018-11-17T17:20:00+00:00,0.0
+17/11/2018,south_africa,scotland,Murrayfield,Edinburgh,Scotland,2018-11-17T17:20:00+00:00,0.0
+18/11/2017,italy,argentina,Stadio Artemio Franchi,Florence,Italy,2017-11-18T13:00:00+00:00,1.0
+18/11/2017,argentina,italy,Stadio Artemio Franchi,Florence,Italy,2017-11-18T13:00:00+00:00,1.0
+18/07/2026,australia,italy,HBF Park,Perth,Australia,2026-07-18T10:10:00+00:00,8.0
+18/07/2026,italy,australia,HBF Park,Perth,Australia,2026-07-18T10:10:00+00:00,8.0
+04/07/2026,argentina,scotland,Estadio Mario Alberto Kempes,Cordoba,Argentina,2026-07-04T19:10:00+00:00,-3.0
+04/07/2026,scotland,argentina,Estadio Mario Alberto Kempes,Cordoba,Argentina,2026-07-04T19:10:00+00:00,-3.0
+04/02/2023,wales,ireland,Principality Stadium,Cardiff,Wales,2023-02-04T14:15:00+00:00,0.0
+04/02/2023,ireland,wales,Principality Stadium,Cardiff,Wales,2023-02-04T14:15:00+00:00,0.0
+20/07/2024,chile,scotland,Estadio Nacional,Santiago,Chile,2024-07-21T00:00:00+00:00,-4.0
+20/07/2024,scotland,chile,Estadio Nacional,Santiago,Chile,2024-07-21T00:00:00+00:00,-4.0
+10/02/2024,england,wales,Twickenham,London,England,2024-02-10T16:45:00+00:00,0.0
+10/02/2024,wales,england,Twickenham,London,England,2024-02-10T16:45:00+00:00,0.0
+14/02/2015,england,italy,Twickenham,London,England,2015-02-14T14:30:00+00:00,0.0
+14/02/2015,italy,england,Twickenham,London,England,2015-02-14T14:30:00+00:00,0.0
+19/10/2019,new_zealand,ireland,Tokyo Stadium,Tokyo,Japan,2019-10-19T10:15:00+00:00,9.0
+19/10/2019,ireland,new_zealand,Tokyo Stadium,Tokyo,Japan,2019-10-19T10:15:00+00:00,9.0
+18/07/2026,south_africa,wales,Hollywoodbets Kings Park,Durban,South Africa,2026-07-18T15:40:00+00:00,2.0
+18/07/2026,wales,south_africa,Hollywoodbets Kings Park,Durban,South Africa,2026-07-18T15:40:00+00:00,2.0
+17/11/2018,england,japan,Twickenham,London,England,2018-11-17T15:00:00+00:00,0.0
+17/11/2018,japan,england,Twickenham,London,England,2018-11-17T15:00:00+00:00,0.0
+18/10/2015,australia,scotland,Twickenham,London,England,2015-10-18T15:00:00+00:00,1.0
+18/10/2015,scotland,australia,Twickenham,London,England,2015-10-18T15:00:00+00:00,1.0
+29/11/2025,wales,south_africa,Principality Stadium,Cardiff,Wales,2025-11-29T15:10:00+00:00,0.0
+29/11/2025,south_africa,wales,Principality Stadium,Cardiff,Wales,2025-11-29T15:10:00+00:00,0.0
+11/08/2019,england,wales,Twickenham,London,England,2019-08-11T13:00:00+00:00,1.0
+11/08/2019,wales,england,Twickenham,London,England,2019-08-11T13:00:00+00:00,1.0
+09/07/2022,argentina,scotland,Estadio Padre Ernesto Martearena,Salta,Argentina,2022-07-09T19:10:00+00:00,-3.0
+09/07/2022,scotland,argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,2022-07-09T19:10:00+00:00,-3.0
+23/08/2025,south_africa,australia,DHL Stadium,Cape Town,South Africa,2025-08-23T15:10:00+00:00,2.0
+23/08/2025,australia,south_africa,DHL Stadium,Cape Town,South Africa,2025-08-23T15:10:00+00:00,2.0
+12/07/2025,south_africa,italy,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2025-07-12T16:10:00+00:00,1.0
+12/07/2025,italy,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2025-07-12T16:10:00+00:00,1.0
+06/10/2019,new_zealand,namibia,Tokyo Stadium,Tokyo,Japan,2019-10-06T04:45:00+00:00,9.0
+06/10/2019,namibia,new_zealand,Tokyo Stadium,Tokyo,Japan,2019-10-06T04:45:00+00:00,9.0
+14/11/2017,france xv,new_zealand,Groupama Stadium,Lyon,France,2017-11-14T17:55:00+00:00,1.0
+14/11/2017,new_zealand,france xv,Groupama Stadium,Lyon,France,2017-11-14T17:55:00+00:00,1.0
+16/05/2015,uruguay,argentina,Estadio Charrúa,Montevideo,Uruguay,2015-05-16T18:30:00+00:00,-3.0
+16/05/2015,argentina,uruguay,Estadio Charrúa,Montevideo,Uruguay,2015-05-16T18:30:00+00:00,-3.0
+18/07/2026,argentina,england,Estadio Único Madre de Ciudades,Santiago del Estero,Argentina,2026-07-18T19:10:00+00:00,-3.0
+18/07/2026,england,argentina,Estadio Único Madre de Ciudades,Santiago del Estero,Argentina,2026-07-18T19:10:00+00:00,-3.0
+10/08/2024,australia,south_africa,Suncorp Stadium,Brisbane,Australia,2024-08-10T04:45:00+00:00,10.0
+10/08/2024,south_africa,australia,Suncorp Stadium,Brisbane,Australia,2024-08-10T04:45:00+00:00,10.0
+07/10/2017,argentina,australia,Estadio Malvinas Argentinas,Mendoza,Argentina,2017-10-07T22:30:00+00:00,-3.0
+07/10/2017,australia,argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,2017-10-07T22:30:00+00:00,-3.0
+05/07/2024,samoa,italy,Apia Park,Apia,Samoa,2024-07-05T04:00:00+00:00,13.0
+05/07/2024,italy,samoa,Apia Park,Apia,Samoa,2024-07-05T04:00:00+00:00,13.0
+10/11/2018,wales,australia,Principality Stadium,Cardiff,Wales,2018-11-10T17:20:00+00:00,0.0
+10/11/2018,australia,wales,Principality Stadium,Cardiff,Wales,2018-11-10T17:20:00+00:00,0.0
+14/03/2021,scotland,ireland,Murrayfield,Edinburgh,Scotland,2021-03-14T15:00:00+00:00,0.0
+14/03/2021,ireland,scotland,Murrayfield,Edinburgh,Scotland,2021-03-14T15:00:00+00:00,0.0
+11/07/2026,new_zealand,italy,Sky Stadium,Wellington,New Zealand,2026-07-11T05:10:00+00:00,12.0
+11/07/2026,italy,new_zealand,Sky Stadium,Wellington,New Zealand,2026-07-11T05:10:00+00:00,12.0
+13/07/2021,australia,france,AAMI Park,Melbourne,Australia,2021-07-13T12:00:00+00:00,8.0
+13/07/2021,france,australia,AAMI Park,Melbourne,Australia,2021-07-13T12:00:00+00:00,8.0
+02/10/2019,new_zealand,canada,Oita Stadium,Oita Prefecture,Japan,2019-10-02T10:15:00+00:00,9.0
+02/10/2019,canada,new_zealand,Oita Stadium,Oita Prefecture,Japan,2019-10-02T10:15:00+00:00,9.0
+01/10/2016,south_africa,australia,Loftus Versfeld,Pretoria,South Africa,2016-10-01T15:05:00+00:00,2.0
+01/10/2016,australia,south_africa,Loftus Versfeld,Pretoria,South Africa,2016-10-01T15:05:00+00:00,2.0
+05/02/2023,italy,france,Stadio Olimpico,Roma,Italy,2023-02-05T15:00:00+00:00,1.0
+05/02/2023,france,italy,Stadio Olimpico,Roma,Italy,2023-02-05T15:00:00+00:00,1.0
+11/10/2015,italy,romania,Sandy Park,Exeter,England,2015-10-11T13:30:00+00:00,1.0
+11/10/2015,romania,italy,Sandy Park,Exeter,England,2015-10-11T13:30:00+00:00,1.0
+26/07/2025,australia,british & irish lions,Melbourne Cricket Ground,Melbourne,Australia,2025-07-26T10:00:00+00:00,10.0
+26/07/2025,british & irish lions,australia,Melbourne Cricket Ground,Melbourne,Australia,2025-07-26T10:00:00+00:00,10.0
+18/03/2017,ireland,england,Aviva Stadium,Dublin,Ireland,2017-03-18T17:00:00+00:00,0.0
+18/03/2017,england,ireland,Aviva Stadium,Dublin,Ireland,2017-03-18T17:00:00+00:00,0.0
+20/11/2021,italy,uruguay,Stadio Sergio Lanfranchi,Parma,Italy,2021-11-20T13:00:00+00:00,1.0
+20/11/2021,uruguay,italy,Stadio Sergio Lanfranchi,Parma,Italy,2021-11-20T13:00:00+00:00,1.0
+07/10/2015,south_africa,usa,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-10-07T15:45:00+00:00,1.0
+07/10/2015,usa,south_africa,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-10-07T15:45:00+00:00,1.0
+29/09/2018,argentina,new_zealand,Velez Sarsfield Stadium,Buenos Aires,Argentina,2018-09-29T22:40:00+00:00,-3.0
+29/09/2018,new_zealand,argentina,Velez Sarsfield Stadium,Buenos Aires,Argentina,2018-09-29T22:40:00+00:00,-3.0
+05/10/2019,australia,uruguay,Oita Stadium,Oita Prefecture,Japan,2019-10-05T05:15:00+00:00,9.0
+05/10/2019,uruguay,australia,Oita Stadium,Oita Prefecture,Japan,2019-10-05T05:15:00+00:00,9.0
+01/11/2019,new_zealand,wales,Tokyo Stadium,Tokyo,Japan,2019-11-01T09:00:00+00:00,9.0
+01/11/2019,wales,new_zealand,Tokyo Stadium,Tokyo,Japan,2019-11-01T09:00:00+00:00,9.0
+02/06/2018,south_africa,wales,Robert F. Kennedy Stadium,Washington D.C.,United States,2018-06-02T21:00:00+00:00,-4.0
+02/06/2018,wales,south_africa,Robert F. Kennedy Stadium,Washington D.C.,United States,2018-06-02T21:00:00+00:00,-4.0
+15/08/2015,new_zealand,australia,Eden Park,Auckland,New Zealand,2015-08-15T07:35:00+00:00,12.0
+15/08/2015,australia,new_zealand,Eden Park,Auckland,New Zealand,2015-08-15T07:35:00+00:00,12.0
+12/07/2025,new_zealand,france,Sky Stadium,Wellington,New Zealand,2025-07-12T08:05:00+00:00,11.0
+12/07/2025,france,new_zealand,Sky Stadium,Wellington,New Zealand,2025-07-12T08:05:00+00:00,11.0
+25/11/2017,ireland,argentina,Aviva Stadium,Dublin,Ireland,2017-11-25T17:30:00+00:00,0.0
+25/11/2017,argentina,ireland,Aviva Stadium,Dublin,Ireland,2017-11-25T17:30:00+00:00,0.0
+03/11/2018,japan,new_zealand,Ajinomoto Stadium,"Chofu City, Tokyo",Japan,2018-11-03T05:45:00+00:00,9.0
+03/11/2018,new_zealand,japan,Ajinomoto Stadium,"Chofu City, Tokyo",Japan,2018-11-03T05:45:00+00:00,9.0
+19/07/2025,australia,british & irish lions,Suncorp Stadium,Brisbane,Australia,2025-07-19T10:00:00+00:00,10.0
+19/07/2025,british & irish lions,australia,Suncorp Stadium,Brisbane,Australia,2025-07-19T10:00:00+00:00,10.0
+17/07/2021,new_zealand,fiji,FMG Stadium,Hamilton,New Zealand,2021-07-17T07:05:00+00:00,12.0
+17/07/2021,fiji,new_zealand,FMG Stadium,Hamilton,New Zealand,2021-07-17T07:05:00+00:00,12.0
+12/02/2023,england,italy,Twickenham,London,England,2023-02-12T15:00:00+00:00,0.0
+12/02/2023,italy,england,Twickenham,London,England,2023-02-12T15:00:00+00:00,0.0
+16/11/2025,scotland,argentina,Murrayfield,Edinburgh,Scotland,2025-11-16T15:10:00+00:00,0.0
+16/11/2025,argentina,scotland,Murrayfield,Edinburgh,Scotland,2025-11-16T15:10:00+00:00,0.0
+17/08/2024,new_zealand,argentina,Eden Park,Auckland,New Zealand,2024-08-17T07:05:00+00:00,12.0
+17/08/2024,argentina,new_zealand,Eden Park,Auckland,New Zealand,2024-08-17T07:05:00+00:00,12.0
+19/11/2016,scotland,argentina,Murrayfield,Edinburgh,Scotland,2016-11-19T17:00:00+00:00,0.0
+19/11/2016,argentina,scotland,Murrayfield,Edinburgh,Scotland,2016-11-19T17:00:00+00:00,0.0
+04/10/2019,south_africa,italy,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-10-04T09:45:00+00:00,9.0
+04/10/2019,italy,south_africa,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-10-04T09:45:00+00:00,9.0
+07/10/2017,south_africa,new_zealand,Newlands Stadium,Cape Town,South Africa,2017-10-07T15:05:00+00:00,2.0
+07/10/2017,new_zealand,south_africa,Newlands Stadium,Cape Town,South Africa,2017-10-07T15:05:00+00:00,2.0
+09/10/2015,new_zealand,tonga,St James Park,Newcastle upon Tyne,England,2015-10-09T19:00:00+00:00,1.0
+09/10/2015,tonga,new_zealand,St James Park,Newcastle upon Tyne,England,2015-10-09T19:00:00+00:00,1.0
+02/07/2022,japan,france,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2022-07-02T06:00:00+00:00,9.0
+02/07/2022,france,japan,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2022-07-02T06:00:00+00:00,9.0
+18/03/2017,scotland,italy,Murrayfield,Edinburgh,Scotland,2017-03-18T12:30:00+00:00,0.0
+18/03/2017,italy,scotland,Murrayfield,Edinburgh,Scotland,2017-03-18T12:30:00+00:00,0.0
+18/03/2023,scotland,italy,Murrayfield,Edinburgh,Scotland,2023-03-18T12:30:00+00:00,0.0
+18/03/2023,italy,scotland,Murrayfield,Edinburgh,Scotland,2023-03-18T12:30:00+00:00,0.0
+26/11/2016,france,new_zealand,Stade de France,Saint-Denis,France,2016-11-26T20:00:00+00:00,1.0
+26/11/2016,new_zealand,france,Stade de France,Saint-Denis,France,2016-11-26T20:00:00+00:00,1.0
+11/07/2026,japan,ireland,Newcastle Stadium,Newcastle,Australia,2026-07-11T10:10:00+00:00,10.0
+11/07/2026,ireland,japan,Newcastle Stadium,Newcastle,Australia,2026-07-11T10:10:00+00:00,10.0
+16/07/2022,australia,england,Sydney Cricket Ground,Sydney,Australia,2022-07-16T09:55:00+00:00,10.0
+16/07/2022,england,australia,Sydney Cricket Ground,Sydney,Australia,2022-07-16T09:55:00+00:00,10.0
+17/09/2023,australia,fiji,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-09-17T15:45:00+00:00,2.0
+17/09/2023,fiji,australia,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-09-17T15:45:00+00:00,2.0
+13/11/2022,scotland,new_zealand,Murrayfield,Edinburgh,Scotland,2022-11-13T13:15:00+00:00,1.0
+13/11/2022,new_zealand,scotland,Murrayfield,Edinburgh,Scotland,2022-11-13T13:15:00+00:00,1.0
+21/11/2020,wales,georgia,Parc y Scarlets,Llanelli,Wales,2020-11-21T17:15:00+00:00,0.0
+21/11/2020,georgia,wales,Parc y Scarlets,Llanelli,Wales,2020-11-21T17:15:00+00:00,0.0
+09/03/2025,england,italy,Allianz Stadium,London,England,2025-03-09T15:00:00+00:00,0.0
+09/03/2025,italy,england,Allianz Stadium,London,England,2025-03-09T15:00:00+00:00,0.0
+17/08/2019,south_africa,argentina,Loftus Versfeld,Pretoria,South Africa,2019-08-17T15:05:00+00:00,2.0
+17/08/2019,argentina,south_africa,Loftus Versfeld,Pretoria,South Africa,2019-08-17T15:05:00+00:00,2.0
+04/07/2026,new_zealand,france,One New Zealand Stadium,Christchurch,New Zealand,2026-07-04T07:10:00+00:00,12.0
+04/07/2026,france,new_zealand,One New Zealand Stadium,Christchurch,New Zealand,2026-07-04T07:10:00+00:00,12.0
+13/03/2016,scotland,france,Murrayfield,Edinburgh,Scotland,2016-03-13T15:00:00+00:00,0.0
+13/03/2016,france,scotland,Murrayfield,Edinburgh,Scotland,2016-03-13T15:00:00+00:00,0.0
+20/07/2024,uruguay,argentina,Estadio Domingo Burgueño Miguel,Punta del Este,Uruguay,2024-07-20T19:00:00+00:00,-3.0
+20/07/2024,argentina,uruguay,Estadio Domingo Burgueño Miguel,Punta del Este,Uruguay,2024-07-20T19:00:00+00:00,-3.0
+25/08/2023,new_zealand,south_africa,Twickenham,London,England,2023-08-25T18:30:00+00:00,1.0
+25/08/2023,south_africa,new_zealand,Twickenham,London,England,2023-08-25T18:30:00+00:00,1.0
+03/10/2015,england,australia,Twickenham,London,England,2015-10-03T19:00:00+00:00,1.0
+03/10/2015,australia,england,Twickenham,London,England,2015-10-03T19:00:00+00:00,1.0
+01/02/2020,wales,italy,Principality Stadium,Cardiff,Wales,2020-02-01T14:15:00+00:00,0.0
+01/02/2020,italy,wales,Principality Stadium,Cardiff,Wales,2020-02-01T14:15:00+00:00,0.0
+04/07/2026,south_africa,england,Emirates Airline Park,Johannesburg,South Africa,2026-07-04T15:40:00+00:00,2.0
+04/07/2026,england,south_africa,Emirates Airline Park,Johannesburg,South Africa,2026-07-04T15:40:00+00:00,2.0
+17/11/2024,italy,georgia,Stadio Luigi Ferraris,Genova,Italy,2024-11-17T13:40:00+00:00,1.0
+17/11/2024,georgia,italy,Stadio Luigi Ferraris,Genova,Italy,2024-11-17T13:40:00+00:00,1.0
+18/06/2016,japan,scotland,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2016-06-18T10:20:00+00:00,9.0
+18/06/2016,scotland,japan,City of Toyota Stadium,"Aichi Prefecture, Toyota City",Japan,2016-06-18T10:20:00+00:00,9.0
+06/02/2022,france,italy,Stade de France,Saint-Denis,France,2022-02-06T15:00:00+00:00,1.0
+06/02/2022,italy,france,Stade de France,Saint-Denis,France,2022-02-06T15:00:00+00:00,1.0
+27/02/2016,italy,scotland,Stadio Olimpico,Roma,Italy,2016-02-27T14:25:00+00:00,1.0
+27/02/2016,scotland,italy,Stadio Olimpico,Roma,Italy,2016-02-27T14:25:00+00:00,1.0
+05/09/2021,australia,new_zealand,Optus Stadium,Perth,Australia,2021-09-05T06:00:00+00:00,8.0
+05/09/2021,new_zealand,australia,Optus Stadium,Perth,Australia,2021-09-05T06:00:00+00:00,8.0
+13/03/2021,england,france,Twickenham,London,England,2021-03-13T16:45:00+00:00,0.0
+13/03/2021,france,england,Twickenham,London,England,2021-03-13T16:45:00+00:00,0.0
+06/02/2015,wales,england,Millennium Stadium,Cardiff,Wales,2015-02-06T20:05:00+00:00,0.0
+06/02/2015,england,wales,Millennium Stadium,Cardiff,Wales,2015-02-06T20:05:00+00:00,0.0
+05/11/2022,ireland,south_africa,Aviva Stadium,Dublin,Ireland,2022-11-05T17:30:00+00:00,0.0
+05/11/2022,south_africa,ireland,Aviva Stadium,Dublin,Ireland,2022-11-05T17:30:00+00:00,0.0
+13/09/2025,australia,argentina,Allianz Stadium,Sydney,Australia,2025-09-13T04:00:00+00:00,10.0
+13/09/2025,argentina,australia,Allianz Stadium,Sydney,Australia,2025-09-13T04:00:00+00:00,10.0
+16/08/2025,argentina,new_zealand,Estadio Mario Alberto Kempes,Cordoba,Argentina,2025-08-16T21:10:00+00:00,-3.0
+16/08/2025,new_zealand,argentina,Estadio Mario Alberto Kempes,Cordoba,Argentina,2025-08-16T21:10:00+00:00,-3.0
+28/09/2024,new_zealand,australia,Sky Stadium,Wellington,New Zealand,2024-09-28T07:05:00+00:00,12.0
+28/09/2024,australia,new_zealand,Sky Stadium,Wellington,New Zealand,2024-09-28T07:05:00+00:00,12.0
+18/08/2018,south_africa,argentina,Jonsson Kings Park,Durban,South Africa,2018-08-18T15:05:00+00:00,2.0
+18/08/2018,argentina,south_africa,Jonsson Kings Park,Durban,South Africa,2018-08-18T15:05:00+00:00,2.0
+28/02/2015,scotland,italy,Murrayfield,Edinburgh,Scotland,2015-02-28T14:30:00+00:00,0.0
+28/02/2015,italy,scotland,Murrayfield,Edinburgh,Scotland,2015-02-28T14:30:00+00:00,0.0
+13/02/2021,scotland,wales,Murrayfield,Edinburgh,Scotland,2021-02-13T16:45:00+00:00,0.0
+13/02/2021,wales,scotland,Murrayfield,Edinburgh,Scotland,2021-02-13T16:45:00+00:00,0.0
+17/11/2018,italy,australia,Stadio Euganeo,Padova,Italy,2018-11-17T14:00:00+00:00,1.0
+17/11/2018,australia,italy,Stadio Euganeo,Padova,Italy,2018-11-17T14:00:00+00:00,1.0
+28/02/2015,france,wales,Stade de France,Saint-Denis,France,2015-02-28T17:00:00+00:00,1.0
+28/02/2015,wales,france,Stade de France,Saint-Denis,France,2015-02-28T17:00:00+00:00,1.0
+11/06/2016,australia,england,Suncorp Stadium,Brisbane,Australia,2016-06-11T10:00:00+00:00,10.0
+11/06/2016,england,australia,Suncorp Stadium,Brisbane,Australia,2016-06-11T10:00:00+00:00,10.0
+05/02/2022,ireland,wales,Aviva Stadium,Dublin,Ireland,2022-02-05T14:15:00+00:00,0.0
+05/02/2022,wales,ireland,Aviva Stadium,Dublin,Ireland,2022-02-05T14:15:00+00:00,0.0
+25/06/2016,japan,scotland,Ajinomoto Stadium,"Chofu City, Tokyo",Japan,2016-06-25T10:20:00+00:00,9.0
+25/06/2016,scotland,japan,Ajinomoto Stadium,"Chofu City, Tokyo",Japan,2016-06-25T10:20:00+00:00,9.0
+08/08/2015,australia,new_zealand,ANZ Stadium,Sydney,Australia,2015-08-08T10:05:00+00:00,10.0
+08/08/2015,new_zealand,australia,ANZ Stadium,Sydney,Australia,2015-08-08T10:05:00+00:00,10.0
+10/08/2019,ireland,italy,Aviva Stadium,Dublin,Ireland,2019-08-10T13:00:00+00:00,1.0
+10/08/2019,italy,ireland,Aviva Stadium,Dublin,Ireland,2019-08-10T13:00:00+00:00,1.0
+02/07/2022,south_africa,wales,Loftus Versfeld,Pretoria,South Africa,2022-07-02T15:05:00+00:00,2.0
+02/07/2022,wales,south_africa,Loftus Versfeld,Pretoria,South Africa,2022-07-02T15:05:00+00:00,2.0
+21/09/2024,argentina,south_africa,Estadio Único Madre de Ciudades,Santiago del Estero,Argentina,2024-09-21T21:00:00+00:00,-3.0
+21/09/2024,south_africa,argentina,Estadio Único Madre de Ciudades,Santiago del Estero,Argentina,2024-09-21T21:00:00+00:00,-3.0
+06/10/2018,south_africa,new_zealand,Loftus Versfeld,Pretoria,South Africa,2018-10-06T15:05:00+00:00,2.0
+06/10/2018,new_zealand,south_africa,Loftus Versfeld,Pretoria,South Africa,2018-10-06T15:05:00+00:00,2.0
+16/06/2018,new_zealand,france,Westpac Stadium,Wellington,New Zealand,2018-06-16T07:35:00+00:00,12.0
+16/06/2018,france,new_zealand,Westpac Stadium,Wellington,New Zealand,2018-06-16T07:35:00+00:00,12.0
+04/10/2015,ireland,italy,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-10-04T15:45:00+00:00,1.0
+04/10/2015,italy,ireland,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-10-04T15:45:00+00:00,1.0
+14/09/2023,france,uruguay,Stade Pierre-Mauroy,Lille,France,2023-09-14T19:00:00+00:00,2.0
+14/09/2023,uruguay,france,Stade Pierre-Mauroy,Lille,France,2023-09-14T19:00:00+00:00,2.0
+19/11/2022,scotland,argentina,Murrayfield,Edinburgh,Scotland,2022-11-19T14:15:00+00:00,1.0
+19/11/2022,argentina,scotland,Murrayfield,Edinburgh,Scotland,2022-11-19T14:15:00+00:00,1.0
+07/09/2024,south_africa,new_zealand,DHL Stadium,Cape Town,South Africa,2024-09-07T15:00:00+00:00,2.0
+07/09/2024,new_zealand,south_africa,DHL Stadium,Cape Town,South Africa,2024-09-07T15:00:00+00:00,2.0
+19/03/2022,wales,italy,Principality Stadium,Cardiff,Wales,2022-03-19T14:15:00+00:00,0.0
+19/03/2022,italy,wales,Principality Stadium,Cardiff,Wales,2022-03-19T14:15:00+00:00,0.0
+06/09/2019,england,italy,St James Park,Newcastle upon Tyne,England,2019-09-06T18:45:00+00:00,1.0
+06/09/2019,italy,england,St James Park,Newcastle upon Tyne,England,2019-09-06T18:45:00+00:00,1.0
+26/11/2016,scotland,georgia,Rugby Park,Kilmarnock,Scotland,2016-11-26T14:30:00+00:00,0.0
+26/11/2016,georgia,scotland,Rugby Park,Kilmarnock,Scotland,2016-11-26T14:30:00+00:00,0.0
+22/11/2025,france,australia,Stade de France,Saint-Denis,France,2025-11-22T20:10:00+00:00,1.0
+22/11/2025,australia,france,Stade de France,Saint-Denis,France,2025-11-22T20:10:00+00:00,1.0
+25/10/2025,japan,australia,National Olympic Stadium,Tokyo,Japan,2025-10-25T05:50:00+00:00,9.0
+25/10/2025,australia,japan,National Olympic Stadium,Tokyo,Japan,2025-10-25T05:50:00+00:00,9.0
+03/07/2021,romania,argentina,Stadionul National Arcul de Triumf,Bucharest,Romania,2021-07-03T18:00:00+00:00,3.0
+03/07/2021,argentina,romania,Stadionul National Arcul de Triumf,Bucharest,Romania,2021-07-03T18:00:00+00:00,3.0
+03/11/2018,england,south_africa,Twickenham,London,England,2018-11-03T15:00:00+00:00,0.0
+03/11/2018,south_africa,england,Twickenham,London,England,2018-11-03T15:00:00+00:00,0.0
+21/03/2015,scotland,ireland,Murrayfield,Edinburgh,Scotland,2015-03-21T14:30:00+00:00,0.0
+21/03/2015,ireland,scotland,Murrayfield,Edinburgh,Scotland,2015-03-21T14:30:00+00:00,0.0
+05/02/2026,france,ireland,Stade de France,Saint-Denis,France,2026-02-05T20:10:00+00:00,1.0
+05/02/2026,ireland,france,Stade de France,Saint-Denis,France,2026-02-05T20:10:00+00:00,1.0
+20/07/2024,australia,georgia,Allianz Stadium,Sydney,Australia,2024-07-20T04:45:00+00:00,11.0
+20/07/2024,georgia,australia,Allianz Stadium,Sydney,Australia,2024-07-20T04:45:00+00:00,11.0
+05/09/2015,usa,australia,Soldier Field Stadium,Chicago,United States,2015-09-05T23:30:00+00:00,-5.0
+05/09/2015,australia,usa,Soldier Field Stadium,Chicago,United States,2015-09-05T23:30:00+00:00,-5.0
+04/07/2026,japan,italy,Prince Chichibu Memorial Stadium,Tokyo,Japan,2026-07-04T08:40:00+00:00,9.0
+04/07/2026,italy,japan,Prince Chichibu Memorial Stadium,Tokyo,Japan,2026-07-04T08:40:00+00:00,9.0
+13/07/2024,new_zealand,england,Eden Park,Auckland,New Zealand,2024-07-13T07:05:00+00:00,12.0
+13/07/2024,england,new_zealand,Eden Park,Auckland,New Zealand,2024-07-13T07:05:00+00:00,12.0
+14/08/2021,new_zealand,australia,Eden Park,Auckland,New Zealand,2021-08-14T07:05:00+00:00,12.0
+14/08/2021,australia,new_zealand,Eden Park,Auckland,New Zealand,2021-08-14T07:05:00+00:00,12.0
+28/11/2020,france,italy,Stade de France,Saint-Denis,France,2020-11-28T20:10:00+00:00,1.0
+28/11/2020,italy,france,Stade de France,Saint-Denis,France,2020-11-28T20:10:00+00:00,1.0
+08/10/2016,argentina,australia,Twickenham,London,England,2016-10-08T18:30:00+00:00,1.0
+08/10/2016,australia,argentina,Twickenham,London,England,2016-10-08T18:30:00+00:00,1.0
+30/11/2019,wales,barbarians,Principality Stadium,Cardiff,Wales,2019-11-30T14:30:00+00:00,0.0
+30/11/2019,barbarians,wales,Principality Stadium,Cardiff,Wales,2019-11-30T14:30:00+00:00,0.0
+25/10/2015,argentina,australia,Twickenham,London,England,2015-10-25T16:00:00+00:00,0.0
+25/10/2015,australia,argentina,Twickenham,London,England,2015-10-25T16:00:00+00:00,0.0
+25/06/2022,portugal,italy,Estádio Restelo,Lisbon,Portugal,2022-06-25T16:00:00+00:00,1.0
+25/06/2022,italy,portugal,Estádio Restelo,Lisbon,Portugal,2022-06-25T16:00:00+00:00,1.0
+23/11/2025,england,argentina,Twickenham Stadium,London,England,2025-11-23T16:10:00+00:00,0.0
+23/11/2025,argentina,england,Twickenham Stadium,London,England,2025-11-23T16:10:00+00:00,0.0
+24/08/2019,scotland,france,Murrayfield,Edinburgh,Scotland,2019-08-24T12:10:00+00:00,1.0
+24/08/2019,france,scotland,Murrayfield,Edinburgh,Scotland,2019-08-24T12:10:00+00:00,1.0
+23/09/2015,scotland,japan,Kingsholm,Gloucester,England,2015-09-23T13:30:00+00:00,1.0
+23/09/2015,japan,scotland,Kingsholm,Gloucester,England,2015-09-23T13:30:00+00:00,1.0
+01/07/2022,romania,italy,Stadionul National Arcul de Triumf,Bucharest,Romania,2022-07-01T18:00:00+00:00,3.0
+01/07/2022,italy,romania,Stadionul National Arcul de Triumf,Bucharest,Romania,2022-07-01T18:00:00+00:00,3.0
+24/06/2017,south_africa,france,Ellis Park,Johannesburg,South Africa,2017-06-24T15:00:00+00:00,2.0
+24/06/2017,france,south_africa,Ellis Park,Johannesburg,South Africa,2017-06-24T15:00:00+00:00,2.0
+10/06/2017,italy,scotland,Singapore National Stadium,Singapore,Singapore,2017-06-10T12:00:00+00:00,8.0
+10/06/2017,scotland,italy,Singapore National Stadium,Singapore,Singapore,2017-06-10T12:00:00+00:00,8.0
+27/09/2015,ireland,romania,Wembley Stadium,London,England,2015-09-27T15:45:00+00:00,1.0
+27/09/2015,romania,ireland,Wembley Stadium,London,England,2015-09-27T15:45:00+00:00,1.0
+18/07/2015,australia,south_africa,Suncorp Stadium,Brisbane,Australia,2015-07-18T10:05:00+00:00,10.0
+18/07/2015,south_africa,australia,Suncorp Stadium,Brisbane,Australia,2015-07-18T10:05:00+00:00,10.0
+08/11/2025,scotland,new_zealand,Murrayfield,Edinburgh,Scotland,2025-11-08T15:10:00+00:00,0.0
+08/11/2025,new_zealand,scotland,Murrayfield,Edinburgh,Scotland,2025-11-08T15:10:00+00:00,0.0
+11/06/2016,south_africa,ireland,Newlands Stadium,Cape Town,South Africa,2016-06-11T15:00:00+00:00,2.0
+11/06/2016,ireland,south_africa,Newlands Stadium,Cape Town,South Africa,2016-06-11T15:00:00+00:00,2.0
+15/08/2015,england,france,Twickenham,London,England,2015-08-15T19:00:00+00:00,1.0
+15/08/2015,france,england,Twickenham,London,England,2015-08-15T19:00:00+00:00,1.0
+26/02/2016,wales,france,Principality Stadium,Cardiff,Wales,2016-02-26T20:05:00+00:00,0.0
+26/02/2016,france,wales,Principality Stadium,Cardiff,Wales,2016-02-26T20:05:00+00:00,0.0
+06/07/2024,australia,wales,Allianz Stadium,Sydney,Australia,2024-07-06T09:45:00+00:00,10.0
+06/07/2024,wales,australia,Allianz Stadium,Sydney,Australia,2024-07-06T09:45:00+00:00,10.0
+20/03/2021,ireland,england,Aviva Stadium,Dublin,Ireland,2021-03-20T16:45:00+00:00,0.0
+20/03/2021,england,ireland,Aviva Stadium,Dublin,Ireland,2021-03-20T16:45:00+00:00,0.0
+15/03/2025,wales,england,Principality Stadium,Cardiff,Wales,2025-03-15T16:45:00+00:00,0.0
+15/03/2025,england,wales,Principality Stadium,Cardiff,Wales,2025-03-15T16:45:00+00:00,0.0
+05/08/2023,ireland,italy,Aviva Stadium,Dublin,Ireland,2023-08-05T19:00:00+00:00,1.0
+05/08/2023,italy,ireland,Aviva Stadium,Dublin,Ireland,2023-08-05T19:00:00+00:00,1.0
+26/11/2022,england,south_africa,Twickenham,London,England,2022-11-26T17:30:00+00:00,0.0
+26/11/2022,south_africa,england,Twickenham,London,England,2022-11-26T17:30:00+00:00,0.0
+09/10/2019,argentina,usa,Kumagaya Rugby Stadium,"Saitama Prefecture, Kumagaya City",Japan,2019-10-09T04:45:00+00:00,9.0
+09/10/2019,usa,argentina,Kumagaya Rugby Stadium,"Saitama Prefecture, Kumagaya City",Japan,2019-10-09T04:45:00+00:00,9.0
+23/11/2024,wales,south_africa,Principality Stadium,Cardiff,Wales,2024-11-23T17:40:00+00:00,0.0
+23/11/2024,south_africa,wales,Principality Stadium,Cardiff,Wales,2024-11-23T17:40:00+00:00,0.0
+11/03/2017,italy,france,Stadio Olimpico,Roma,Italy,2017-03-11T13:30:00+00:00,1.0
+11/03/2017,france,italy,Stadio Olimpico,Roma,Italy,2017-03-11T13:30:00+00:00,1.0
+12/07/2022,maori all blacks,ireland,Sky Stadium,Wellington,New Zealand,2022-07-12T07:05:00+00:00,12.0
+12/07/2022,ireland,maori all blacks,Sky Stadium,Wellington,New Zealand,2022-07-12T07:05:00+00:00,12.0
+01/02/2025,ireland,england,Aviva Stadium,Dublin,Ireland,2025-02-01T16:45:00+00:00,0.0
+01/02/2025,england,ireland,Aviva Stadium,Dublin,Ireland,2025-02-01T16:45:00+00:00,0.0
+06/11/2022,england,argentina,Twickenham,London,England,2022-11-06T14:15:00+00:00,0.0
+06/11/2022,argentina,england,Twickenham,London,England,2022-11-06T14:15:00+00:00,0.0
+21/11/2021,ireland,argentina,Aviva Stadium,Dublin,Ireland,2021-11-21T14:15:00+00:00,0.0
+21/11/2021,argentina,ireland,Aviva Stadium,Dublin,Ireland,2021-11-21T14:15:00+00:00,0.0
+23/11/2024,ireland,fiji,Aviva Stadium,Dublin,Ireland,2024-11-23T15:10:00+00:00,0.0
+23/11/2024,fiji,ireland,Aviva Stadium,Dublin,Ireland,2024-11-23T15:10:00+00:00,0.0
+15/09/2022,australia,new_zealand,Marvel Stadium,Melbourne,Australia,2022-09-15T09:45:00+00:00,10.0
+15/09/2022,new_zealand,australia,Marvel Stadium,Melbourne,Australia,2022-09-15T09:45:00+00:00,10.0
+11/11/2017,scotland,samoa,Murrayfield,Edinburgh,Scotland,2017-11-11T14:30:00+00:00,0.0
+11/11/2017,samoa,scotland,Murrayfield,Edinburgh,Scotland,2017-11-11T14:30:00+00:00,0.0
+16/03/2019,england,scotland,Twickenham,London,England,2019-03-16T17:00:00+00:00,0.0
+16/03/2019,scotland,england,Twickenham,London,England,2019-03-16T17:00:00+00:00,0.0
+17/08/2024,australia,south_africa,Optus Stadium,Perth,Australia,2024-08-17T09:45:00+00:00,8.0
+17/08/2024,south_africa,australia,Optus Stadium,Perth,Australia,2024-08-17T09:45:00+00:00,8.0
+05/09/2015,leicester tigers,argentina,Welford Road,Leicester,England,2015-09-05T14:00:00+00:00,1.0
+05/09/2015,argentina,leicester tigers,Welford Road,Leicester,England,2015-09-05T14:00:00+00:00,1.0
+01/02/2025,scotland,italy,Murrayfield,Edinburgh,Scotland,2025-02-01T14:15:00+00:00,0.0
+01/02/2025,italy,scotland,Murrayfield,Edinburgh,Scotland,2025-02-01T14:15:00+00:00,0.0
+16/03/2024,wales,italy,Principality Stadium,Cardiff,Wales,2024-03-16T14:15:00+00:00,0.0
+16/03/2024,italy,wales,Principality Stadium,Cardiff,Wales,2024-03-16T14:15:00+00:00,0.0
+25/06/2016,australia,england,Allianz Stadium,Sydney,Australia,2016-06-25T10:00:00+00:00,10.0
+25/06/2016,england,australia,Allianz Stadium,Sydney,Australia,2016-06-25T10:00:00+00:00,10.0
+09/02/2025,scotland,ireland,Murrayfield,Edinburgh,Scotland,2025-02-09T15:00:00+00:00,0.0
+09/02/2025,ireland,scotland,Murrayfield,Edinburgh,Scotland,2025-02-09T15:00:00+00:00,0.0
+13/07/2024,australia,wales,AAMI Park,Melbourne,Australia,2024-07-13T09:45:00+00:00,10.0
+13/07/2024,wales,australia,AAMI Park,Melbourne,Australia,2024-07-13T09:45:00+00:00,10.0
+27/10/2019,wales,south_africa,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-10-27T09:00:00+00:00,9.0
+27/10/2019,south_africa,wales,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-10-27T09:00:00+00:00,9.0
+12/03/2022,england,ireland,Twickenham,London,England,2022-03-12T16:45:00+00:00,0.0
+12/03/2022,ireland,england,Twickenham,London,England,2022-03-12T16:45:00+00:00,0.0
+17/03/2018,england,ireland,Twickenham,London,England,2018-03-17T14:45:00+00:00,0.0
+17/03/2018,ireland,england,Twickenham,London,England,2018-03-17T14:45:00+00:00,0.0
+17/08/2019,wales,england,Principality Stadium,Cardiff,Wales,2019-08-17T13:15:00+00:00,1.0
+17/08/2019,england,wales,Principality Stadium,Cardiff,Wales,2019-08-17T13:15:00+00:00,1.0
+13/08/2022,south_africa,new_zealand,Emirates Airline Park,Johannesburg,South Africa,2022-08-13T15:05:00+00:00,2.0
+13/08/2022,new_zealand,south_africa,Emirates Airline Park,Johannesburg,South Africa,2022-08-13T15:05:00+00:00,2.0
+07/09/2019,australia,samoa,Bankwest Stadium,Parramatta,Australia,2019-09-07T09:30:00+00:00,10.0
+07/09/2019,samoa,australia,Bankwest Stadium,Parramatta,Australia,2019-09-07T09:30:00+00:00,10.0
+12/03/2016,ireland,italy,Aviva Stadium,Dublin,Ireland,2016-03-12T13:30:00+00:00,0.0
+12/03/2016,italy,ireland,Aviva Stadium,Dublin,Ireland,2016-03-12T13:30:00+00:00,0.0
+20/09/2015,wales,uruguay,Millennium Stadium,Cardiff,Wales,2015-09-20T13:30:00+00:00,1.0
+20/09/2015,uruguay,wales,Millennium Stadium,Cardiff,Wales,2015-09-20T13:30:00+00:00,1.0
+05/11/2022,france,australia,Stade de France,Saint-Denis,France,2022-11-05T20:00:00+00:00,1.0
+05/11/2022,australia,france,Stade de France,Saint-Denis,France,2022-11-05T20:00:00+00:00,1.0
+16/06/2018,usa,scotland,BBVA Compass Stadium,Houston,United States,2018-06-17T01:00:00+00:00,-5.0
+16/06/2018,scotland,usa,BBVA Compass Stadium,Houston,United States,2018-06-17T01:00:00+00:00,-5.0
+10/06/2017,south_africa,france,Loftus Versfeld,Pretoria,South Africa,2017-06-10T15:00:00+00:00,2.0
+10/06/2017,france,south_africa,Loftus Versfeld,Pretoria,South Africa,2017-06-10T15:00:00+00:00,2.0
+19/08/2023,ireland,england,Aviva Stadium,Dublin,Ireland,2023-08-19T16:30:00+00:00,1.0
+19/08/2023,england,ireland,Aviva Stadium,Dublin,Ireland,2023-08-19T16:30:00+00:00,1.0
+19/06/2016,argentina,france,Stade Monumental Jose Fierro,Tucumán,Argentina,2016-06-19T21:10:00+00:00,-3.0
+19/06/2016,france,argentina,Stade Monumental Jose Fierro,Tucumán,Argentina,2016-06-19T21:10:00+00:00,-3.0
+16/07/2022,new_zealand,ireland,Sky Stadium,Wellington,New Zealand,2022-07-16T07:05:00+00:00,12.0
+16/07/2022,ireland,new_zealand,Sky Stadium,Wellington,New Zealand,2022-07-16T07:05:00+00:00,12.0
+13/03/2021,italy,wales,Stadio Olimpico,Roma,Italy,2021-03-13T14:15:00+00:00,1.0
+13/03/2021,wales,italy,Stadio Olimpico,Roma,Italy,2021-03-13T14:15:00+00:00,1.0
+16/03/2019,wales,ireland,Principality Stadium,Cardiff,Wales,2019-03-16T14:45:00+00:00,0.0
+16/03/2019,ireland,wales,Principality Stadium,Cardiff,Wales,2019-03-16T14:45:00+00:00,0.0
+10/03/2024,wales,france,Principality Stadium,Cardiff,Wales,2024-03-10T15:00:00+00:00,0.0
+10/03/2024,france,wales,Principality Stadium,Cardiff,Wales,2024-03-10T15:00:00+00:00,0.0
+25/11/2017,wales,new_zealand,Principality Stadium,Cardiff,Wales,2017-11-25T17:15:00+00:00,0.0
+25/11/2017,new_zealand,wales,Principality Stadium,Cardiff,Wales,2017-11-25T17:15:00+00:00,0.0
+12/07/2025,japan,wales,Noevir Stadium,Kobe,Japan,2025-07-12T05:50:00+00:00,9.0
+12/07/2025,wales,japan,Noevir Stadium,Kobe,Japan,2025-07-12T05:50:00+00:00,9.0
+26/08/2023,italy,japan,Stadio Comunale di Monigo,Treviso,Italy,2023-08-26T16:30:00+00:00,2.0
+26/08/2023,japan,italy,Stadio Comunale di Monigo,Treviso,Italy,2023-08-26T16:30:00+00:00,2.0
+11/08/2026,sharks,new_zealand,Hollywoodbets Kings Park,Durban,South Africa,2026-08-11T16:10:00+00:00,2.0
+11/08/2026,new_zealand,sharks,Hollywoodbets Kings Park,Durban,South Africa,2026-08-11T16:10:00+00:00,2.0
+24/09/2023,scotland,tonga,Stade de Nice,Nice,France,2023-09-24T15:45:00+00:00,2.0
+24/09/2023,tonga,scotland,Stade de Nice,Nice,France,2023-09-24T15:45:00+00:00,2.0
+08/02/2020,ireland,wales,Aviva Stadium,Dublin,Ireland,2020-02-08T14:15:00+00:00,0.0
+08/02/2020,wales,ireland,Aviva Stadium,Dublin,Ireland,2020-02-08T14:15:00+00:00,0.0
+07/02/2015,italy,ireland,Stadio Olimpico,Roma,Italy,2015-02-07T14:30:00+00:00,1.0
+07/02/2015,ireland,italy,Stadio Olimpico,Roma,Italy,2015-02-07T14:30:00+00:00,1.0
+30/09/2017,south_africa,australia,Free State Stadium,Bloemfontein,South Africa,2017-09-30T15:05:00+00:00,2.0
+30/09/2017,australia,south_africa,Free State Stadium,Bloemfontein,South Africa,2017-09-30T15:05:00+00:00,2.0
+09/03/2024,england,ireland,Twickenham,London,England,2024-03-09T16:45:00+00:00,0.0
+09/03/2024,ireland,england,Twickenham,London,England,2024-03-09T16:45:00+00:00,0.0
+19/03/2016,ireland,scotland,Aviva Stadium,Dublin,Ireland,2016-03-19T17:00:00+00:00,0.0
+19/03/2016,scotland,ireland,Aviva Stadium,Dublin,Ireland,2016-03-19T17:00:00+00:00,0.0
+24/09/2015,new_zealand,namibia,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-09-24T19:00:00+00:00,1.0
+24/09/2015,namibia,new_zealand,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-09-24T19:00:00+00:00,1.0
+25/02/2023,italy,ireland,Stadio Olimpico,Roma,Italy,2023-02-25T14:15:00+00:00,1.0
+25/02/2023,ireland,italy,Stadio Olimpico,Roma,Italy,2023-02-25T14:15:00+00:00,1.0
+16/11/2024,england,south_africa,Allianz Stadium,London,England,2024-11-16T17:40:00+00:00,0.0
+16/11/2024,south_africa,england,Allianz Stadium,London,England,2024-11-16T17:40:00+00:00,0.0
+01/10/2023,south_africa,tonga,Stade de Marseille,Marseille,France,2023-10-01T19:00:00+00:00,2.0
+01/10/2023,tonga,south_africa,Stade de Marseille,Marseille,France,2023-10-01T19:00:00+00:00,2.0
+10/06/2017,usa,ireland,Red Bull Arena,"Harrison, New Jersey",United States,2017-06-10T20:00:00+00:00,-4.0
+10/06/2017,ireland,usa,Red Bull Arena,"Harrison, New Jersey",United States,2017-06-10T20:00:00+00:00,-4.0
+27/02/2021,italy,ireland,Stadio Olimpico,Roma,Italy,2021-02-27T16:15:00+00:00,-1.0
+27/02/2021,ireland,italy,Stadio Olimpico,Roma,Italy,2021-02-27T16:15:00+00:00,-1.0
+04/11/2023,wales,barbarians,Principality Stadium,Cardiff,Wales,2023-11-04T14:30:00+00:00,0.0
+04/11/2023,barbarians,wales,Principality Stadium,Cardiff,Wales,2023-11-04T14:30:00+00:00,0.0
+17/07/2021,australia,france,Suncorp Stadium,Brisbane,Australia,2021-07-17T10:00:00+00:00,10.0
+17/07/2021,france,australia,Suncorp Stadium,Brisbane,Australia,2021-07-17T10:00:00+00:00,10.0
+25/02/2024,france,italy,Decathlon Arena,Lille,France,2024-02-25T15:00:00+00:00,1.0
+25/02/2024,italy,france,Decathlon Arena,Lille,France,2024-02-25T15:00:00+00:00,1.0
+24/10/2015,south_africa,new_zealand,Twickenham,London,England,2015-10-24T15:00:00+00:00,1.0
+24/10/2015,new_zealand,south_africa,Twickenham,London,England,2015-10-24T15:00:00+00:00,1.0
+11/10/2015,france,ireland,Millennium Stadium,Cardiff,Wales,2015-10-11T15:45:00+00:00,1.0
+11/10/2015,ireland,france,Millennium Stadium,Cardiff,Wales,2015-10-11T15:45:00+00:00,1.0
+11/02/2023,ireland,france,Aviva Stadium,Dublin,Ireland,2023-02-11T14:15:00+00:00,0.0
+11/02/2023,france,ireland,Aviva Stadium,Dublin,Ireland,2023-02-11T14:15:00+00:00,0.0
+27/08/2022,new_zealand,argentina,Orangetheory Stadium,Christchurch,New Zealand,2022-08-27T07:45:00+00:00,12.0
+27/08/2022,argentina,new_zealand,Orangetheory Stadium,Christchurch,New Zealand,2022-08-27T07:45:00+00:00,12.0
+18/07/2026,japan,france,National Olympic Stadium,Tokyo,Japan,2026-07-18T08:40:00+00:00,9.0
+18/07/2026,france,japan,National Olympic Stadium,Tokyo,Japan,2026-07-18T08:40:00+00:00,9.0
+01/03/2015,ireland,england,Aviva Stadium,Dublin,Ireland,2015-03-01T15:00:00+00:00,0.0
+01/03/2015,england,ireland,Aviva Stadium,Dublin,Ireland,2015-03-01T15:00:00+00:00,0.0
+31/10/2020,australia,new_zealand,ANZ Stadium,Sydney,Australia,2020-10-31T08:45:00+00:00,11.0
+31/10/2020,new_zealand,australia,ANZ Stadium,Sydney,Australia,2020-10-31T08:45:00+00:00,11.0
+07/08/2026,stormers,new_zealand,DHL Stadium,Cape Town,South Africa,2026-08-07T16:10:00+00:00,2.0
+07/08/2026,new_zealand,stormers,DHL Stadium,Cape Town,South Africa,2026-08-07T16:10:00+00:00,2.0
+10/08/2019,argentina,south_africa,Estadio Padre Ernesto Martearena,Salta,Argentina,2019-08-10T19:40:00+00:00,-3.0
+10/08/2019,south_africa,argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,2019-08-10T19:40:00+00:00,-3.0
+13/11/2021,england,australia,Twickenham,London,England,2021-11-13T17:30:00+00:00,0.0
+13/11/2021,australia,england,Twickenham,London,England,2021-11-13T17:30:00+00:00,0.0
+10/11/2018,ireland,argentina,Aviva Stadium,Dublin,Ireland,2018-11-10T18:30:00+00:00,0.0
+10/11/2018,argentina,ireland,Aviva Stadium,Dublin,Ireland,2018-11-10T18:30:00+00:00,0.0
+05/08/2023,argentina,south_africa,Velez Sarsfield Stadium,Buenos Aires,Argentina,2023-08-05T19:10:00+00:00,-3.0
+05/08/2023,south_africa,argentina,Velez Sarsfield Stadium,Buenos Aires,Argentina,2023-08-05T19:10:00+00:00,-3.0
+09/11/2024,france,japan,Stade de France,Saint-Denis,France,2024-11-09T20:10:00+00:00,1.0
+09/11/2024,japan,france,Stade de France,Saint-Denis,France,2024-11-09T20:10:00+00:00,1.0
+27/06/2025,namibia,italy,Hage Geingob Rugby Stadium,Windhoek,Namibia,2025-06-27T14:00:00+00:00,1.0
+27/06/2025,italy,namibia,Hage Geingob Rugby Stadium,Windhoek,Namibia,2025-06-27T14:00:00+00:00,1.0
+12/07/2024,tonga,italy,Teufaiva Stadium,Nuku'alofa,Tonga,2024-07-12T02:30:00+00:00,13.0
+12/07/2024,italy,tonga,Teufaiva Stadium,Nuku'alofa,Tonga,2024-07-12T02:30:00+00:00,13.0
+17/11/2018,wales,tonga,Principality Stadium,Cardiff,Wales,2018-11-17T14:30:00+00:00,0.0
+17/11/2018,tonga,wales,Principality Stadium,Cardiff,Wales,2018-11-17T14:30:00+00:00,0.0
+12/11/2016,italy,new_zealand,Stadio Olimpico,Roma,Italy,2016-11-12T14:00:00+00:00,1.0
+12/11/2016,new_zealand,italy,Stadio Olimpico,Roma,Italy,2016-11-12T14:00:00+00:00,1.0
+10/02/2018,england,wales,Twickenham,London,England,2018-02-10T16:45:00+00:00,0.0
+10/02/2018,wales,england,Twickenham,London,England,2018-02-10T16:45:00+00:00,0.0
+26/02/2017,england,italy,Twickenham,London,England,2017-02-26T15:00:00+00:00,0.0
+26/02/2017,italy,england,Twickenham,London,England,2017-02-26T15:00:00+00:00,0.0
+12/11/2022,italy,australia,Stadio Artemio Franchi,Florence,Italy,2022-11-12T13:00:00+00:00,1.0
+12/11/2022,australia,italy,Stadio Artemio Franchi,Florence,Italy,2022-11-12T13:00:00+00:00,1.0
+09/07/2022,japan,france,National Olympic Stadium,Tokyo,Japan,2022-07-09T05:45:00+00:00,9.0
+09/07/2022,france,japan,National Olympic Stadium,Tokyo,Japan,2022-07-09T05:45:00+00:00,9.0
+13/08/2022,argentina,australia,Estadio del Bicentenario,San Juan,Argentina,2022-08-13T19:05:00+00:00,-3.0
+13/08/2022,australia,argentina,Estadio del Bicentenario,San Juan,Argentina,2022-08-13T19:05:00+00:00,-3.0
+11/11/2017,italy,fiji,Stadio Angelo Massimino,Catania,Italy,2017-11-11T14:00:00+00:00,1.0
+11/11/2017,fiji,italy,Stadio Angelo Massimino,Catania,Italy,2017-11-11T14:00:00+00:00,1.0
+10/06/2017,australia,fiji,AAMI Park,Melbourne,Australia,2017-06-10T05:00:00+00:00,10.0
+10/06/2017,fiji,australia,AAMI Park,Melbourne,Australia,2017-06-10T05:00:00+00:00,10.0
+12/11/2016,scotland,australia,Murrayfield,Edinburgh,Scotland,2016-11-12T14:30:00+00:00,0.0
+12/11/2016,australia,scotland,Murrayfield,Edinburgh,Scotland,2016-11-12T14:30:00+00:00,0.0
+06/11/2021,italy,new_zealand,Stadio Olimpico,Roma,Italy,2021-11-06T13:00:00+00:00,1.0
+06/11/2021,new_zealand,italy,Stadio Olimpico,Roma,Italy,2021-11-06T13:00:00+00:00,1.0
+18/06/2016,new_zealand,wales,Westpac Stadium,Wellington,New Zealand,2016-06-18T07:35:00+00:00,12.0
+18/06/2016,wales,new_zealand,Westpac Stadium,Wellington,New Zealand,2016-06-18T07:35:00+00:00,12.0
+26/03/2021,france,scotland,Stade de France,Saint-Denis,France,2021-03-26T20:00:00+00:00,1.0
+26/03/2021,scotland,france,Stade de France,Saint-Denis,France,2021-03-26T20:00:00+00:00,1.0
+22/02/2020,italy,scotland,Stadio Olimpico,Roma,Italy,2020-02-22T14:15:00+00:00,1.0
+22/02/2020,scotland,italy,Stadio Olimpico,Roma,Italy,2020-02-22T14:15:00+00:00,1.0
+15/08/2026,bulls,new_zealand,Loftus Versfeld,Pretoria,South Africa,2026-08-15T16:10:00+00:00,2.0
+15/08/2026,new_zealand,bulls,Loftus Versfeld,Pretoria,South Africa,2026-08-15T16:10:00+00:00,2.0
+13/07/2024,south_africa,ireland,Hollywoodbets Kings Park,Durban,South Africa,2024-07-13T15:00:00+00:00,2.0
+13/07/2024,ireland,south_africa,Hollywoodbets Kings Park,Durban,South Africa,2024-07-13T15:00:00+00:00,2.0
+24/02/2018,scotland,england,Murrayfield,Edinburgh,Scotland,2018-02-24T16:45:00+00:00,0.0
+24/02/2018,england,scotland,Murrayfield,Edinburgh,Scotland,2018-02-24T16:45:00+00:00,0.0
+15/03/2025,italy,ireland,Stadio Olimpico,Roma,Italy,2025-03-15T14:15:00+00:00,1.0
+15/03/2025,ireland,italy,Stadio Olimpico,Roma,Italy,2025-03-15T14:15:00+00:00,1.0
+26/09/2015,italy,canada,Elland Road,Leeds,England,2015-09-26T13:30:00+00:00,1.0
+26/09/2015,canada,italy,Elland Road,Leeds,England,2015-09-26T13:30:00+00:00,1.0
+01/11/2025,south_africa,japan,Wembley Stadium,London,England,2025-11-01T16:10:00+00:00,0.0
+01/11/2025,japan,south_africa,Wembley Stadium,London,England,2025-11-01T16:10:00+00:00,0.0
+05/11/2022,wales,new_zealand,Principality Stadium,Cardiff,Wales,2022-11-05T15:15:00+00:00,0.0
+05/11/2022,new_zealand,wales,Principality Stadium,Cardiff,Wales,2022-11-05T15:15:00+00:00,0.0
+31/10/2020,wales,scotland,Parc y Scarlets,Llanelli,Wales,2020-10-31T14:15:00+00:00,0.0
+31/10/2020,scotland,wales,Parc y Scarlets,Llanelli,Wales,2020-10-31T14:15:00+00:00,0.0
+26/06/2015,argentina,french barbarians,La Plata RC,La Plata,Argentina,2015-06-26T21:30:00+00:00,-3.0
+26/06/2015,french barbarians,argentina,La Plata RC,La Plata,Argentina,2015-06-26T21:30:00+00:00,-3.0
+01/10/2016,argentina,new_zealand,Estadio José Amalfitani,Buenos Aires,Argentina,2016-10-01T22:10:00+00:00,-3.0
+01/10/2016,new_zealand,argentina,Estadio José Amalfitani,Buenos Aires,Argentina,2016-10-01T22:10:00+00:00,-3.0
+22/11/2025,wales,new_zealand,Principality Stadium,Cardiff,Wales,2025-11-22T15:10:00+00:00,0.0
+22/11/2025,new_zealand,wales,Principality Stadium,Cardiff,Wales,2025-11-22T15:10:00+00:00,0.0
+19/03/2016,france,england,Stade de France,Saint-Denis,France,2016-03-19T20:00:00+00:00,1.0
+19/03/2016,england,france,Stade de France,Saint-Denis,France,2016-03-19T20:00:00+00:00,1.0
+04/11/2017,japan,australia,Nissan Stadium,"Kanagawa Prefecture, Yokohama City",Japan,2017-11-04T05:40:00+00:00,9.0
+04/11/2017,australia,japan,Nissan Stadium,"Kanagawa Prefecture, Yokohama City",Japan,2017-11-04T05:40:00+00:00,9.0
+08/09/2018,australia,south_africa,Suncorp Stadium,Brisbane,Australia,2018-09-08T10:05:00+00:00,10.0
+08/09/2018,south_africa,australia,Suncorp Stadium,Brisbane,Australia,2018-09-08T10:05:00+00:00,10.0
+20/07/2019,south_africa,australia,Emirates Airline Park,Johannesburg,South Africa,2019-07-20T15:05:00+00:00,2.0
+20/07/2019,australia,south_africa,Emirates Airline Park,Johannesburg,South Africa,2019-07-20T15:05:00+00:00,2.0
+31/01/2025,france,wales,Stade de France,Saint-Denis,France,2025-01-31T20:15:00+00:00,1.0
+31/01/2025,wales,france,Stade de France,Saint-Denis,France,2025-01-31T20:15:00+00:00,1.0
+24/06/2017,fiji,scotland,ANZ Stadium,Suva,Fiji,2017-06-24T02:30:00+00:00,12.0
+24/06/2017,scotland,fiji,ANZ Stadium,Suva,Fiji,2017-06-24T02:30:00+00:00,12.0
+18/11/2017,wales,georgia,Principality Stadium,Cardiff,Wales,2017-11-18T14:30:00+00:00,0.0
+18/11/2017,georgia,wales,Principality Stadium,Cardiff,Wales,2017-11-18T14:30:00+00:00,0.0
+06/12/2020,england,france,Twickenham,London,England,2020-12-06T14:00:00+00:00,0.0
+06/12/2020,france,england,Twickenham,London,England,2020-12-06T14:00:00+00:00,0.0
+08/03/2020,scotland,france,Murrayfield,Edinburgh,Scotland,2020-03-08T15:00:00+00:00,0.0
+08/03/2020,france,scotland,Murrayfield,Edinburgh,Scotland,2020-03-08T15:00:00+00:00,0.0
+15/09/2018,new_zealand,south_africa,Westpac Stadium,Wellington,New Zealand,2018-09-15T07:35:00+00:00,12.0
+15/09/2018,south_africa,new_zealand,Westpac Stadium,Wellington,New Zealand,2018-09-15T07:35:00+00:00,12.0
+06/08/2022,argentina,australia,Estadio Malvinas Argentinas,Mendoza,Argentina,2022-08-06T19:05:00+00:00,-3.0
+06/08/2022,australia,argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,2022-08-06T19:05:00+00:00,-3.0
+23/02/2019,wales,england,Principality Stadium,Cardiff,Wales,2019-02-23T16:45:00+00:00,0.0
+23/02/2019,england,wales,Principality Stadium,Cardiff,Wales,2019-02-23T16:45:00+00:00,0.0
+24/09/2023,wales,australia,OL Stadium,Lyon,France,2023-09-24T19:00:00+00:00,2.0
+24/09/2023,australia,wales,OL Stadium,Lyon,France,2023-09-24T19:00:00+00:00,2.0
+08/07/2017,new_zealand,british & irish lions,Eden Park,Auckland,New Zealand,2017-07-08T07:35:00+00:00,12.0
+08/07/2017,british & irish lions,new_zealand,Eden Park,Auckland,New Zealand,2017-07-08T07:35:00+00:00,12.0
+16/06/2018,japan,italy,Noevir Stadium,Kobe,Japan,2018-06-16T05:00:00+00:00,9.0
+16/06/2018,italy,japan,Noevir Stadium,Kobe,Japan,2018-06-16T05:00:00+00:00,9.0
+26/02/2022,scotland,france,Murrayfield,Edinburgh,Scotland,2022-02-26T14:15:00+00:00,0.0
+26/02/2022,france,scotland,Murrayfield,Edinburgh,Scotland,2022-02-26T14:15:00+00:00,0.0
+26/09/2019,england,usa,Kobe Misaki Stadium,Kobe City,Japan,2019-09-26T10:45:00+00:00,9.0
+26/09/2019,usa,england,Kobe Misaki Stadium,Kobe City,Japan,2019-09-26T10:45:00+00:00,9.0
+08/09/2023,france,new_zealand,Stade de France,Saint-Denis,France,2023-09-08T19:15:00+00:00,2.0
+08/09/2023,new_zealand,france,Stade de France,Saint-Denis,France,2023-09-08T19:15:00+00:00,2.0
+03/02/2018,france,ireland,Stade de France,Saint-Denis,France,2018-02-03T16:45:00+00:00,1.0
+03/02/2018,ireland,france,Stade de France,Saint-Denis,France,2018-02-03T16:45:00+00:00,1.0
+18/03/2023,ireland,england,Aviva Stadium,Dublin,Ireland,2023-03-18T17:00:00+00:00,0.0
+18/03/2023,england,ireland,Aviva Stadium,Dublin,Ireland,2023-03-18T17:00:00+00:00,0.0
+16/09/2017,new_zealand,south_africa,QBE Stadium,North Harbour,New Zealand,2017-09-16T07:30:00+00:00,12.0
+16/09/2017,south_africa,new_zealand,QBE Stadium,North Harbour,New Zealand,2017-09-16T07:30:00+00:00,12.0
+14/03/2015,wales,ireland,Millennium Stadium,Cardiff,Wales,2015-03-14T14:30:00+00:00,0.0
+14/03/2015,ireland,wales,Millennium Stadium,Cardiff,Wales,2015-03-14T14:30:00+00:00,0.0
+31/08/2024,south_africa,new_zealand,Emirates Airline Park,Johannesburg,South Africa,2024-08-31T15:00:00+00:00,2.0
+31/08/2024,new_zealand,south_africa,Emirates Airline Park,Johannesburg,South Africa,2024-08-31T15:00:00+00:00,2.0
+22/11/2025,ireland,south_africa,Aviva Stadium,Dublin,Ireland,2025-11-22T17:40:00+00:00,0.0
+22/11/2025,south_africa,ireland,Aviva Stadium,Dublin,Ireland,2025-11-22T17:40:00+00:00,0.0
+08/07/2023,south_africa,australia,Loftus Versfeld,Pretoria,South Africa,2023-07-08T15:05:00+00:00,2.0
+08/07/2023,australia,south_africa,Loftus Versfeld,Pretoria,South Africa,2023-07-08T15:05:00+00:00,2.0
+25/09/2021,new_zealand,south_africa,Queensland Country Bank Stadium,Townsville,Australia,2021-09-25T07:05:00+00:00,10.0
+25/09/2021,south_africa,new_zealand,Queensland Country Bank Stadium,Townsville,Australia,2021-09-25T07:05:00+00:00,10.0
+12/03/2023,scotland,ireland,Murrayfield,Edinburgh,Scotland,2023-03-12T15:00:00+00:00,0.0
+12/03/2023,ireland,scotland,Murrayfield,Edinburgh,Scotland,2023-03-12T15:00:00+00:00,0.0
+13/02/2022,italy,england,Stadio Olimpico,Roma,Italy,2022-02-13T15:00:00+00:00,1.0
+13/02/2022,england,italy,Stadio Olimpico,Roma,Italy,2022-02-13T15:00:00+00:00,1.0
+09/06/2018,canada,scotland,Commonwealth Stadium,Edmonton,Canada,2018-06-10T01:10:00+00:00,-6.0
+09/06/2018,scotland,canada,Commonwealth Stadium,Edmonton,Canada,2018-06-10T01:10:00+00:00,-6.0
+11/11/2017,ireland,south_africa,Aviva Stadium,Dublin,Ireland,2017-11-11T17:30:00+00:00,0.0
+11/11/2017,south_africa,ireland,Aviva Stadium,Dublin,Ireland,2017-11-11T17:30:00+00:00,0.0
+01/02/2019,france,wales,Stade de France,Saint-Denis,France,2019-02-01T20:00:00+00:00,1.0
+01/02/2019,wales,france,Stade de France,Saint-Denis,France,2019-02-01T20:00:00+00:00,1.0
+09/10/2019,wales,fiji,Oita Stadium,Oita Prefecture,Japan,2019-10-09T09:45:00+00:00,9.0
+09/10/2019,fiji,wales,Oita Stadium,Oita Prefecture,Japan,2019-10-09T09:45:00+00:00,9.0
+22/11/2024,france,argentina,Stade de France,Saint-Denis,France,2024-11-22T20:10:00+00:00,1.0
+22/11/2024,argentina,france,Stade de France,Saint-Denis,France,2024-11-22T20:10:00+00:00,1.0
+09/07/2022,australia,england,Suncorp Stadium,Brisbane,Australia,2022-07-09T09:55:00+00:00,10.0
+09/07/2022,england,australia,Suncorp Stadium,Brisbane,Australia,2022-07-09T09:55:00+00:00,10.0
+07/07/2021,australia,france,Suncorp Stadium,Brisbane,Australia,2021-07-07T12:00:00+00:00,8.0
+07/07/2021,france,australia,Suncorp Stadium,Brisbane,Australia,2021-07-07T12:00:00+00:00,8.0
+14/11/2020,new_zealand,argentina,Bankwest Stadium,Parramatta,Australia,2020-11-14T06:10:00+00:00,11.0
+14/11/2020,argentina,new_zealand,Bankwest Stadium,Parramatta,Australia,2020-11-14T06:10:00+00:00,11.0
+25/07/2015,south_africa,new_zealand,Ellis Park,Johannesburg,South Africa,2015-07-25T15:05:00+00:00,2.0
+25/07/2015,new_zealand,south_africa,Ellis Park,Johannesburg,South Africa,2015-07-25T15:05:00+00:00,2.0
+27/07/2019,australia,argentina,Suncorp Stadium,Brisbane,Australia,2019-07-27T09:45:00+00:00,10.0
+27/07/2019,argentina,australia,Suncorp Stadium,Brisbane,Australia,2019-07-27T09:45:00+00:00,10.0
+16/11/2024,scotland,portugal,Murrayfield,Edinburgh,Scotland,2024-11-16T15:10:00+00:00,0.0
+16/11/2024,portugal,scotland,Murrayfield,Edinburgh,Scotland,2024-11-16T15:10:00+00:00,0.0
+24/11/2018,wales,south_africa,Principality Stadium,Cardiff,Wales,2018-11-24T17:20:00+00:00,0.0
+24/11/2018,south_africa,wales,Principality Stadium,Cardiff,Wales,2018-11-24T17:20:00+00:00,0.0
+14/03/2026,france,england,Stade de France,Saint-Denis,France,2026-03-14T20:10:00+00:00,1.0
+14/03/2026,england,france,Stade de France,Saint-Denis,France,2026-03-14T20:10:00+00:00,1.0
+14/02/2026,ireland,italy,Aviva Stadium,Dublin,Ireland,2026-02-14T14:10:00+00:00,0.0
+14/02/2026,italy,ireland,Aviva Stadium,Dublin,Ireland,2026-02-14T14:10:00+00:00,0.0
+07/09/2019,randwick,argentina,Coogee Oval,Sydney,Australia,2019-09-07T04:30:00+00:00,10.0
+07/09/2019,argentina,randwick,Coogee Oval,Sydney,Australia,2019-09-07T04:30:00+00:00,10.0
+09/09/2023,italy,namibia,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-09-09T11:00:00+00:00,2.0
+09/09/2023,namibia,italy,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-09-09T11:00:00+00:00,2.0
+23/06/2018,south_africa,england,DHL Newlands,Cape Town,South Africa,2018-06-23T15:05:00+00:00,2.0
+23/06/2018,england,south_africa,DHL Newlands,Cape Town,South Africa,2018-06-23T15:05:00+00:00,2.0
+28/11/2020,argentina,new_zealand,McDonald Jones Stadium,Newcastle,Australia,2020-11-28T08:45:00+00:00,11.0
+28/11/2020,new_zealand,argentina,McDonald Jones Stadium,Newcastle,Australia,2020-11-28T08:45:00+00:00,11.0
+06/07/2024,argentina,france,Estadio Malvinas Argentinas,Mendoza,Argentina,2024-07-06T19:00:00+00:00,-3.0
+06/07/2024,france,argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,2024-07-06T19:00:00+00:00,-3.0
+21/09/2019,france,argentina,Tokyo Stadium,Tokyo,Japan,2019-09-21T07:15:00+00:00,9.0
+21/09/2019,argentina,france,Tokyo Stadium,Tokyo,Japan,2019-09-21T07:15:00+00:00,9.0
+21/11/2020,argentina,australia,McDonald Jones Stadium,Newcastle,Australia,2020-11-21T08:45:00+00:00,11.0
+21/11/2020,australia,argentina,McDonald Jones Stadium,Newcastle,Australia,2020-11-21T08:45:00+00:00,11.0
+16/06/2017,new_zealand,samoa,Eden Park,Auckland,New Zealand,2017-06-16T08:00:00+00:00,12.0
+16/06/2017,samoa,new_zealand,Eden Park,Auckland,New Zealand,2017-06-16T08:00:00+00:00,12.0
+10/10/2015,england,uruguay,Manchester City Stadium,Manchester,England,2015-10-10T19:00:00+00:00,1.0
+10/10/2015,uruguay,england,Manchester City Stadium,Manchester,England,2015-10-10T19:00:00+00:00,1.0
+09/09/2017,australia,south_africa,nib Stadium,Perth,Australia,2017-09-09T10:00:00+00:00,8.0
+09/09/2017,south_africa,australia,nib Stadium,Perth,Australia,2017-09-09T10:00:00+00:00,8.0
+05/10/2023,new_zealand,uruguay,OL Stadium,Lyon,France,2023-10-05T19:00:00+00:00,2.0
+05/10/2023,uruguay,new_zealand,OL Stadium,Lyon,France,2023-10-05T19:00:00+00:00,2.0
+17/11/2018,ireland,new_zealand,Aviva Stadium,Dublin,Ireland,2018-11-17T19:00:00+00:00,0.0
+17/11/2018,new_zealand,ireland,Aviva Stadium,Dublin,Ireland,2018-11-17T19:00:00+00:00,0.0
+10/07/2021,england,canada,Twickenham,London,England,2021-07-10T14:00:00+00:00,1.0
+10/07/2021,canada,england,Twickenham,London,England,2021-07-10T14:00:00+00:00,1.0
+31/08/2024,argentina,australia,Estadio Jorge Hirschi,Buenos Aires,Argentina,2024-08-31T22:00:00+00:00,-3.0
+31/08/2024,australia,argentina,Estadio Jorge Hirschi,Buenos Aires,Argentina,2024-08-31T22:00:00+00:00,-3.0
+15/10/2023,england,fiji,Stade de Marseille,Marseille,France,2023-10-15T15:00:00+00:00,2.0
+15/10/2023,fiji,england,Stade de Marseille,Marseille,France,2023-10-15T15:00:00+00:00,2.0
+08/02/2025,england,france,Allianz Stadium,London,England,2025-02-08T16:45:00+00:00,0.0
+08/02/2025,france,england,Allianz Stadium,London,England,2025-02-08T16:45:00+00:00,0.0
+25/09/2021,australia,argentina,Queensland Country Bank Stadium,Townsville,Australia,2021-09-25T10:05:00+00:00,10.0
+25/09/2021,argentina,australia,Queensland Country Bank Stadium,Townsville,Australia,2021-09-25T10:05:00+00:00,10.0
+23/02/2025,italy,france,Stadio Olimpico,Roma,Italy,2025-02-23T15:00:00+00:00,1.0
+23/02/2025,france,italy,Stadio Olimpico,Roma,Italy,2025-02-23T15:00:00+00:00,1.0
+18/03/2017,france,wales,Stade de France,Saint-Denis,France,2017-03-18T14:45:00+00:00,1.0
+18/03/2017,wales,france,Stade de France,Saint-Denis,France,2017-03-18T14:45:00+00:00,1.0
+26/11/2022,wales,australia,Principality Stadium,Cardiff,Wales,2022-11-26T15:15:00+00:00,0.0
+26/11/2022,australia,wales,Principality Stadium,Cardiff,Wales,2022-11-26T15:15:00+00:00,0.0
+24/11/2018,ireland,usa,Aviva Stadium,Dublin,Ireland,2018-11-24T18:30:00+00:00,0.0
+24/11/2018,usa,ireland,Aviva Stadium,Dublin,Ireland,2018-11-24T18:30:00+00:00,0.0
+26/09/2015,south_africa,samoa,Villa Park,Birmingham,England,2015-09-26T15:45:00+00:00,1.0
+26/09/2015,samoa,south_africa,Villa Park,Birmingham,England,2015-09-26T15:45:00+00:00,1.0
+03/10/2019,ireland,russia,Kobe Misaki Stadium,Kobe City,Japan,2019-10-03T10:15:00+00:00,9.0
+03/10/2019,russia,ireland,Kobe Misaki Stadium,Kobe City,Japan,2019-10-03T10:15:00+00:00,9.0
+05/09/2015,england,ireland,Twickenham,London,England,2015-09-05T13:30:00+00:00,1.0
+05/09/2015,ireland,england,Twickenham,London,England,2015-09-05T13:30:00+00:00,1.0
+02/11/2019,england,south_africa,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-11-02T09:00:00+00:00,9.0
+02/11/2019,south_africa,england,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-11-02T09:00:00+00:00,9.0
+10/07/2022,georgia,italy,Adjarabet Arena,Batumi,Georgia,2022-07-10T16:00:00+00:00,4.0
+10/07/2022,italy,georgia,Adjarabet Arena,Batumi,Georgia,2022-07-10T16:00:00+00:00,4.0
+20/06/2025,british & irish lions,argentina,Aviva Stadium,Dublin,Ireland,2025-06-20T19:00:00+00:00,1.0
+20/06/2025,argentina,british & irish lions,Aviva Stadium,Dublin,Ireland,2025-06-20T19:00:00+00:00,1.0
+11/03/2017,england,scotland,Twickenham,London,England,2017-03-11T16:00:00+00:00,0.0
+11/03/2017,scotland,england,Twickenham,London,England,2017-03-11T16:00:00+00:00,0.0
+07/09/2024,argentina,australia,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2024-09-07T19:00:00+00:00,-3.0
+07/09/2024,australia,argentina,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2024-09-07T19:00:00+00:00,-3.0
+22/02/2025,england,scotland,Allianz Stadium,London,England,2025-02-22T16:45:00+00:00,0.0
+22/02/2025,scotland,england,Allianz Stadium,London,England,2025-02-22T16:45:00+00:00,0.0
+11/02/2024,ireland,italy,Aviva Stadium,Dublin,Ireland,2024-02-11T15:00:00+00:00,0.0
+11/02/2024,italy,ireland,Aviva Stadium,Dublin,Ireland,2024-02-11T15:00:00+00:00,0.0
+09/09/2023,england,argentina,Stade de Marseille,Marseille,France,2023-09-09T19:00:00+00:00,2.0
+09/09/2023,argentina,england,Stade de Marseille,Marseille,France,2023-09-09T19:00:00+00:00,2.0
+18/07/2026,fiji,scotland,Murrayfield,Edinburgh,Scotland,2026-07-18T13:10:00+00:00,1.0
+18/07/2026,scotland,fiji,Murrayfield,Edinburgh,Scotland,2026-07-18T13:10:00+00:00,1.0
+06/09/2025,australia,argentina,Queensland Country Bank Stadium,Townsville,Australia,2025-09-06T04:30:00+00:00,10.0
+06/09/2025,argentina,australia,Queensland Country Bank Stadium,Townsville,Australia,2025-09-06T04:30:00+00:00,10.0
+08/03/2025,ireland,france,Aviva Stadium,Dublin,Ireland,2025-03-08T14:15:00+00:00,0.0
+08/03/2025,france,ireland,Aviva Stadium,Dublin,Ireland,2025-03-08T14:15:00+00:00,0.0
+29/10/2022,japan,new_zealand,National Kasumigaoka Stadium,Tokyo,Japan,2022-10-29T05:50:00+00:00,9.0
+29/10/2022,new_zealand,japan,National Kasumigaoka Stadium,Tokyo,Japan,2022-10-29T05:50:00+00:00,9.0
+14/02/2015,ireland,france,Aviva Stadium,Dublin,Ireland,2015-02-14T17:00:00+00:00,0.0
+14/02/2015,france,ireland,Aviva Stadium,Dublin,Ireland,2015-02-14T17:00:00+00:00,0.0
+11/11/2017,england,argentina,Twickenham,London,England,2017-11-11T14:30:00+00:00,0.0
+11/11/2017,argentina,england,Twickenham,London,England,2017-11-11T14:30:00+00:00,0.0
+24/09/2022,south_africa,argentina,Hollywoodbets Kings Park,Durban,South Africa,2022-09-24T15:05:00+00:00,2.0
+24/09/2022,argentina,south_africa,Hollywoodbets Kings Park,Durban,South Africa,2022-09-24T15:05:00+00:00,2.0
+09/03/2019,england,italy,Twickenham,London,England,2019-03-09T16:45:00+00:00,0.0
+09/03/2019,italy,england,Twickenham,London,England,2019-03-09T16:45:00+00:00,0.0
+12/09/2021,south_africa,australia,CBUS Super Stadium,Robina,Australia,2021-09-12T10:05:00+00:00,10.0
+12/09/2021,australia,south_africa,CBUS Super Stadium,Robina,Australia,2021-09-12T10:05:00+00:00,10.0
+15/11/2025,italy,south_africa,Allianz Stadium,Turin,Italy,2025-11-15T12:40:00+00:00,1.0
+15/11/2025,south_africa,italy,Allianz Stadium,Turin,Italy,2025-11-15T12:40:00+00:00,1.0
+17/09/2016,australia,argentina,nib Stadium,Perth,Australia,2016-09-17T10:05:00+00:00,8.0
+17/09/2016,argentina,australia,nib Stadium,Perth,Australia,2016-09-17T10:05:00+00:00,8.0
+02/02/2019,ireland,england,Aviva Stadium,Dublin,Ireland,2019-02-02T16:45:00+00:00,0.0
+02/02/2019,england,ireland,Aviva Stadium,Dublin,Ireland,2019-02-02T16:45:00+00:00,0.0
+23/11/2025,scotland,tonga,Murrayfield,Edinburgh,Scotland,2025-11-23T13:40:00+00:00,0.0
+23/11/2025,tonga,scotland,Murrayfield,Edinburgh,Scotland,2025-11-23T13:40:00+00:00,0.0
+10/09/2016,new_zealand,argentina,Waikato Stadium,Hamilton,New Zealand,2016-09-10T07:35:00+00:00,12.0
+10/09/2016,argentina,new_zealand,Waikato Stadium,Hamilton,New Zealand,2016-09-10T07:35:00+00:00,12.0
+04/02/2017,scotland,ireland,Murrayfield,Edinburgh,Scotland,2017-02-04T14:25:00+00:00,0.0
+04/02/2017,ireland,scotland,Murrayfield,Edinburgh,Scotland,2017-02-04T14:25:00+00:00,0.0
+03/07/2021,ireland,japan,Aviva Stadium,Dublin,Ireland,2021-07-03T12:00:00+00:00,1.0
+03/07/2021,japan,ireland,Aviva Stadium,Dublin,Ireland,2021-07-03T12:00:00+00:00,1.0
+05/08/2023,scotland,france,Murrayfield,Edinburgh,Scotland,2023-08-05T14:15:00+00:00,1.0
+05/08/2023,france,scotland,Murrayfield,Edinburgh,Scotland,2023-08-05T14:15:00+00:00,1.0
+21/09/2019,australia,fiji,Sapporo Dome,Sapporo,Japan,2019-09-21T04:45:00+00:00,9.0
+21/09/2019,fiji,australia,Sapporo Dome,Sapporo,Japan,2019-09-21T04:45:00+00:00,9.0
+07/03/2026,scotland,france,Murrayfield,Edinburgh,Scotland,2026-03-07T14:10:00+00:00,0.0
+07/03/2026,france,scotland,Murrayfield,Edinburgh,Scotland,2026-03-07T14:10:00+00:00,0.0
+17/06/2017,japan,ireland,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2017-06-17T05:00:00+00:00,9.0
+17/06/2017,ireland,japan,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2017-06-17T05:00:00+00:00,9.0
+30/11/2024,ireland,australia,Aviva Stadium,Dublin,Ireland,2024-11-30T15:10:00+00:00,0.0
+30/11/2024,australia,ireland,Aviva Stadium,Dublin,Ireland,2024-11-30T15:10:00+00:00,0.0
+14/11/2020,england,georgia,Twickenham,London,England,2020-11-14T15:00:00+00:00,0.0
+14/11/2020,georgia,england,Twickenham,London,England,2020-11-14T15:00:00+00:00,0.0
+06/10/2018,argentina,australia,Estadio Padre Ernesto Martearena,Salta,Argentina,2018-10-06T22:40:00+00:00,-3.0
+06/10/2018,australia,argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,2018-10-06T22:40:00+00:00,-3.0
+29/09/2019,australia,wales,Tokyo Stadium,Tokyo,Japan,2019-09-29T07:45:00+00:00,9.0
+29/09/2019,wales,australia,Tokyo Stadium,Tokyo,Japan,2019-09-29T07:45:00+00:00,9.0
+07/10/2023,england,samoa,Stade Pierre-Mauroy,Lille,France,2023-10-07T15:45:00+00:00,2.0
+07/10/2023,samoa,england,Stade Pierre-Mauroy,Lille,France,2023-10-07T15:45:00+00:00,2.0
+23/06/2018,argentina,scotland,Estadio Centenario,"Resistencia, Chaco",Argentina,2018-06-23T19:40:00+00:00,-3.0
+23/06/2018,scotland,argentina,Estadio Centenario,"Resistencia, Chaco",Argentina,2018-06-23T19:40:00+00:00,-3.0
+12/07/2024,usa,scotland,Audi Field,Washington D.C.,United States,2024-07-12T22:30:00+00:00,-4.0
+12/07/2024,scotland,usa,Audi Field,Washington D.C.,United States,2024-07-12T22:30:00+00:00,-4.0
+15/07/2023,new_zealand,south_africa,Mount Smart Stadium,Auckland,New Zealand,2023-07-15T07:05:00+00:00,12.0
+15/07/2023,south_africa,new_zealand,Mount Smart Stadium,Auckland,New Zealand,2023-07-15T07:05:00+00:00,12.0
+23/10/2021,japan,australia,Showa Denco Dome,Oita Prefecture,Japan,2021-10-23T04:45:00+00:00,9.0
+23/10/2021,australia,japan,Showa Denco Dome,Oita Prefecture,Japan,2021-10-23T04:45:00+00:00,9.0
+29/11/2020,ireland,georgia,Aviva Stadium,Dublin,Ireland,2020-11-29T14:00:00+00:00,0.0
+29/11/2020,georgia,ireland,Aviva Stadium,Dublin,Ireland,2020-11-29T14:00:00+00:00,0.0
+13/11/2020,ireland,wales,Aviva Stadium,Dublin,Ireland,2020-11-13T19:00:00+00:00,0.0
+13/11/2020,wales,ireland,Aviva Stadium,Dublin,Ireland,2020-11-13T19:00:00+00:00,0.0
+02/07/2022,new_zealand,ireland,Eden Park,Auckland,New Zealand,2022-07-02T07:05:00+00:00,12.0
+02/07/2022,ireland,new_zealand,Eden Park,Auckland,New Zealand,2022-07-02T07:05:00+00:00,12.0
+24/10/2020,france,wales,Stade de France,Saint-Denis,France,2020-10-24T19:10:00+00:00,2.0
+24/10/2020,wales,france,Stade de France,Saint-Denis,France,2020-10-24T19:10:00+00:00,2.0
+18/07/2026,new_zealand,ireland,Eden Park,Auckland,New Zealand,2026-07-18T07:10:00+00:00,12.0
+18/07/2026,ireland,new_zealand,Eden Park,Auckland,New Zealand,2026-07-18T07:10:00+00:00,12.0
+05/02/2022,scotland,england,Murrayfield,Edinburgh,Scotland,2022-02-05T16:45:00+00:00,0.0
+05/02/2022,england,scotland,Murrayfield,Edinburgh,Scotland,2022-02-05T16:45:00+00:00,0.0
+17/06/2017,south_africa,france,King's Park,Durban,South Africa,2017-06-17T15:00:00+00:00,2.0
+17/06/2017,france,south_africa,King's Park,Durban,South Africa,2017-06-17T15:00:00+00:00,2.0
+18/08/2018,australia,new_zealand,ANZ Stadium,Sydney,Australia,2018-08-18T09:45:00+00:00,10.0
+18/08/2018,new_zealand,australia,ANZ Stadium,Sydney,Australia,2018-08-18T09:45:00+00:00,10.0
+26/11/2016,wales,south_africa,Principality Stadium,Cardiff,Wales,2016-11-26T17:30:00+00:00,0.0
+26/11/2016,south_africa,wales,Principality Stadium,Cardiff,Wales,2016-11-26T17:30:00+00:00,0.0
+15/11/2024,ireland,argentina,Aviva Stadium,Dublin,Ireland,2024-11-15T20:10:00+00:00,0.0
+15/11/2024,argentina,ireland,Aviva Stadium,Dublin,Ireland,2024-11-15T20:10:00+00:00,0.0
+24/11/2018,france,fiji,Stade de France,Saint-Denis,France,2018-11-24T20:05:00+00:00,1.0
+24/11/2018,fiji,france,Stade de France,Saint-Denis,France,2018-11-24T20:05:00+00:00,1.0
+19/11/2022,wales,georgia,Principality Stadium,Cardiff,Wales,2022-11-19T13:00:00+00:00,0.0
+19/11/2022,georgia,wales,Principality Stadium,Cardiff,Wales,2022-11-19T13:00:00+00:00,0.0
+08/11/2024,ireland,new_zealand,Aviva Stadium,Dublin,Ireland,2024-11-08T20:10:00+00:00,0.0
+08/11/2024,new_zealand,ireland,Aviva Stadium,Dublin,Ireland,2024-11-08T20:10:00+00:00,0.0
+05/12/2020,ireland,scotland,Aviva Stadium,Dublin,Ireland,2020-12-05T14:15:00+00:00,0.0
+05/12/2020,scotland,ireland,Aviva Stadium,Dublin,Ireland,2020-12-05T14:15:00+00:00,0.0
+09/03/2024,italy,scotland,Stadio Olimpico,Roma,Italy,2024-03-09T14:15:00+00:00,1.0
+09/03/2024,scotland,italy,Stadio Olimpico,Roma,Italy,2024-03-09T14:15:00+00:00,1.0
+14/11/2021,france,georgia,Matmut-Atlantique,Bordeaux,France,2021-11-14T13:00:00+00:00,1.0
+14/11/2021,georgia,france,Matmut-Atlantique,Bordeaux,France,2021-11-14T13:00:00+00:00,1.0
+26/08/2017,argentina,south_africa,Estadio Padre Ernesto Martearena,Salta,Argentina,2017-08-26T19:40:00+00:00,-3.0
+26/08/2017,south_africa,argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,2017-08-26T19:40:00+00:00,-3.0
+19/11/2016,italy,south_africa,Stadio Artemio Franchi,Florence,Italy,2016-11-19T14:00:00+00:00,1.0
+19/11/2016,south_africa,italy,Stadio Artemio Franchi,Florence,Italy,2016-11-19T14:00:00+00:00,1.0
+15/11/2025,wales,japan,Principality Stadium,Cardiff,Wales,2025-11-15T17:40:00+00:00,0.0
+15/11/2025,japan,wales,Principality Stadium,Cardiff,Wales,2025-11-15T17:40:00+00:00,0.0
+12/02/2022,france,ireland,Stade de France,Saint-Denis,France,2022-02-12T16:45:00+00:00,1.0
+12/02/2022,ireland,france,Stade de France,Saint-Denis,France,2022-02-12T16:45:00+00:00,1.0
+04/10/2015,argentina,tonga,Leicester City Stadium,Leicester,England,2015-10-04T13:30:00+00:00,1.0
+04/10/2015,tonga,argentina,Leicester City Stadium,Leicester,England,2015-10-04T13:30:00+00:00,1.0
+23/02/2020,england,ireland,Twickenham,London,England,2020-02-23T15:00:00+00:00,0.0
+23/02/2020,ireland,england,Twickenham,London,England,2020-02-23T15:00:00+00:00,0.0
+10/10/2015,australia,wales,Twickenham,London,England,2015-10-10T15:45:00+00:00,1.0
+10/10/2015,wales,australia,Twickenham,London,England,2015-10-10T15:45:00+00:00,1.0
+04/02/2017,england,france,Twickenham,London,England,2017-02-04T16:50:00+00:00,0.0
+04/02/2017,france,england,Twickenham,London,England,2017-02-04T16:50:00+00:00,0.0
+06/07/2024,south_africa,ireland,Loftus Versfeld,Pretoria,South Africa,2024-07-06T15:00:00+00:00,2.0
+06/07/2024,ireland,south_africa,Loftus Versfeld,Pretoria,South Africa,2024-07-06T15:00:00+00:00,2.0
+22/09/2019,england,tonga,Sapporo Dome,Sapporo,Japan,2019-09-22T10:15:00+00:00,9.0
+22/09/2019,tonga,england,Sapporo Dome,Sapporo,Japan,2019-09-22T10:15:00+00:00,9.0
+05/09/2015,france,scotland,Stade de France,Saint-Denis,France,2015-09-05T19:00:00+00:00,2.0
+05/09/2015,scotland,france,Stade de France,Saint-Denis,France,2015-09-05T19:00:00+00:00,2.0
+17/06/2017,australia,scotland,Allianz Stadium,Sydney,Australia,2017-06-17T05:00:00+00:00,10.0
+17/06/2017,scotland,australia,Allianz Stadium,Sydney,Australia,2017-06-17T05:00:00+00:00,10.0
+25/08/2018,argentina,south_africa,Estadio Malvinas Argentinas,Mendoza,Argentina,2018-08-25T19:10:00+00:00,-3.0
+25/08/2018,south_africa,argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,2018-08-25T19:10:00+00:00,-3.0
+22/02/2020,wales,france,Principality Stadium,Cardiff,Wales,2020-02-22T16:45:00+00:00,0.0
+22/02/2020,france,wales,Principality Stadium,Cardiff,Wales,2020-02-22T16:45:00+00:00,0.0
+24/02/2018,ireland,wales,Aviva Stadium,Dublin,Ireland,2018-02-24T14:15:00+00:00,0.0
+24/02/2018,wales,ireland,Aviva Stadium,Dublin,Ireland,2018-02-24T14:15:00+00:00,0.0
+07/02/2026,england,wales,Allianz Stadium,London,England,2026-02-07T16:40:00+00:00,0.0
+07/02/2026,wales,england,Allianz Stadium,London,England,2026-02-07T16:40:00+00:00,0.0
+11/07/2026,fiji,england,Hill Dickinson Stadium,Liverpool,England,2026-07-11T13:10:00+00:00,1.0
+11/07/2026,england,fiji,Hill Dickinson Stadium,Liverpool,England,2026-07-11T13:10:00+00:00,1.0
+26/09/2019,italy,canada,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-09-26T07:45:00+00:00,9.0
+26/09/2019,canada,italy,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-09-26T07:45:00+00:00,9.0
+09/10/2019,scotland,russia,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-10-09T07:15:00+00:00,9.0
+09/10/2019,russia,scotland,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-10-09T07:15:00+00:00,9.0
+03/09/2022,new_zealand,argentina,FMG Stadium,Hamilton,New Zealand,2022-09-03T07:05:00+00:00,12.0
+03/09/2022,argentina,new_zealand,FMG Stadium,Hamilton,New Zealand,2022-09-03T07:05:00+00:00,12.0
+20/08/2016,australia,new_zealand,ANZ Stadium,Sydney,Australia,2016-08-20T10:05:00+00:00,10.0
+20/08/2016,new_zealand,australia,ANZ Stadium,Sydney,Australia,2016-08-20T10:05:00+00:00,10.0
+06/07/2024,new_zealand,england,Forsyth Barr Stadium,Dunedin,New Zealand,2024-07-06T07:05:00+00:00,12.0
+06/07/2024,england,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2024-07-06T07:05:00+00:00,12.0
+12/07/2025,portugal,ireland,Estadio Nacional,Lisbon,Portugal,2025-07-12T18:00:00+00:00,1.0
+12/07/2025,ireland,portugal,Estadio Nacional,Lisbon,Portugal,2025-07-12T18:00:00+00:00,1.0
+24/11/2024,scotland,australia,Murrayfield,Edinburgh,Scotland,2024-11-24T13:40:00+00:00,0.0
+24/11/2024,australia,scotland,Murrayfield,Edinburgh,Scotland,2024-11-24T13:40:00+00:00,0.0
+19/09/2015,france,italy,Twickenham,London,England,2015-09-19T19:00:00+00:00,1.0
+19/09/2015,italy,france,Twickenham,London,England,2015-09-19T19:00:00+00:00,1.0
+06/09/2019,scotland,georgia,Murrayfield,Edinburgh,Scotland,2019-09-06T18:30:00+00:00,1.0
+06/09/2019,georgia,scotland,Murrayfield,Edinburgh,Scotland,2019-09-06T18:30:00+00:00,1.0
+09/11/2024,england,australia,Allianz Stadium,London,England,2024-11-09T15:10:00+00:00,0.0
+09/11/2024,australia,england,Allianz Stadium,London,England,2024-11-09T15:10:00+00:00,0.0
+12/11/2016,ireland,canada,Aviva Stadium,Dublin,Ireland,2016-11-12T19:15:00+00:00,0.0
+12/11/2016,canada,ireland,Aviva Stadium,Dublin,Ireland,2016-11-12T19:15:00+00:00,0.0
+20/11/2021,wales,australia,Principality Stadium,Cardiff,Wales,2021-11-20T17:30:00+00:00,0.0
+20/11/2021,australia,wales,Principality Stadium,Cardiff,Wales,2021-11-20T17:30:00+00:00,0.0
+17/03/2018,wales,france,Principality Stadium,Cardiff,Wales,2018-03-17T17:00:00+00:00,0.0
+17/03/2018,france,wales,Principality Stadium,Cardiff,Wales,2018-03-17T17:00:00+00:00,0.0
+02/11/2024,england,new_zealand,Allianz Stadium,London,England,2024-11-02T15:10:00+00:00,0.0
+02/11/2024,new_zealand,england,Allianz Stadium,London,England,2024-11-02T15:10:00+00:00,0.0
+16/03/2024,ireland,scotland,Aviva Stadium,Dublin,Ireland,2024-03-16T16:45:00+00:00,0.0
+16/03/2024,scotland,ireland,Aviva Stadium,Dublin,Ireland,2024-03-16T16:45:00+00:00,0.0
+20/10/2023,argentina,new_zealand,Stade de France,Saint-Denis,France,2023-10-20T19:00:00+00:00,2.0
+20/10/2023,new_zealand,argentina,Stade de France,Saint-Denis,France,2023-10-20T19:00:00+00:00,2.0
+22/08/2015,italy,scotland,Stadio Olimpico,Turin,Italy,2015-08-22T18:00:00+00:00,2.0
+22/08/2015,scotland,italy,Stadio Olimpico,Turin,Italy,2015-08-22T18:00:00+00:00,2.0
+17/08/2019,new_zealand,australia,Eden Park,Auckland,New Zealand,2019-08-17T07:35:00+00:00,12.0
+17/08/2019,australia,new_zealand,Eden Park,Auckland,New Zealand,2019-08-17T07:35:00+00:00,12.0
+03/12/2016,england,australia,Twickenham,London,England,2016-12-03T14:30:00+00:00,0.0
+03/12/2016,australia,england,Twickenham,London,England,2016-12-03T14:30:00+00:00,0.0
+06/10/2023,france,italy,OL Stadium,Lyon,France,2023-10-06T19:00:00+00:00,2.0
+06/10/2023,italy,france,OL Stadium,Lyon,France,2023-10-06T19:00:00+00:00,2.0
+11/06/2016,argentina,italy,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2016-06-11T18:45:00+00:00,-3.0
+11/06/2016,italy,argentina,Estadio Brigadier Estanislao López,Santa Fe,Argentina,2016-06-11T18:45:00+00:00,-3.0
+20/10/2019,japan,south_africa,Tokyo Stadium,Tokyo,Japan,2019-10-20T10:15:00+00:00,9.0
+20/10/2019,south_africa,japan,Tokyo Stadium,Tokyo,Japan,2019-10-20T10:15:00+00:00,9.0
+15/08/2015,argentina,south_africa,Velez Sarsfield Stadium,Buenos Aires,Argentina,2015-08-15T19:40:00+00:00,-3.0
+15/08/2015,south_africa,argentina,Velez Sarsfield Stadium,Buenos Aires,Argentina,2015-08-15T19:40:00+00:00,-3.0
+24/06/2017,japan,ireland,Tokyo Stadium,Tokyo,Japan,2017-06-24T05:40:00+00:00,9.0
+24/06/2017,ireland,japan,Tokyo Stadium,Tokyo,Japan,2017-06-24T05:40:00+00:00,9.0
+19/11/2016,ireland,new_zealand,Aviva Stadium,Dublin,Ireland,2016-11-19T17:30:00+00:00,0.0
+19/11/2016,new_zealand,ireland,Aviva Stadium,Dublin,Ireland,2016-11-19T17:30:00+00:00,0.0
+13/07/2024,argentina,france,Estadio José Amalfitani,Buenos Aires,Argentina,2024-07-13T19:00:00+00:00,-3.0
+13/07/2024,france,argentina,Estadio José Amalfitani,Buenos Aires,Argentina,2024-07-13T19:00:00+00:00,-3.0
+05/08/2023,new_zealand,australia,Forsyth Barr Stadium,Dunedin,New Zealand,2023-08-05T02:35:00+00:00,12.0
+05/08/2023,australia,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2023-08-05T02:35:00+00:00,12.0
+14/02/2021,ireland,france,Aviva Stadium,Dublin,Ireland,2021-02-14T15:00:00+00:00,0.0
+14/02/2021,france,ireland,Aviva Stadium,Dublin,Ireland,2021-02-14T15:00:00+00:00,0.0
+09/11/2024,italy,argentina,Bluenergy Stadium,Udine,Italy,2024-11-09T17:40:00+00:00,1.0
+09/11/2024,argentina,italy,Bluenergy Stadium,Udine,Italy,2024-11-09T17:40:00+00:00,1.0
+03/10/2015,south_africa,scotland,St James Park,Newcastle upon Tyne,England,2015-10-03T15:45:00+00:00,1.0
+03/10/2015,scotland,south_africa,St James Park,Newcastle upon Tyne,England,2015-10-03T15:45:00+00:00,1.0
+02/10/2015,new_zealand,georgia,Millennium Stadium,Cardiff,Wales,2015-10-02T19:00:00+00:00,1.0
+02/10/2015,georgia,new_zealand,Millennium Stadium,Cardiff,Wales,2015-10-02T19:00:00+00:00,1.0
+17/09/2022,argentina,south_africa,Estadio Libertadores de América,"Avellaneda, Buenos Aires",Argentina,2022-09-17T19:10:00+00:00,-3.0
+17/09/2022,south_africa,argentina,Estadio Libertadores de América,"Avellaneda, Buenos Aires",Argentina,2022-09-17T19:10:00+00:00,-3.0
+19/07/2024,queensland reds,wales,Suncorp Stadium,Brisbane,Australia,2024-07-19T09:55:00+00:00,11.0
+19/07/2024,wales,queensland reds,Suncorp Stadium,Brisbane,Australia,2024-07-19T09:55:00+00:00,11.0
+02/07/2022,australia,england,Optus Stadium,Perth,Australia,2022-07-02T09:55:00+00:00,8.0
+02/07/2022,england,australia,Optus Stadium,Perth,Australia,2022-07-02T09:55:00+00:00,8.0
+29/08/2015,ireland,wales,Aviva Stadium,Dublin,Ireland,2015-08-29T13:30:00+00:00,1.0
+29/08/2015,wales,ireland,Aviva Stadium,Dublin,Ireland,2015-08-29T13:30:00+00:00,1.0
+16/06/2017,tonga,wales,Eden Park,Auckland,New Zealand,2017-06-16T05:30:00+00:00,12.0
+16/06/2017,wales,tonga,Eden Park,Auckland,New Zealand,2017-06-16T05:30:00+00:00,12.0
+12/03/2022,italy,scotland,Stadio Olimpico,Roma,Italy,2022-03-12T14:15:00+00:00,1.0
+12/03/2022,scotland,italy,Stadio Olimpico,Roma,Italy,2022-03-12T14:15:00+00:00,1.0
+24/11/2018,scotland,argentina,Murrayfield,Edinburgh,Scotland,2018-11-24T14:30:00+00:00,0.0
+24/11/2018,argentina,scotland,Murrayfield,Edinburgh,Scotland,2018-11-24T14:30:00+00:00,0.0
+12/11/2016,england,south_africa,Twickenham,London,England,2016-11-12T14:30:00+00:00,0.0
+12/11/2016,south_africa,england,Twickenham,London,England,2016-11-12T14:30:00+00:00,0.0
+27/09/2015,scotland,usa,Elland Road,Leeds,England,2015-09-27T13:30:00+00:00,1.0
+27/09/2015,usa,scotland,Elland Road,Leeds,England,2015-09-27T13:30:00+00:00,1.0
+24/02/2024,scotland,england,Murrayfield,Edinburgh,Scotland,2024-02-24T16:45:00+00:00,0.0
+24/02/2024,england,scotland,Murrayfield,Edinburgh,Scotland,2024-02-24T16:45:00+00:00,0.0
+21/09/2019,new_zealand,south_africa,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-09-21T09:45:00+00:00,9.0
+21/09/2019,south_africa,new_zealand,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-09-21T09:45:00+00:00,9.0
+17/09/2016,new_zealand,south_africa,AMI Stadium,Christchurch,New Zealand,2016-09-17T07:35:00+00:00,12.0
+17/09/2016,south_africa,new_zealand,AMI Stadium,Christchurch,New Zealand,2016-09-17T07:35:00+00:00,12.0
+15/09/2018,australia,argentina,Robina Stadium,Robina,Australia,2018-09-15T10:05:00+00:00,10.0
+15/09/2018,argentina,australia,Robina Stadium,Robina,Australia,2018-09-15T10:05:00+00:00,10.0
+12/08/2023,france,scotland,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-08-12T19:05:00+00:00,2.0
+12/08/2023,scotland,france,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-08-12T19:05:00+00:00,2.0
+16/07/2022,south_africa,wales,DHL Stadium,Cape Town,South Africa,2022-07-16T15:05:00+00:00,2.0
+16/07/2022,wales,south_africa,DHL Stadium,Cape Town,South Africa,2022-07-16T15:05:00+00:00,2.0
+15/11/2025,ireland,australia,Aviva Stadium,Dublin,Ireland,2025-11-15T20:10:00+00:00,0.0
+15/11/2025,australia,ireland,Aviva Stadium,Dublin,Ireland,2025-11-15T20:10:00+00:00,0.0
+10/02/2018,ireland,italy,Aviva Stadium,Dublin,Ireland,2018-02-10T14:15:00+00:00,0.0
+10/02/2018,italy,ireland,Aviva Stadium,Dublin,Ireland,2018-02-10T14:15:00+00:00,0.0
+09/06/2018,south_africa,england,Emirates Airline Park,Johannesburg,South Africa,2018-06-09T15:05:00+00:00,2.0
+09/06/2018,england,south_africa,Emirates Airline Park,Johannesburg,South Africa,2018-06-09T15:05:00+00:00,2.0
+16/11/2024,france,new_zealand,Stade de France,Saint-Denis,France,2024-11-16T20:10:00+00:00,1.0
+16/11/2024,new_zealand,france,Stade de France,Saint-Denis,France,2024-11-16T20:10:00+00:00,1.0
+15/08/2026,australia,japan,North Queensland Stadium,Townsville,Australia,2026-08-15T05:00:00+00:00,10.0
+15/08/2026,japan,australia,North Queensland Stadium,Townsville,Australia,2026-08-15T05:00:00+00:00,10.0
+10/11/2018,france,south_africa,Stade de France,Saint-Denis,France,2018-11-10T20:05:00+00:00,1.0
+10/11/2018,south_africa,france,Stade de France,Saint-Denis,France,2018-11-10T20:05:00+00:00,1.0
+13/10/2019,japan,scotland,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-10-13T10:45:00+00:00,9.0
+13/10/2019,scotland,japan,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-10-13T10:45:00+00:00,9.0
+21/08/2021,argentina,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2021-08-21T15:05:00+00:00,2.0
+21/08/2021,south_africa,argentina,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2021-08-21T15:05:00+00:00,2.0
+28/05/2017,england,barbarians,Twickenham,London,England,2017-05-28T13:30:00+00:00,1.0
+28/05/2017,barbarians,england,Twickenham,London,England,2017-05-28T13:30:00+00:00,1.0
+26/11/2016,italy,tonga,Stadio Euganeo,Padova,Italy,2016-11-26T14:00:00+00:00,1.0
+26/11/2016,tonga,italy,Stadio Euganeo,Padova,Italy,2016-11-26T14:00:00+00:00,1.0
+31/10/2015,new_zealand,australia,Twickenham,London,England,2015-10-31T16:00:00+00:00,0.0
+31/10/2015,australia,new_zealand,Twickenham,London,England,2015-10-31T16:00:00+00:00,0.0
+21/02/2026,england,ireland,Allianz Stadium,London,England,2026-02-21T14:10:00+00:00,0.0
+21/02/2026,ireland,england,Allianz Stadium,London,England,2026-02-21T14:10:00+00:00,0.0
+06/03/2026,ireland,wales,Aviva Stadium,Dublin,Ireland,2026-03-06T20:10:00+00:00,0.0
+06/03/2026,wales,ireland,Aviva Stadium,Dublin,Ireland,2026-03-06T20:10:00+00:00,0.0
+07/03/2020,england,wales,Twickenham,London,England,2020-03-07T16:45:00+00:00,0.0
+07/03/2020,wales,england,Twickenham,London,England,2020-03-07T16:45:00+00:00,0.0
+30/08/2019,france,italy,Stade de France,Saint-Denis,France,2019-08-30T19:10:00+00:00,2.0
+30/08/2019,italy,france,Stade de France,Saint-Denis,France,2019-08-30T19:10:00+00:00,2.0
+18/09/2015,england,fiji,Twickenham,London,England,2015-09-18T19:00:00+00:00,1.0
+18/09/2015,fiji,england,Twickenham,London,England,2015-09-18T19:00:00+00:00,1.0
+01/11/2025,england,australia,Twickenham Stadium,London,England,2025-11-01T15:10:00+00:00,0.0
+01/11/2025,australia,england,Twickenham Stadium,London,England,2025-11-01T15:10:00+00:00,0.0
+29/07/2023,australia,new_zealand,Melbourne Cricket Ground,Melbourne,Australia,2023-07-29T09:45:00+00:00,10.0
+29/07/2023,new_zealand,australia,Melbourne Cricket Ground,Melbourne,Australia,2023-07-29T09:45:00+00:00,10.0
+10/11/2024,scotland,south_africa,Murrayfield,Edinburgh,Scotland,2024-11-10T16:10:00+00:00,0.0
+10/11/2024,south_africa,scotland,Murrayfield,Edinburgh,Scotland,2024-11-10T16:10:00+00:00,0.0
+13/02/2016,france,ireland,Stade de France,Saint-Denis,France,2016-02-13T14:25:00+00:00,1.0
+13/02/2016,ireland,france,Stade de France,Saint-Denis,France,2016-02-13T14:25:00+00:00,1.0
+13/11/2021,scotland,south_africa,Murrayfield,Edinburgh,Scotland,2021-11-13T13:00:00+00:00,0.0
+13/11/2021,south_africa,scotland,Murrayfield,Edinburgh,Scotland,2021-11-13T13:00:00+00:00,0.0
+11/02/2017,wales,england,Principality Stadium,Cardiff,Wales,2017-02-11T16:50:00+00:00,0.0
+11/02/2017,england,wales,Principality Stadium,Cardiff,Wales,2017-02-11T16:50:00+00:00,0.0
+03/07/2021,new_zealand,tonga,Mount Smart Stadium,Auckland,New Zealand,2021-07-03T07:05:00+00:00,12.0
+03/07/2021,tonga,new_zealand,Mount Smart Stadium,Auckland,New Zealand,2021-07-03T07:05:00+00:00,12.0
+10/02/2024,scotland,france,Murrayfield,Edinburgh,Scotland,2024-02-10T14:15:00+00:00,0.0
+10/02/2024,france,scotland,Murrayfield,Edinburgh,Scotland,2024-02-10T14:15:00+00:00,0.0
+06/11/2021,wales,south_africa,Principality Stadium,Cardiff,Wales,2021-11-06T17:30:00+00:00,0.0
+06/11/2021,south_africa,wales,Principality Stadium,Cardiff,Wales,2021-11-06T17:30:00+00:00,0.0
+31/08/2019,georgia,scotland,Dinamo Arena,Tbilisi,Georgia,2019-08-31T16:00:00+00:00,4.0
+31/08/2019,scotland,georgia,Dinamo Arena,Tbilisi,Georgia,2019-08-31T16:00:00+00:00,4.0
+05/07/2025,south_africa,italy,Loftus Versfeld,Pretoria,South Africa,2025-07-05T16:10:00+00:00,1.0
+05/07/2025,italy,south_africa,Loftus Versfeld,Pretoria,South Africa,2025-07-05T16:10:00+00:00,1.0
+11/07/2015,south_africa,world xv,Newlands Stadium,Cape Town,South Africa,2015-07-11T15:00:00+00:00,2.0
+11/07/2015,world xv,south_africa,Newlands Stadium,Cape Town,South Africa,2015-07-11T15:00:00+00:00,2.0
+11/10/2015,argentina,namibia,Leicester City Stadium,Leicester,England,2015-10-11T11:00:00+00:00,1.0
+11/10/2015,namibia,argentina,Leicester City Stadium,Leicester,England,2015-10-11T11:00:00+00:00,1.0
+20/09/2023,italy,uruguay,Stade de Nice,Nice,France,2023-09-20T15:45:00+00:00,2.0
+20/09/2023,uruguay,italy,Stade de Nice,Nice,France,2023-09-20T15:45:00+00:00,2.0
+19/11/2016,wales,japan,Principality Stadium,Cardiff,Wales,2016-11-19T14:30:00+00:00,0.0
+19/11/2016,japan,wales,Principality Stadium,Cardiff,Wales,2016-11-19T14:30:00+00:00,0.0
+24/11/2024,england,japan,Allianz Stadium,London,England,2024-11-24T16:10:00+00:00,0.0
+24/11/2024,japan,england,Allianz Stadium,London,England,2024-11-24T16:10:00+00:00,0.0
+23/09/2015,france,romania,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-09-23T19:00:00+00:00,1.0
+23/09/2015,romania,france,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-09-23T19:00:00+00:00,1.0
+13/09/2025,new_zealand,south_africa,Sky Stadium,Wellington,New Zealand,2025-09-13T07:05:00+00:00,12.0
+13/09/2025,south_africa,new_zealand,Sky Stadium,Wellington,New Zealand,2025-09-13T07:05:00+00:00,12.0
+26/02/2023,france,scotland,Stade de France,Saint-Denis,France,2023-02-26T15:00:00+00:00,1.0
+26/02/2023,scotland,france,Stade de France,Saint-Denis,France,2023-02-26T15:00:00+00:00,1.0
+16/06/2018,south_africa,england,Toyota Stadium,Bloemfontein,South Africa,2018-06-16T15:05:00+00:00,2.0
+16/06/2018,england,south_africa,Toyota Stadium,Bloemfontein,South Africa,2018-06-16T15:05:00+00:00,2.0
+13/10/2019,wales,uruguay,Kumamoto Stadium,"Kumamoto Prefecture, Kumamoto City",Japan,2019-10-13T08:15:00+00:00,9.0
+13/10/2019,uruguay,wales,Kumamoto Stadium,"Kumamoto Prefecture, Kumamoto City",Japan,2019-10-13T08:15:00+00:00,9.0
+20/07/2024,south_africa,portugal,Toyota Stadium,Bloemfontein,South Africa,2024-07-20T15:00:00+00:00,2.0
+20/07/2024,portugal,south_africa,Toyota Stadium,Bloemfontein,South Africa,2024-07-20T15:00:00+00:00,2.0
+25/07/2015,argentina,australia,Estadio Malvinas Argentinas,Mendoza,Argentina,2015-07-25T22:40:00+00:00,-3.0
+25/07/2015,australia,argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,2015-07-25T22:40:00+00:00,-3.0
+28/09/2019,japan,ireland,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-09-28T07:15:00+00:00,9.0
+28/09/2019,ireland,japan,Shizuoka Stadium Ecopa,Shizuoka Prefecture,Japan,2019-09-28T07:15:00+00:00,9.0
+27/02/2022,ireland,italy,Aviva Stadium,Dublin,Ireland,2022-02-27T15:00:00+00:00,0.0
+27/02/2022,italy,ireland,Aviva Stadium,Dublin,Ireland,2022-02-27T15:00:00+00:00,0.0
+21/09/2023,france,namibia,Stade de Marseille,Marseille,France,2023-09-21T19:00:00+00:00,2.0
+21/09/2023,namibia,france,Stade de Marseille,Marseille,France,2023-09-21T19:00:00+00:00,2.0
+09/09/2023,australia,georgia,Stade de France,Saint-Denis,France,2023-09-09T16:00:00+00:00,2.0
+09/09/2023,georgia,australia,Stade de France,Saint-Denis,France,2023-09-09T16:00:00+00:00,2.0
+16/06/2018,australia,ireland,AAMI Park,Melbourne,Australia,2018-06-16T10:00:00+00:00,10.0
+16/06/2018,ireland,australia,AAMI Park,Melbourne,Australia,2018-06-16T10:00:00+00:00,10.0
+05/12/2020,wales,italy,Parc y Scarlets,Llanelli,Wales,2020-12-05T16:45:00+00:00,0.0
+05/12/2020,italy,wales,Parc y Scarlets,Llanelli,Wales,2020-12-05T16:45:00+00:00,0.0
+05/12/2020,australia,argentina,Bankwest Stadium,Parramatta,Australia,2020-12-05T08:45:00+00:00,11.0
+05/12/2020,argentina,australia,Bankwest Stadium,Parramatta,Australia,2020-12-05T08:45:00+00:00,11.0
+19/06/2022,england,barbarians,Twickenham,London,England,2022-06-19T15:00:00+00:00,0.0
+19/06/2022,barbarians,england,Twickenham,London,England,2022-06-19T15:00:00+00:00,0.0
+11/03/2022,wales,france,Principality Stadium,Cardiff,Wales,2022-03-11T20:00:00+00:00,0.0
+11/03/2022,france,wales,Principality Stadium,Cardiff,Wales,2022-03-11T20:00:00+00:00,0.0
+20/06/2026,south_africa,barbarians,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2026-06-20T13:00:00+00:00,2.0
+20/06/2026,barbarians,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2026-06-20T13:00:00+00:00,2.0
+19/11/2022,england,new_zealand,Twickenham,London,England,2022-11-19T17:30:00+00:00,0.0
+19/11/2022,new_zealand,england,Twickenham,London,England,2022-11-19T17:30:00+00:00,0.0
+08/07/2023,argentina,new_zealand,Estadio Malvinas Argentinas,Mendoza,Argentina,2023-07-08T19:10:00+00:00,-3.0
+08/07/2023,new_zealand,argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,2023-07-08T19:10:00+00:00,-3.0
+08/07/2015,samoa,new_zealand,Apia Park,Apia,Samoa,2015-07-08T02:00:00+00:00,13.0
+08/07/2015,new_zealand,samoa,Apia Park,Apia,Samoa,2015-07-08T02:00:00+00:00,13.0
+15/11/2025,england,new_zealand,Twickenham Stadium,London,England,2025-11-15T15:10:00+00:00,0.0
+15/11/2025,new_zealand,england,Twickenham Stadium,London,England,2025-11-15T15:10:00+00:00,0.0
+18/11/2017,france,south_africa,Stade de France,Saint-Denis,France,2017-11-18T19:45:00+00:00,1.0
+18/11/2017,south_africa,france,Stade de France,Saint-Denis,France,2017-11-18T19:45:00+00:00,1.0
+12/11/2016,wales,argentina,Principality Stadium,Cardiff,Wales,2016-11-12T17:30:00+00:00,0.0
+12/11/2016,argentina,wales,Principality Stadium,Cardiff,Wales,2016-11-12T17:30:00+00:00,0.0
+24/02/2024,ireland,wales,Aviva Stadium,Dublin,Ireland,2024-02-24T14:15:00+00:00,0.0
+24/02/2024,wales,ireland,Aviva Stadium,Dublin,Ireland,2024-02-24T14:15:00+00:00,0.0
+26/10/2019,england,new_zealand,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-10-26T08:00:00+00:00,9.0
+26/10/2019,new_zealand,england,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-10-26T08:00:00+00:00,9.0
+23/06/2018,new_zealand,france,Forsyth Barr Stadium,Dunedin,New Zealand,2018-06-23T07:35:00+00:00,12.0
+23/06/2018,france,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2018-06-23T07:35:00+00:00,12.0
+15/02/2026,wales,france,Principality Stadium,Cardiff,Wales,2026-02-15T15:10:00+00:00,0.0
+15/02/2026,france,wales,Principality Stadium,Cardiff,Wales,2026-02-15T15:10:00+00:00,0.0
+28/10/2017,australia,barbarians,Allianz Stadium,Sydney,Australia,2017-10-28T04:00:00+00:00,11.0
+28/10/2017,barbarians,australia,Allianz Stadium,Sydney,Australia,2017-10-28T04:00:00+00:00,11.0
+20/03/2021,scotland,italy,Murrayfield,Edinburgh,Scotland,2021-03-20T14:15:00+00:00,0.0
+20/03/2021,italy,scotland,Murrayfield,Edinburgh,Scotland,2021-03-20T14:15:00+00:00,0.0
+02/02/2020,france,england,Stade de France,Saint-Denis,France,2020-02-02T15:00:00+00:00,1.0
+02/02/2020,england,france,Stade de France,Saint-Denis,France,2020-02-02T15:00:00+00:00,1.0
+11/11/2017,france,new_zealand,Stade de France,Saint-Denis,France,2017-11-11T19:45:00+00:00,1.0
+11/11/2017,new_zealand,france,Stade de France,Saint-Denis,France,2017-11-11T19:45:00+00:00,1.0
+11/11/2017,wales,australia,Principality Stadium,Cardiff,Wales,2017-11-11T17:15:00+00:00,0.0
+11/11/2017,australia,wales,Principality Stadium,Cardiff,Wales,2017-11-11T17:15:00+00:00,0.0
+01/11/2025,scotland,usa,Murrayfield,Edinburgh,Scotland,2025-11-01T17:40:00+00:00,0.0
+01/11/2025,usa,scotland,Murrayfield,Edinburgh,Scotland,2025-11-01T17:40:00+00:00,0.0
+20/06/2015,argentina,french barbarians,Club Old Resian,Rosario,Argentina,2015-06-20T18:30:00+00:00,-3.0
+20/06/2015,french barbarians,argentina,Club Old Resian,Rosario,Argentina,2015-06-20T18:30:00+00:00,-3.0
+22/10/2016,new_zealand,australia,Eden Park,Auckland,New Zealand,2016-10-22T06:35:00+00:00,13.0
+22/10/2016,australia,new_zealand,Eden Park,Auckland,New Zealand,2016-10-22T06:35:00+00:00,13.0
+21/11/2015,barbarians,argentina,Twickenham,London,England,2015-11-21T15:05:00+00:00,0.0
+21/11/2015,argentina,barbarians,Twickenham,London,England,2015-11-21T15:05:00+00:00,0.0
+21/03/2015,england,france,Twickenham,London,England,2015-03-21T17:00:00+00:00,0.0
+21/03/2015,france,england,Twickenham,London,England,2015-03-21T17:00:00+00:00,0.0
+17/11/2018,france,argentina,Stade Pierre-Mauroy,Villeneuve-d'Ascq,France,2018-11-17T20:05:00+00:00,1.0
+17/11/2018,argentina,france,Stade Pierre-Mauroy,Villeneuve-d'Ascq,France,2018-11-17T20:05:00+00:00,1.0
+24/06/2017,new_zealand,british & irish lions,Eden Park,Auckland,New Zealand,2017-06-24T07:35:00+00:00,12.0
+24/06/2017,british & irish lions,new_zealand,Eden Park,Auckland,New Zealand,2017-06-24T07:35:00+00:00,12.0
+07/10/2023,wales,georgia,Stade de la Beaujoire,Nantes,France,2023-10-07T13:00:00+00:00,2.0
+07/10/2023,georgia,wales,Stade de la Beaujoire,Nantes,France,2023-10-07T13:00:00+00:00,2.0
+03/02/2024,wales,scotland,Principality Stadium,Cardiff,Wales,2024-02-03T16:45:00+00:00,0.0
+03/02/2024,scotland,wales,Principality Stadium,Cardiff,Wales,2024-02-03T16:45:00+00:00,0.0
+28/10/2023,new_zealand,south_africa,Stade de France,Saint-Denis,France,2023-10-28T19:00:00+00:00,2.0
+28/10/2023,south_africa,new_zealand,Stade de France,Saint-Denis,France,2023-10-28T19:00:00+00:00,2.0
+17/07/2015,new_zealand,argentina,AMI Stadium,Christchurch,New Zealand,2015-07-17T07:35:00+00:00,12.0
+17/07/2015,argentina,new_zealand,AMI Stadium,Christchurch,New Zealand,2015-07-17T07:35:00+00:00,12.0
+14/06/2016,chiefs,wales,Waikato Stadium,Hamilton,New Zealand,2016-06-14T06:35:00+00:00,12.0
+14/06/2016,wales,chiefs,Waikato Stadium,Hamilton,New Zealand,2016-06-14T06:35:00+00:00,12.0
+11/06/2016,new_zealand,wales,Eden Park,Auckland,New Zealand,2016-06-11T07:35:00+00:00,12.0
+11/06/2016,wales,new_zealand,Eden Park,Auckland,New Zealand,2016-06-11T07:35:00+00:00,12.0
+01/10/2015,wales,fiji,Millennium Stadium,Cardiff,Wales,2015-10-01T15:45:00+00:00,1.0
+01/10/2015,fiji,wales,Millennium Stadium,Cardiff,Wales,2015-10-01T15:45:00+00:00,1.0
+25/08/2018,new_zealand,australia,Eden Park,Auckland,New Zealand,2018-08-25T07:35:00+00:00,12.0
+25/08/2018,australia,new_zealand,Eden Park,Auckland,New Zealand,2018-08-25T07:35:00+00:00,12.0
+02/07/2022,argentina,scotland,Estadio 23 de Agosto,Jujuy,Argentina,2022-07-02T19:10:00+00:00,-3.0
+02/07/2022,scotland,argentina,Estadio 23 de Agosto,Jujuy,Argentina,2022-07-02T19:10:00+00:00,-3.0
+27/10/2023,argentina,england,Stade de France,Saint-Denis,France,2023-10-27T19:00:00+00:00,2.0
+27/10/2023,england,argentina,Stade de France,Saint-Denis,France,2023-10-27T19:00:00+00:00,2.0
+12/09/2021,new_zealand,argentina,CBUS Super Stadium,Robina,Australia,2021-09-12T07:05:00+00:00,10.0
+12/09/2021,argentina,new_zealand,CBUS Super Stadium,Robina,Australia,2021-09-12T07:05:00+00:00,10.0
+20/11/2021,scotland,japan,Murrayfield,Edinburgh,Scotland,2021-11-20T13:00:00+00:00,0.0
+20/11/2021,japan,scotland,Murrayfield,Edinburgh,Scotland,2021-11-20T13:00:00+00:00,0.0
+10/03/2017,wales,ireland,Principality Stadium,Cardiff,Wales,2017-03-10T20:05:00+00:00,0.0
+10/03/2017,ireland,wales,Principality Stadium,Cardiff,Wales,2017-03-10T20:05:00+00:00,0.0
+12/03/2016,england,wales,Twickenham,London,England,2016-03-12T16:00:00+00:00,0.0
+12/03/2016,wales,england,Twickenham,London,England,2016-03-12T16:00:00+00:00,0.0
+02/10/2021,south_africa,new_zealand,CBUS Super Stadium,Robina,Australia,2021-10-02T10:05:00+00:00,10.0
+02/10/2021,new_zealand,south_africa,CBUS Super Stadium,Robina,Australia,2021-10-02T10:05:00+00:00,10.0
+17/09/2023,south_africa,romania,Stade de Bordeaux,Bordeaux,France,2023-09-17T13:00:00+00:00,2.0
+17/09/2023,romania,south_africa,Stade de Bordeaux,Bordeaux,France,2023-09-17T13:00:00+00:00,2.0
+07/02/2026,italy,scotland,Stadio Olimpico,Roma,Italy,2026-02-07T14:10:00+00:00,1.0
+07/02/2026,scotland,italy,Stadio Olimpico,Roma,Italy,2026-02-07T14:10:00+00:00,1.0
+05/07/2025,maori all blacks,scotland,Semenoff Stadium,Whangarei,New Zealand,2025-07-05T02:35:00+00:00,13.0
+05/07/2025,scotland,maori all blacks,Semenoff Stadium,Whangarei,New Zealand,2025-07-05T02:35:00+00:00,13.0
+30/10/2015,south_africa,argentina,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-10-30T20:00:00+00:00,0.0
+30/10/2015,argentina,south_africa,"The Stadium, Queen Elizabeth Olympic Park",London,England,2015-10-30T20:00:00+00:00,0.0
+15/08/2015,ireland,scotland,Aviva Stadium,Dublin,Ireland,2015-08-15T16:00:00+00:00,1.0
+15/08/2015,scotland,ireland,Aviva Stadium,Dublin,Ireland,2015-08-15T16:00:00+00:00,1.0
+30/09/2023,argentina,chile,Stade de la Beaujoire,Nantes,France,2023-09-30T13:00:00+00:00,2.0
+30/09/2023,chile,argentina,Stade de la Beaujoire,Nantes,France,2023-09-30T13:00:00+00:00,2.0
+04/02/2023,england,scotland,Twickenham,London,England,2023-02-04T16:45:00+00:00,0.0
+04/02/2023,scotland,england,Twickenham,London,England,2023-02-04T16:45:00+00:00,0.0
+18/03/2023,france,wales,Stade de France,Saint-Denis,France,2023-03-18T14:45:00+00:00,1.0
+18/03/2023,wales,france,Stade de France,Saint-Denis,France,2023-03-18T14:45:00+00:00,1.0
+19/03/2022,france,england,Stade de France,Saint-Denis,France,2022-03-19T20:00:00+00:00,1.0
+19/03/2022,england,france,Stade de France,Saint-Denis,France,2022-03-19T20:00:00+00:00,1.0
+17/08/2019,france,scotland,Allianz Riviera,Nice,France,2019-08-17T19:05:00+00:00,2.0
+17/08/2019,scotland,france,Allianz Riviera,Nice,France,2019-08-17T19:05:00+00:00,2.0
+23/10/2020,scotland,georgia,Murrayfield,Edinburgh,Scotland,2020-10-23T18:30:00+00:00,1.0
+23/10/2020,georgia,scotland,Murrayfield,Edinburgh,Scotland,2020-10-23T18:30:00+00:00,1.0
+12/07/2025,argentina,england,Estadio del Bicentenario,San Juan,Argentina,2025-07-12T19:40:00+00:00,-3.0
+12/07/2025,england,argentina,Estadio del Bicentenario,San Juan,Argentina,2025-07-12T19:40:00+00:00,-3.0
+21/09/2024,australia,new_zealand,Accor Stadium,Sydney,Australia,2024-09-21T05:45:00+00:00,10.0
+21/09/2024,new_zealand,australia,Accor Stadium,Sydney,Australia,2024-09-21T05:45:00+00:00,10.0
+24/07/2021,south_africa,british & irish lions,Cape Town Stadium,Cape Town,South Africa,2021-07-24T16:00:00+00:00,2.0
+24/07/2021,british & irish lions,south_africa,Cape Town Stadium,Cape Town,South Africa,2021-07-24T16:00:00+00:00,2.0
+27/08/2016,argentina,south_africa,Estadio Padre Ernesto Martearena,Salta,Argentina,2016-08-27T19:40:00+00:00,-3.0
+27/08/2016,south_africa,argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,2016-08-27T19:40:00+00:00,-3.0
+02/12/2017,wales,south_africa,Principality Stadium,Cardiff,Wales,2017-12-02T14:30:00+00:00,0.0
+02/12/2017,south_africa,wales,Principality Stadium,Cardiff,Wales,2017-12-02T14:30:00+00:00,0.0
+22/11/2025,italy,chile,Stadio Luigi Ferraris,Genova,Italy,2025-11-22T20:10:00+00:00,1.0
+22/11/2025,chile,italy,Stadio Luigi Ferraris,Genova,Italy,2025-11-22T20:10:00+00:00,1.0
+10/06/2017,argentina,england,Estadio del Bicentenario,San Juan,Argentina,2017-06-10T19:15:00+00:00,-3.0
+10/06/2017,england,argentina,Estadio del Bicentenario,San Juan,Argentina,2017-06-10T19:15:00+00:00,-3.0
+29/07/2023,south_africa,argentina,Emirates Airline Park,Johannesburg,South Africa,2023-07-29T15:05:00+00:00,2.0
+29/07/2023,argentina,south_africa,Emirates Airline Park,Johannesburg,South Africa,2023-07-29T15:05:00+00:00,2.0
+28/09/2019,argentina,tonga,Hanazono Rugby Stadium,"Osaka Prefecture, Higashiosaka City",Japan,2019-09-28T04:45:00+00:00,9.0
+28/09/2019,tonga,argentina,Hanazono Rugby Stadium,"Osaka Prefecture, Higashiosaka City",Japan,2019-09-28T04:45:00+00:00,9.0
+19/08/2023,france,fiji,Stade de la Beaujoire,Nantes,France,2023-08-19T19:05:00+00:00,2.0
+19/08/2023,fiji,france,Stade de la Beaujoire,Nantes,France,2023-08-19T19:05:00+00:00,2.0
+09/11/2025,wales,argentina,Principality Stadium,Cardiff,Wales,2025-11-09T15:10:00+00:00,0.0
+09/11/2025,argentina,wales,Principality Stadium,Cardiff,Wales,2025-11-09T15:10:00+00:00,0.0
+09/06/2018,australia,ireland,Suncorp Stadium,Brisbane,Australia,2018-06-09T10:00:00+00:00,10.0
+09/06/2018,ireland,australia,Suncorp Stadium,Brisbane,Australia,2018-06-09T10:00:00+00:00,10.0
+12/10/2019,ireland,samoa,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-10-12T10:45:00+00:00,9.0
+12/10/2019,samoa,ireland,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-10-12T10:45:00+00:00,9.0
+06/09/2025,new_zealand,south_africa,Eden Park,Auckland,New Zealand,2025-09-06T07:05:00+00:00,12.0
+06/09/2025,south_africa,new_zealand,Eden Park,Auckland,New Zealand,2025-09-06T07:05:00+00:00,12.0
+05/07/2025,argentina,england,Estadio Jorge Hirschi,Buenos Aires,Argentina,2025-07-05T19:40:00+00:00,-3.0
+05/07/2025,england,argentina,Estadio Jorge Hirschi,Buenos Aires,Argentina,2025-07-05T19:40:00+00:00,-3.0
+13/02/2021,england,italy,Twickenham,London,England,2021-02-13T14:15:00+00:00,0.0
+13/02/2021,italy,england,Twickenham,London,England,2021-02-13T14:15:00+00:00,0.0
+05/11/2016,barbarians,south_africa,Wembley Stadium,London,England,2016-11-05T15:00:00+00:00,0.0
+05/11/2016,south_africa,barbarians,Wembley Stadium,London,England,2016-11-05T15:00:00+00:00,0.0
+11/03/2018,wales,italy,Principality Stadium,Cardiff,Wales,2018-03-11T15:00:00+00:00,0.0
+11/03/2018,italy,wales,Principality Stadium,Cardiff,Wales,2018-03-11T15:00:00+00:00,0.0
+10/09/2023,south_africa,scotland,Stade de Marseille,Marseille,France,2023-09-10T15:45:00+00:00,2.0
+10/09/2023,scotland,south_africa,Stade de Marseille,Marseille,France,2023-09-10T15:45:00+00:00,2.0
+14/02/2026,scotland,england,Murrayfield,Edinburgh,Scotland,2026-02-14T16:40:00+00:00,0.0
+14/02/2026,england,scotland,Murrayfield,Edinburgh,Scotland,2026-02-14T16:40:00+00:00,0.0
+11/02/2017,italy,ireland,Stadio Olimpico,Roma,Italy,2017-02-11T14:25:00+00:00,1.0
+11/02/2017,ireland,italy,Stadio Olimpico,Roma,Italy,2017-02-11T14:25:00+00:00,1.0
+16/03/2024,france,england,Groupama Stadium,Lyon,France,2024-03-16T20:00:00+00:00,1.0
+16/03/2024,england,france,Groupama Stadium,Lyon,France,2024-03-16T20:00:00+00:00,1.0
+03/11/2018,ireland,italy,Soldier Field Stadium,Chicago,United States,2018-11-03T20:00:00+00:00,-5.0
+03/11/2018,italy,ireland,Soldier Field Stadium,Chicago,United States,2018-11-03T20:00:00+00:00,-5.0
+25/11/2017,scotland,australia,Murrayfield,Edinburgh,Scotland,2017-11-25T14:30:00+00:00,0.0
+25/11/2017,australia,scotland,Murrayfield,Edinburgh,Scotland,2017-11-25T14:30:00+00:00,0.0
+02/10/2021,argentina,australia,CBUS Super Stadium,Robina,Australia,2021-10-02T07:05:00+00:00,10.0
+02/10/2021,australia,argentina,CBUS Super Stadium,Robina,Australia,2021-10-02T07:05:00+00:00,10.0
+25/06/2016,new_zealand,wales,Forsyth Barr Stadium,Dunedin,New Zealand,2016-06-25T07:35:00+00:00,12.0
+25/06/2016,wales,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2016-06-25T07:35:00+00:00,12.0
+30/09/2019,scotland,samoa,Kobe Misaki Stadium,Kobe City,Japan,2019-09-30T10:15:00+00:00,9.0
+30/09/2019,samoa,scotland,Kobe Misaki Stadium,Kobe City,Japan,2019-09-30T10:15:00+00:00,9.0
+08/08/2026,argentina,south_africa,Estadio José Amalfitani,Buenos Aires,Argentina,2026-08-08T19:00:00+00:00,-3.0
+08/08/2026,south_africa,argentina,Estadio José Amalfitani,Buenos Aires,Argentina,2026-08-08T19:00:00+00:00,-3.0
+06/02/2016,scotland,england,Murrayfield,Edinburgh,Scotland,2016-02-06T16:50:00+00:00,0.0
+06/02/2016,england,scotland,Murrayfield,Edinburgh,Scotland,2016-02-06T16:50:00+00:00,0.0
+03/07/2021,wales,canada,Principality Stadium,Cardiff,Wales,2021-07-03T14:00:00+00:00,1.0
+03/07/2021,canada,wales,Principality Stadium,Cardiff,Wales,2021-07-03T14:00:00+00:00,1.0
+02/10/2019,france,usa,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-10-02T07:45:00+00:00,9.0
+02/10/2019,usa,france,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-10-02T07:45:00+00:00,9.0
+27/05/2018,england,barbarians,Twickenham,London,England,2018-05-27T14:00:00+00:00,1.0
+27/05/2018,barbarians,england,Twickenham,London,England,2018-05-27T14:00:00+00:00,1.0
+05/02/2017,italy,wales,Stadio Olimpico,Roma,Italy,2017-02-05T14:00:00+00:00,1.0
+05/02/2017,wales,italy,Stadio Olimpico,Roma,Italy,2017-02-05T14:00:00+00:00,1.0
+07/08/2021,new_zealand,australia,Eden Park,Auckland,New Zealand,2021-08-07T07:05:00+00:00,12.0
+07/08/2021,australia,new_zealand,Eden Park,Auckland,New Zealand,2021-08-07T07:05:00+00:00,12.0
+27/02/2021,wales,england,Principality Stadium,Cardiff,Wales,2021-02-27T16:45:00+00:00,0.0
+27/02/2021,england,wales,Principality Stadium,Cardiff,Wales,2021-02-27T16:45:00+00:00,0.0
+06/07/2024,canada,scotland,TD Place Stadium,Ottawa,Canada,2024-07-06T21:00:00+00:00,-4.0
+06/07/2024,scotland,canada,TD Place Stadium,Ottawa,Canada,2024-07-06T21:00:00+00:00,-4.0
+15/02/2015,scotland,wales,Murrayfield,Edinburgh,Scotland,2015-02-15T15:00:00+00:00,0.0
+15/02/2015,wales,scotland,Murrayfield,Edinburgh,Scotland,2015-02-15T15:00:00+00:00,0.0
+23/08/2025,argentina,new_zealand,Velez Sarsfield Stadium,Buenos Aires,Argentina,2025-08-23T21:10:00+00:00,-3.0
+23/08/2025,new_zealand,argentina,Velez Sarsfield Stadium,Buenos Aires,Argentina,2025-08-23T21:10:00+00:00,-3.0
+14/02/2016,italy,england,Stadio Olimpico,Roma,Italy,2016-02-14T14:00:00+00:00,1.0
+14/02/2016,england,italy,Stadio Olimpico,Roma,Italy,2016-02-14T14:00:00+00:00,1.0
+25/06/2016,argentina,france,Stade Monumental Jose Fierro,Tucumán,Argentina,2016-06-25T18:10:00+00:00,-3.0
+25/06/2016,france,argentina,Stade Monumental Jose Fierro,Tucumán,Argentina,2016-06-25T18:10:00+00:00,-3.0
+22/09/2023,argentina,samoa,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-09-22T15:45:00+00:00,2.0
+22/09/2023,samoa,argentina,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-09-22T15:45:00+00:00,2.0
+14/03/2015,england,scotland,Twickenham,London,England,2015-03-14T17:00:00+00:00,0.0
+14/03/2015,scotland,england,Twickenham,London,England,2015-03-14T17:00:00+00:00,0.0
+22/09/2019,ireland,scotland,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-09-22T07:45:00+00:00,9.0
+22/09/2019,scotland,ireland,International Stadium Yokohama,"Kanagawa Prefecture, Yokohama City",Japan,2019-09-22T07:45:00+00:00,9.0
+08/03/2025,scotland,wales,Murrayfield,Edinburgh,Scotland,2025-03-08T16:45:00+00:00,0.0
+08/03/2025,wales,scotland,Murrayfield,Edinburgh,Scotland,2025-03-08T16:45:00+00:00,0.0
+06/02/2021,italy,france,Stadio Olimpico,Roma,Italy,2021-02-06T14:15:00+00:00,1.0
+06/02/2021,france,italy,Stadio Olimpico,Roma,Italy,2021-02-06T14:15:00+00:00,1.0
+02/02/2024,france,ireland,Orange Vélodrome,Marseille,France,2024-02-02T20:00:00+00:00,1.0
+02/02/2024,ireland,france,Orange Vélodrome,Marseille,France,2024-02-02T20:00:00+00:00,1.0
+06/11/2021,ireland,japan,Aviva Stadium,Dublin,Ireland,2021-11-06T13:00:00+00:00,0.0
+06/11/2021,japan,ireland,Aviva Stadium,Dublin,Ireland,2021-11-06T13:00:00+00:00,0.0
+08/10/2016,south_africa,new_zealand,King's Park,Durban,South Africa,2016-10-08T15:05:00+00:00,2.0
+08/10/2016,new_zealand,south_africa,King's Park,Durban,South Africa,2016-10-08T15:05:00+00:00,2.0
+21/03/2015,italy,wales,Stadio Olimpico,Roma,Italy,2015-03-21T12:30:00+00:00,1.0
+21/03/2015,wales,italy,Stadio Olimpico,Roma,Italy,2015-03-21T12:30:00+00:00,1.0
+29/06/2022,maori all blacks,ireland,FMG Stadium,Hamilton,New Zealand,2022-06-29T07:05:00+00:00,12.0
+29/06/2022,ireland,maori all blacks,FMG Stadium,Hamilton,New Zealand,2022-06-29T07:05:00+00:00,12.0
+28/11/2020,wales,england,Parc y Scarlets,Llanelli,Wales,2020-11-28T16:00:00+00:00,0.0
+28/11/2020,england,wales,Parc y Scarlets,Llanelli,Wales,2020-11-28T16:00:00+00:00,0.0
+26/09/2015,england,wales,Twickenham,London,England,2015-09-26T19:00:00+00:00,1.0
+26/09/2015,wales,england,Twickenham,London,England,2015-09-26T19:00:00+00:00,1.0
+15/03/2025,france,scotland,Stade de France,Saint-Denis,France,2025-03-15T20:00:00+00:00,1.0
+15/03/2025,scotland,france,Stade de France,Saint-Denis,France,2025-03-15T20:00:00+00:00,1.0
+19/07/2025,argentina,uruguay,Estadio Padre Ernesto Martearena,Salta,Argentina,2025-07-19T19:40:00+00:00,-3.0
+19/07/2025,uruguay,argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,2025-07-19T19:40:00+00:00,-3.0
+09/06/2018,argentina,wales,Estadio del Bicentenario,San Juan,Argentina,2018-06-09T19:40:00+00:00,-3.0
+09/06/2018,wales,argentina,Estadio del Bicentenario,San Juan,Argentina,2018-06-09T19:40:00+00:00,-3.0
+19/07/2024,new_zealand,fiji,Snapdragon Stadium,San Diego,United States,2024-07-20T03:30:00+00:00,-8.0
+19/07/2024,fiji,new_zealand,Snapdragon Stadium,San Diego,United States,2024-07-20T03:30:00+00:00,-8.0
+25/11/2017,italy,south_africa,Stadio Euganeo,Padova,Italy,2017-11-25T13:00:00+00:00,1.0
+25/11/2017,south_africa,italy,Stadio Euganeo,Padova,Italy,2017-11-25T13:00:00+00:00,1.0
+09/02/2019,scotland,ireland,Murrayfield,Edinburgh,Scotland,2019-02-09T14:15:00+00:00,0.0
+09/02/2019,ireland,scotland,Murrayfield,Edinburgh,Scotland,2019-02-09T14:15:00+00:00,0.0
+19/07/2025,usa,england,Audi Field,Washington D.C.,United States,2025-07-19T21:05:00+00:00,-4.0
+19/07/2025,england,usa,Audi Field,Washington D.C.,United States,2025-07-19T21:05:00+00:00,-4.0
+30/10/2021,wales,new_zealand,Principality Stadium,Cardiff,Wales,2021-10-30T17:15:00+00:00,0.0
+30/10/2021,new_zealand,wales,Principality Stadium,Cardiff,Wales,2021-10-30T17:15:00+00:00,0.0
+06/02/2016,france,italy,Stade de France,Saint-Denis,France,2016-02-06T14:25:00+00:00,1.0
+06/02/2016,italy,france,Stade de France,Saint-Denis,France,2016-02-06T14:25:00+00:00,1.0
+27/09/2015,australia,uruguay,Villa Park,Birmingham,England,2015-09-27T11:00:00+00:00,1.0
+27/09/2015,uruguay,australia,Villa Park,Birmingham,England,2015-09-27T11:00:00+00:00,1.0
+05/10/2019,england,argentina,Tokyo Stadium,Tokyo,Japan,2019-10-05T08:00:00+00:00,9.0
+05/10/2019,argentina,england,Tokyo Stadium,Tokyo,Japan,2019-10-05T08:00:00+00:00,9.0
+15/09/2023,new_zealand,namibia,Stadium de Toulouse,Toulouse,France,2023-09-15T19:00:00+00:00,2.0
+15/09/2023,namibia,new_zealand,Stadium de Toulouse,Toulouse,France,2023-09-15T19:00:00+00:00,2.0
+07/02/2021,wales,ireland,Principality Stadium,Cardiff,Wales,2021-02-07T15:00:00+00:00,0.0
+07/02/2021,ireland,wales,Principality Stadium,Cardiff,Wales,2021-02-07T15:00:00+00:00,0.0
+20/10/2019,wales,france,Oita Stadium,Oita Prefecture,Japan,2019-10-20T07:15:00+00:00,9.0
+20/10/2019,france,wales,Oita Stadium,Oita Prefecture,Japan,2019-10-20T07:15:00+00:00,9.0
+08/11/2025,ireland,japan,Aviva Stadium,Dublin,Ireland,2025-11-08T12:40:00+00:00,0.0
+08/11/2025,japan,ireland,Aviva Stadium,Dublin,Ireland,2025-11-08T12:40:00+00:00,0.0
+08/11/2025,france,south_africa,Stade de France,Saint-Denis,France,2025-11-08T20:10:00+00:00,1.0
+08/11/2025,south_africa,france,Stade de France,Saint-Denis,France,2025-11-08T20:10:00+00:00,1.0
+29/09/2018,south_africa,australia,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2018-09-29T15:05:00+00:00,2.0
+29/09/2018,australia,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2018-09-29T15:05:00+00:00,2.0
+27/09/2025,south_africa,argentina,Hollywoodbets Kings Park,Durban,South Africa,2025-09-27T15:10:00+00:00,2.0
+27/09/2025,argentina,south_africa,Hollywoodbets Kings Park,Durban,South Africa,2025-09-27T15:10:00+00:00,2.0
+17/03/2018,italy,scotland,Stadio Olimpico,Roma,Italy,2018-03-17T12:30:00+00:00,1.0
+17/03/2018,scotland,italy,Stadio Olimpico,Roma,Italy,2018-03-17T12:30:00+00:00,1.0
+08/02/2020,scotland,england,Murrayfield,Edinburgh,Scotland,2020-02-08T16:45:00+00:00,0.0
+08/02/2020,england,scotland,Murrayfield,Edinburgh,Scotland,2020-02-08T16:45:00+00:00,0.0
+29/07/2023,scotland,italy,Murrayfield,Edinburgh,Scotland,2023-07-29T14:15:00+00:00,1.0
+29/07/2023,italy,scotland,Murrayfield,Edinburgh,Scotland,2023-07-29T14:15:00+00:00,1.0
+09/07/2022,south_africa,wales,Toyota Stadium,Bloemfontein,South Africa,2022-07-09T15:05:00+00:00,2.0
+09/07/2022,wales,south_africa,Toyota Stadium,Bloemfontein,South Africa,2022-07-09T15:05:00+00:00,2.0
+15/11/2025,france,fiji,Stade de France,Saint-Denis,France,2025-11-15T20:10:00+00:00,1.0
+15/11/2025,fiji,france,Stade de France,Saint-Denis,France,2025-11-15T20:10:00+00:00,1.0
+08/11/2025,england,fiji,Twickenham Stadium,London,England,2025-11-08T17:40:00+00:00,0.0
+08/11/2025,fiji,england,Twickenham Stadium,London,England,2025-11-08T17:40:00+00:00,0.0
+01/02/2020,ireland,scotland,Aviva Stadium,Dublin,Ireland,2020-02-01T16:45:00+00:00,0.0
+01/02/2020,scotland,ireland,Aviva Stadium,Dublin,Ireland,2020-02-01T16:45:00+00:00,0.0
+27/07/2024,uruguay,scotland,Estadio Charrúa,Montevideo,Uruguay,2024-07-27T19:00:00+00:00,-3.0
+27/07/2024,scotland,uruguay,Estadio Charrúa,Montevideo,Uruguay,2024-07-27T19:00:00+00:00,-3.0
+19/11/2016,england,fiji,Twickenham,London,England,2016-11-19T14:30:00+00:00,0.0
+19/11/2016,fiji,england,Twickenham,London,England,2016-11-19T14:30:00+00:00,0.0
+05/11/2016,wales,australia,Principality Stadium,Cardiff,Wales,2016-11-05T14:30:00+00:00,0.0
+05/11/2016,australia,wales,Principality Stadium,Cardiff,Wales,2016-11-05T14:30:00+00:00,0.0
+17/09/2023,england,japan,Stade de Nice,Nice,France,2023-09-17T19:00:00+00:00,2.0
+17/09/2023,japan,england,Stade de Nice,Nice,France,2023-09-17T19:00:00+00:00,2.0
+25/02/2023,wales,england,Principality Stadium,Cardiff,Wales,2023-02-25T16:45:00+00:00,0.0
+25/02/2023,england,wales,Principality Stadium,Cardiff,Wales,2023-02-25T16:45:00+00:00,0.0
+09/06/2018,new_zealand,france,Eden Park,Auckland,New Zealand,2018-06-09T07:35:00+00:00,12.0
+09/06/2018,france,new_zealand,Eden Park,Auckland,New Zealand,2018-06-09T07:35:00+00:00,12.0
+24/06/2017,australia,italy,Suncorp Stadium,Brisbane,Australia,2017-06-24T05:00:00+00:00,10.0
+24/06/2017,italy,australia,Suncorp Stadium,Brisbane,Australia,2017-06-24T05:00:00+00:00,10.0
+08/02/2025,italy,wales,Stadio Olimpico,Roma,Italy,2025-02-08T14:15:00+00:00,1.0
+08/02/2025,wales,italy,Stadio Olimpico,Roma,Italy,2025-02-08T14:15:00+00:00,1.0
+26/08/2023,ireland,samoa,Stade Jean Dauger,Bayonne,France,2023-08-26T18:45:00+00:00,2.0
+26/08/2023,samoa,ireland,Stade Jean Dauger,Bayonne,France,2023-08-26T18:45:00+00:00,2.0
+25/11/2017,france,japan,U Arena,Nanterre,France,2017-11-25T19:45:00+00:00,1.0
+25/11/2017,japan,france,U Arena,Nanterre,France,2017-11-25T19:45:00+00:00,1.0
+09/09/2023,ireland,romania,Stade de Bordeaux,Bordeaux,France,2023-09-09T13:30:00+00:00,2.0
+09/09/2023,romania,ireland,Stade de Bordeaux,Bordeaux,France,2023-09-09T13:30:00+00:00,2.0
+12/11/2016,france,samoa,Stadium,Toulouse,France,2016-11-12T16:45:00+00:00,1.0
+12/11/2016,samoa,france,Stadium,Toulouse,France,2016-11-12T16:45:00+00:00,1.0
+29/09/2023,new_zealand,italy,OL Stadium,Lyon,France,2023-09-29T19:00:00+00:00,2.0
+29/09/2023,italy,new_zealand,OL Stadium,Lyon,France,2023-09-29T19:00:00+00:00,2.0
+11/02/2023,scotland,wales,Murrayfield,Edinburgh,Scotland,2023-02-11T16:45:00+00:00,0.0
+11/02/2023,wales,scotland,Murrayfield,Edinburgh,Scotland,2023-02-11T16:45:00+00:00,0.0
+02/02/2019,scotland,italy,Murrayfield,Edinburgh,Scotland,2019-02-02T14:15:00+00:00,0.0
+02/02/2019,italy,scotland,Murrayfield,Edinburgh,Scotland,2019-02-02T14:15:00+00:00,0.0
+06/07/2025,australia,fiji,McDonald Jones Stadium,Newcastle,Australia,2025-07-06T03:30:00+00:00,10.0
+06/07/2025,fiji,australia,McDonald Jones Stadium,Newcastle,Australia,2025-07-06T03:30:00+00:00,10.0
+10/07/2021,wales,argentina,Principality Stadium,Cardiff,Wales,2021-07-10T12:00:00+00:00,1.0
+10/07/2021,argentina,wales,Principality Stadium,Cardiff,Wales,2021-07-10T12:00:00+00:00,1.0
+19/08/2017,australia,new_zealand,ANZ Stadium,Sydney,Australia,2017-08-19T10:00:00+00:00,10.0
+19/08/2017,new_zealand,australia,ANZ Stadium,Sydney,Australia,2017-08-19T10:00:00+00:00,10.0
+12/02/2017,france,scotland,Stade de France,Saint-Denis,France,2017-02-12T15:00:00+00:00,1.0
+12/02/2017,scotland,france,Stade de France,Saint-Denis,France,2017-02-12T15:00:00+00:00,1.0
+19/09/2015,ireland,canada,Millennium Stadium,Cardiff,Wales,2015-09-19T13:30:00+00:00,1.0
+19/09/2015,canada,ireland,Millennium Stadium,Cardiff,Wales,2015-09-19T13:30:00+00:00,1.0
+05/07/2025,new_zealand,france,Forsyth Barr Stadium,Dunedin,New Zealand,2025-07-05T08:05:00+00:00,11.0
+05/07/2025,france,new_zealand,Forsyth Barr Stadium,Dunedin,New Zealand,2025-07-05T08:05:00+00:00,11.0
+10/11/2018,england,new_zealand,Twickenham,London,England,2018-11-10T15:00:00+00:00,0.0
+10/11/2018,new_zealand,england,Twickenham,London,England,2018-11-10T15:00:00+00:00,0.0
+27/08/2022,australia,south_africa,Adelaide Oval,Adelaide,Australia,2022-08-27T05:30:00+00:00,9.5
+27/08/2022,south_africa,australia,Adelaide Oval,Adelaide,Australia,2022-08-27T05:30:00+00:00,9.5
+09/02/2019,italy,wales,Stadio Olimpico,Roma,Italy,2019-02-09T16:45:00+00:00,1.0
+09/02/2019,wales,italy,Stadio Olimpico,Roma,Italy,2019-02-09T16:45:00+00:00,1.0
+11/10/2020,new_zealand,australia,Sky Stadium,Wellington,New Zealand,2020-10-11T03:00:00+00:00,13.0
+11/10/2020,australia,new_zealand,Sky Stadium,Wellington,New Zealand,2020-10-11T03:00:00+00:00,13.0
+17/07/2021,wales,argentina,Principality Stadium,Cardiff,Wales,2021-07-17T14:00:00+00:00,1.0
+17/07/2021,argentina,wales,Principality Stadium,Cardiff,Wales,2021-07-17T14:00:00+00:00,1.0
+10/09/2016,australia,south_africa,Suncorp Stadium,Brisbane,Australia,2016-09-10T10:05:00+00:00,10.0
+10/09/2016,south_africa,australia,Suncorp Stadium,Brisbane,Australia,2016-09-10T10:05:00+00:00,10.0
+22/02/2026,france,italy,Stade Pierre-Mauroy,Villeneuve-d'Ascq,France,2026-02-22T15:10:00+00:00,1.0
+22/02/2026,italy,france,Stade Pierre-Mauroy,Villeneuve-d'Ascq,France,2026-02-22T15:10:00+00:00,1.0
+08/10/2023,japan,argentina,Stade de la Beaujoire,Nantes,France,2023-10-08T11:00:00+00:00,2.0
+08/10/2023,argentina,japan,Stade de la Beaujoire,Nantes,France,2023-10-08T11:00:00+00:00,2.0
+14/03/2026,wales,italy,Principality Stadium,Cardiff,Wales,2026-03-14T16:40:00+00:00,0.0
+14/03/2026,italy,wales,Principality Stadium,Cardiff,Wales,2026-03-14T16:40:00+00:00,0.0
+16/09/2023,wales,portugal,Stade de Nice,Nice,France,2023-09-16T15:45:00+00:00,2.0
+16/09/2023,portugal,wales,Stade de Nice,Nice,France,2023-09-16T15:45:00+00:00,2.0
+30/09/2023,scotland,romania,Stade Pierre-Mauroy,Lille,France,2023-09-30T19:00:00+00:00,2.0
+30/09/2023,romania,scotland,Stade Pierre-Mauroy,Lille,France,2023-09-30T19:00:00+00:00,2.0
+03/11/2018,wales,scotland,Principality Stadium,Cardiff,Wales,2018-11-03T14:45:00+00:00,0.0
+03/11/2018,scotland,wales,Principality Stadium,Cardiff,Wales,2018-11-03T14:45:00+00:00,0.0
+10/08/2019,australia,new_zealand,Optus Stadium,Perth,Australia,2019-08-10T09:45:00+00:00,8.0
+10/08/2019,new_zealand,australia,Optus Stadium,Perth,Australia,2019-08-10T09:45:00+00:00,8.0
+19/11/2022,italy,south_africa,Stadio Luigi Ferraris,Genova,Italy,2022-11-19T13:00:00+00:00,1.0
+19/11/2022,south_africa,italy,Stadio Luigi Ferraris,Genova,Italy,2022-11-19T13:00:00+00:00,1.0
+02/11/2024,scotland,fiji,Murrayfield,Edinburgh,Scotland,2024-11-02T17:40:00+00:00,0.0
+02/11/2024,fiji,scotland,Murrayfield,Edinburgh,Scotland,2024-11-02T17:40:00+00:00,0.0
+19/11/2022,ireland,australia,Aviva Stadium,Dublin,Ireland,2022-11-19T20:00:00+00:00,0.0
+19/11/2022,australia,ireland,Aviva Stadium,Dublin,Ireland,2022-11-19T20:00:00+00:00,0.0
+30/09/2017,argentina,new_zealand,Velez Sarsfield Stadium,Buenos Aires,Argentina,2017-09-30T22:30:00+00:00,-3.0
+30/09/2017,new_zealand,argentina,Velez Sarsfield Stadium,Buenos Aires,Argentina,2017-09-30T22:30:00+00:00,-3.0
+25/02/2017,ireland,france,Aviva Stadium,Dublin,Ireland,2017-02-25T16:50:00+00:00,0.0
+25/02/2017,france,ireland,Aviva Stadium,Dublin,Ireland,2017-02-25T16:50:00+00:00,0.0
+10/07/2021,ireland,usa,Aviva Stadium,Dublin,Ireland,2021-07-10T18:15:00+00:00,1.0
+10/07/2021,usa,ireland,Aviva Stadium,Dublin,Ireland,2021-07-10T18:15:00+00:00,1.0
+08/10/2019,south_africa,canada,Kobe Misaki Stadium,Kobe City,Japan,2019-10-08T10:15:00+00:00,9.0
+08/10/2019,canada,south_africa,Kobe Misaki Stadium,Kobe City,Japan,2019-10-08T10:15:00+00:00,9.0
+19/07/2025,south_africa,georgia,Mbombela Stadium,Mbombela,South Africa,2025-07-19T16:10:00+00:00,1.0
+19/07/2025,georgia,south_africa,Mbombela Stadium,Mbombela,South Africa,2025-07-19T16:10:00+00:00,1.0
+27/08/2023,france,australia,Stade de France,Saint-Denis,France,2023-08-27T15:45:00+00:00,2.0
+27/08/2023,australia,france,Stade de France,Saint-Denis,France,2023-08-27T15:45:00+00:00,2.0
+01/10/2023,australia,portugal,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-10-01T15:45:00+00:00,2.0
+01/10/2023,portugal,australia,Stade Geoffroy-Guichard,Saint-Étienne,France,2023-10-01T15:45:00+00:00,2.0
+15/10/2023,france,south_africa,Stade de France,Saint-Denis,France,2023-10-15T19:00:00+00:00,2.0
+15/10/2023,south_africa,france,Stade de France,Saint-Denis,France,2023-10-15T19:00:00+00:00,2.0
+22/11/2020,scotland,france,Murrayfield,Edinburgh,Scotland,2020-11-22T15:00:00+00:00,0.0
+22/11/2020,france,scotland,Murrayfield,Edinburgh,Scotland,2020-11-22T15:00:00+00:00,0.0
+08/08/2026,japan,australia,Hanazono Rugby Stadium,"Osaka Prefecture, Higashiosaka City",Japan,2026-08-08T10:05:00+00:00,9.0
+08/08/2026,australia,japan,Hanazono Rugby Stadium,"Osaka Prefecture, Higashiosaka City",Japan,2026-08-08T10:05:00+00:00,9.0
+07/02/2015,france,scotland,Stade de France,Saint-Denis,France,2015-02-07T17:00:00+00:00,1.0
+07/02/2015,scotland,france,Stade de France,Saint-Denis,France,2015-02-07T17:00:00+00:00,1.0
+07/11/2020,australia,new_zealand,Suncorp Stadium,Brisbane,Australia,2020-11-07T07:45:00+00:00,11.0
+07/11/2020,new_zealand,australia,Suncorp Stadium,Brisbane,Australia,2020-11-07T07:45:00+00:00,11.0
+03/09/2022,australia,south_africa,Allianz Stadium,Sydney,Australia,2022-09-03T09:35:00+00:00,10.0
+03/09/2022,south_africa,australia,Allianz Stadium,Sydney,Australia,2022-09-03T09:35:00+00:00,10.0
+14/08/2021,south_africa,argentina,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2021-08-14T15:05:00+00:00,2.0
+14/08/2021,argentina,south_africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,2021-08-14T15:05:00+00:00,2.0
+05/11/2016,japan,argentina,Prince Chichibu Memorial Stadium,Tokyo,Japan,2016-11-05T05:40:00+00:00,9.0
+05/11/2016,argentina,japan,Prince Chichibu Memorial Stadium,Tokyo,Japan,2016-11-05T05:40:00+00:00,9.0
+01/07/2017,new_zealand,british & irish lions,Westpac Stadium,Wellington,New Zealand,2017-07-01T07:35:00+00:00,12.0
+01/07/2017,british & irish lions,new_zealand,Westpac Stadium,Wellington,New Zealand,2017-07-01T07:35:00+00:00,12.0

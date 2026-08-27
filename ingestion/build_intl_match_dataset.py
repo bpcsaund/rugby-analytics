@@ -184,6 +184,25 @@ def load_age_lookup() -> dict:
     return lookup
 
 
+def load_weather_lookup() -> dict:
+    """(team, date, normalized_opposition) -> (temp_c, precip_mm, wind_kmh) at kickoff. Match-level, not team-specific."""
+    path = RAW_DIR / "match_weather.csv"
+    if not path.exists():
+        return {}
+    df = pd.read_csv(path, dtype=str)
+    lookup = {}
+    for _, row in df.iterrows():
+        date = pd.to_datetime(row["date"], dayfirst=True, errors="coerce")
+        if pd.isna(date):
+            continue
+        key = (row["team"], date, normalize(row["opposition"]))
+        try:
+            lookup[key] = (float(row["temp_c"]), float(row["precip_mm"]), float(row["wind_kmh"]))
+        except (TypeError, ValueError):
+            continue
+    return lookup
+
+
 def dedupe_events(all_events: list[dict]) -> list[dict]:
     """
     Collapse the two rows produced for a tracked-vs-tracked match (one from
@@ -347,6 +366,7 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
         matches = [m for m in matches if m["date"] <= asof]
     age_lookup = load_age_lookup()
     cards_lookup = load_cards_lookup()
+    weather_lookup = load_weather_lookup()
     state = new_state()
     elo = state["elo"]
 
@@ -370,6 +390,8 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
         combo_away = combo_snapshot(state, away, m["away_lineup"])
         age_home = age_lookup.get((home, date, away))
         age_away = age_lookup.get((away, date, home))
+        weather = weather_lookup.get((home, date, away)) or weather_lookup.get((away, date, home))
+        weather_temp, weather_precip, weather_wind = weather if weather else (float("nan"),) * 3
 
         home_result = "w" if m["home_score"] > m["away_score"] else ("d" if m["home_score"] == m["away_score"] else "l")
         rows.append(dict(
@@ -392,6 +414,7 @@ def build_rows_and_state(asof: pd.Timestamp | None = None) -> tuple[list[dict], 
             **{f"combo_{name}_home": combo_home[name] for name in COMBOS},
             **{f"combo_{name}_away": combo_away[name] for name in COMBOS},
             cards5_home=snap_home["cards5"], cards5_away=snap_away["cards5"],
+            weather_temp_c=weather_temp, weather_precip_mm=weather_precip, weather_wind_kmh=weather_wind,
         ))
 
         # advance both sides' state after snapshotting

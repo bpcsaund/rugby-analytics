@@ -1,0 +1,848 @@
+{
+  "AAMI Park": {
+    "lat": -37.814,
+    "lon": 144.96332,
+    "resolved_as": "Melbourne, Australia"
+  },
+  "AMI Stadium": {
+    "lat": -43.53333,
+    "lon": 172.63333,
+    "resolved_as": "Christchurch, New Zealand"
+  },
+  "ANZ Stadium": {
+    "lat": -18.13683,
+    "lon": 178.42531,
+    "resolved_as": "Suva, Fiji"
+  },
+  "Accor Stadium": {
+    "lat": -33.86785,
+    "lon": 151.20732,
+    "resolved_as": "Sydney, Australia"
+  },
+  "Adelaide Oval": {
+    "lat": -34.91558,
+    "lon": 138.59619,
+    "resolved_as": "Adelaide Oval, Australia"
+  },
+  "Adjarabet Arena": {
+    "lat": 41.64077,
+    "lon": 41.6306,
+    "resolved_as": "Batumi, Georgia"
+  },
+  "Ajinomoto Stadium": {
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "query_used": "Tokyo",
+    "resolved_as": "Tokyo, Japan"
+  },
+  "Allianz Riviera": {
+    "lat": 43.70313,
+    "lon": 7.26608,
+    "resolved_as": "Nice, France"
+  },
+  "Allianz Stadium": {
+    "lat": -33.86785,
+    "lon": 151.20732,
+    "resolved_as": "Sydney, Australia"
+  },
+  "Apia Park": {
+    "lat": -13.83795,
+    "lon": -171.75125,
+    "resolved_as": "Apia Park, Samoa"
+  },
+  "Audi Field": {
+    "lat": 38.89511,
+    "lon": -77.03637,
+    "resolved_as": "Washington D.C., United States"
+  },
+  "Avaya Stadium": {
+    "lat": 37.33939,
+    "lon": -121.89496,
+    "resolved_as": "San Jose, United States"
+  },
+  "Aviva Stadium": {
+    "lat": 53.33306,
+    "lon": -6.24889,
+    "resolved_as": "Dublin, Ireland"
+  },
+  "BBVA Compass Stadium": {
+    "lat": 29.76328,
+    "lon": -95.36327,
+    "resolved_as": "Houston, United States"
+  },
+  "BMO Field": {
+    "lat": 43.70643,
+    "lon": -79.39864,
+    "resolved_as": "Toronto, Canada"
+  },
+  "Bankwest Stadium": {
+    "lat": -33.8178,
+    "lon": 151.00348,
+    "resolved_as": "Parramatta, Australia"
+  },
+  "Bluenergy Stadium": {
+    "lat": 46.0693,
+    "lon": 13.23715,
+    "resolved_as": "Udine, Italy"
+  },
+  "Brighton Community Stadium": {
+    "lat": 50.8238,
+    "lon": -0.13497,
+    "query_used": "Brighton and Hove",
+    "resolved_as": "Brighton, United Kingdom"
+  },
+  "Brisbane Stadium": {
+    "lat": -27.46794,
+    "lon": 153.02809,
+    "resolved_as": "Brisbane, Australia"
+  },
+  "CBUS Super Stadium": {
+    "lat": -28.07071,
+    "lon": 153.3933,
+    "resolved_as": "Robina, Australia"
+  },
+  "Cape Town Stadium": {
+    "lat": -33.92584,
+    "lon": 18.42322,
+    "resolved_as": "Cape Town, South Africa"
+  },
+  "Cardiff City Stadium": {
+    "lat": 51.48,
+    "lon": -3.18,
+    "query_used": "Cardiff",
+    "resolved_as": "Cardiff, United Kingdom"
+  },
+  "City of Toyota Stadium": {
+    "lat": 35.08333,
+    "lon": 137.15,
+    "query_used": "Toyota",
+    "resolved_as": "Toyota, Japan"
+  },
+  "Club Old Resian": {
+    "lat": -32.94682,
+    "lon": -60.63932,
+    "resolved_as": "Rosario, Argentina"
+  },
+  "CommBank Stadium": {
+    "lat": -33.8178,
+    "lon": 151.00348,
+    "resolved_as": "Parramatta, Australia"
+  },
+  "Commonwealth Stadium": {
+    "lat": 53.55014,
+    "lon": -113.46871,
+    "resolved_as": "Edmonton, Canada"
+  },
+  "Coogee Oval": {
+    "lat": -33.9193,
+    "lon": 151.25592,
+    "resolved_as": "Coogee Oval, Australia"
+  },
+  "DHL Newlands": {
+    "lat": -33.92584,
+    "lon": 18.42322,
+    "resolved_as": "Cape Town, South Africa"
+  },
+  "DHL Stadium": {
+    "lat": -33.92584,
+    "lon": 18.42322,
+    "resolved_as": "Cape Town, South Africa"
+  },
+  "Decathlon Arena": {
+    "lat": 50.63391,
+    "lon": 3.05512,
+    "resolved_as": "Lille, France"
+  },
+  "Dinamo Arena": {
+    "lat": 41.69143,
+    "lon": 44.83412,
+    "resolved_as": "Tbilisi, Georgia"
+  },
+  "Eden Park": {
+    "lat": -36.84853,
+    "lon": 174.76349,
+    "resolved_as": "Auckland, New Zealand"
+  },
+  "Elland Road": {
+    "lat": 53.79648,
+    "lon": -1.54785,
+    "query_used": "Leeds",
+    "resolved_as": "Leeds, United Kingdom"
+  },
+  "Ellis Park": {
+    "lat": -26.20227,
+    "lon": 28.04363,
+    "resolved_as": "Johannesburg, South Africa"
+  },
+  "Emirates Airline Park": {
+    "lat": -26.20227,
+    "lon": 28.04363,
+    "resolved_as": "Johannesburg, South Africa"
+  },
+  "Estadio 23 de Agosto": {
+    "lat": -24.1928,
+    "lon": -65.29342,
+    "resolved_as": "San Salvador de Jujuy, Argentina"
+  },
+  "Estadio Brigadier Estanislao L\u00f3pez": {
+    "lat": -31.64881,
+    "lon": -60.70868,
+    "resolved_as": "Santa Fe, Argentina"
+  },
+  "Estadio Centenario": {
+    "lat": -27.46363,
+    "lon": -58.98665,
+    "resolved_as": "Resistencia, Argentina"
+  },
+  "Estadio Charr\u00faa": {
+    "lat": -34.90328,
+    "lon": -56.18816,
+    "resolved_as": "Montevideo, Uruguay"
+  },
+  "Estadio C\u00edvitas Metropolitano": {
+    "lat": 40.4165,
+    "lon": -3.70256,
+    "resolved_as": "Madrid, Spain"
+  },
+  "Estadio Domingo Burgue\u00f1o Miguel": {
+    "lat": -34.94747,
+    "lon": -54.93382,
+    "resolved_as": "Punta del Este, Uruguay"
+  },
+  "Estadio Heroes De Curupayty": {
+    "lat": -25.26703,
+    "lon": -57.49107,
+    "resolved_as": "Luque, Paraguay"
+  },
+  "Estadio Jorge Hirschi": {
+    "lat": -34.61315,
+    "lon": -58.37723,
+    "resolved_as": "Buenos Aires, Argentina"
+  },
+  "Estadio Jos\u00e9 Amalfitani": {
+    "lat": -34.61315,
+    "lon": -58.37723,
+    "resolved_as": "Buenos Aires, Argentina"
+  },
+  "Estadio Libertadores de Am\u00e9rica": {
+    "lat": -34.66018,
+    "lon": -58.36744,
+    "resolved_as": "Avellaneda, Argentina"
+  },
+  "Estadio Malvinas Argentinas": {
+    "lat": -32.88946,
+    "lon": -68.84582,
+    "resolved_as": "Mendoza, Argentina"
+  },
+  "Estadio Mario Alberto Kempes": {
+    "lat": -31.40648,
+    "lon": -64.18853,
+    "resolved_as": "C\u00f3rdoba, Argentina"
+  },
+  "Estadio Nacional": {
+    "lat": -33.45694,
+    "lon": -70.64827,
+    "resolved_as": "Santiago, Chile"
+  },
+  "Estadio Padre Ernesto Martearena": {
+    "lat": -24.80645,
+    "lon": -65.41999,
+    "resolved_as": "Salta, Argentina"
+  },
+  "Estadio del Bicentenario": {
+    "lat": -31.53726,
+    "lon": -68.52568,
+    "resolved_as": "San Juan, Argentina"
+  },
+  "Estadio \u00danico Madre de Ciudades": {
+    "lat": -27.80047,
+    "lon": -64.26285,
+    "resolved_as": "Santiago del Estero, Argentina"
+  },
+  "Est\u00e1dio Restelo": {
+    "lat": 38.72509,
+    "lon": -9.1498,
+    "resolved_as": "Lisbon, Portugal"
+  },
+  "FMG Stadium": {
+    "lat": -37.78333,
+    "lon": 175.28333,
+    "resolved_as": "Hamilton, New Zealand"
+  },
+  "FedExField": {
+    "lat": 38.89511,
+    "lon": -77.03637,
+    "resolved_as": "Washington D.C., United States"
+  },
+  "Forsyth Barr Stadium": {
+    "lat": -45.87416,
+    "lon": 170.50362,
+    "resolved_as": "Dunedin, New Zealand"
+  },
+  "Free State Stadium": {
+    "lat": -29.12107,
+    "lon": 26.214,
+    "resolved_as": "Bloemfontein, South Africa"
+  },
+  "Fukuoka Hakatanomori Stadium": {
+    "lat": 33.59,
+    "lon": 130.40111,
+    "query_used": "Fukuoka City",
+    "resolved_as": "Fukuoka City Hall West Side Fureai Plaza, Japan"
+  },
+  "GIO Stadium": {
+    "lat": -35.28346,
+    "lon": 149.12807,
+    "resolved_as": "Canberra, Australia"
+  },
+  "Groupama Stadium": {
+    "lat": 45.74906,
+    "lon": 4.84789,
+    "resolved_as": "Lyon, France"
+  },
+  "HBF Park": {
+    "lat": -31.95224,
+    "lon": 115.8614,
+    "resolved_as": "Perth, Australia"
+  },
+  "HFC Bank Stadium": {
+    "lat": -18.13683,
+    "lon": 178.42531,
+    "resolved_as": "Suva, Fiji"
+  },
+  "Hage Geingob Rugby Stadium": {
+    "lat": -22.55941,
+    "lon": 17.08323,
+    "resolved_as": "Windhoek, Namibia"
+  },
+  "Hanazono Rugby Stadium": {
+    "lat": 34.66667,
+    "lon": 135.58333,
+    "query_used": "Higashiosaka",
+    "resolved_as": "Higashiosaka, Japan"
+  },
+  "Hill Dickinson Stadium": {
+    "lat": 53.41058,
+    "lon": -2.97794,
+    "query_used": "Liverpool",
+    "resolved_as": "Liverpool, United Kingdom"
+  },
+  "Hollywoodbets Kings Park": {
+    "lat": -29.8579,
+    "lon": 31.0292,
+    "resolved_as": "Durban, South Africa"
+  },
+  "International Stadium Yokohama": {
+    "lat": 35.43333,
+    "lon": 139.65,
+    "query_used": "Yokohama",
+    "resolved_as": "Yokohama, Japan"
+  },
+  "Japan National Stadium": {
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "resolved_as": "Tokyo, Japan"
+  },
+  "Jonsson Kings Park": {
+    "lat": -29.8579,
+    "lon": 31.0292,
+    "resolved_as": "Durban, South Africa"
+  },
+  "King's Park": {
+    "lat": -29.8579,
+    "lon": 31.0292,
+    "resolved_as": "Durban, South Africa"
+  },
+  "Kingsholm": {
+    "lat": 51.87276,
+    "lon": -2.24301,
+    "query_used": "Kingsholm",
+    "resolved_as": "Kingsholm, United Kingdom"
+  },
+  "Kobe Misaki Stadium": {
+    "lat": 34.6913,
+    "lon": 135.183,
+    "query_used": "Kobe",
+    "resolved_as": "Kobe, Japan"
+  },
+  "Kumagaya Rugby Stadium": {
+    "lat": 36.13497,
+    "lon": 139.39005,
+    "query_used": "Kumagaya",
+    "resolved_as": "Kumagaya, Japan"
+  },
+  "Kumamoto Stadium": {
+    "lat": 32.80589,
+    "lon": 130.6918,
+    "query_used": "Kumamoto, Kumamoto",
+    "resolved_as": "Kumamoto, Japan"
+  },
+  "La Plata RC": {
+    "lat": -34.92126,
+    "lon": -57.95442,
+    "resolved_as": "La Plata, Argentina"
+  },
+  "Leicester City Stadium": {
+    "lat": 52.6386,
+    "lon": -1.13169,
+    "query_used": "Leicester",
+    "resolved_as": "Leicester, United Kingdom"
+  },
+  "Loftus Versfeld": {
+    "lat": -25.74486,
+    "lon": 28.18783,
+    "resolved_as": "Pretoria, South Africa"
+  },
+  "Manchester City Stadium": {
+    "lat": 53.48095,
+    "lon": -2.23743,
+    "query_used": "Manchester",
+    "resolved_as": "Manchester, United Kingdom"
+  },
+  "Marvel Stadium": {
+    "lat": -37.814,
+    "lon": 144.96332,
+    "resolved_as": "Melbourne, Australia"
+  },
+  "Matmut-Atlantique": {
+    "lat": 44.84124,
+    "lon": -0.58046,
+    "resolved_as": "Bordeaux, France"
+  },
+  "Mbombela Stadium": {
+    "lat": -25.47512,
+    "lon": 30.96935,
+    "resolved_as": "Mbombela, South Africa"
+  },
+  "McDonald Jones Stadium": {
+    "lat": -32.92953,
+    "lon": 151.7801,
+    "resolved_as": "Newcastle, Australia"
+  },
+  "Melbourne Cricket Ground": {
+    "lat": -37.814,
+    "lon": 144.96332,
+    "resolved_as": "Melbourne, Australia"
+  },
+  "Mikheil Meskhi Stadium": {
+    "lat": 41.69143,
+    "lon": 44.83412,
+    "resolved_as": "Tbilisi, Georgia"
+  },
+  "Mikuni World Stadium": {
+    "lat": 33.85181,
+    "lon": 130.85034,
+    "resolved_as": "Kitakyushu, Japan"
+  },
+  "Millennium Stadium": {
+    "lat": 51.48,
+    "lon": -3.18,
+    "query_used": "Cardiff",
+    "resolved_as": "Cardiff, United Kingdom"
+  },
+  "Mount Smart Stadium": {
+    "lat": -36.84853,
+    "lon": 174.76349,
+    "resolved_as": "Auckland, New Zealand"
+  },
+  "Murrayfield": {
+    "lat": 55.94761,
+    "lon": -3.24698,
+    "query_used": "Murrayfield",
+    "resolved_as": "Murrayfield, United Kingdom"
+  },
+  "National Kasumigaoka Stadium": {
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "resolved_as": "Tokyo, Japan"
+  },
+  "National Olympic Stadium": {
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "resolved_as": "Tokyo, Japan"
+  },
+  "Nelson Mandela Bay Stadium": {
+    "lat": -33.96109,
+    "lon": 25.61494,
+    "resolved_as": "Port Elizabeth, South Africa"
+  },
+  "Newcastle Stadium": {
+    "lat": -32.92953,
+    "lon": 151.7801,
+    "resolved_as": "Newcastle, Australia"
+  },
+  "Newlands Stadium": {
+    "lat": -33.92584,
+    "lon": 18.42322,
+    "resolved_as": "Cape Town, South Africa"
+  },
+  "Nissan Stadium": {
+    "lat": 35.43333,
+    "lon": 139.65,
+    "query_used": "Yokohama",
+    "resolved_as": "Yokohama, Japan"
+  },
+  "Noevir Stadium": {
+    "lat": 34.6913,
+    "lon": 135.183,
+    "resolved_as": "Kobe, Japan"
+  },
+  "North Queensland Stadium": {
+    "lat": -19.26639,
+    "lon": 146.8057,
+    "resolved_as": "Townsville, Australia"
+  },
+  "OL Stadium": {
+    "lat": 45.74906,
+    "lon": 4.84789,
+    "resolved_as": "Lyon, France"
+  },
+  "Oita Stadium": {
+    "lat": 33.23333,
+    "lon": 131.6,
+    "query_used": "Oita",
+    "resolved_as": "\u014cita, Japan"
+  },
+  "One New Zealand Stadium": {
+    "lat": -43.53333,
+    "lon": 172.63333,
+    "resolved_as": "Christchurch, New Zealand"
+  },
+  "Optus Stadium": {
+    "lat": -31.95224,
+    "lon": 115.8614,
+    "resolved_as": "Perth, Australia"
+  },
+  "Orange V\u00e9lodrome": {
+    "lat": 43.29695,
+    "lon": 5.38107,
+    "resolved_as": "Marseille, France"
+  },
+  "Orangetheory Stadium": {
+    "lat": -43.53333,
+    "lon": 172.63333,
+    "resolved_as": "Christchurch, New Zealand"
+  },
+  "Parc y Scarlets": {
+    "lat": 51.68195,
+    "lon": -4.16191,
+    "query_used": "Llanelli",
+    "resolved_as": "Llanelli, United Kingdom"
+  },
+  "Prince Chichibu Memorial Stadium": {
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "resolved_as": "Tokyo, Japan"
+  },
+  "Principality Stadium": {
+    "lat": 51.48,
+    "lon": -3.18,
+    "query_used": "Cardiff",
+    "resolved_as": "Cardiff, United Kingdom"
+  },
+  "QBE Stadium": null,
+  "Queensland Country Bank Stadium": {
+    "lat": -19.26639,
+    "lon": 146.8057,
+    "resolved_as": "Townsville, Australia"
+  },
+  "Red Bull Arena": {
+    "lat": 40.74649,
+    "lon": -74.15626,
+    "resolved_as": "Harrison, United States"
+  },
+  "Robert F. Kennedy Stadium": {
+    "lat": 38.89511,
+    "lon": -77.03637,
+    "resolved_as": "Washington D.C., United States"
+  },
+  "Robina Stadium": {
+    "lat": -28.07071,
+    "lon": 153.3933,
+    "resolved_as": "Robina, Australia"
+  },
+  "Rugby Park": {
+    "lat": 55.61171,
+    "lon": -4.49581,
+    "query_used": "Kilmarnock",
+    "resolved_as": "Kilmarnock, United Kingdom"
+  },
+  "Sandy Park": {
+    "lat": 50.7236,
+    "lon": -3.52751,
+    "query_used": "Exeter",
+    "resolved_as": "Exeter, United Kingdom"
+  },
+  "Sapporo Dome": {
+    "lat": 43.06667,
+    "lon": 141.35,
+    "resolved_as": "Sapporo, Japan"
+  },
+  "Semenoff Stadium": {
+    "lat": -35.73167,
+    "lon": 174.32391,
+    "resolved_as": "Whangarei, New Zealand"
+  },
+  "Shizuoka Stadium Ecopa": {
+    "lat": 34.98333,
+    "lon": 138.38333,
+    "query_used": "Shizuoka",
+    "resolved_as": "Shizuoka, Japan"
+  },
+  "Showa Denco Dome": {
+    "lat": 33.23333,
+    "lon": 131.6,
+    "query_used": "Oita",
+    "resolved_as": "\u014cita, Japan"
+  },
+  "Singapore National Stadium": {
+    "lat": 1.28967,
+    "lon": 103.85007,
+    "resolved_as": "Singapore, Singapore"
+  },
+  "Sky Stadium": {
+    "lat": -41.28664,
+    "lon": 174.77557,
+    "resolved_as": "Wellington, New Zealand"
+  },
+  "Snapdragon Stadium": {
+    "lat": 32.71571,
+    "lon": -117.16472,
+    "resolved_as": "San Diego, United States"
+  },
+  "Soldier Field Stadium": {
+    "lat": 41.85003,
+    "lon": -87.65005,
+    "resolved_as": "Chicago, United States"
+  },
+  "St James Park": {
+    "lat": 54.97328,
+    "lon": -1.61396,
+    "query_used": "Newcastle upon Tyne",
+    "resolved_as": "Newcastle upon Tyne, United Kingdom"
+  },
+  "Stade Geoffroy-Guichard": {
+    "lat": 45.43389,
+    "lon": 4.39,
+    "resolved_as": "Saint-Etienne, France"
+  },
+  "Stade Jean Dauger": {
+    "lat": 43.49316,
+    "lon": -1.473,
+    "resolved_as": "Bayonne, France"
+  },
+  "Stade Monumental Jose Fierro": {
+    "lat": -28.08217,
+    "lon": -66.56162,
+    "resolved_as": "Tucumanao, Argentina"
+  },
+  "Stade Pierre-Mauroy": {
+    "lat": 50.63391,
+    "lon": 3.05512,
+    "resolved_as": "Lille, France"
+  },
+  "Stade V\u00e9lodrome": {
+    "lat": 43.29695,
+    "lon": 5.38107,
+    "resolved_as": "Marseille, France"
+  },
+  "Stade de Bordeaux": {
+    "lat": 44.84124,
+    "lon": -0.58046,
+    "resolved_as": "Bordeaux, France"
+  },
+  "Stade de France": {
+    "lat": 48.93564,
+    "lon": 2.35387,
+    "resolved_as": "Saint-Denis, France"
+  },
+  "Stade de Marseille": {
+    "lat": 43.29695,
+    "lon": 5.38107,
+    "resolved_as": "Marseille, France"
+  },
+  "Stade de Nice": {
+    "lat": 43.70313,
+    "lon": 7.26608,
+    "resolved_as": "Nice, France"
+  },
+  "Stade de la Beaujoire": {
+    "lat": 47.21725,
+    "lon": -1.55336,
+    "resolved_as": "Nantes, France"
+  },
+  "Stadio Angelo Massimino": {
+    "lat": 37.49223,
+    "lon": 15.07041,
+    "resolved_as": "Catania, Italy"
+  },
+  "Stadio Artemio Franchi": {
+    "lat": 43.77925,
+    "lon": 11.24626,
+    "resolved_as": "Florence, Italy"
+  },
+  "Stadio Comunale di Monigo": {
+    "lat": 45.66673,
+    "lon": 12.2416,
+    "resolved_as": "Treviso, Italy"
+  },
+  "Stadio Euganeo": {
+    "lat": 44.38225,
+    "lon": 11.14261,
+    "resolved_as": "Padova, Italy"
+  },
+  "Stadio Luigi Ferraris": {
+    "lat": 45.21604,
+    "lon": 11.87211,
+    "query_used": "Genova",
+    "resolved_as": "Genova, Italy"
+  },
+  "Stadio Olimpico": {
+    "lat": 44.99364,
+    "lon": 11.10642,
+    "query_used": "Roma",
+    "resolved_as": "Roma, Italy"
+  },
+  "Stadio Plebiscito": {
+    "lat": 44.38225,
+    "lon": 11.14261,
+    "resolved_as": "Padova, Italy"
+  },
+  "Stadio Riviera Della Palme": {
+    "lat": 42.9568,
+    "lon": 13.87676,
+    "resolved_as": "San Benedetto del Tronto, Italy"
+  },
+  "Stadio Sergio Lanfranchi": {
+    "lat": 44.79935,
+    "lon": 10.32618,
+    "resolved_as": "Parma, Italy"
+  },
+  "Stadionul National Arcul de Triumf": {
+    "lat": 44.43225,
+    "lon": 26.10626,
+    "resolved_as": "Bucharest, Romania"
+  },
+  "Stadium": {
+    "lat": 43.60426,
+    "lon": 1.44367,
+    "resolved_as": "Toulouse, France"
+  },
+  "Stadium de Toulouse": {
+    "lat": 43.60426,
+    "lon": 1.44367,
+    "resolved_as": "Toulouse, France"
+  },
+  "Stadiummk": {
+    "lat": 52.04172,
+    "lon": -0.75583,
+    "query_used": "Milton Keynes",
+    "resolved_as": "Milton Keynes, United Kingdom"
+  },
+  "Suncorp Stadium": {
+    "lat": -27.46794,
+    "lon": 153.02809,
+    "resolved_as": "Brisbane, Australia"
+  },
+  "Sydney Cricket Ground": {
+    "lat": -33.86785,
+    "lon": 151.20732,
+    "resolved_as": "Sydney, Australia"
+  },
+  "Sydney Football Stadium": {
+    "lat": -33.86785,
+    "lon": 151.20732,
+    "resolved_as": "Sydney, Australia"
+  },
+  "TD Place Stadium": {
+    "lat": 45.41117,
+    "lon": -75.69812,
+    "resolved_as": "Ottawa, Canada"
+  },
+  "Teufaiva Stadium": {
+    "lat": -21.13683,
+    "lon": -175.20114,
+    "resolved_as": "Nuku'alofa, Tonga"
+  },
+  "The Stadium, Queen Elizabeth Olympic Park": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "query_used": "London",
+    "resolved_as": "London, United Kingdom"
+  },
+  "Tokyo Stadium": {
+    "lat": 35.6895,
+    "lon": 139.69171,
+    "resolved_as": "Tokyo, Japan"
+  },
+  "Toyota Stadium": {
+    "lat": -29.12107,
+    "lon": 26.214,
+    "resolved_as": "Bloemfontein, South Africa"
+  },
+  "Trafalgar Park": {
+    "lat": -41.27078,
+    "lon": 173.28404,
+    "resolved_as": "Nelson, New Zealand"
+  },
+  "Twickenham": {
+    "lat": 51.44489,
+    "lon": -0.3377,
+    "query_used": "Twickenham",
+    "resolved_as": "Twickenham, United Kingdom"
+  },
+  "Twickenham Stadium": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "query_used": "London",
+    "resolved_as": "London, United Kingdom"
+  },
+  "U Arena": {
+    "lat": 48.89198,
+    "lon": 2.20675,
+    "resolved_as": "Nanterre, France"
+  },
+  "Velez Sarsfield Stadium": {
+    "lat": -34.61315,
+    "lon": -58.37723,
+    "resolved_as": "Buenos Aires, Argentina"
+  },
+  "Villa Park": {
+    "lat": 52.48142,
+    "lon": -1.89983,
+    "query_used": "Birmingham",
+    "resolved_as": "Birmingham, United Kingdom"
+  },
+  "Waikato Stadium": {
+    "lat": -37.78333,
+    "lon": 175.28333,
+    "resolved_as": "Hamilton, New Zealand"
+  },
+  "Welford Road": {
+    "lat": 52.6386,
+    "lon": -1.13169,
+    "query_used": "Leicester",
+    "resolved_as": "Leicester, United Kingdom"
+  },
+  "Wembley Stadium": {
+    "lat": 51.50853,
+    "lon": -0.12574,
+    "query_used": "London",
+    "resolved_as": "London, United Kingdom"
+  },
+  "Westpac Stadium": {
+    "lat": -41.28664,
+    "lon": 174.77557,
+    "resolved_as": "Wellington, New Zealand"
+  },
+  "Yarrows Stadium": {
+    "lat": -39.06667,
+    "lon": 174.08333,
+    "resolved_as": "New Plymouth, New Zealand"
+  },
+  "nib Stadium": {
+    "lat": -31.95224,
+    "lon": 115.8614,
+    "resolved_as": "Perth, Australia"
+  }
+}

@@ -62,7 +62,46 @@ FEATURE_ORDER = [
     "rest_days_home", "rest_days_away", "rank_prev_home", "rank_prev_away",
     "coach_tenure_home", "coach_tenure_away", "avg_age_home", "avg_age_away",
     "combo_avg_home", "combo_avg_away", "combo_min_home", "combo_min_away",
+    "cards5_home", "cards5_away",
+    "weather_temp_c", "weather_precip_mm", "weather_wind_kmh",
 ]
+
+
+def forecast_weather(venue: str, city: str, country: str, match_date: pd.Timestamp, kickoff_hour: int) -> dict:
+    """Live forecast (Open-Meteo, free) for a venue/date within its ~16-day forecast window."""
+    import httpx
+    from geocode_venues import geocode
+
+    coords = geocode(venue, city, country)
+    if not coords:
+        print(f"WARNING: could not geocode venue '{venue}' -- weather features will use the training median.")
+        return {"temp_c": float("nan"), "precip_mm": float("nan"), "wind_kmh": float("nan")}
+
+    try:
+        resp = httpx.get("https://api.open-meteo.com/v1/forecast", params={
+            "latitude": coords["lat"], "longitude": coords["lon"],
+            "start_date": match_date.strftime("%Y-%m-%d"), "end_date": match_date.strftime("%Y-%m-%d"),
+            "hourly": "temperature_2m,precipitation,wind_speed_10m", "timezone": "auto",
+        }, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+    except (httpx.HTTPError, ValueError) as e:
+        print(f"WARNING: forecast fetch failed ({e}) -- weather features will use the training median.")
+        return {"temp_c": float("nan"), "precip_mm": float("nan"), "wind_kmh": float("nan")}
+
+    target = f"{match_date.strftime('%Y-%m-%d')}T{kickoff_hour:02d}:00"
+    times = data.get("hourly", {}).get("time", [])
+    if target not in times:
+        print(f"WARNING: {match_date.date()} is outside Open-Meteo's forecast window -- "
+              f"weather features will use the training median.")
+        return {"temp_c": float("nan"), "precip_mm": float("nan"), "wind_kmh": float("nan")}
+    idx = times.index(target)
+    hourly = data["hourly"]
+    print(f"Forecast for {venue} ({coords['resolved_as']}) at {kickoff_hour:02d}:00 local on {match_date.date()}: "
+          f"{hourly['temperature_2m'][idx]}°C, {hourly['precipitation'][idx]}mm precip, "
+          f"{hourly['wind_speed_10m'][idx]}km/h wind")
+    return {"temp_c": hourly["temperature_2m"][idx], "precip_mm": hourly["precipitation"][idx],
+            "wind_kmh": hourly["wind_speed_10m"][idx]}
 
 
 def elo_win_prob(elo_diff: float) -> float:
@@ -128,6 +167,10 @@ def main():
     ap.add_argument("--market-line", type=float,
                      help="home team's expected winning margin per the market (e.g. 'home -7' -> 7)")
     ap.add_argument("--log", action="store_true", help="append this prediction to data/processed/calibration_log.csv")
+    ap.add_argument("--venue", help="venue name, for a live weather forecast (requires the match date be within ~16 days)")
+    ap.add_argument("--city", default="", help="venue city, improves geocoding accuracy")
+    ap.add_argument("--country", default="", help="venue country, improves geocoding accuracy")
+    ap.add_argument("--kickoff-hour", type=int, default=15, help="local kickoff hour, 24h clock (default 15)")
     args = ap.parse_args()
 
     match_date = pd.Timestamp(args.date)
@@ -164,6 +207,12 @@ def main():
         combo_away = {"combo_avg": float("nan"), "combo_min": float("nan")}
         print(f"No --away-lineup given -- combo-experience features for {args.away} will use the training median.")
 
+    if args.venue:
+        weather = forecast_weather(args.venue, args.city, args.country, match_date, args.kickoff_hour)
+    else:
+        weather = {"temp_c": float("nan"), "precip_mm": float("nan"), "wind_kmh": float("nan")}
+        print("No --venue given -- weather features will use the training median.")
+
     feat = dict(
         elo_diff=snap_home["elo"] - snap_away["elo"],
         form5_home=snap_home["form5"], form5_away=snap_away["form5"],
@@ -174,6 +223,8 @@ def main():
         avg_age_home=age_home, avg_age_away=age_away,
         combo_avg_home=combo_home["combo_avg"], combo_avg_away=combo_away["combo_avg"],
         combo_min_home=combo_home["combo_min"], combo_min_away=combo_away["combo_min"],
+        cards5_home=snap_home["cards5"], cards5_away=snap_away["cards5"],
+        weather_temp_c=weather["temp_c"], weather_precip_mm=weather["precip_mm"], weather_wind_kmh=weather["wind_kmh"],
     )
 
     print(f"\n{args.home} (home) vs {args.away} (away) -- {args.date}")
@@ -183,6 +234,8 @@ def main():
     print(f"  Avg squad age: {age_home:.1f}  vs  {age_away:.1f}")
     print(f"  Coach tenure:  {snap_home['coach_tenure']} games vs {snap_away['coach_tenure']} games")
     print(f"  Combo experience (avg times together): {combo_home['combo_avg']}  vs  {combo_away['combo_avg']}")
+    print(f"  Cards conceded (avg last 5): {snap_home['cards5']}  vs  {snap_away['cards5']}")
+    print(f"  Weather: {weather['temp_c']}C, {weather['precip_mm']}mm precip, {weather['wind_kmh']}km/h wind")
 
     # Scoreline regression: two Ridge models (home_score, away_score), retrained
     # on every tracked-vs-tracked match on file before this fixture. Ridge chosen
