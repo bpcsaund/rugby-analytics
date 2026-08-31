@@ -313,6 +313,10 @@ def classify_tournament(own_name, opp_name, date_str, competition_label, h_a, te
         return "6n", "yes"
     if "Nations Championship" in comp:
         return "nc", "yes"
+    # SA v NZ "Rugby's Greatest Rivalry" (from 2026) is a standalone bilateral
+    # series, not the Rugby Championship -- classify as a tour, not rc.
+    if "Greatest Rivalry" in comp:
+        return "tour", "yes"
     if own_name in SANZAAR_NAMES and opp_name in SANZAAR_NAMES and month in (6, 7, 8, 9, 10):
         return "rc", "yes"
     if month in (10, 11, 12):
