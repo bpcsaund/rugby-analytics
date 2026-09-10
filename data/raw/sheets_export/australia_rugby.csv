@@ -82,5 +82,7 @@ date,year,coach,opposition,tournament,test,h / a,aus irb,opp irb,irb difference,
 04/07/2026,2026,js,ireland,nc,yes,h,8,3,-5,,l,31,33,-2,bell,nasser,alaalatoa,canham,williams,valetini,mcreight,wilson,lonergan,gordon,pietsch,ikitau,suaalii,jorgensen,campbell,paenga-amosa,slipper,tupou,shaw,"hooper, t",mcdermott,donaldson,wright
 11/07/2026,2026,js,france,nc,yes,h,8,4,-4,,l,26,42,-16,bell,nasser,alaalatoa,canham,williams,valetini,mcreight,wilson,lonergan,meredith,pietsch,ikitau,suaalii,jorgensen,wright,paenga-amosa,slipper,tupou,shaw,crespigny,mcdermott,campbell,daugunu
 18/07/2026,2026,js,italy,nc,yes,h,8,10,2,,w,57,10,47,bell,paenga-amosa,alaalatoa,canham,williams,valetini,tizzano,wilson,lonergan,meredith,potter,ikitau,suaalii,jorgensen,wright,pollard,slipper,nonggorr,amatosero,mcreight,mcdermott,donaldson,daugunu
-08/08/2026,2026,lk,japan,tour,yes,a,8,10,,,w,35,32,3,,,,,,,,,,,,,,,,,,,,,,,
-15/08/2026,2026,lk,japan,tour,yes,h,8,12,,,w,56,17,39,,,,,,,,,,,,,,,,,,,,,,,
+08/08/2026,2026,lk,japan,tour,yes,a,8,10,2,,w,35,32,3,ross,nasser,alaalatoa,canham,amatosero,valetini,mcreight,wilson,lonergan,meredith,potter,paisami,suaalii,jorgensen,wright,pollard,bell,tupou,williams,cale,mcdermott,donaldson,henry
+15/08/2026,2026,lk,japan,tour,yes,h,8,12,4,,w,56,17,39,bell,nasser,tupou,shaw,salakaia-loto,cale,tizzano,wilson,lonergan,gordon,potter,paisami,henry,jorgensen,wright,paenga-amosa,ross,de lutiis,williams,mcreight,mcdermott,donaldson,daugunu
+29/08/2026,2026,lk,argentina,rc,yes,a,8,7,-1,,w,27,21,6,aedo kailea,paenga-amosa,alaalatoa,canham,williams,"hooper, t",mcreight,valetini,lonergan,gordon,potter,paisami,henry,jorgensen,wright,pollard,bell,de lutiis,shaw,cale,mcdermott,donaldson,suaalii
+05/09/2026,2026,lk,argentina,rc,yes,a,7,8,1,,d,28,28,0,bell,pollard,tupou,canham,williams,valetini,mcreight,wilson,lonergan,donaldson,daugunu,ikitau,suaalii,jorgensen,wright,nasser,ross,de lutiis,salakaia-loto,cale,thomas,gordon,henry

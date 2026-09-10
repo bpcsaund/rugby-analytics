@@ -157,6 +157,8 @@ date,team,opposition,temp_c,precip_mm,wind_kmh
 19/03/2022,scotland,ireland,12.6,0.0,28.2
 16/03/2019,italy,france,17.7,0.0,8.2
 16/03/2019,france,italy,17.7,0.0,8.2
+29/08/2026,argentina,australia,20.8,0.0,5.8
+29/08/2026,australia,argentina,20.8,0.0,5.8
 19/03/2016,wales,italy,7.4,0.0,21.0
 19/03/2016,italy,wales,7.4,0.0,21.0
 13/11/2021,ireland,new_zealand,12.8,0.0,8.0
@@ -191,6 +193,8 @@ date,team,opposition,temp_c,precip_mm,wind_kmh
 10/10/2015,scotland,samoa,13.8,0.0,13.0
 26/11/2016,england,argentina,8.7,0.0,14.2
 26/11/2016,argentina,england,8.7,0.0,14.2
+05/09/2026,south_africa,new_zealand,13.9,0.0,24.0
+05/09/2026,new_zealand,south_africa,13.9,0.0,24.0
 13/11/2021,italy,argentina,13.0,0.0,1.4
 13/11/2021,argentina,italy,13.0,0.0,1.4
 05/11/2022,italy,samoa,15.2,0.0,14.5
@@ -529,6 +533,8 @@ date,team,opposition,temp_c,precip_mm,wind_kmh
 28/02/2015,wales,france,7.5,0.0,22.0
 11/06/2016,australia,england,15.1,0.0,8.1
 11/06/2016,england,australia,15.1,0.0,8.1
+05/09/2026,argentina,australia,3.9,0.0,16.9
+05/09/2026,australia,argentina,3.9,0.0,16.9
 05/02/2022,ireland,wales,9.9,0.1,43.9
 05/02/2022,wales,ireland,9.9,0.1,43.9
 25/06/2016,japan,scotland,24.9,0.0,16.6
@@ -633,6 +639,8 @@ date,team,opposition,temp_c,precip_mm,wind_kmh
 11/03/2017,france,italy,14.7,0.0,6.4
 12/07/2022,maori all blacks,ireland,12.7,0.0,37.8
 12/07/2022,ireland,maori all blacks,12.7,0.0,37.8
+25/08/2026,lions,new_zealand,20.2,0.0,9.4
+25/08/2026,new_zealand,lions,20.2,0.0,9.4
 01/02/2025,ireland,england,9.1,0.0,24.6
 01/02/2025,england,ireland,9.1,0.0,24.6
 06/11/2022,england,argentina,13.1,1.2,16.5
@@ -1197,6 +1205,8 @@ date,team,opposition,temp_c,precip_mm,wind_kmh
 26/11/2016,tonga,italy,14.2,0.0,8.8
 31/10/2015,new_zealand,australia,14.1,0.0,4.2
 31/10/2015,australia,new_zealand,14.1,0.0,4.2
+22/08/2026,south_africa,new_zealand,23.5,0.0,13.1
+22/08/2026,new_zealand,south_africa,23.5,0.0,13.1
 21/02/2026,england,ireland,30.5,0.0,12.3
 21/02/2026,ireland,england,30.5,0.0,12.3
 06/03/2026,ireland,wales,5.8,0.0,10.0

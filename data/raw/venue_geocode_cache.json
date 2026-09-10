@@ -269,6 +269,12 @@
     "lon": 175.28333,
     "resolved_as": "Hamilton, New Zealand"
   },
+  "FNB Stadium": {
+    "lat": -26.26781,
+    "lon": 27.85849,
+    "query_used": "Soweto",
+    "resolved_as": "Soweto, South Africa"
+  },
   "FedExField": {
     "lat": 38.89511,
     "lon": -77.03637,
