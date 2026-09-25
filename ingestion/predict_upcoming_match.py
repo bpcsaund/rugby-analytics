@@ -174,6 +174,90 @@ def parse_lineup(lineup_path: Path) -> dict:
     return lineup
 
 
+def _strip_accents(s: str) -> str:
+    import unicodedata
+    nfkd = unicodedata.normalize("NFKD", s)
+    return "".join(c for c in nfkd if not unicodedata.combining(c))
+
+
+def build_surname_vocab(team: str) -> dict:
+    """base surname -> sorted list of variant tokens ('surname' or 'surname, x')
+    as they actually appear in {team}_rugby.csv's lineup columns 1-23. This is
+    the disambiguation convention combo_snapshot/squad_cohesion_snapshot's
+    internal state is keyed on."""
+    path = RAW_DIR / f"{team}_rugby.csv"
+    if not path.exists():
+        return {}
+    df = pd.read_csv(path, dtype=str)
+    vocab = {}
+    for col in [str(i) for i in range(1, 24)]:
+        if col not in df.columns:
+            continue
+        for val in df[col].dropna():
+            val = val.strip()
+            if not val:
+                continue
+            base = val.split(",")[0].strip()
+            vocab.setdefault(base, set()).add(val)
+    return {k: sorted(v) for k, v in vocab.items()}
+
+
+def resolve_lineup_names(team: str, lineup: dict) -> dict:
+    """Map each {shirt: 'first last'} entry onto this team's surname-
+    disambiguation convention (e.g. 'Eben Etzebeth' -> 'etzebeth', 'Ethan
+    Hooker' -> 'hooker, e') so combo/cohesion lookups hit the same keys the
+    historical state was built with -- parse_lineup's raw lowercase full name
+    otherwise never matches and silently reads as zero shared history.
+    Falls back to the bare last word (accent-stripped) when no historical
+    match is found, which is correct for a genuinely uncapped debutant (no
+    prior co-starts to find either way) but can under-resolve a first
+    Test appearance for this team by a player capped only for a different
+    team-affiliation history -- rare in practice."""
+    vocab = build_surname_vocab(team)
+    all_variants = {v for variants in vocab.values() for v in variants}
+    resolved = {}
+    for shirt, name in lineup.items():
+        norm = _strip_accents(name).lower().strip()
+        # already in (or matches) the disambiguation convention -- pass through
+        # unchanged rather than mis-splitting "surname, x" on the space after
+        # the comma
+        if norm in all_variants or "," in norm:
+            resolved[shirt] = norm
+            continue
+        parts = norm.split()
+        if len(parts) < 2:
+            resolved[shirt] = norm
+            continue
+        first = parts[0]
+        # try progressively longer surname suffixes, longest first, to handle
+        # multi-word surnames ("van der merwe", "de villiers", "du toit")
+        match = None
+        for i in range(1, len(parts)):
+            cand = " ".join(parts[i:])
+            if cand in vocab:
+                match = cand
+                break
+        if match is None:
+            resolved[shirt] = parts[-1]
+            continue
+        variants = vocab[match]
+        if len(variants) == 1:
+            resolved[shirt] = variants[0]
+            continue
+        # disambiguate by first-name-initial prefix, as used when the CSVs
+        # were built (shortest unique prefix that separates same-surname players)
+        picked = None
+        for v in variants:
+            if "," not in v:
+                continue
+            prefix = v.split(",", 1)[1].strip()
+            if first.startswith(prefix):
+                picked = v
+                break
+        resolved[shirt] = picked or variants[0]
+    return resolved
+
+
 def latest_known_avg_age(team: str) -> float:
     df = pd.read_csv(RAW_DIR / "team_age_summary.csv")
     team_rows = df[df["team"] == team].copy()
@@ -241,7 +325,7 @@ def main():
                "xv_starts_avg": float("nan")}
 
     if args.home_lineup:
-        lu_home = parse_lineup(args.home_lineup)
+        lu_home = resolve_lineup_names(args.home, parse_lineup(args.home_lineup))
         combo_home = combo_snapshot(state, args.home, lu_home)
         coh_home = squad_cohesion_snapshot(state, args.home, {s: n for s, n in lu_home.items() if s <= 15}, lu_home)
     else:
@@ -250,7 +334,7 @@ def main():
         print(f"No --home-lineup given -- combo/cohesion features for {args.home} will use the training median.")
 
     if args.away_lineup:
-        lu_away = parse_lineup(args.away_lineup)
+        lu_away = resolve_lineup_names(args.away, parse_lineup(args.away_lineup))
         combo_away = combo_snapshot(state, args.away, lu_away)
         coh_away = squad_cohesion_snapshot(state, args.away, {s: n for s, n in lu_away.items() if s <= 15}, lu_away)
     else:
