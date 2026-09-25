@@ -328,13 +328,26 @@ def classify_tournament(own_name, opp_name, date_str, competition_label, h_a, te
     return "friendly", "yes"
 
 
-def get_h_a(team_id, opp_id, venue_country, tournament_code):
+# Team/opponent display names that don't match the API's venue.country string
+# for the same country (checked against every venue.country value seen in the
+# bulk cache, 2026-09-25).
+COUNTRY_NAME_ALIASES = {
+    "USA": "United States",
+    "Russia": "Russian Federation",
+}
+
+
+def get_h_a(team_id, opp_id, opp_name, venue_country, tournament_code):
     if tournament_code == "wc":
         return "n"  # none of our 6 teams hosted RWC2019/2023
     team_country = TEAM_ID_TO_COUNTRY.get(team_id)
     if venue_country == team_country:
         return "h"
-    return "a"
+    if venue_country == opp_name or venue_country == COUNTRY_NAME_ALIASES.get(opp_name):
+        return "a"
+    # neither side's own country (e.g. a series game at a neutral third-country
+    # venue, like SA v NZ's 2026 "Greatest Rivalry" leg in Baltimore, USA)
+    return "n"
 
 
 def strip_accents(s):
@@ -536,7 +549,7 @@ def build_team_data(team_id, short_code, matches, disambig):
         tournament, test_flag = classify_tournament(
             own_name, opp_name, date_str, m.get("competition"), None, team_id
         )
-        h_a = get_h_a(team_id, opp_id, venue_country, tournament)
+        h_a = get_h_a(team_id, opp_id, opp_name, venue_country, tournament)
         # re-classify now that we know h_a (affects eoyt/tour split)
         tournament, test_flag = classify_tournament(
             own_name, opp_name, date_str, m.get("competition"), h_a, team_id
