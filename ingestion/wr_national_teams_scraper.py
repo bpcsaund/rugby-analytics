@@ -68,16 +68,34 @@ def _get(url, params=None):
 # Stage 1: bulk match list
 # ---------------------------------------------------------------------------
 
+FINAL_STATUSES = {"C", "CC"}
+
+
+def _page_is_stale(d):
+    # A page cached while a match was still upcoming/live keeps the stale 0-0
+    # forever unless refetched (bug seen with SA v NZ 12/09/2026). Refetch any
+    # page holding a tracked team's non-final match whose kickoff has passed.
+    now_ms = time.time() * 1000
+    return any(m.get("status") not in FINAL_STATUSES
+               and m.get("time", {}).get("millis", 0) < now_ms
+               and any(t["id"] in TEAM_IDS for t in m["teams"])
+               for m in d["content"])
+
+
 def fetch_bulk():
     page = 0
     page_size = 100
     total_calls = 0
     while True:
         cache_path = os.path.join(BULK_CACHE, f"page_{page}.json")
+        d = None
         if os.path.exists(cache_path):
             with open(cache_path) as f:
                 d = json.load(f)
-        else:
+            if _page_is_stale(d):
+                print(f"page {page}: cached page has unresolved past matches, refetching")
+                d = None
+        if d is None:
             d = _get(f"{BASE}/match", params={
                 "states": "U,UP,L,CC,C",
                 "sort": "asc",

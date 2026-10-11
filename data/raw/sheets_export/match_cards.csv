@@ -85,6 +85,8 @@ date,team,opposition,yellow_cards,red_cards
 14/10/2023,new_zealand,ireland,2,0
 16/09/2023,ireland,tonga,1,0
 16/09/2023,tonga,ireland,0,0
+27/09/2026,australia,south_africa,4,0
+27/09/2026,south_africa,australia,0,0
 02/06/2019,england,barbarians,0,0
 02/06/2019,barbarians,england,0,0
 23/09/2023,south_africa,ireland,0,0
@@ -257,6 +259,8 @@ date,team,opposition,yellow_cards,red_cards
 07/11/2021,australia,scotland,1,0
 10/03/2019,ireland,france,0,0
 10/03/2019,france,ireland,1,0
+10/10/2026,new_zealand,australia,0,0
+10/10/2026,australia,new_zealand,0,0
 14/11/2021,wales,fiji,0,0
 14/11/2021,fiji,wales,2,1
 07/09/2019,ireland,wales,0,0

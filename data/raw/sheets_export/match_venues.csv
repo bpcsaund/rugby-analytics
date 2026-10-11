@@ -85,6 +85,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 14/10/2023,new_zealand,ireland,Stade de France,Saint-Denis,France,2023-10-14T19:00:00+00:00,2.0
 16/09/2023,ireland,tonga,Stade de la Beaujoire,Nantes,France,2023-09-16T19:00:00+00:00,2.0
 16/09/2023,tonga,ireland,Stade de la Beaujoire,Nantes,France,2023-09-16T19:00:00+00:00,2.0
+27/09/2026,australia,south_africa,Perth Stadium,Perth,Australia,2026-09-27T09:30:00+00:00,8.0
+27/09/2026,south_africa,australia,Perth Stadium,Perth,Australia,2026-09-27T09:30:00+00:00,8.0
 02/06/2019,england,barbarians,Twickenham,London,England,2019-06-02T14:30:00+00:00,1.0
 02/06/2019,barbarians,england,Twickenham,London,England,2019-06-02T14:30:00+00:00,1.0
 23/09/2023,south_africa,ireland,Stade de France,Saint-Denis,France,2023-09-23T19:00:00+00:00,2.0
@@ -261,6 +263,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 07/11/2021,australia,scotland,Murrayfield,Edinburgh,Scotland,2021-11-07T14:15:00+00:00,0.0
 10/03/2019,ireland,france,Aviva Stadium,Dublin,Ireland,2019-03-10T15:00:00+00:00,0.0
 10/03/2019,france,ireland,Aviva Stadium,Dublin,Ireland,2019-03-10T15:00:00+00:00,0.0
+10/10/2026,new_zealand,australia,Eden Park,Auckland,New Zealand,2026-10-10T07:10:00+00:00,12.0
+10/10/2026,australia,new_zealand,Eden Park,Auckland,New Zealand,2026-10-10T07:10:00+00:00,12.0
 14/11/2021,wales,fiji,Principality Stadium,Cardiff,Wales,2021-11-14T15:15:00+00:00,0.0
 14/11/2021,fiji,wales,Principality Stadium,Cardiff,Wales,2021-11-14T15:15:00+00:00,0.0
 07/09/2019,ireland,wales,Aviva Stadium,Dublin,Ireland,2019-09-07T13:00:00+00:00,1.0
