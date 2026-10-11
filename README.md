@@ -2,6 +2,8 @@
 
 A personal data project for collecting, structuring, and analyzing rugby data across club and international rugby: match/player/team stats, squad composition, and coach-era comparisons.
 
+**International data current through 10/10/2026** — 394 tracked-vs-tracked Tests (latest: NZ 50–19 Australia, Eden Park). Last refreshed 11/10/2026.
+
 ## What's in here
 
 **League/club data** — lineups and match/player/team stats scraped for Premiership, Premiership Cup, Champions Cup, Challenge Cup, URC, Top 14, and Japan Rugby League One, plus a dedicated RFU (England Rugby match centre) scraper for domestic and international fixtures.
