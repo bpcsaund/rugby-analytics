@@ -2,7 +2,7 @@
 
 A personal data project for collecting, structuring, and analyzing rugby data across club and international rugby: match/player/team stats, squad composition, and coach-era comparisons.
 
-**International data current through 10/10/2026** — 394 tracked-vs-tracked Tests (latest: NZ 50–19 Australia, Eden Park). Last refreshed 11/10/2026.
+**International data current through 17/10/2026** — 395 tracked-vs-tracked Tests (latest: Australia 21–43 NZ, Stadium Australia). Last refreshed 23/10/2026.
 
 ## What's in here
 

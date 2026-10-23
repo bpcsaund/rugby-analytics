@@ -185,6 +185,8 @@ date,team,opposition,yellow_cards,red_cards
 14/03/2026,scotland,ireland,0,0
 22/06/2024,japan,england,0,0
 22/06/2024,england,japan,1,1
+17/10/2026,australia,new_zealand,1,0
+17/10/2026,new_zealand,australia,1,0
 31/10/2020,france,ireland,1,0
 31/10/2020,ireland,france,1,0
 10/09/2023,wales,fiji,1,0

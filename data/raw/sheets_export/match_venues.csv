@@ -185,6 +185,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 14/03/2026,scotland,ireland,Aviva Stadium,Dublin,Ireland,2026-03-14T14:10:00+00:00,0.0
 22/06/2024,japan,england,Japan National Stadium,Tokyo,Japan,2024-06-22T05:50:00+00:00,9.0
 22/06/2024,england,japan,Japan National Stadium,Tokyo,Japan,2024-06-22T05:50:00+00:00,9.0
+17/10/2026,australia,new_zealand,Stadium Australia,Sydney,Australia,2026-10-17T05:45:00+00:00,10.0
+17/10/2026,new_zealand,australia,Stadium Australia,Sydney,Australia,2026-10-17T05:45:00+00:00,10.0
 31/10/2020,france,ireland,Stade de France,Saint-Denis,France,2020-10-31T20:05:00+00:00,1.0
 31/10/2020,ireland,france,Stade de France,Saint-Denis,France,2020-10-31T20:05:00+00:00,1.0
 10/09/2023,wales,fiji,Stade de Bordeaux,Bordeaux,France,2023-09-10T19:00:00+00:00,2.0
