@@ -7,6 +7,8 @@ manual_players.csv (team,player,dob YYYY-MM-DD,caps,source) supplies dob/caps fo
 players the WR roster lacks; roster entries win if both exist, unless the row's
 source starts with `override`, which replaces the roster's dob/caps for that player.
 positions.csv (from derive_positions.py) gives the second-level `position`
+(squads.csv rows are ordered forwards then backs, by `position_order`: prop 1, hooker 2,
+lock 3, back row 4, scrum-half 5, fly-half 6, centre 7, back three 8, hybrid 9, utility 10)
 (prop/hooker/lock/back row/scrum-half/fly-half/centre/back three/hybrid).
 squad_summary.csv is one row per team: the first announced final squad ("initial") against
 the latest revision ("current") for size, uncapped, avg age/caps and distinct clubs, plus who
@@ -64,6 +66,10 @@ def d(s, fmt="%d/%m/%Y"):
 def read(path):
     with open(path, newline="") as f:
         return list(csv.DictReader(f))
+
+
+POSITION_ORDER = {"prop": 1, "hooker": 2, "lock": 3, "back row": 4, "scrum-half": 5, "fly-half": 6,
+                  "centre": 7, "back three": 8, "hybrid": 9, "utility": 10}
 
 
 def squad_type(window):
@@ -139,6 +145,7 @@ def main():
                     "player": r["player"], "position_group": r["position_group"],
                     "position": pos2.get((team, r["player"]), {}).get("position", ""),
                     "cover": pos2.get((team, r["player"]), {}).get("cover", ""),
+                    "position_order": POSITION_ORDER.get(pos2.get((team, r["player"]), {}).get("position", ""), ""),
                     "club": r["club"], "club_country": club_country.get(r["club"], ""),
                     "caps_stated": r["caps_stated"],
                     "uncapped_announced": r["uncapped"], "in_roster": "yes" if ro else "no",
@@ -192,6 +199,12 @@ def main():
             w.writerows(rows)
         print(f"{name}: {len(rows)} rows")
 
+    # forwards then backs; within each, shirt order (prop..back three), hybrid/utility last; stable otherwise
+    block = {}
+    for r in squads:
+        block.setdefault((r["team"], r["window"]), len(block))
+    squads.sort(key=lambda r: (block[(r["team"], r["window"])], r["position_group"] != "forwards",
+                               r["position_order"] if r["position_order"] != "" else 99))
     unmapped = sorted({r["club"] for r in squads if r["club"] and not r["club_country"]})
     if unmapped:
         print("WARNING: clubs missing from clubs.csv:", "; ".join(unmapped))
