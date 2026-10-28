@@ -1,0 +1,28 @@
+team,player,dob,caps,source
+australia,Tom Lambert,2000-11-20,0,user-supplied 2026-10-28
+australia,Teddy Wilson,2003-02-25,0,user-supplied 2026-10-28
+england,Greg Fisilau,2003-07-09,0,user-supplied 2026-10-28
+england,Kepueli Tuipulotu,2005-09-02,0,user-supplied 2026-10-28
+england,Archie McParland,2005-03-17,0,user-supplied 2026-10-28
+ireland,James McNabney,2003-02-28,0,user-supplied 2026-10-28
+ireland,Jamie Benson,2002-09-23,0,user-supplied 2026-10-28
+scotland,Ollie Leatherbarrow,2002-04-08,0,user-supplied 2026-10-28
+wales,Macs Page,2004-12-17,0,user-supplied 2026-10-28
+wales,Che Hope,2003-01-10,0,user-supplied 2026-10-28
+wales,Aneurin Owen,2000-10-19,0,user-supplied 2026-10-28
+france,Louis Le Brun,2002-02-28,0,user-supplied 2026-10-28
+france,Axel Desperes,2004-01-16,0,user-supplied 2026-10-28
+france,Esteban Capilla,2003-01-05,0,user-supplied 2026-10-28
+france,Jeremy Ward,1996-01-10,0,user-supplied 2026-10-28
+france,Mathis Ferte,2004-02-02,0,user-supplied 2026-10-28
+france,Tani Vili,2000-10-31,0,user-supplied 2026-10-28
+france,Theo Forner,2001-10-17,0,user-supplied 2026-10-28
+france,Karl Sorin,2003-08-07,0,user-supplied 2026-10-28
+south_africa,Riley Norton,2006-01-02,0,user-supplied 2026-10-28 (Barbarians game was not a Test)
+south_africa,Emmanuel Tshituka,2000-06-16,0,user-supplied 2026-10-28
+south_africa,Yaqeen Ahmed,2006-07-28,0,user-supplied 2026-10-28
+south_africa,Luan Giliomee,2006-06-07,0,user-supplied 2026-10-28
+south_africa,Markus Muller,2007-07-12,0,user-supplied 2026-10-28
+south_africa,Sebastian de Klerk,2000-04-05,0,user-supplied 2026-10-28
+australia,James Ramm,1998-04-30,0,user-supplied 2026-10-28
+australia,Kalani Thomas,,2,override: 2 Test caps plus 1 Australia A game (WR roster counts 3)
