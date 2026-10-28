@@ -7,8 +7,10 @@ manual_players.csv (team,player,dob YYYY-MM-DD,caps,source) supplies dob/caps fo
 players the WR roster lacks; roster entries win if both exist, unless the row's
 source starts with `override`, which replaces the roster's dob/caps for that player.
 positions.csv (from derive_positions.py) gives the second-level `position`
-(squads.csv rows are ordered forwards then backs, by `position_order`: prop 1, hooker 2,
-lock 3, back row 4, scrum-half 5, fly-half 6, centre 7, back three 8, hybrid 9, utility 10)
+(squads.csv rows are ordered forwards then backs, by `position_order`: loosehead prop 1,
+tighthead prop 2, prop 3 (side unknown), hooker 4, lock 5, blindside flanker 6,
+openside flanker 7, number 8 8, back row 9 (unknown), scrum-half 10, fly-half 11, centre 12,
+back three 13, hybrid 14, utility 15)
 (prop/hooker/lock/back row/scrum-half/fly-half/centre/back three/hybrid).
 squad_summary.csv is one row per team: the first announced final squad ("initial") against
 the latest revision ("current") for size, uncapped, avg age/caps and distinct clubs, plus who
@@ -33,6 +35,10 @@ Outputs (data/raw/sheets_export/):
                      avg caps, carried-over-from-last-Test-23 count, and
                      in/out vs the previous announced squad (if any).
 
+starts_2s / bench_2s: matchday-23 appearances in the last two full seasons (SEASONS_FROM..SEASONS_TO),
+shirts 1-15 = start, 16-23 = bench (bench shirt numbers are only used as "bench", not as a position).
+starts_career / bench_career: same, over all Tests in {team}_ages.csv (since 2015).
+
 last_selected / years_since_selected: most recent matchday-23 (start or bench, from
 {team}_ages.csv, Tests since 2015) before the announcement; blank = never selected in
 that data (uncapped, or last capped before 2015). squad_changes buckets these.
@@ -46,7 +52,7 @@ Usage: .venv/bin/python3 ingestion/build_squads.py
 import csv
 import re
 import unicodedata
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 
 ROOT = Path.home() / "rugby_analytics"
@@ -68,8 +74,14 @@ def read(path):
         return list(csv.DictReader(f))
 
 
-POSITION_ORDER = {"prop": 1, "hooker": 2, "lock": 3, "back row": 4, "scrum-half": 5, "fly-half": 6,
-                  "centre": 7, "back three": 8, "hybrid": 9, "utility": 10}
+POSITION_ORDER = {"loosehead prop": 1, "tighthead prop": 2, "prop": 3, "hooker": 4, "lock": 5,
+                  "blindside flanker": 6, "openside flanker": 7, "number 8": 8, "back row": 9,
+                  "scrum-half": 10, "fly-half": 11, "centre": 12, "back three": 13,
+                  "hybrid": 14, "utility": 15}
+
+
+# "last two full seasons": Aug 2024 - Jul 2026 (2024-25 and 2025-26)
+SEASONS_FROM, SEASONS_TO = date(2024, 8, 1), date(2026, 7, 31)
 
 
 def squad_type(window):
@@ -124,8 +136,10 @@ def main():
         alias = {norm(a["announced_name"]): norm(a["roster_name"]) for a in aliases if a["team"] == team}
         last_date, last23 = last_test_23(team)
         sel = {}  # norm(player) -> sorted matchday-23 dates (Tests since 2015)
+        apps = {}  # norm(player) -> [(date, shirt)] matchday-23 appearances
         for r in read(OUT_DIR / f"{team}_ages.csv"):
             sel.setdefault(norm(r["player"]), []).append(d(r["date"]))
+            apps.setdefault(norm(r["player"]), []).append((d(r["date"]), int(r["shirt"])))
         windows = sorted(((read(p)[0]["announced"], p) for p in paths), key=lambda x: d(x[0]))
         prev = None
         for announced, p in windows:
@@ -139,6 +153,8 @@ def main():
                 age = round((ann - datetime.strptime(dob, "%Y-%m-%d").date()).days / 365.2425, 2) if dob else ""
                 prior = [x for x in sel.get(alias.get(k, k), []) if x < ann]
                 last_sel = max(prior) if prior else None
+                mine = apps.get(alias.get(k, k), [])
+                recent = [sh for dt, sh in mine if SEASONS_FROM <= dt <= SEASONS_TO]
                 cur[k] = {
                     "team": team, "window": r["window"], "squad_type": squad_type(r["window"]),
                     "revision": revision(r["window"]), "announced": announced,
@@ -155,6 +171,8 @@ def main():
                     "last_test_date": last_date.strftime("%d/%m/%Y"),
                     "last_selected": last_sel.strftime("%d/%m/%Y") if last_sel else "",
                     "years_since_selected": round((ann - last_sel).days / 365.2425, 2) if last_sel else "",
+                    "starts_2s": sum(sh <= 15 for sh in recent), "bench_2s": sum(sh > 15 for sh in recent),
+                    "starts_career": sum(sh <= 15 for _, sh in mine), "bench_career": sum(sh > 15 for _, sh in mine),
                 }
             squads.extend(cur.values())
             ages = [float(v["age_on_announcement"]) for v in cur.values() if v["age_on_announcement"] != ""]

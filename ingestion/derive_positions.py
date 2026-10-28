@@ -2,7 +2,8 @@
 
 Writes data/raw/squads/positions.csv (team, player, position, basis), read by
 build_squads.py to add a `position` column beside the forwards/backs
-`position_group`. Positions: prop, hooker, lock, back row, scrum-half,
+`position_group`. Positions: loosehead prop, tighthead prop (`prop` where the side is not known yet), hooker, lock, blindside flanker, openside flanker, number 8
+(`back row` where unknown), scrum-half,
 fly-half, centre, back three, hybrid, utility.
 
 Evidence, in order: starts (shirt 1-15) since 2023-01-01; else starts since 2015;
@@ -39,7 +40,8 @@ START = {1: "prop", 3: "prop", 2: "hooker", 4: "lock", 5: "lock", 6: "back row",
          8: "back row", 9: "scrum-half", 10: "fly-half", 12: "centre", 13: "centre",
          11: "back three", 14: "back three", 15: "back three"}
 BENCH = {16: "hooker", 17: "prop", 18: "prop"}
-FORWARDS = {"prop", "hooker", "lock", "back row"}
+BACK_ROW = {6: "blindside flanker", 7: "openside flanker", 8: "number 8"}
+FORWARDS = {"prop", "loosehead prop", "tighthead prop", "hooker", "lock", "back row"} | set(BACK_ROW.values())
 
 # Labels printed in the SA/NZ announcements (used only when match data has no starts or bench).
 SOURCE_LABELS = {
@@ -122,7 +124,28 @@ def main():
             pos, basis = label, "announcement label"
         else:
             pos, basis = "", "unknown"
-        rows.append({"team": team, "player": player, "position": pos, "basis": basis, "cover": ""})
+        cover = ""
+        if pos == "prop":  # split by shirt: 1 loosehead, 3 tighthead (starts, recent first)
+            for pool in ([n for dt, n in a if dt >= RECENT], [n for dt, n in a]):
+                lh, th = pool.count(1), pool.count(3)
+                if lh + th:
+                    pos = "loosehead prop" if lh > th else "tighthead prop"
+                    lo = min(lh, th)
+                    if lo >= 2 and lo / (lh + th) >= 0.25:
+                        cover = "tighthead" if pos == "loosehead prop" else "loosehead"
+                    basis += f"; shirt 1 x{lh}, shirt 3 x{th}"
+                    break
+        if pos == "back row":  # split by shirt: 6 blindside, 7 openside, 8 number 8
+            for pool in ([n for dt, n in a if dt >= RECENT], [n for dt, n in a]):
+                c = {k: pool.count(k) for k in BACK_ROW}
+                tot = sum(c.values())
+                if tot:
+                    main = max(c, key=lambda k: (c[k], k == 7))
+                    pos = BACK_ROW[main]
+                    cover = ", ".join(BACK_ROW[k] for k in c if k != main and c[k] >= 2 and c[k] / tot >= 0.25)
+                    basis += f"; shirt 6 x{c[6]}, 7 x{c[7]}, 8 x{c[8]}"
+                    break
+        rows.append({"team": team, "player": player, "position": pos, "basis": basis, "cover": cover})
         # flag a clash with the announcement's forwards/backs split
         if pos and pos != "hybrid" and (pos in FORWARDS) != (s["position_group"] == "forwards"):
             rows[-1]["basis"] += " CLASH with " + s["position_group"]
