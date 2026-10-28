@@ -35,9 +35,13 @@ Outputs (data/raw/sheets_export/):
                      avg caps, carried-over-from-last-Test-23 count, and
                      in/out vs the previous announced squad (if any).
 
-starts_2s / bench_2s: matchday-23 appearances in the last two full seasons (SEASONS_FROM..SEASONS_TO),
-shirts 1-15 = start, 16-23 = bench (bench shirt numbers are only used as "bench", not as a position).
-recent_starters / recent_regulars / recent_core / avg_starts_2s (squad_changes, squad_summary): players with 1+ / 5+ / 10+ starts\nin that window, and the mean starts per squad member.
+starts_wc / bench_wc: matchday-23 appearances since the 2023 World Cup final (WC_FROM, the
+day after it) up to the last Test in {team}_ages.csv; shirts 1-15 = start, 16-23 = bench (bench
+shirt numbers are only used as "bench", not as a position). start_share_wc = starts_wc divided by
+the team's own Tests in that window (wc_tests), so teams that played more Tests compare fairly.
+squad_changes / squad_summary: started_quarter / started_half = players who started at least
+25% / 50% of the team's Tests since the World Cup, avg_starts_wc = mean starts per squad member,
+wc_tests = the team's Tests in the window.
 starts_career / bench_career: same, over all Tests in {team}_ages.csv (since 2015).
 
 last_selected / years_since_selected: most recent matchday-23 (start or bench, from
@@ -81,8 +85,8 @@ POSITION_ORDER = {"loosehead prop": 1, "tighthead prop": 2, "prop": 3, "hooker":
                   "hybrid": 14, "utility": 15}
 
 
-# "last two full seasons": Aug 2024 - Jul 2026 (2024-25 and 2025-26)
-SEASONS_FROM, SEASONS_TO = date(2024, 8, 1), date(2026, 7, 31)
+# Recent-starts window: from the day after the 2023 World Cup final (28 Oct 2023) to the latest Test on file
+WC_FROM = date(2023, 10, 29)
 
 
 def squad_type(window):
@@ -137,6 +141,7 @@ def main():
         alias = {norm(a["announced_name"]): norm(a["roster_name"]) for a in aliases if a["team"] == team}
         last_date, last23 = last_test_23(team)
         sel = {}  # norm(player) -> sorted matchday-23 dates (Tests since 2015)
+        wc_tests = len({d(r["date"]) for r in read(OUT_DIR / f"{team}_ages.csv") if d(r["date"]) >= WC_FROM})
         apps = {}  # norm(player) -> [(date, shirt)] matchday-23 appearances
         for r in read(OUT_DIR / f"{team}_ages.csv"):
             sel.setdefault(norm(r["player"]), []).append(d(r["date"]))
@@ -155,7 +160,7 @@ def main():
                 prior = [x for x in sel.get(alias.get(k, k), []) if x < ann]
                 last_sel = max(prior) if prior else None
                 mine = apps.get(alias.get(k, k), [])
-                recent = [sh for dt, sh in mine if SEASONS_FROM <= dt <= SEASONS_TO]
+                recent = [sh for dt, sh in mine if dt >= WC_FROM]
                 cur[k] = {
                     "team": team, "window": r["window"], "squad_type": squad_type(r["window"]),
                     "revision": revision(r["window"]), "announced": announced,
@@ -172,7 +177,8 @@ def main():
                     "last_test_date": last_date.strftime("%d/%m/%Y"),
                     "last_selected": last_sel.strftime("%d/%m/%Y") if last_sel else "",
                     "years_since_selected": round((ann - last_sel).days / 365.2425, 2) if last_sel else "",
-                    "starts_2s": sum(sh <= 15 for sh in recent), "bench_2s": sum(sh > 15 for sh in recent),
+                    "starts_wc": sum(sh <= 15 for sh in recent), "bench_wc": sum(sh > 15 for sh in recent),
+                    "start_share_wc": round(sum(sh <= 15 for sh in recent) / wc_tests, 2) if wc_tests else "",
                     "starts_career": sum(sh <= 15 for _, sh in mine), "bench_career": sum(sh > 15 for _, sh in mine),
                 }
             squads.extend(cur.values())
@@ -202,10 +208,10 @@ def main():
                 "uncapped_or_not_in_data": len(unmatched),
                 "avg_age": round(sum(ages) / len(ages), 2) if ages else "",
                 "avg_caps_roster": round(sum(caps) / len(caps), 1) if caps else "",
-                "recent_starters": sum(int(v["starts_2s"]) >= 1 for v in cur.values()),
-                "recent_regulars": sum(int(v["starts_2s"]) >= 5 for v in cur.values()),
-                "recent_core": sum(int(v["starts_2s"]) >= 10 for v in cur.values()),
-                "avg_starts_2s": round(sum(int(v["starts_2s"]) for v in cur.values()) / len(cur), 1),
+                "wc_tests": wc_tests,
+                "started_quarter": sum(float(v["start_share_wc"]) >= 0.25 for v in cur.values()),
+                "started_half": sum(float(v["start_share_wc"]) >= 0.5 for v in cur.values()),
+                "avg_starts_wc": round(sum(int(v["starts_wc"]) for v in cur.values()) / len(cur), 1),
                 "carried_from_last_test_23": sum(v["in_last_test_23"] == "yes" for v in cur.values()),
                 "last_test_23_size": len(last23),
                 "vs_previous_in": "; ".join(ins) if prev else "",
@@ -232,7 +238,7 @@ def main():
     if unmapped:
         print("WARNING: clubs missing from clubs.csv:", "; ".join(unmapped))
     write("squads.csv", squads)
-    METRICS = ("size", "uncapped", "avg_age", "avg_caps_roster", "recent_starters", "recent_regulars", "recent_core", "avg_starts_2s", "distinct_clubs", "players_abroad", "club_countries")
+    METRICS = ("size", "uncapped", "avg_age", "avg_caps_roster", "wc_tests", "started_quarter", "started_half", "avg_starts_wc", "distinct_clubs", "players_abroad", "club_countries")
     for team in dict.fromkeys(c["team"] for c in changes):
         fin = [c for c in changes if c["team"] == team and c["squad_type"] == "final"]
         for c in changes:
