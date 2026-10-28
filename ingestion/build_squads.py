@@ -37,6 +37,7 @@ Outputs (data/raw/sheets_export/):
 
 starts_2s / bench_2s: matchday-23 appearances in the last two full seasons (SEASONS_FROM..SEASONS_TO),
 shirts 1-15 = start, 16-23 = bench (bench shirt numbers are only used as "bench", not as a position).
+recent_starters / recent_regulars / recent_core / avg_starts_2s (squad_changes, squad_summary): players with 1+ / 5+ / 10+ starts\nin that window, and the mean starts per squad member.
 starts_career / bench_career: same, over all Tests in {team}_ages.csv (since 2015).
 
 last_selected / years_since_selected: most recent matchday-23 (start or bench, from
@@ -201,6 +202,10 @@ def main():
                 "uncapped_or_not_in_data": len(unmatched),
                 "avg_age": round(sum(ages) / len(ages), 2) if ages else "",
                 "avg_caps_roster": round(sum(caps) / len(caps), 1) if caps else "",
+                "recent_starters": sum(int(v["starts_2s"]) >= 1 for v in cur.values()),
+                "recent_regulars": sum(int(v["starts_2s"]) >= 5 for v in cur.values()),
+                "recent_core": sum(int(v["starts_2s"]) >= 10 for v in cur.values()),
+                "avg_starts_2s": round(sum(int(v["starts_2s"]) for v in cur.values()) / len(cur), 1),
                 "carried_from_last_test_23": sum(v["in_last_test_23"] == "yes" for v in cur.values()),
                 "last_test_23_size": len(last23),
                 "vs_previous_in": "; ".join(ins) if prev else "",
@@ -227,7 +232,7 @@ def main():
     if unmapped:
         print("WARNING: clubs missing from clubs.csv:", "; ".join(unmapped))
     write("squads.csv", squads)
-    METRICS = ("size", "uncapped", "avg_age", "avg_caps_roster", "distinct_clubs", "players_abroad", "club_countries")
+    METRICS = ("size", "uncapped", "avg_age", "avg_caps_roster", "recent_starters", "recent_regulars", "recent_core", "avg_starts_2s", "distinct_clubs", "players_abroad", "club_countries")
     for team in dict.fromkeys(c["team"] for c in changes):
         fin = [c for c in changes if c["team"] == team and c["squad_type"] == "final"]
         for c in changes:
