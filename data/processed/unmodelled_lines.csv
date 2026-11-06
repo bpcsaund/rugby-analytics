@@ -1,0 +1,3 @@
+logged_at,match_date,home_team,away_team,market_margin,gut_margin,actual_home_score,actual_away_score,actual_margin,note
+2026-11-06,2026-11-07,wales,japan,14,10,,,,Japan not a tracked team so no model margin; margins are home expected winning margin
+2026-11-06,2026-11-07,france,fiji,26,40,,,,Fiji not a tracked team so no model margin
