@@ -294,7 +294,8 @@ COACH_ERAS = {
     ],
     "40": [  # Argentina
         ("2000-01-01", "2021-11-30", "ml"),   # Mario Ledesma, through end of 2021 internationals
-        ("2022-07-02", "2099-01-01", "mc"),   # Michael Cheika, debut 2 Jul 2022
+        ("2022-07-02", "2024-07-05", "mc"),   # Michael Cheika, debut 2 Jul 2022, through RWC2023
+        ("2024-07-06", "2099-01-01", "fc"),   # Felipe Contepomi, first Test 6 Jul 2024 v France
     ],
 }
 
