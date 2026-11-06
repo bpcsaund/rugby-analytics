@@ -57,6 +57,7 @@ LOG_FIELDS = [
     "market_margin", "model_weight", "blended_margin",
     "used_squad_data", "used_lineup_data",
     "actual_home_score", "actual_away_score", "actual_margin",
+    "gut_margin",  # user's own call, home expected winning margin (same sign as market_margin); blank if none
 ]
 
 # Default weight on our own model when blending with the market line. Sports
@@ -280,6 +281,9 @@ def main():
     ap.add_argument("--model-weight", type=float, default=DEFAULT_MODEL_WEIGHT,
                      help=f"weight on our model vs the market line when blending (default {DEFAULT_MODEL_WEIGHT}; "
                           "0 = trust the market entirely, 1 = ignore it)")
+    ap.add_argument("--gut-line", type=float,
+                     help="your own gut-instinct margin, home team's expected winning margin (e.g. 'away by 6' -> -6); "
+                          "logged as gut_margin and scored against the result by reconcile_calibration_log.py")
     ap.add_argument("--log", action="store_true", help="append this prediction to data/processed/calibration_log.csv")
     ap.add_argument("--venue", help="venue name, for a live weather forecast (requires the match date be within ~16 days)")
     ap.add_argument("--city", default="", help="venue city, improves geocoding accuracy")
@@ -441,6 +445,7 @@ def main():
             used_squad_data=bool(args.home_squad or args.away_squad),
             used_lineup_data=bool(args.home_lineup or args.away_lineup),
             actual_home_score="", actual_away_score="", actual_margin="",
+            gut_margin=args.gut_line if args.gut_line is not None else "",
         )
         write_header = not LOG_PATH.exists()
         LOG_PATH.parent.mkdir(parents=True, exist_ok=True)

@@ -56,7 +56,7 @@ def main():
         return
 
     log = pd.read_csv(LOG_PATH, dtype={"match_date": str, "home_team": str, "away_team": str})
-    for c in ("pred_margin", "market_margin", "blended_margin", "model_weight",
+    for c in ("pred_margin", "market_margin", "blended_margin", "model_weight", "gut_margin",
               "actual_margin", "actual_home_score", "actual_away_score"):
         if c in log.columns:
             log[c] = pd.to_numeric(log[c], errors="coerce")
@@ -122,7 +122,21 @@ def main():
     else:
         print("No rows have a logged --market-line yet -- nothing to compare against the market.")
 
-    for col, label in [("pred_margin", "Model"), ("blended_margin", "Blended")]:
+    if "gut_margin" in resolved.columns:
+        gut = resolved.dropna(subset=["gut_margin"])
+        if len(gut):
+            a = gut["actual_margin"]
+            print(f"\nGut-instinct calls ({len(gut)} resolved):")
+            print(f"  Gut-margin MAE:            {(gut['gut_margin'] - a).abs().mean():.2f} pts")
+            both = gut.dropna(subset=["market_margin"])
+            if len(both):
+                ab = both["actual_margin"]
+                print(f"  On the {len(both)} with a market line too -> gut {(both['gut_margin'] - ab).abs().mean():.2f}, "
+                      f"market {(both['market_margin'] - ab).abs().mean():.2f}, "
+                      f"model {(both['pred_margin'] - ab).abs().mean():.2f}, "
+                      f"blend {(both['blended_margin'] - ab).abs().mean():.2f} pts MAE")
+
+    for col, label in [("pred_margin", "Model"), ("blended_margin", "Blended"), ("gut_margin", "Gut")]:
         sub = resolved.dropna(subset=[col])
         if len(sub):
             pick = ((sub[col] > 0) == (sub["actual_margin"] > 0)).mean()
