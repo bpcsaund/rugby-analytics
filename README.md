@@ -2,7 +2,7 @@
 
 A personal data project for collecting, structuring, and analyzing rugby data across club and international rugby: match/player/team stats, squad composition, and coach-era comparisons.
 
-**International data current through 17/10/2026** — 395 tracked-vs-tracked Tests (latest: Australia 21–43 NZ, Stadium Australia). Last refreshed 23/10/2026. Named matchday 23s for the 6–8/11/2026 Nations Championship Tests (10 tracked teams) added 06/11/2026, results pending.
+**International data current through 07/11/2026** — 398 tracked-vs-tracked Tests (latest: Scotland 21–43 NZ, Murrayfield). Last refreshed 08/11/2026. England v Australia (08/11) lineups are in, result pending.
 
 ## What's in here
 
