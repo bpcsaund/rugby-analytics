@@ -367,6 +367,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 11/03/2023,wales,italy,Stadio Olimpico,Roma,Italy,2023-03-11T14:15:00+00:00,1.0
 17/11/2018,scotland,south_africa,Murrayfield,Edinburgh,Scotland,2018-11-17T17:20:00+00:00,0.0
 17/11/2018,south_africa,scotland,Murrayfield,Edinburgh,Scotland,2018-11-17T17:20:00+00:00,0.0
+07/11/2026,france,fiji,Groupama Stadium,Lyon,France,2026-11-07T20:10:00+00:00,1.0
+07/11/2026,fiji,france,Groupama Stadium,Lyon,France,2026-11-07T20:10:00+00:00,1.0
 18/11/2017,italy,argentina,Stadio Artemio Franchi,Florence,Italy,2017-11-18T13:00:00+00:00,1.0
 18/11/2017,argentina,italy,Stadio Artemio Franchi,Florence,Italy,2017-11-18T13:00:00+00:00,1.0
 18/07/2026,australia,italy,HBF Park,Perth,Australia,2026-07-18T10:10:00+00:00,8.0
@@ -579,6 +581,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 25/10/2025,australia,japan,National Olympic Stadium,Tokyo,Japan,2025-10-25T05:50:00+00:00,9.0
 03/07/2021,romania,argentina,Stadionul National Arcul de Triumf,Bucharest,Romania,2021-07-03T18:00:00+00:00,3.0
 03/07/2021,argentina,romania,Stadionul National Arcul de Triumf,Bucharest,Romania,2021-07-03T18:00:00+00:00,3.0
+06/11/2026,ireland,argentina,Aviva Stadium,Dublin,Ireland,2026-11-06T20:10:00+00:00,0.0
+06/11/2026,argentina,ireland,Aviva Stadium,Dublin,Ireland,2026-11-06T20:10:00+00:00,0.0
 03/11/2018,england,south_africa,Twickenham,London,England,2018-11-03T15:00:00+00:00,0.0
 03/11/2018,south_africa,england,Twickenham,London,England,2018-11-03T15:00:00+00:00,0.0
 21/03/2015,scotland,ireland,Murrayfield,Edinburgh,Scotland,2015-03-21T14:30:00+00:00,0.0
@@ -861,6 +865,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 16/06/2018,italy,japan,Noevir Stadium,Kobe,Japan,2018-06-16T05:00:00+00:00,9.0
 26/02/2022,scotland,france,Murrayfield,Edinburgh,Scotland,2022-02-26T14:15:00+00:00,0.0
 26/02/2022,france,scotland,Murrayfield,Edinburgh,Scotland,2022-02-26T14:15:00+00:00,0.0
+07/11/2026,wales,japan,Principality Stadium,Cardiff,Wales,2026-11-07T16:40:00+00:00,0.0
+07/11/2026,japan,wales,Principality Stadium,Cardiff,Wales,2026-11-07T16:40:00+00:00,0.0
 26/09/2019,england,usa,Kobe Misaki Stadium,Kobe City,Japan,2019-09-26T10:45:00+00:00,9.0
 26/09/2019,usa,england,Kobe Misaki Stadium,Kobe City,Japan,2019-09-26T10:45:00+00:00,9.0
 08/09/2023,france,new_zealand,Stade de France,Saint-Denis,France,2023-09-08T19:15:00+00:00,2.0
@@ -1369,6 +1375,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 12/03/2016,wales,england,Twickenham,London,England,2016-03-12T16:00:00+00:00,0.0
 02/10/2021,south_africa,new_zealand,CBUS Super Stadium,Robina,Australia,2021-10-02T10:05:00+00:00,10.0
 02/10/2021,new_zealand,south_africa,CBUS Super Stadium,Robina,Australia,2021-10-02T10:05:00+00:00,10.0
+07/11/2026,italy,south_africa,Allianz Stadium,Turin,Italy,2026-11-07T11:40:00+00:00,1.0
+07/11/2026,south_africa,italy,Allianz Stadium,Turin,Italy,2026-11-07T11:40:00+00:00,1.0
 17/09/2023,south_africa,romania,Stade de Bordeaux,Bordeaux,France,2023-09-17T13:00:00+00:00,2.0
 17/09/2023,romania,south_africa,Stade de Bordeaux,Bordeaux,France,2023-09-17T13:00:00+00:00,2.0
 07/02/2026,italy,scotland,Stadio Olimpico,Roma,Italy,2026-02-07T14:10:00+00:00,1.0
@@ -1415,6 +1423,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 09/11/2025,argentina,wales,Principality Stadium,Cardiff,Wales,2025-11-09T15:10:00+00:00,0.0
 09/06/2018,australia,ireland,Suncorp Stadium,Brisbane,Australia,2018-06-09T10:00:00+00:00,10.0
 09/06/2018,ireland,australia,Suncorp Stadium,Brisbane,Australia,2018-06-09T10:00:00+00:00,10.0
+07/11/2026,scotland,new_zealand,Murrayfield,Edinburgh,Scotland,2026-11-07T14:10:00+00:00,0.0
+07/11/2026,new_zealand,scotland,Murrayfield,Edinburgh,Scotland,2026-11-07T14:10:00+00:00,0.0
 12/10/2019,ireland,samoa,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-10-12T10:45:00+00:00,9.0
 12/10/2019,samoa,ireland,Fukuoka Hakatanomori Stadium,"Fukuoka Prefecture, Fukuoka City",Japan,2019-10-12T10:45:00+00:00,9.0
 06/09/2025,new_zealand,south_africa,Eden Park,Auckland,New Zealand,2025-09-06T07:05:00+00:00,12.0

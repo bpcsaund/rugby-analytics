@@ -130,6 +130,7 @@ argentina,18/07/2026,England,Nations Championship 2026,28.71,27.68,28.35,23,23
 argentina,08/08/2026,South Africa,Men's Internationals 2026,27.83,25.68,27.05,22,23
 argentina,29/08/2026,Australia,Men's Internationals 2026,27.89,25.99,27.2,22,23
 argentina,05/09/2026,Australia,Men's Internationals 2026,27.61,28.5,27.86,21,23
+argentina,06/11/2026,Ireland,Nations Championship 2026,28.4,28.36,28.38,22,23
 australia,18/07/2015,South Africa,The Rugby Championship 2015,27.77,28.32,27.96,23,23
 australia,25/07/2015,Argentina,The Rugby Championship 2015,27.42,27.17,27.33,23,23
 australia,08/08/2015,New Zealand,The Rugby Championship 2015,28.56,27.04,28.03,23,23
@@ -550,6 +551,7 @@ france,14/03/2026,England,Six Nations 2026,28.08,26.83,27.64,23,23
 france,04/07/2026,New Zealand,Nations Championship 2026,26.6,25.69,26.28,23,23
 france,11/07/2026,Australia,Nations Championship 2026,26.12,26.25,26.16,23,23
 france,18/07/2026,Japan,Nations Championship 2026,26.73,27.41,26.96,23,23
+france,07/11/2026,Fiji,Nations Championship 2026,27.02,29.58,27.91,23,23
 ireland,07/02/2015,Italy,Six Nations 2015,28.21,27.17,27.85,23,23
 ireland,14/02/2015,France,Six Nations 2015,28.85,26.9,28.17,23,23
 ireland,01/03/2015,England,Six Nations 2015,28.4,27.35,28.04,23,23
@@ -687,6 +689,7 @@ ireland,14/03/2026,Scotland,Six Nations 2026,29.84,29.38,29.68,23,23
 ireland,04/07/2026,Australia,Nations Championship 2026,29.69,30.4,29.93,23,23
 ireland,11/07/2026,Japan,Nations Championship 2026,29.77,26.0,28.46,23,23
 ireland,18/07/2026,New Zealand,Nations Championship 2026,30.55,29.52,30.19,23,23
+ireland,06/11/2026,Argentina,Nations Championship 2026,29.77,29.38,29.63,23,23
 italy,07/02/2015,Ireland,Six Nations 2015,28.4,24.85,27.17,23,23
 italy,14/02/2015,England,Six Nations 2015,29.22,25.69,28.0,23,23
 italy,28/02/2015,Scotland,Six Nations 2015,27.11,25.64,26.6,23,23
@@ -814,6 +817,7 @@ italy,14/03/2026,Wales,Six Nations 2026,27.37,26.11,26.93,23,23
 italy,04/07/2026,Japan,Nations Championship 2026,26.61,26.14,26.44,23,23
 italy,11/07/2026,New Zealand,Nations Championship 2026,26.85,25.74,26.47,23,23
 italy,18/07/2026,Australia,Nations Championship 2026,27.22,26.13,26.84,23,23
+italy,07/11/2026,South Africa,Nations Championship 2026,27.59,26.38,27.17,23,23
 new_zealand,08/07/2015,Samoa,Men's Internationals 2015,29.85,26.76,28.78,23,23
 new_zealand,17/07/2015,Argentina,The Rugby Championship 2015,29.56,28.5,29.19,23,23
 new_zealand,25/07/2015,South Africa,The Rugby Championship 2015,29.08,26.77,28.28,23,23
@@ -967,6 +971,7 @@ new_zealand,05/09/2026,South Africa,Rugby’s Greatest Rivalry 2026,28.54,27.22,
 new_zealand,12/09/2026,South Africa,Rugby’s Greatest Rivalry 2026,29.25,28.64,29.04,23,23
 new_zealand,10/10/2026,Australia,Bledisloe Cup 2026,28.63,29.33,28.87,23,23
 new_zealand,17/10/2026,Australia,Bledisloe Cup 2026,28.92,28.57,28.8,23,23
+new_zealand,07/11/2026,Scotland,Nations Championship 2026,28.63,28.7,28.66,23,23
 scotland,07/02/2015,France,Six Nations 2015,26.75,27.66,27.06,23,23
 scotland,15/02/2015,Wales,Six Nations 2015,27.11,27.23,27.15,23,23
 scotland,28/02/2015,Italy,Six Nations 2015,27.59,25.67,26.92,23,23
@@ -1103,6 +1108,7 @@ scotland,14/03/2026,Ireland,Six Nations 2026,30.19,29.57,29.98,23,23
 scotland,04/07/2026,Argentina,Nations Championship 2026,29.5,28.03,28.99,23,23
 scotland,11/07/2026,South Africa,Nations Championship 2026,29.19,28.14,28.83,23,23
 scotland,18/07/2026,Fiji,Nations Championship 2026,28.11,27.59,27.93,23,23
+scotland,07/11/2026,New Zealand,Nations Championship 2026,29.77,28.42,29.3,23,23
 south_africa,18/07/2015,Australia,The Rugby Championship 2015,28.47,26.38,27.74,23,23
 south_africa,25/07/2015,New Zealand,The Rugby Championship 2015,27.65,27.07,27.45,23,23
 south_africa,08/08/2015,Argentina,The Rugby Championship 2015,27.28,25.92,26.81,23,23
@@ -1243,6 +1249,7 @@ south_africa,29/08/2026,New Zealand,Rugby’s Greatest Rivalry 2026,31.79,30.47,
 south_africa,05/09/2026,New Zealand,Rugby’s Greatest Rivalry 2026,31.58,31.15,31.43,23,23
 south_africa,12/09/2026,New Zealand,Rugby’s Greatest Rivalry 2026,30.78,32.13,31.25,23,23
 south_africa,27/09/2026,Australia,Men's Internationals 2026,28.76,29.88,29.15,23,23
+south_africa,07/11/2026,Italy,Nations Championship 2026,30.59,29.46,30.15,23,23
 wales,06/02/2015,England,Six Nations 2015,26.58,28.73,27.32,23,23
 wales,15/02/2015,Scotland,Six Nations 2015,27.1,28.41,27.56,23,23
 wales,28/02/2015,France,Six Nations 2015,26.82,28.94,27.55,23,23
@@ -1390,3 +1397,4 @@ wales,27/06/2026,Barbarians,Men's Internationals 2026,26.64,26.48,26.58,23,23
 wales,04/07/2026,Fiji,Nations Championship 2026,27.04,27.93,27.35,23,23
 wales,11/07/2026,Argentina,Nations Championship 2026,27.29,27.57,27.39,23,23
 wales,18/07/2026,South Africa,Nations Championship 2026,27.01,27.86,27.31,23,23
+wales,07/11/2026,Japan,Nations Championship 2026,27.2,28.09,27.51,23,23

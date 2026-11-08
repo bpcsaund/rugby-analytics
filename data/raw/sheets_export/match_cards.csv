@@ -565,6 +565,8 @@ date,team,opposition,yellow_cards,red_cards
 22/11/2025,australia,france,1,0
 03/07/2021,romania,argentina,2,0
 03/07/2021,argentina,romania,1,0
+06/11/2026,ireland,argentina,1,0
+06/11/2026,argentina,ireland,2,0
 03/11/2018,england,south_africa,1,0
 03/11/2018,south_africa,england,0,0
 21/03/2015,scotland,ireland,1,0
@@ -837,6 +839,8 @@ date,team,opposition,yellow_cards,red_cards
 16/06/2018,italy,japan,1,0
 26/02/2022,scotland,france,0,0
 26/02/2022,france,scotland,0,0
+07/11/2026,wales,japan,0,0
+07/11/2026,japan,wales,0,0
 26/09/2019,england,usa,0,0
 26/09/2019,usa,england,0,1
 08/09/2023,france,new_zealand,0,0
@@ -1335,6 +1339,8 @@ date,team,opposition,yellow_cards,red_cards
 12/03/2016,wales,england,0,0
 02/10/2021,south_africa,new_zealand,0,0
 02/10/2021,new_zealand,south_africa,0,0
+07/11/2026,italy,south_africa,1,0
+07/11/2026,south_africa,italy,0,0
 17/09/2023,south_africa,romania,0,0
 17/09/2023,romania,south_africa,0,0
 07/02/2026,italy,scotland,0,0
@@ -1381,6 +1387,8 @@ date,team,opposition,yellow_cards,red_cards
 09/11/2025,argentina,wales,0,0
 09/06/2018,australia,ireland,0,0
 09/06/2018,ireland,australia,0,0
+07/11/2026,scotland,new_zealand,1,0
+07/11/2026,new_zealand,scotland,2,0
 12/10/2019,ireland,samoa,0,1
 12/10/2019,samoa,ireland,2,0
 06/09/2025,new_zealand,south_africa,0,0
