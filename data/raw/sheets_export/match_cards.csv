@@ -73,6 +73,8 @@ date,team,opposition,yellow_cards,red_cards
 24/11/2018,new_zealand,italy,0,0
 20/08/2016,south_africa,argentina,1,0
 20/08/2016,argentina,south_africa,1,0
+08/11/2026,england,australia,0,0
+08/11/2026,australia,england,1,0
 08/08/2015,wales,ireland,1,0
 08/08/2015,ireland,wales,1,0
 25/11/2017,england,samoa,0,0
@@ -361,6 +363,8 @@ date,team,opposition,yellow_cards,red_cards
 11/03/2023,wales,italy,0,0
 17/11/2018,scotland,south_africa,0,0
 17/11/2018,south_africa,scotland,1,0
+07/11/2026,france,fiji,0,0
+07/11/2026,fiji,france,1,0
 18/11/2017,italy,argentina,0,0
 18/11/2017,argentina,italy,0,0
 18/07/2026,australia,italy,0,0

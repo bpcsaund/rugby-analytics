@@ -73,6 +73,8 @@ date,team,opposition,venue,city,country,kickoff_utc,gmt_offset
 24/11/2018,new_zealand,italy,Stadio Olimpico,Roma,Italy,2018-11-24T13:00:00+00:00,1.0
 20/08/2016,south_africa,argentina,Mbombela Stadium,Mbombela,South Africa,2016-08-20T15:05:00+00:00,2.0
 20/08/2016,argentina,south_africa,Mbombela Stadium,Mbombela,South Africa,2016-08-20T15:05:00+00:00,2.0
+08/11/2026,england,australia,Allianz Stadium,London,England,2026-11-08T15:10:00+00:00,0.0
+08/11/2026,australia,england,Allianz Stadium,London,England,2026-11-08T15:10:00+00:00,0.0
 08/08/2015,wales,ireland,Millennium Stadium,Cardiff,Wales,2015-08-08T13:30:00+00:00,1.0
 08/08/2015,ireland,wales,Millennium Stadium,Cardiff,Wales,2015-08-08T13:30:00+00:00,1.0
 25/11/2017,england,samoa,Twickenham,London,England,2017-11-25T14:30:00+00:00,0.0

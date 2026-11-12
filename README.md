@@ -2,7 +2,7 @@
 
 A personal data project for collecting, structuring, and analyzing rugby data across club and international rugby: match/player/team stats, squad composition, and coach-era comparisons.
 
-**International data current through 07/11/2026** — 398 tracked-vs-tracked Tests (latest: Scotland 21–43 NZ, Murrayfield). Last refreshed 08/11/2026. England v Australia (08/11) lineups are in, result pending.
+**International data current through 08/11/2026** — 399 tracked-vs-tracked Tests (latest: England 45–22 Australia, Twickenham). Last refreshed 12/11/2026. Named 23s are loaded for this weekend's Tests (FRA v SA, WAL v NZ, ENG v JPN, IRE v FIJI, ITA v ARG); SCO v AUS not yet named.
 
 ## What's in here
 
