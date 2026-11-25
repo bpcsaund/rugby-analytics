@@ -2,7 +2,7 @@
 
 A personal data project for collecting, structuring, and analyzing rugby data across club and international rugby: match/player/team stats, squad composition, and coach-era comparisons.
 
-**International data current through 08/11/2026** — 399 tracked-vs-tracked Tests (latest: England 45–22 Australia, Twickenham). Last refreshed 12/11/2026. Named 23s are loaded for this weekend's Tests (FRA v SA, WAL v NZ, ENG v JPN, IRE v FIJI, ITA v ARG); SCO v AUS not yet named.
+**International data current through 21/11/2026** — 407 tracked-vs-tracked Tests (latest: Wales 26–29 Australia, Principality Stadium). Last refreshed 25/11/2026. The November 2026 Nations Championship window (13–21 Nov) is fully loaded: results, named 23s, ages, minutes, cards and venues.
 
 ## What's in here
 
